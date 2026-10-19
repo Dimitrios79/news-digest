@@ -16,16 +16,21 @@ categories:
     title_el: "Κυβερνοασφάλεια & AI Security"
     title_en: "Cybersecurity & AI Security"
     max_items: 12
+    hours: 36          # οι πηγές security γράφουν πιο αραιά· τα ήδη χρησιμοποιημένα παραλείπονται
     feeds:
       - https://feeds.feedburner.com/TheHackersNews
       - https://www.bleepingcomputer.com/feed/
-      - https://krebsonsecurity.com/feed/
       - https://www.securityweek.com/feed/
+      - https://www.helpnetsecurity.com/feed/
+      - https://www.theregister.com/security/headlines.atom
+      - https://securityaffairs.com/feed
+      - https://cyberscoop.com/feed/
+      - https://www.csoonline.com/feed/
+      - https://isc.sans.edu/rssfeed_full.xml
+      - https://krebsonsecurity.com/feed/          # αραιά αλλά σημαντικά
+      - https://www.schneier.com/feed/atom/        # αραιά αλλά σημαντικά
       - https://therecord.media/feed
       - https://www.darkreading.com/rss.xml
-      - https://www.helpnetsecurity.com/feed/
-      - https://www.infosecurity-magazine.com/rss/news/
-      - https://www.schneier.com/feed/atom/
 
   tech:
     title_el: "Τεχνολογία"
@@ -54,9 +59,8 @@ categories:
     max_items: 10
     feeds:
       - https://www.bta.bg/bg/rss/free                   # БТА (κρατικό πρακτορείο)
-      - https://bnr.bg/en/rss/news                       # БНР / Radio Bulgaria
       - https://www.dnevnik.bg/rss/                      # Дневник
       - https://www.capital.bg/rss/                      # Капитал
       - https://www.mediapool.bg/rss                     # Mediapool
       - https://www.novinite.com/services/news_rdf.php   # Novinite (EN)
-      - https://feeds.feedburner.com/TheSofiaGlobe       # The Sofia Globe (EN)
+      - https://sofiaglobe.com/feed/                     # The Sofia Globe (EN)

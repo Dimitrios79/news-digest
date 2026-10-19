@@ -52,6 +52,7 @@ jobs:
           ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_MODEL: ${{ vars.GITHUB_MODEL }}
+          PYTHONUNBUFFERED: "1"   # σωστή σειρά/χρόνοι στο log
         run: |
           python scripts/fetch.py
           python scripts/digest.py
