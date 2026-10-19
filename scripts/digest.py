@@ -13,11 +13,13 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 import time
 import urllib.error
 import urllib.request
 from datetime import datetime, timezone
+from difflib import SequenceMatcher
 from pathlib import Path
 
 import yaml
@@ -33,7 +35,16 @@ NEUTRALITY_RULES = """\
 - Χωρίς επίθετα αξιολόγησης, χωρίς συναισθηματική γλώσσα, χωρίς εικασίες, χωρίς γνώμη.
 - Δηλώσεις προσώπων αποδίδονται ρητά ("σύμφωνα με…", "δήλωσε ότι…"), ποτέ ως γεγονός.
 - Αν οι πηγές διαφωνούν, το λες με μία φράση και δεν παίρνεις θέση.
-- Γράφεις με δικά σου λόγια· δεν αντιγράφεις φράσεις από τις πηγές.
+- Γράφεις ΠΑΝΤΑ με δικά σου λόγια. Οι τίτλοι και τα αποσπάσματα των πηγών είναι μόνο
+  πρώτη ύλη για τα γεγονότα — ποτέ κείμενο προς μεταφορά:
+  · Ο τίτλος σου έχει διαφορετική δομή και λεξιλόγιο από κάθε τίτλο πηγής: άλλο υποκείμενο
+    στην αρχή, άλλο ρήμα, χωρίς να κρατάς σειρές 3+ λέξεων από πηγή.
+  · Η περίληψη ξεκινά από το πιο ουσιαστικό γεγονός, όχι από ό,τι ξεκινά η πηγή, και
+    συνδυάζει στοιχεία από όλες τις πηγές της είδησης.
+  · Μην αναδιατυπώνεις πρόταση-πρόταση· ξαναγράφεις από την αρχή σαν να το εξηγείς σε συνάδελφο.
+  · Πρόσθεσε ένα στοιχείο πλαισίου όταν βοηθά (π.χ. ποιος επηρεάζεται, τι προηγήθηκε),
+    μόνο αν προκύπτει από τις πηγές.
+  · Ποικιλία: διαδοχικές ειδήσεις δεν ξεκινούν με την ίδια λέξη ή την ίδια σύνταξη.
 - Συγχωνεύεις άρθρα που καλύπτουν το ίδιο γεγονός σε μία είδηση με όλες τις πηγές.
 - Επιλέγεις με βάση τη σημασία και τον αντίκτυπο, όχι το πόσο εντυπωσιακός είναι ο τίτλος.
 - Αγνοείς διαφημιστικά, lifestyle, αθλητικά κουτσομπολιά και clickbait.
@@ -110,7 +121,7 @@ class GitHubModelsClient:
         body = {
             "model": GITHUB_MODEL,
             "max_tokens": 4000,
-            "temperature": 0.2,
+            "temperature": 0.5,
             "messages": [{"role": "system", "content": NEUTRALITY_RULES},
                          {"role": "user", "content": prompt}],
             "tools": [{"type": "function", "function": {
@@ -174,8 +185,100 @@ def ai_section(client, cat_cfg: dict, items: list[dict]) -> list[dict]:
             "title": {"el": s["title_el"], "en": s["title_en"]},
             "summary": {"el": s["summary_el"], "en": s["summary_en"]},
             "sources": [{"name": items[i]["source"], "url": items[i]["url"]} for i in ids],
+            "_ids": ids,
         })
+    try:
+        n = enforce_originality(client, stories, items)
+        if n:
+            print(f"  ξαναγράφτηκαν {n} ειδήσεις λόγω ομοιότητας με τις πηγές")
+    except Exception as e:
+        print(f"  έλεγχος πρωτοτυπίας απέτυχε ({e}) — κρατάμε το αρχικό κείμενο")
+    for st in stories:
+        st.pop("_ids", None)
     return stories
+
+
+# ── Έλεγχος πρωτοτυπίας ────────────────────────────────────────────────
+# Συγκρίνει κάθε κείμενο με τα κείμενα των πηγών του. Αν μοιράζεται σειρές λέξεων
+# ή μοιάζει πολύ συνολικά, ζητά από το μοντέλο να το ξαναγράψει.
+WORD_RE = re.compile(r"\w+", re.UNICODE)
+SHINGLE = 4           # σειρά 4 λέξεων = "αντιγραφή φράσης"
+MAX_RATIO = 0.55      # συνολική ομοιότητα χαρακτήρων
+
+
+def _words(t: str) -> list[str]:
+    return [w.lower() for w in WORD_RE.findall(t or "")]
+
+
+def _shingles(words: list[str], n: int = SHINGLE) -> set[tuple]:
+    return {tuple(words[i:i + n]) for i in range(len(words) - n + 1)}
+
+
+def too_similar(text: str, sources: list[str]) -> bool:
+    w = _words(text)
+    if len(w) < SHINGLE:
+        return False
+    mine = _shingles(w)
+    for src in sources:
+        sw = _words(src)
+        if mine & _shingles(sw):
+            return True
+        if SequenceMatcher(None, " ".join(w), " ".join(sw)).ratio() > MAX_RATIO:
+            return True
+    return False
+
+
+REWRITE_TOOL = {
+    "name": "rewrite_stories",
+    "description": "Επιστρέφει τις ειδήσεις ξαναγραμμένες με εντελώς δικά σου λόγια.",
+    "input_schema": {
+        "type": "object",
+        "properties": {"stories": {"type": "array", "items": {
+            "type": "object",
+            "properties": {
+                "id": {"type": "integer"},
+                "title_el": {"type": "string"}, "title_en": {"type": "string"},
+                "summary_el": {"type": "string"}, "summary_en": {"type": "string"},
+            },
+            "required": ["id", "title_el", "title_en", "summary_el", "summary_en"],
+        }}},
+        "required": ["stories"],
+    },
+}
+
+
+def enforce_originality(client, stories: list[dict], items: list[dict]) -> int:
+    """Ξαναγράφει τις ειδήσεις που μοιάζουν με τις πηγές. Επιστρέφει πόσες άλλαξαν."""
+    flagged = []
+    for idx, s in enumerate(stories):
+        srcs = [t for i in s["_ids"] for t in (items[i]["title"], items[i]["summary"])]
+        if any(too_similar(s[f][l], srcs) for f in ("title", "summary") for l in ("el", "en")):
+            flagged.append((idx, srcs))
+    if not flagged:
+        return 0
+    blocks = []
+    for idx, srcs in flagged:
+        s = stories[idx]
+        blocks.append(
+            f"[{idx}]\nΤΡΕΧΟΝ EL: {s['title']['el']} — {s['summary']['el']}\n"
+            f"ΤΡΕΧΟΝ EN: {s['title']['en']} — {s['summary']['en']}\n"
+            "ΠΗΓΕΣ (ΜΗΝ ΤΙΣ ΑΝΤΙΓΡΑΨΕΙΣ):\n" + "\n".join(f"  - {t}" for t in srcs if t)
+        )
+    prompt = (
+        "Οι παρακάτω ειδήσεις μοιάζουν υπερβολικά με τη διατύπωση των πηγών. Ξαναγράψε "
+        "τίτλο και περίληψη (EL και EN) ώστε να μη μοιράζονται καμία σειρά 3+ λέξεων με τις "
+        "πηγές: άλλη δομή, άλλο ρήμα, άλλη σειρά πληροφοριών. Ίδια γεγονότα, τίποτα καινούργιο. "
+        "Κράτα το id.\n\n" + "\n\n".join(blocks)
+    )
+    out = call_tool(client, REWRITE_TOOL, prompt)
+    changed = 0
+    for r in out.get("stories", []):
+        i = r.get("id")
+        if isinstance(i, int) and 0 <= i < len(stories):
+            stories[i]["title"] = {"el": r["title_el"], "en": r["title_en"]}
+            stories[i]["summary"] = {"el": r["summary_el"], "en": r["summary_en"]}
+            changed += 1
+    return changed
 
 
 def fallback_section(cat_cfg: dict, items: list[dict]) -> list[dict]:
