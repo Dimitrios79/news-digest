@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% block title %}{{ site.name }} — {{ human_date(d.date, lang) }}{% endblock %}
+{% block description %}{{ d.meta[lang] }}{% endblock %}
+{% block og_type %}article{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">
+{{ {
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": site.name ~ " — " ~ human_date(d.date, lang),
+  "description": d.meta[lang],
+  "datePublished": d.generated,
+  "dateModified": d.generated,
+  "inLanguage": lang,
+  "mainEntityOfPage": B ~ path,
+  "author": {"@type": "Organization", "name": site.author},
+  "publisher": {"@type": "Organization", "name": site.name}
+} | tojson }}
+</script>
+{% endblock %}
+{% block main %}
+<article class="brief">
+  <header class="brief-head">
+    <p class="kicker">{{ site['tagline_' ~ lang] }}</p>
+    <h1><time datetime="{{ d.date }}">{{ human_date(d.date, lang) }}</time></h1>
+  </header>
+
+  <section class="glance">
+    <h2>{{ ui.glance }}</h2>
+    <ul>
+    {% for g in d.glance[lang] %}
+      <li>{{ g }}</li>
+    {% endfor %}
+    </ul>
+  </section>
+
+  {% if site.sponsor and site.sponsor.url and site.sponsor['text_' ~ lang] %}
+  <aside class="sponsor">
+    <span class="sponsor-label">{{ site.sponsor['label_' ~ lang] or ui.ad }}</span>
+    <a href="{{ site.sponsor.url }}" rel="sponsored noopener">{{ site.sponsor['text_' ~ lang] }}</a>
+  </aside>
+  {% endif %}
+
+  <nav class="toc">
+  {% for sec in d.sections %}
+    <a href="#{{ sec.key }}">{{ sec.title[lang] }} <span>{{ sec.stories|length }}</span></a>
+  {% endfor %}
+  </nav>
+
+  {% for sec in d.sections %}
+  <section class="section" id="{{ sec.key }}">
+    <h2 class="section-title">{{ sec.title[lang] }}</h2>
+    {% for s in sec.stories %}
+    <div class="story">
+      <h3>{{ s.title[lang] }}</h3>
+      {% if s.summary[lang] %}<p>{{ s.summary[lang] }}</p>{% endif %}
+      <p class="sources"><span>{{ ui.sources }}:</span>
+      {% for src in s.sources %}<a href="{{ src.url }}" rel="noopener" target="_blank">{{ src.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+      </p>
+    </div>
+    {% endfor %}
+  </section>
+  {% if loop.index == 2 and site.adsense_client %}{% include "_ad.html" %}{% endif %}
+  {% if loop.index == 1 and site.newsletter_action %}{% include "_newsletter.html" %}{% endif %}
+  {% endfor %}
+
+  <nav class="pager">
+    {% if older %}<a href="{{ B }}/{{ lang }}/{{ older }}/">← {{ ui.prev }}</a>{% else %}<span></span>{% endif %}
+    {% if newer %}<a href="{{ B }}/{{ lang }}/{{ newer }}/">{{ ui.next }} →</a>{% endif %}
+  </nav>
+</article>
+{% endblock %}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>{{ site.name }}</title>
+  <link>{{ B }}/{{ lang }}/</link>
+  <description>{{ site['tagline_' ~ lang] }}</description>
+  <language>{{ lang }}</language>
+  <atom:link href="{{ B }}/{{ lang }}/feed.xml" rel="self" type="application/rss+xml"/>
+{% for d in digests %}
+  <item>
+    <title>{{ site.name }} — {{ human_date(d.date, lang) }}</title>
+    <link>{{ B }}/{{ lang }}/{{ d.date }}/</link>
+    <guid isPermaLink="true">{{ B }}/{{ lang }}/{{ d.date }}/</guid>
+    <pubDate>{{ rfc822(d.generated) }}</pubDate>
+    <description><![CDATA[<ul>{% for g in d.glance[lang] %}<li>{{ g }}</li>{% endfor %}</ul>{% for sec in d.sections %}<h3>{{ sec.title[lang] }}</h3>{% for s in sec.stories %}<p><strong>{{ s.title[lang] }}</strong> {{ s.summary[lang] }} <a href="{{ s.sources[0].url }}">{{ s.sources[0].name }}</a></p>{% endfor %}{% endfor %}]]></description>
+  </item>
+{% endfor %}
+</channel>
+</rss>

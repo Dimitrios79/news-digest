@@ -1,0 +1,12 @@
+<form class="newsletter" action="{{ site.newsletter_action }}" method="post" target="_blank">
+  <div>
+    <strong>{{ ui.subscribe_title }}</strong>
+    <span>{{ ui.subscribe_text }}</span>
+  </div>
+  <div class="newsletter-row">
+    <label class="sr-only" for="nl-{{ range(1000)|random }}">Email</label>
+    <input type="email" name="email" required placeholder="{{ ui.email_ph }}" autocomplete="email">
+    <input type="hidden" name="tag" value="{{ lang }}">
+    <button type="submit">{{ ui.subscribe_btn }}</button>
+  </div>
+</form>

@@ -1,0 +1,37 @@
+# Ρυθμίσεις site & έσοδα. Ό,τι μείνει κενό απλώς δεν εμφανίζεται.
+
+name: "Daily Brief"
+tagline_el: "Οι ειδήσεις της ημέρας, χωρίς σχόλια."
+tagline_en: "Today's news, without the spin."
+# Το τελικό URL του site (χωρίς / στο τέλος). Για GitHub Pages:
+#   https://<username>.github.io/<repo>   ή το δικό σου domain.
+base_url: "https://Dimitrios79.github.io/news-digest"
+author: "Daily Brief"
+contact_email: ""          # εμφανίζεται στη σελίδα «Σχετικά» (χρειάζεται για AdSense)
+
+# ── Έσοδα ─────────────────────────────────────────────────────────────
+# 1) Newsletter — το πιο αποδοτικό κανάλι για digest. Buttondown/Beehiiv/
+#    Substack δίνουν ένα URL φόρμας. Π.χ. https://buttondown.com/api/emails/embed-subscribe/USERNAME
+newsletter_action: ""
+newsletter_provider_name: "Buttondown"
+
+# 2) Χορηγός ενότητας (ένα πλαίσιο κάτω από το «Με μια ματιά»).
+#    Ιδανικό για niche κοινό security. Αφήστε κενό για να κρυφτεί.
+sponsor:
+  label_el: ""             # π.χ. "Χορηγός σήμερα"
+  label_en: ""
+  text_el: ""
+  text_en: ""
+  url: ""
+
+# 3) Google AdSense — βάλε το ca-pub-XXXXXXXXXXXXXXXX όταν εγκριθείς.
+#    Παράγει αυτόματα ads.txt και θέσεις ανάμεσα στις ενότητες.
+adsense_client: ""
+adsense_slot: ""           # προαιρετικό: συγκεκριμένο ad unit
+
+# 4) Δωρεές (Ko-fi / Buy Me a Coffee / GitHub Sponsors)
+donate_url: ""
+
+# ── Analytics (privacy-friendly, χωρίς cookie banner) ─────────────────
+plausible_domain: ""       # π.χ. dailybrief.example.com
+goatcounter_code: ""       # εναλλακτικά: το subdomain του GoatCounter

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}{{ ui.archive_title }} — {{ site.name }}{% endblock %}
+{% block main %}
+<h1 class="page-title">{{ ui.archive_title }}</h1>
+<ol class="archive">
+{% for d in digests %}
+  <li>
+    <a href="{{ B }}/{{ lang }}/{{ d.date }}/">
+      <time datetime="{{ d.date }}">{{ human_date(d.date, lang) }}</time>
+      <span class="archive-lead">{{ d.glance[lang][0] if d.glance[lang] else '' }}</span>
+    </a>
+    <span class="count">{{ d.sections | sum(attribute='stories', start=[]) | length }} {{ ui.stories }}</span>
+  </li>
+{% endfor %}
+</ol>
+{% endblock %}

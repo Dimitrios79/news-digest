@@ -1,0 +1,48 @@
+# Πηγές ειδήσεων ανά κατηγορία.
+# Κάθε κατηγορία βγαίνει ως ξεχωριστή ενότητα στο ημερήσιο digest.
+# Πρόσθεσε/αφαίρεσε feeds ελεύθερα — όσα αποτυγχάνουν απλώς παραλείπονται
+# και καταγράφονται στο log του workflow.
+#
+# Για ισορροπία: βάλε σε κάθε κατηγορία πηγές από διαφορετικούς εκδότες,
+# ώστε το digest να μην αναπαράγει τη γωνία ενός μόνο μέσου.
+
+categories:
+  security:
+    title_el: "Κυβερνοασφάλεια & AI Security"
+    title_en: "Cybersecurity & AI Security"
+    max_items: 12
+    feeds:
+      - https://feeds.feedburner.com/TheHackersNews
+      - https://www.bleepingcomputer.com/feed/
+      - https://krebsonsecurity.com/feed/
+      - https://www.securityweek.com/feed/
+      - https://www.cisa.gov/cybersecurity-advisories/all.xml
+      - https://www.schneier.com/feed/atom/
+
+  tech:
+    title_el: "Τεχνολογία"
+    title_en: "Technology"
+    max_items: 10
+    feeds:
+      - https://feeds.arstechnica.com/arstechnica/index
+      - https://www.theregister.com/headlines.atom
+      - https://www.technologyreview.com/feed/
+      - https://hnrss.org/frontpage?points=300
+
+  greece:
+    title_el: "Ελλάδα"
+    title_en: "Greece"
+    max_items: 10
+    feeds:
+      - https://www.ertnews.gr/feed/
+      - https://www.ekathimerini.com/rss
+      - https://news.google.com/rss?hl=el&gl=GR&ceid=GR:el
+
+  bulgaria:
+    title_el: "Βουλγαρία"
+    title_en: "Bulgaria"
+    max_items: 10
+    feeds:
+      - https://www.bta.bg/en/rss/free
+      - https://www.novinite.com/services/news_rdf.php
+      - https://news.google.com/rss?hl=bg&gl=BG&ceid=BG:bg
