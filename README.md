@@ -27,7 +27,7 @@
 | Πηγές / ενότητες / πλήθος ειδήσεων | `feeds.yaml` |
 | Όνομα, URL, newsletter, χορηγός, AdSense, analytics | `site.yaml` |
 | Ώρα εκτέλεσης | `.github/workflows/daily.yml` → `cron` (σε UTC) |
-| Μοντέλο AI | Repository variables `GITHUB_MODEL` (default `openai/gpt-4o`) ή `ANTHROPIC_MODEL` (default `claude-sonnet-5-5`) |
+| Μοντέλο AI | Repository variables `GITHUB_MODEL` (default `openai/gpt-4o,openai/gpt-4o-mini` — αν το πρώτο εξαντλήσει το δωρεάν όριο, περνά στο επόμενο) ή `ANTHROPIC_MODEL` (default `claude-sonnet-5-5`) |
 | Κανόνες ουδετερότητας | `scripts/digest.py` → `NEUTRALITY_RULES` |
 | Εμφάνιση | `templates/`, `static/style.css` |
 

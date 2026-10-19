@@ -20,14 +20,14 @@ import sys
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from time import monotonic
+from time import monotonic, sleep
 from urllib.parse import urlparse, urlunparse
 
 import feedparser
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-USER_AGENT = "Mozilla/5.0 (compatible; DailyBriefBot/1.0; RSS reader)"
+USER_AGENT = "news-digest/1.0 (+https://github.com)"
 FEED_TIMEOUT = 20  # δευτερόλεπτα ανά feed
 TAG_RE = re.compile(r"<[^>]+>")
 WS_RE = re.compile(r"\s+")
@@ -145,8 +145,15 @@ def main() -> int:
 
     all_urls = list(dict.fromkeys(u for c in config["categories"].values() for u in c["feeds"]))
     t0 = monotonic()
-    with ThreadPoolExecutor(max_workers=12) as pool:
+    with ThreadPoolExecutor(max_workers=8) as pool:
         results = {r[0]: r for r in pool.map(download, all_urls)}
+    # Μία ακόμα προσπάθεια, σειριακά, για όσα μπλόκαραν προσωρινά (429/403/timeout)
+    retry = [u for u, r in results.items() if r[2] and (r[2].startswith("HTTP 4") or "imeout" in r[2])]
+    for u in retry:
+        sleep(3)
+        r = download(u)
+        if not r[2]:
+            results[u] = r
     print(f"Κατέβηκαν {len(all_urls)} feeds σε {monotonic() - t0:.0f}s "
           f"(παράλειψη {len(already)} άρθρων προηγούμενων ημερών)")
 

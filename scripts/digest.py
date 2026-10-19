@@ -26,7 +26,10 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 ANTHROPIC_MODEL = os.environ.get("ANTHROPIC_MODEL") or "claude-sonnet-5-5"
-GITHUB_MODEL = os.environ.get("GITHUB_MODEL") or "openai/gpt-4o"
+# Σειρά προτίμησης: αν το πρώτο εξαντλήσει το δωρεάν όριο, περνάμε στο επόμενο.
+# Το gpt-4o-mini έχει πολύ μεγαλύτερο ημερήσιο όριο στο δωρεάν tier.
+GITHUB_MODELS = [m.strip() for m in (os.environ.get("GITHUB_MODEL") or
+                 "openai/gpt-4o,openai/gpt-4o-mini").split(",") if m.strip()]
 GITHUB_ENDPOINT = "https://models.github.ai/inference/chat/completions"
 
 NEUTRALITY_RULES = """\
@@ -109,17 +112,25 @@ class ClaudeClient:
         raise RuntimeError("Το μοντέλο δεν επέστρεψε δομημένη απάντηση")
 
 
+class QuotaError(RuntimeError):
+    """Το μοντέλο εξάντλησε το όριό του — δεν έχει νόημα να ξαναδοκιμάσουμε."""
+
+
 class GitHubModelsClient:
     """OpenAI-compatible API του GitHub Models — χωρίς εξαρτήσεις, μόνο urllib."""
-    name = "GitHub Models"
-    max_items = 30  # το δωρεάν tier έχει μικρότερο όριο εισόδου ανά αίτημα
+    max_items = 25  # το δωρεάν tier έχει όριο tokens ανά αίτημα
 
     def __init__(self, token: str):
         self.token = token
+        self.models = list(GITHUB_MODELS)
 
-    def tool(self, tool: dict, prompt: str) -> dict:
+    @property
+    def name(self) -> str:
+        return f"GitHub Models ({self.models[0]})" if self.models else "GitHub Models"
+
+    def _post(self, model: str, tool: dict, prompt: str) -> dict:
         body = {
-            "model": GITHUB_MODEL,
+            "model": model,
             "max_tokens": 4000,
             "temperature": 0.5,
             "messages": [{"role": "system", "content": NEUTRALITY_RULES},
@@ -136,13 +147,39 @@ class GitHubModelsClient:
         )
         try:
             with urllib.request.urlopen(req, timeout=180) as r:
-                data = json.load(r)
+                status, raw = r.status, r.read().decode(errors="replace")
         except urllib.error.HTTPError as e:
-            raise RuntimeError(f"HTTP {e.code}: {e.read().decode(errors='replace')[:300]}") from e
-        msg = data["choices"][0]["message"]
+            text = e.read().decode(errors="replace")[:300]
+            if e.code == 429 or "RateLimit" in text or "quota" in text.lower():
+                raise QuotaError(f"{model}: όριο χρήσης (HTTP {e.code}) {text}") from e
+            raise RuntimeError(f"{model}: HTTP {e.code} {text}") from e
+        if not raw.strip():
+            # Κενή απάντηση: στην πράξη σημαίνει εξαντλημένο όριο
+            raise QuotaError(f"{model}: κενή απάντηση (HTTP {status}) — πιθανώς εξαντλημένο όριο")
+        try:
+            data = json.loads(raw)
+            msg = data["choices"][0]["message"]
+        except (ValueError, KeyError, IndexError) as e:
+            raise RuntimeError(f"{model}: μη αναμενόμενη απάντηση (HTTP {status}): {raw[:200]}") from e
         for call in msg.get("tool_calls") or []:
-            return json.loads(call["function"]["arguments"])
-        return json.loads(msg.get("content") or "{}")  # ορισμένα μοντέλα απαντούν σε content
+            args = call["function"].get("arguments") or ""
+            if args.strip():
+                return json.loads(args)
+        content = (msg.get("content") or "").strip()
+        if content.startswith("{"):
+            return json.loads(content)
+        raise RuntimeError(f"{model}: το μοντέλο δεν επέστρεψε δομημένη απάντηση")
+
+    def tool(self, tool: dict, prompt: str) -> dict:
+        while self.models:
+            try:
+                return self._post(self.models[0], tool, prompt)
+            except QuotaError as e:
+                dropped = self.models.pop(0)
+                print(f"  {e}")
+                if self.models:
+                    print(f"  → αλλαγή μοντέλου: {dropped} → {self.models[0]}")
+        raise QuotaError("όλα τα μοντέλα του GitHub Models εξάντλησαν το όριό τους")
 
 
 def make_client():
@@ -158,7 +195,9 @@ def call_tool(client, tool: dict, prompt: str) -> dict:
     for attempt in range(3):
         try:
             return client.tool(tool, prompt)
-        except Exception as e:  # δίκτυο / rate limit / κακό JSON
+        except QuotaError:
+            raise  # δεν βοηθά η αναμονή
+        except Exception as e:  # δίκτυο / κακό JSON
             last_err = e
             print(f"  προσπάθεια {attempt + 1} απέτυχε: {e}")
             time.sleep(10 * (attempt + 1))
@@ -301,15 +340,19 @@ def main() -> int:
     client = make_client()
     print(f"Πάροχος AI: {client.name if client else 'κανένας — fallback σε λίστα τίτλων'}")
 
-    sections = []
+    sections, ai_sections = [], 0
     for key, cfg in config["categories"].items():
         items = raw["categories"].get(key, {}).get("items", [])
         if not items:
             continue
-        try:
-            stories = ai_section(client, cfg, items) if client else fallback_section(cfg, items)
-        except Exception as e:
-            print(f"[{key}] AI απέτυχε ({e}) — fallback σε τίτλους")
+        stories = None
+        if client and getattr(client, "models", [None]):  # υπάρχει ακόμα διαθέσιμο μοντέλο
+            try:
+                stories = ai_section(client, cfg, items)
+                ai_sections += 1
+            except Exception as e:
+                print(f"[{key}] AI απέτυχε ({e}) — fallback σε τίτλους")
+        if stories is None:
             stories = fallback_section(cfg, items)
         if stories:
             sections.append({"key": key, "title": {"el": cfg["title_el"], "en": cfg["title_en"]},
@@ -321,7 +364,7 @@ def main() -> int:
         return 1
 
     glance = None
-    if client:
+    if client and ai_sections:
         heads = "\n".join(f"- {s['title']['el']} / {s['title']['en']}"
                           for sec in sections for s in sec["stories"][:3])
         try:
@@ -330,14 +373,29 @@ def main() -> int:
             meta = {"el": g["meta_el"][:160], "en": g["meta_en"][:160]}
         except Exception as e:
             print(f"Glance απέτυχε ({e}) — fallback")
+    if ai_sections == 0:
+        glance = None
     if glance is None:
         tops = [sec["stories"][0]["title"]["el"] for sec in sections]
         glance = {"el": tops, "en": tops}
         meta = {"el": "; ".join(tops)[:155], "en": "; ".join(tops)[:155]}
 
-    digest = {"date": day, "generated": datetime.now(timezone.utc).isoformat(),
-              "ai": client.name if client else None, "glance": glance, "meta": meta, "sections": sections}
     path = ROOT / "content" / f"{day}.json"
+    # Ποτέ μην αντικαθιστάς καλύτερο δελτίο με χειρότερο (π.χ. AI → σκέτοι τίτλοι
+    # επειδή εξαντλήθηκε το όριο σε δεύτερη εκτέλεση της ίδιας μέρας).
+    if path.exists():
+        try:
+            prev = json.loads(path.read_text(encoding="utf-8"))
+            prev_ai = prev.get("ai_sections", len(prev.get("sections", [])) if prev.get("ai") else 0)
+        except ValueError:
+            prev_ai = 0
+        if prev_ai > ai_sections:
+            print(f"Υπάρχει ήδη καλύτερο δελτίο για {day} ({prev_ai} ενότητες με AI έναντι {ai_sections}) — το κρατάμε.")
+            return 0
+
+    digest = {"date": day, "generated": datetime.now(timezone.utc).isoformat(),
+              "ai": client.name if (client and ai_sections) else None, "ai_sections": ai_sections,
+              "glance": glance, "meta": meta, "sections": sections}
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(digest, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Digest → {path.relative_to(ROOT)}")
