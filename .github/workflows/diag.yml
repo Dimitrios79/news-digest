@@ -1,0 +1,22 @@
+name: Diagnose AI
+on: workflow_dispatch
+permissions:
+  models: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call GitHub Models
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for M in openai/gpt-4o-mini openai/gpt-4o; do
+            echo "===== $M ====="
+            curl -sS -i --max-time 60 https://models.github.ai/inference/chat/completions \
+              -H "Authorization: Bearer $GITHUB_TOKEN" \
+              -H "Content-Type: application/json" \
+              -H "Accept: application/json" \
+              -d "{\"model\":\"$M\",\"messages\":[{\"role\":\"user\",\"content\":\"Say OK\"}],\"max_tokens\":5}" \
+              | head -c 1500
+            echo; echo
+          done
