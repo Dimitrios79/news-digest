@@ -31,6 +31,10 @@ ANTHROPIC_MODEL = os.environ.get("ANTHROPIC_MODEL") or "claude-sonnet-5-5"
 GITHUB_MODELS = [m.strip() for m in (os.environ.get("GITHUB_MODEL") or
                  "openai/gpt-4o,openai/gpt-4o-mini").split(",") if m.strip()]
 GITHUB_ENDPOINT = "https://models.github.ai/inference/chat/completions"
+# Οποιοσδήποτε πάροχος συμβατός με OpenAI (προεπιλογή: Groq, δωρεάν κλειδί)
+LLM_BASE_URL = (os.environ.get("LLM_BASE_URL") or "https://api.groq.com/openai/v1").rstrip("/")
+LLM_MODELS = [m.strip() for m in (os.environ.get("LLM_MODEL") or
+              "openai/gpt-oss-120b,llama-3.3-70b-versatile").split(",") if m.strip()]
 
 NEUTRALITY_RULES = """\
 Είσαι συντάκτης ενός ουδέτερου ημερήσιου δελτίου ειδήσεων. Κανόνες:
@@ -131,19 +135,19 @@ class QuotaError(RuntimeError):
     """Το μοντέλο εξάντλησε το όριό του — δεν έχει νόημα να ξαναδοκιμάσουμε."""
 
 
-class GitHubModelsClient:
-    """OpenAI-compatible API του GitHub Models — χωρίς εξαρτήσεις, μόνο urllib."""
-    max_items = 25  # το δωρεάν tier έχει όριο tokens ανά αίτημα
+class OpenAICompatClient:
+    """Οποιοδήποτε API συμβατό με OpenAI (Groq, OpenRouter, Ollama…) — μόνο urllib."""
+    label = "LLM"
+    max_items = 25  # τα δωρεάν tiers έχουν όριο tokens ανά αίτημα/λεπτό
 
-    def __init__(self, token: str):
-        self.token = token
-        self.models = list(GITHUB_MODELS)
+    def __init__(self, token: str, endpoint: str, models: list[str], label: str):
+        self.token, self.endpoint, self.models, self.label = token, endpoint, list(models), label
 
     @property
     def name(self) -> str:
-        return f"GitHub Models ({self.models[0]})" if self.models else "GitHub Models"
+        return f"{self.label} ({self.models[0]})" if self.models else self.label
 
-    def _post(self, model: str, tool: dict, prompt: str) -> dict:
+    def _post(self, model: str, tool: dict, prompt: str, _retry: bool = False) -> dict:
         # Το GitHub Models μπορεί να απαντήσει είτε σε μορφή OpenAI (JSON με
         # choices/tool_calls) είτε ως σκέτο κείμενο (text/plain). Για να δουλεύει
         # και στις δύο περιπτώσεις, ζητάμε ρητά JSON με το σχήμα στο ίδιο το prompt.
@@ -158,15 +162,11 @@ class GitHubModelsClient:
             "temperature": 0.5,
             "messages": [{"role": "system", "content": NEUTRALITY_RULES},
                          {"role": "user", "content": json_prompt}],
-            "tools": [{"type": "function", "function": {
-                "name": tool["name"], "description": tool["description"],
-                "parameters": tool["input_schema"]}}],
-            "tool_choice": {"type": "function", "function": {"name": tool["name"]}},
         }
         req = urllib.request.Request(
-            GITHUB_ENDPOINT, data=json.dumps(body).encode(), method="POST",
+            self.endpoint, data=json.dumps(body).encode(), method="POST",
             headers={"Authorization": f"Bearer {self.token}", "Content-Type": "application/json",
-                     "Accept": "application/json"},
+                     "Accept": "application/json", "X-Title": "Daily Brief"},
         )
         try:
             with urllib.request.urlopen(req, timeout=180) as r:
@@ -174,11 +174,24 @@ class GitHubModelsClient:
                 raw = r.read().decode("utf-8", errors="replace")
         except urllib.error.HTTPError as e:
             text = e.read().decode(errors="replace")[:300]
-            if e.code == 429 or "RateLimit" in text or "quota" in text.lower():
+            if e.code == 429:
+                wait = min(int(float(e.headers.get("Retry-After") or 30)), 90)
+                if not _retry:
+                    print(f"  {model}: όριο ανά λεπτό — αναμονή {wait}s")
+                    time.sleep(wait)
+                    return self._post(model, tool, prompt, _retry=True)
+                raise QuotaError(f"{model}: όριο χρήσης (HTTP 429) {text}") from e
+            low = text.lower()
+            if e.code in (402, 404) or (e.code == 400 and ("model" in low or "endpoint" in low)):
+                raise QuotaError(f"{model}: μη διαθέσιμο μοντέλο (HTTP {e.code}) {text[:150]}") from e
+            if "quota" in low or "RateLimit" in text:
                 raise QuotaError(f"{model}: όριο χρήσης (HTTP {e.code}) {text}") from e
             raise RuntimeError(f"{model}: HTTP {e.code} {text}") from e
         if not raw.strip():
             raise QuotaError(f"{model}: κενή απάντηση (HTTP {status}) — πιθανώς εξαντλημένο όριο")
+        if "json" not in ctype.lower() and "{" not in raw:
+            # Π.χ. το GitHub Models απαντά "OK" σε κάθε αίτημα: δεν είναι μοντέλο.
+            raise QuotaError(f"{model}: η υπηρεσία δεν επέστρεψε απάντηση μοντέλου ({ctype}): {raw[:60]!r}")
 
         # 1) Μορφή OpenAI
         try:
@@ -207,14 +220,21 @@ class GitHubModelsClient:
                 print(f"  {e}")
                 if self.models:
                     print(f"  → αλλαγή μοντέλου: {dropped} → {self.models[0]}")
-        raise QuotaError("όλα τα μοντέλα του GitHub Models εξάντλησαν το όριό τους")
+        raise QuotaError(f"κανένα διαθέσιμο μοντέλο στο {self.label}")
 
 
 def make_client():
+    """Σειρά προτίμησης: Claude (επί πληρωμή) → LLM_API_KEY (π.χ. Groq, δωρεάν) → GitHub Models."""
     if os.environ.get("ANTHROPIC_API_KEY"):
         return ClaudeClient()
+    if os.environ.get("LLM_API_KEY"):
+        host = LLM_BASE_URL.split("//")[-1].split("/")[0]
+        label = "Groq" if "groq" in host else "OpenRouter" if "openrouter" in host else host
+        return OpenAICompatClient(os.environ["LLM_API_KEY"], f"{LLM_BASE_URL}/chat/completions",
+                                  LLM_MODELS, label)
     if os.environ.get("GITHUB_TOKEN"):
-        return GitHubModelsClient(os.environ["GITHUB_TOKEN"])
+        return OpenAICompatClient(os.environ["GITHUB_TOKEN"], GITHUB_ENDPOINT,
+                                  GITHUB_MODELS, "GitHub Models")
     return None
 
 
@@ -414,7 +434,8 @@ def main() -> int:
     if path.exists():
         try:
             prev = json.loads(path.read_text(encoding="utf-8"))
-            prev_ai = prev.get("ai_sections", len(prev.get("sections", [])) if prev.get("ai") else 0)
+            prev_ai = sum(1 for sec in prev.get("sections", [])
+                          if any(st.get("summary", {}).get("el") for st in sec.get("stories", [])))
         except ValueError:
             prev_ai = 0
         if prev_ai > ai_sections:
