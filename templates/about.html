@@ -5,18 +5,34 @@
 {% if lang == 'el' %}
   <h1 class="page-title">Σχετικά</h1>
   <p>Το {{ site.name }} είναι ένα ημερήσιο δελτίο ειδήσεων για την κυβερνοασφάλεια, την τεχνολογία, την Ελλάδα και τη Βουλγαρία. Κάθε πρωί συγκεντρώνει δημοσιεύματα από πολλούς διαφορετικούς εκδότες και τα συνοψίζει σε σύντομες, ουδέτερες περιλήψεις.</p>
+
   <h2>Πώς γράφεται</h2>
-  <p>Οι περιλήψεις συντάσσονται αυτόματα από γλωσσικό μοντέλο τεχνητής νοημοσύνης, με αυστηρές οδηγίες: μόνο γεγονότα, ρητή απόδοση δηλώσεων, καμία γνώμη. Κάθε είδηση συνδέει στις πρωτότυπες πηγές, οι οποίες είναι πάντα η έγκυρη εκδοχή. Αν εντοπίσεις λάθος, ενημέρωσέ μας.</p>
+  <p>Οι περιλήψεις συντάσσονται αυτόματα από σύστημα τεχνητής νοημοσύνης, με αυστηρές οδηγίες: μόνο γεγονότα, ρητή απόδοση δηλώσεων, καμία γνώμη, και διατύπωση με δικά του λόγια — κάθε κείμενο ελέγχεται αυτόματα ώστε να μην αναπαράγει τη διατύπωση των πηγών. Για κάθε χώρα αντλούμε από εκδότες διαφορετικών κατευθύνσεων. Κάθε είδηση συνδέει στα πρωτότυπα άρθρα, τα οποία είναι πάντα η έγκυρη εκδοχή.</p>
+
+  <h2 id="terms">Όροι χρήσης</h2>
+  <p>Το περιεχόμενο παρέχεται «ως έχει», για ενημερωτικούς σκοπούς. Καθώς οι περιλήψεις παράγονται αυτόματα, μπορεί να περιέχουν ανακρίβειες ή να παραλείπουν σημαντικό πλαίσιο· πριν βασίσεις οποιαδήποτε απόφαση σε μια είδηση, διάβασε την πρωτότυπη πηγή. Δεν αποτελεί επαγγελματική, νομική, οικονομική ή επενδυτική συμβουλή. Οι τίτλοι και τα σήματα των πηγών ανήκουν στους εκδότες τους· δεν αναδημοσιεύουμε τα άρθρα τους.</p>
+
+  <h2>Διορθώσεις & αιτήματα αφαίρεσης</h2>
+  <p>Αν εντοπίσεις λάθος, χρησιμοποίησε τον σύνδεσμο «Αναφορά λάθους» κάτω από κάθε είδηση{% if site.contact_email %} ή γράψε στο <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a>{% endif %}. Εξετάζουμε κάθε αναφορά και διορθώνουμε ή αφαιρούμε το κείμενο χωρίς καθυστέρηση. Εκδότες που δεν επιθυμούν να συμπεριλαμβάνονται ως πηγή μπορούν να μας ενημερώσουν και θα αφαιρεθούν.</p>
+
   <h2>Απόρρητο</h2>
-  <p>Ο ιστότοπος δεν χρησιμοποιεί cookies παρακολούθησης από εμάς.{% if site.plausible_domain or site.goatcounter_code %} Για στατιστικά επισκεψιμότητας χρησιμοποιούμε ανώνυμη υπηρεσία χωρίς cookies.{% endif %}{% if site.adsense_client %} Οι διαφημίσεις εξυπηρετούνται από τη Google, η οποία μπορεί να χρησιμοποιεί cookies· δες την <a href="https://policies.google.com/technologies/ads" rel="noopener">πολιτική της Google</a>.{% endif %}{% if site.newsletter_action %} Αν εγγραφείς στο newsletter, το email σου αποθηκεύεται στον πάροχο {{ site.newsletter_provider_name }} αποκλειστικά για την αποστολή του δελτίου.{% endif %}</p>
+  <p>Ο ιστότοπος δεν χρησιμοποιεί δικά του cookies παρακολούθησης.{% if site.plausible_domain or site.goatcounter_code %} Για στατιστικά επισκεψιμότητας χρησιμοποιούμε ανώνυμη υπηρεσία χωρίς cookies και χωρίς προσωπικά δεδομένα.{% endif %}{% if site.adsense_client %} Οι διαφημίσεις εξυπηρετούνται από τη Google, η οποία χρησιμοποιεί cookies μόνο με τη συναίνεσή σου, μέσω του σχετικού παραθύρου· δες την <a href="https://policies.google.com/technologies/ads" rel="noopener">πολιτική της Google</a>.{% endif %}{% if site.newsletter_action %} Αν εγγραφείς στο newsletter, το email σου αποθηκεύεται στον πάροχο {{ site.newsletter_provider_name }} αποκλειστικά για την αποστολή του δελτίου· μπορείς να διαγραφείς οποιαδήποτε στιγμή από τον σύνδεσμο σε κάθε email.{% endif %} Για οποιοδήποτε αίτημα σχετικά με τα δεδομένα σου (GDPR) επικοινώνησε μαζί μας.</p>
   {% if site.contact_email %}<h2>Επικοινωνία</h2><p><a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></p>{% endif %}
 {% else %}
   <h1 class="page-title">About</h1>
   <p>{{ site.name }} is a daily news brief covering cybersecurity, technology, Greece and Bulgaria. Every morning it gathers reporting from many different publishers and condenses it into short, neutral summaries.</p>
+
   <h2>How it is written</h2>
-  <p>Summaries are generated automatically by an AI language model under strict instructions: facts only, explicit attribution of claims, no opinion. Every story links to its original sources, which are always the authoritative version. If you spot an error, let us know.</p>
+  <p>Summaries are generated automatically by an AI system under strict instructions: facts only, explicit attribution of claims, no opinion, and wording of its own — every text is checked automatically so it does not reproduce the sources' phrasing. For each country we draw on publishers from across the spectrum. Every story links to the original articles, which are always the authoritative version.</p>
+
+  <h2 id="terms">Terms of use</h2>
+  <p>Content is provided "as is" for information purposes. Because summaries are generated automatically, they may contain inaccuracies or omit important context; read the original source before relying on any story. Nothing here is professional, legal, financial or investment advice. Source names and trademarks belong to their publishers; we do not republish their articles.</p>
+
+  <h2>Corrections &amp; removal requests</h2>
+  <p>If you spot an error, use the "Report an error" link under each story{% if site.contact_email %} or write to <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a>{% endif %}. We review every report and correct or remove the text promptly. Publishers who prefer not to be included as a source can tell us and will be removed.</p>
+
   <h2>Privacy</h2>
-  <p>We do not set tracking cookies.{% if site.plausible_domain or site.goatcounter_code %} Visitor statistics come from an anonymous, cookie-free service.{% endif %}{% if site.adsense_client %} Ads are served by Google, which may use cookies; see <a href="https://policies.google.com/technologies/ads" rel="noopener">Google's policy</a>.{% endif %}{% if site.newsletter_action %} If you subscribe to the newsletter, your email is stored with {{ site.newsletter_provider_name }} solely to deliver the brief.{% endif %}</p>
+  <p>This site sets no tracking cookies of its own.{% if site.plausible_domain or site.goatcounter_code %} Visitor statistics come from an anonymous, cookie-free service that collects no personal data.{% endif %}{% if site.adsense_client %} Ads are served by Google, which uses cookies only with your consent via the consent dialog; see <a href="https://policies.google.com/technologies/ads" rel="noopener">Google's policy</a>.{% endif %}{% if site.newsletter_action %} If you subscribe to the newsletter, your email is stored with {{ site.newsletter_provider_name }} solely to deliver the brief; unsubscribe any time from the link in every email.{% endif %} For any request about your data (GDPR), contact us.</p>
   {% if site.contact_email %}<h2>Contact</h2><p><a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></p>{% endif %}
 {% endif %}
 </div>

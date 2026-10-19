@@ -7,7 +7,10 @@ tagline_en: "Today's news, without the spin."
 #   https://<username>.github.io/<repo>   ή το δικό σου domain.
 base_url: "https://Dimitrios79.github.io/news-digest"
 author: "Daily Brief"
-contact_email: ""          # εμφανίζεται στη σελίδα «Σχετικά» (χρειάζεται για AdSense)
+# ΣΗΜΑΝΤΙΚΟ: βάλε ένα email. Ενεργοποιεί το «Αναφορά λάθους» σε κάθε είδηση και
+# εμφανίζεται στους όρους — είναι η βασική σου προστασία για λάθη του AI και
+# απαιτείται από το AdSense. Πρόταση: ένα ξεχωριστό alias, όχι το προσωπικό σου.
+contact_email: "ΤΟ_EMAIL_ΣΟΥ"
 
 # ── Έσοδα ─────────────────────────────────────────────────────────────
 # 1) Newsletter — το πιο αποδοτικό κανάλι για digest. Buttondown/Beehiiv/
@@ -26,6 +29,9 @@ sponsor:
 
 # 3) Google AdSense — βάλε το ca-pub-XXXXXXXXXXXXXXXX όταν εγκριθείς.
 #    Παράγει αυτόματα ads.txt και θέσεις ανάμεσα στις ενότητες.
+#    ΠΡΙΝ το ενεργοποιήσεις: στο AdSense → Privacy & messaging → ενεργοποίησε το
+#    «European regulations message» (δωρεάν πιστοποιημένο παράθυρο συναίνεσης της
+#    Google). Χωρίς αυτό οι διαφημίσεις στην ΕΕ παραβιάζουν GDPR/ePrivacy.
 adsense_client: ""
 adsense_slot: ""           # προαιρετικό: συγκεκριμένο ad unit
 

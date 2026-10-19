@@ -52,15 +52,20 @@ def source_name(feed, url: str) -> str:
     return name or urlparse(url).netloc.removeprefix("www.")
 
 
-def fetch_category(cfg: dict, since: datetime) -> tuple[list[dict], list[str]]:
-    items, failed = [], []
+def fetch_category(cfg: dict, since: datetime) -> tuple[list[dict], list[str], dict]:
+    per_feed: list[list[dict]] = []
+    failed, report = [], {}
     seen_urls, seen_titles = set(), set()
     for url in cfg["feeds"]:
         feed = feedparser.parse(url, agent=USER_AGENT)
-        if feed.bozo and not feed.entries:
-            failed.append(f"{url} ({type(feed.bozo_exception).__name__})")
+        status = feed.get("status")
+        if (feed.bozo and not feed.entries) or (status and status >= 400):
+            reason = f"HTTP {status}" if status and status >= 400 else type(feed.bozo_exception).__name__
+            failed.append(f"{url} ({reason})")
+            report[url] = 0
             continue
         src = source_name(feed, url)
+        bucket = []
         for e in feed.entries:
             link, title = e.get("link"), clean_text(e.get("title", ""), 200)
             if not link or not title:
@@ -68,22 +73,30 @@ def fetch_category(cfg: dict, since: datetime) -> tuple[list[dict], list[str]]:
             ts = entry_time(e)
             if ts and ts < since:
                 continue
-            # Google News: ο πραγματικός εκδότης είναι στο <source>
-            pub = e.get("source", {}).get("title") if isinstance(e.get("source"), dict) else None
             nu, tk = normalize_url(link), title_key(title)
             if nu in seen_urls or tk in seen_titles:
                 continue
             seen_urls.add(nu)
             seen_titles.add(tk)
-            items.append({
+            bucket.append({
                 "title": title,
                 "url": link,
-                "source": pub or src,
+                "source": src,
                 "published": ts.isoformat() if ts else None,
                 "summary": clean_text(e.get("summary", "")),
             })
-    items.sort(key=lambda i: i["published"] or "", reverse=True)
-    return items, failed
+        bucket.sort(key=lambda i: i["published"] or "", reverse=True)
+        report[url] = len(bucket)
+        if not bucket:
+            failed.append(f"{url} (0 άρθρα στο 24ωρο)")
+        per_feed.append(bucket)
+
+    # Round-robin ανά εκδότη: ένας πολυγραφότατος εκδότης δεν «πνίγει» τους άλλους,
+    # ώστε το AI να βλέπει ισορροπημένο δείγμα από όλες τις πηγές.
+    items = []
+    for i in range(max((len(b) for b in per_feed), default=0)):
+        items += [b[i] for b in per_feed if i < len(b)]
+    return items, failed, report
 
 
 def main() -> int:
@@ -100,10 +113,12 @@ def main() -> int:
     out = {"date": day, "generated": now.isoformat(), "categories": {}}
     total = 0
     for key, cfg in config["categories"].items():
-        items, failed = fetch_category(cfg, since)
-        out["categories"][key] = {"items": items[:60], "failed_feeds": failed}
+        items, failed, report = fetch_category(cfg, since)
+        out["categories"][key] = {"items": items[:60], "failed_feeds": failed, "feeds": report}
         total += len(items)
-        print(f"[{key}] {len(items)} άρθρα" + (f", αποτυχημένα feeds: {failed}" if failed else ""))
+        print(f"[{key}] {len(items)} άρθρα")
+        for url, n in report.items():
+            print(f"    {'✓' if n else '✗'} {n:3d}  {url}")
 
     path = ROOT / "data" / "raw" / f"{day}.json"
     path.parent.mkdir(parents=True, exist_ok=True)

@@ -23,6 +23,7 @@
   <header class="brief-head">
     <p class="kicker">{{ site['tagline_' ~ lang] }}</p>
     <h1><time datetime="{{ d.date }}">{{ human_date(d.date, lang) }}</time></h1>
+    {% if d.ai %}<p class="ai-badge"><span aria-hidden="true">✦</span> {{ ui.ai_badge }}</p>{% endif %}
   </header>
 
   <section class="glance">
@@ -56,6 +57,7 @@
       {% if s.summary[lang] %}<p>{{ s.summary[lang] }}</p>{% endif %}
       <p class="sources"><span>{{ ui.sources }}:</span>
       {% for src in s.sources %}<a href="{{ src.url }}" rel="noopener" target="_blank">{{ src.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+      {% if site.contact_email %}<a class="report" href="mailto:{{ site.contact_email }}?subject={{ (ui.report_subject ~ ' ' ~ d.date ~ ': ' ~ s.title[lang]) | urlencode }}">{{ ui.report }}</a>{% endif %}
       </p>
     </div>
     {% endfor %}

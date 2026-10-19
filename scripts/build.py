@@ -40,6 +40,9 @@ UI = {
         "ai_note": "Οι περιλήψεις συντάσσονται αυτόματα από AI με βάση τις συνδεδεμένες πηγές. "
                    "Για λεπτομέρειες και διορθώσεις ισχύει πάντα το πρωτότυπο άρθρο.",
         "archive_title": "Αρχείο δελτίων", "stories": "ειδήσεις",
+        "ai_badge": "Περιλήψεις γραμμένες από AI · κάθε είδηση συνδέει στις πηγές της",
+        "report": "Αναφορά λάθους", "report_subject": "Διόρθωση",
+        "terms": "Όροι & απόρρητο",
     },
     "en": {
         "glance": "At a glance", "archive": "Archive", "about": "About", "today": "Today",
@@ -51,6 +54,9 @@ UI = {
         "ai_note": "Summaries are written automatically by AI from the linked sources. "
                    "The original article is always the authoritative version.",
         "archive_title": "Brief archive", "stories": "stories",
+        "ai_badge": "Summaries written by AI · every story links to its sources",
+        "report": "Report an error", "report_subject": "Correction",
+        "terms": "Terms & privacy",
     },
 }
 

@@ -51,6 +51,9 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
 .brief-head h1, .page-title { font-size: clamp(30px, 6vw, 44px); line-height: 1.1; letter-spacing: -0.02em; margin: 0; }
 .page-title { padding: 40px 0 24px; }
 
+.ai-badge { display: inline-block; margin: 14px 0 0; font: 500 13px/1.4 var(--sans); color: var(--muted); background: var(--paper); border: 1px solid var(--rule); border-radius: 999px; padding: 6px 12px; }
+.ai-badge span { color: var(--accent); }
+
 /* Glance */
 .glance { background: var(--paper); border: 1px solid var(--rule); border-left: 3px solid var(--accent); padding: 20px 24px; margin: 28px 0; }
 .glance h2 { font: 600 13px/1 var(--sans); text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); margin: 0 0 12px; }
@@ -77,6 +80,8 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
 .sources { font: 13px/1.5 var(--sans); color: var(--muted); }
 .sources span { font-weight: 600; margin-right: 4px; }
 .sources a { color: var(--muted); }
+.sources .report { margin-left: 10px; font-size: 12px; opacity: .75; white-space: nowrap; }
+.sources .report::before { content: "⚑ "; }
 
 /* Newsletter */
 .newsletter { background: var(--accent-soft); padding: 22px 24px; margin: 32px 0; display: grid; gap: 14px; font-family: var(--sans); }
@@ -96,7 +101,7 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
 .archive-lead { font-size: 15px; color: var(--muted); }
 .count { font: 13px var(--sans); color: var(--muted); white-space: nowrap; }
 .prose { padding-bottom: 40px; }
-.prose h2 { font-size: 22px; margin: 32px 0 8px; }
+.prose h2 { font-size: 22px; margin: 32px 0 8px; scroll-margin-top: 72px; }
 .footer { border-top: 1px solid var(--rule); margin-top: 24px; padding-top: 8px; padding-bottom: 40px; }
 .fineprint { font: 13px/1.6 var(--sans); color: var(--muted); }
 

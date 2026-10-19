@@ -1,10 +1,15 @@
 # Πηγές ειδήσεων ανά κατηγορία.
 # Κάθε κατηγορία βγαίνει ως ξεχωριστή ενότητα στο ημερήσιο digest.
-# Πρόσθεσε/αφαίρεσε feeds ελεύθερα — όσα αποτυγχάνουν απλώς παραλείπονται
-# και καταγράφονται στο log του workflow.
 #
-# Για ισορροπία: βάλε σε κάθε κατηγορία πηγές από διαφορετικούς εκδότες,
-# ώστε το digest να μην αναπαράγει τη γωνία ενός μόνο μέσου.
+# ΜΟΝΟ άμεσα feeds εκδοτών — όχι Google News ή άλλους aggregators, γιατί
+# οι όροι τους απαγορεύουν την εμπορική χρήση.
+#
+# Ισορροπία: σε κάθε χώρα υπάρχουν πηγές από διαφορετικούς εκδότες και
+# διαφορετικούς πολιτικούς χώρους (δημόσιος φορέας, κεντροδεξιά, κεντροαριστερά,
+# οικονομικός τύπος), ώστε το AI να βλέπει κάθε γεγονός από πολλές πλευρές.
+#
+# Feeds που αποτυγχάνουν απλώς παραλείπονται. Η αναφορά ανά feed φαίνεται
+# στο log του workflow και στο data/raw/<ημερομηνία>.json.
 
 categories:
   security:
@@ -16,7 +21,10 @@ categories:
       - https://www.bleepingcomputer.com/feed/
       - https://krebsonsecurity.com/feed/
       - https://www.securityweek.com/feed/
-      - https://www.cisa.gov/cybersecurity-advisories/all.xml
+      - https://therecord.media/feed
+      - https://www.darkreading.com/rss.xml
+      - https://www.helpnetsecurity.com/feed/
+      - https://www.infosecurity-magazine.com/rss/news/
       - https://www.schneier.com/feed/atom/
 
   tech:
@@ -34,15 +42,21 @@ categories:
     title_en: "Greece"
     max_items: 10
     feeds:
-      - https://www.ertnews.gr/feed/
-      - https://www.ekathimerini.com/rss
-      - https://news.google.com/rss?hl=el&gl=GR&ceid=GR:el
+      - https://www.ertnews.gr/feed/                     # ΕΡΤ (δημόσιος φορέας)
+      - https://feeds.feedburner.com/kathimerini/DJpy    # Καθημερινή
+      - https://www.tovima.gr/feed/                      # Το Βήμα
+      - https://www.efsyn.gr/feed.xml                    # ΕφΣυν
+      - https://www.naftemporiki.gr/feed/                # Ναυτεμπορική (οικονομικά)
 
   bulgaria:
     title_el: "Βουλγαρία"
     title_en: "Bulgaria"
     max_items: 10
     feeds:
-      - https://www.bta.bg/en/rss/free
-      - https://www.novinite.com/services/news_rdf.php
-      - https://news.google.com/rss?hl=bg&gl=BG&ceid=BG:bg
+      - https://www.bta.bg/bg/rss/free                   # БТА (κρατικό πρακτορείο)
+      - https://bnr.bg/en/rss/news                       # БНР / Radio Bulgaria
+      - https://www.dnevnik.bg/rss/                      # Дневник
+      - https://www.capital.bg/rss/                      # Капитал
+      - https://www.mediapool.bg/rss                     # Mediapool
+      - https://www.novinite.com/services/news_rdf.php   # Novinite (EN)
+      - https://feeds.feedburner.com/TheSofiaGlobe       # The Sofia Globe (EN)
