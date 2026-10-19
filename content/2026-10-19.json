@@ -1,24 +1,25 @@
 {
   "date": "2026-10-19",
-  "generated": "2026-10-19T09:44:16.366341+00:00",
-  "ai": "GitHub Models",
+  "generated": "2026-10-19T10:30:59.403715+00:00",
+  "ai": null,
+  "ai_sections": 0,
   "glance": {
     "el": [
       "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
       "Anthropic gives outside AI watchdog “employee-like” access",
-      "Τζογόπουλος στο ΕΡΤnews Radio 105,8: Οι γαλλικές εκλογές της Άνοιξης θα κρίνουν το μέλλον της Γαλλίας και της Ε.Ε.",
-      "Президентът на Евролигата Деян Бодирога: „Цървена звезда и Партизан имат много добри шансове да продължат да бъдат част от надпреварата“"
+      "Μητσοτάκης: Η Ελλάδα δεν θα ξαναγυρίσει στις εποχές των λαϊκιστών",
+      "Брадли Баркола за мениджъра на Ливърпул Андони Ираола: „Мисля, че стилът ми на игра пасва добре на неговите изисквания“"
     ],
     "en": [
       "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
       "Anthropic gives outside AI watchdog “employee-like” access",
-      "Τζογόπουλος στο ΕΡΤnews Radio 105,8: Οι γαλλικές εκλογές της Άνοιξης θα κρίνουν το μέλλον της Γαλλίας και της Ε.Ε.",
-      "Президентът на Евролигата Деян Бодирога: „Цървена звезда и Партизан имат много добри шансове да продължат да бъдат част от надпреварата“"
+      "Μητσοτάκης: Η Ελλάδα δεν θα ξαναγυρίσει στις εποχές των λαϊκιστών",
+      "Брадли Баркола за мениджъра на Ливърпул Андони Ираола: „Мисля, че стилът ми на игра пасва добре на неговите изисквания“"
     ]
   },
   "meta": {
-    "el": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers; Anthropic gives outside AI watchdog “employee-like” access; Τζογόπουλος ",
-    "en": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers; Anthropic gives outside AI watchdog “employee-like” access; Τζογόπουλος "
+    "el": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers; Anthropic gives outside AI watchdog “employee-like” access; Μητσοτάκης: ",
+    "en": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers; Anthropic gives outside AI watchdog “employee-like” access; Μητσοτάκης: "
   },
   "sections": [
     {
@@ -78,8 +79,8 @@
         },
         {
           "title": {
-            "el": "Bearer CLI: Free, source-available code security scanning tool (SAST)",
-            "en": "Bearer CLI: Free, source-available code security scanning tool (SAST)"
+            "el": "Cybercriminals favor Microsoft over Apple and Google in brand phishing attacks",
+            "en": "Cybercriminals favor Microsoft over Apple and Google in brand phishing attacks"
           },
           "summary": {
             "el": "",
@@ -88,7 +89,7 @@
           "sources": [
             {
               "name": "Help Net Security",
-              "url": "https://www.helpnetsecurity.com/2026/10/19/bearer-cli-free-code-security-scanning-tool-sast/"
+              "url": "https://www.helpnetsecurity.com/2026/10/19/check-point-brand-impersonation-scams-q3-2026-report/"
             }
           ]
         },
@@ -110,8 +111,8 @@
         },
         {
           "title": {
-            "el": "Japan’s SiteGuard WAF flaw CVE-2026-106931 is already being exploited",
-            "en": "Japan’s SiteGuard WAF flaw CVE-2026-106931 is already being exploited"
+            "el": "Attackers Abuse Stolen ConnectWise Application Credentials to Target Microsoft 365",
+            "en": "Attackers Abuse Stolen ConnectWise Application Credentials to Target Microsoft 365"
           },
           "summary": {
             "el": "",
@@ -120,7 +121,23 @@
           "sources": [
             {
               "name": "Security Affairs",
-              "url": "https://securityaffairs.com/201258/security/japans-siteguard-waf-flaw-cve-2026-106931-is-already-being-exploited.html"
+              "url": "https://securityaffairs.com/201236/hacking/attackers-abuse-stolen-connectwise-application-credentials-to-target-microsoft-365.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Spyware found on devices belonging to prominent Serbian critics as elections loom",
+            "en": "Spyware found on devices belonging to prominent Serbian critics as elections loom"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/pegasus-spyware-serbia-critics-elections/"
             }
           ]
         },
@@ -203,22 +220,6 @@
               "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/"
             }
           ]
-        },
-        {
-          "title": {
-            "el": "RPO and RTO explained with a real disaster recovery example",
-            "en": "RPO and RTO explained with a real disaster recovery example"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "Help Net Security",
-              "url": "https://www.helpnetsecurity.com/2026/10/19/rpo-rto-video/"
-            }
-          ]
         }
       ]
     },
@@ -247,8 +248,8 @@
         },
         {
           "title": {
-            "el": "Microsoft’s second-hand licensing appeal gets the brush-off",
-            "en": "Microsoft’s second-hand licensing appeal gets the brush-off"
+            "el": "Museum exhibit reveals the intricate workings of a knackered Dell",
+            "en": "Museum exhibit reveals the intricate workings of a knackered Dell"
           },
           "summary": {
             "el": "",
@@ -257,7 +258,7 @@
           "sources": [
             {
               "name": "www.theregister.com - Articles",
-              "url": "https://www.theregister.com/legal/2026/10/19/microsofts-second-hand-licensing-appeal-gets-the-brush-off/5303718"
+              "url": "https://www.theregister.com/offbeat/2026/10/19/museum-exhibit-reveals-the-intricate-workings-of-a-knackered-dell/5303250"
             }
           ]
         },
@@ -295,8 +296,8 @@
         },
         {
           "title": {
-            "el": "AI’s epic cash call is matched only by its ability to strangle revenue streams",
-            "en": "AI’s epic cash call is matched only by its ability to strangle revenue streams"
+            "el": "Microsoft’s second-hand licensing appeal gets the brush-off",
+            "en": "Microsoft’s second-hand licensing appeal gets the brush-off"
           },
           "summary": {
             "el": "",
@@ -305,7 +306,7 @@
           "sources": [
             {
               "name": "www.theregister.com - Articles",
-              "url": "https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493"
+              "url": "https://www.theregister.com/legal/2026/10/19/microsofts-second-hand-licensing-appeal-gets-the-brush-off/5303718"
             }
           ]
         },
@@ -343,8 +344,8 @@
         },
         {
           "title": {
-            "el": "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900",
-            "en": "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900"
+            "el": "AI’s epic cash call is matched only by its ability to strangle revenue streams",
+            "en": "AI’s epic cash call is matched only by its ability to strangle revenue streams"
           },
           "summary": {
             "el": "",
@@ -353,7 +354,7 @@
           "sources": [
             {
               "name": "www.theregister.com - Articles",
-              "url": "https://www.theregister.com/ai-and-ml/2026/10/19/sponsored-ai-inference-is-running-into-a-memory-bottleneck-huawei-wants-to-tackle-it-with-oceanstor-m900/5303543"
+              "url": "https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493"
             }
           ]
         },
@@ -400,8 +401,8 @@
       "stories": [
         {
           "title": {
-            "el": "Τζογόπουλος στο ΕΡΤnews Radio 105,8: Οι γαλλικές εκλογές της Άνοιξης θα κρίνουν το μέλλον της Γαλλίας και της Ε.Ε.",
-            "en": "Τζογόπουλος στο ΕΡΤnews Radio 105,8: Οι γαλλικές εκλογές της Άνοιξης θα κρίνουν το μέλλον της Γαλλίας και της Ε.Ε."
+            "el": "Μητσοτάκης: Η Ελλάδα δεν θα ξαναγυρίσει στις εποχές των λαϊκιστών",
+            "en": "Μητσοτάκης: Η Ελλάδα δεν θα ξαναγυρίσει στις εποχές των λαϊκιστών"
           },
           "summary": {
             "el": "",
@@ -410,14 +411,14 @@
           "sources": [
             {
               "name": "ertnews.gr",
-              "url": "https://www.ertnews.gr/roi-idiseon/tzogopoulos-sto-ertnews-radio-105-8-oi-gallikes-ekloges-tis-anoiksis-tha-krinoun-to-mellon-tis-gallias-kai-tis-e-e/"
+              "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/mitsotakis-i-ellada-den-tha-ksanagyrisei-stis-epoxes-ton-laikiston/"
             }
           ]
         },
         {
           "title": {
-            "el": "Διαμαρτυρίες στα γαλλικά σχολεία: καταρρέει το εκπαιδευτικό σύστημα;",
-            "en": "Διαμαρτυρίες στα γαλλικά σχολεία: καταρρέει το εκπαιδευτικό σύστημα;"
+            "el": "Ελον Μασκ: Το 2027 «θα χαρίσω από μία μετοχή της SpaceX σε κάθε παιδί των ΗΠΑ»",
+            "en": "Ελον Μασκ: Το 2027 «θα χαρίσω από μία μετοχή της SpaceX σε κάθε παιδί των ΗΠΑ»"
           },
           "summary": {
             "el": "",
@@ -426,14 +427,14 @@
           "sources": [
             {
               "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
-              "url": "https://www.kathimerini.gr/visual/video/564531847/diamartyries-sta-gallika-scholeia-katarreei-to-ekpaideytiko-systima/"
+              "url": "https://www.kathimerini.gr/world/564532162/elon-mask-to-2027-tha-chariso-apo-mia-metochi-tis-spacex-se-kathe-paidi-ton-ipa/"
             }
           ]
         },
         {
           "title": {
-            "el": "Άρωμα τρομοκρατίας στην Αυστραλία: Επίθεση στην 65χρονη βουλευτή Έλεν Χέινς",
-            "en": "Άρωμα τρομοκρατίας στην Αυστραλία: Επίθεση στην 65χρονη βουλευτή Έλεν Χέινς"
+            "el": "Δίκη Τέμπη: Κατάθεση με αιχμές από τον γιο του κυλικειάρχη της επιβατικής αμαξοστοιχίας",
+            "en": "Δίκη Τέμπη: Κατάθεση με αιχμές από τον γιο του κυλικειάρχη της επιβατικής αμαξοστοιχίας"
           },
           "summary": {
             "el": "",
@@ -442,14 +443,14 @@
           "sources": [
             {
               "name": "ΤΟ ΒΗΜΑ",
-              "url": "https://www.tovima.gr/2026/10/19/world/aroma-tromokratias-stin-aystralia-epithesi-stin-65xroni-vouleyti-elen-xeins/"
+              "url": "https://www.tovima.gr/2026/10/19/dikaiosyni/diki-tempi-katathesi-me-aixmes-apo-ton-gio-tou-kylikeiarxi-tis-epivatikis-amaksostoixias/"
             }
           ]
         },
         {
           "title": {
-            "el": "Ίλον Μασκ: «Το 2027 θα χαρίσω από μία μετοχή μου στη SpaceX σε κάθε παιδί των ΗΠΑ»",
-            "en": "Ίλον Μασκ: «Το 2027 θα χαρίσω από μία μετοχή μου στη SpaceX σε κάθε παιδί των ΗΠΑ»"
+            "el": "Γιατί η Έλενα Ακρίτα είναι «πολύ θυμωμένη με τη Σοφία Βούλτεψη»",
+            "en": "Γιατί η Έλενα Ακρίτα είναι «πολύ θυμωμένη με τη Σοφία Βούλτεψη»"
           },
           "summary": {
             "el": "",
@@ -458,14 +459,14 @@
           "sources": [
             {
               "name": "Η Εφημερίδα των Συντακτών",
-              "url": "https://www.efsyn.gr/kosmos/1491482/ilon-mask-to-2027-tha-hariso-apo-mia-metohi-moy-sti-spacex-se-kathe-paidi-ton-ipa/"
+              "url": "https://www.efsyn.gr/politiki/1491553/giati-i-elena-akrita-einai-poly-thymomeni-me-ti-sofia-voyltepsi/"
             }
           ]
         },
         {
           "title": {
-            "el": "Οι ακριβοί ναύλοι «έκοψαν» πολλά φορτία",
-            "en": "Οι ακριβοί ναύλοι «έκοψαν» πολλά φορτία"
+            "el": "Σπέτσες: Τραυματισμός πλοιάρχου σε επεισόδιο κατά τη φόρτωση οχημάτων – 5 συλλήψεις",
+            "en": "Σπέτσες: Τραυματισμός πλοιάρχου σε επεισόδιο κατά τη φόρτωση οχημάτων – 5 συλλήψεις"
           },
           "summary": {
             "el": "",
@@ -474,14 +475,14 @@
           "sources": [
             {
               "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-              "url": "https://www.naftemporiki.gr/maritime/2176840/oi-akrivoi-nayloi-ekopsan-polla-fortia/?utm_source=rss&utm_medium=rss&utm_campaign=oi-akrivoi-nayloi-ekopsan-polla-fortia"
+              "url": "https://www.naftemporiki.gr/maritime/2176862/spetses-traymatismos-ploiarchoy-se-epeisodio-kata-ti-fortosi-ochimaton-5-syllipseis/?utm_source=rss&utm_medium=rss&utm_campaign=spetses-traymatismos-ploiarchoy-se-epeisodio-kata-ti-fortosi-ochimaton-5-syllipseis"
             }
           ]
         },
         {
           "title": {
-            "el": "Αγροτικές ενισχύσεις: Πληρωμές 32,34 εκατ. ευρώ",
-            "en": "Αγροτικές ενισχύσεις: Πληρωμές 32,34 εκατ. ευρώ"
+            "el": "Κίνα: Κόκκινα σύννεφα «φωτίζουν» τον ουρανό πάνω από λίμνη",
+            "en": "Κίνα: Κόκκινα σύννεφα «φωτίζουν» τον ουρανό πάνω από λίμνη"
           },
           "summary": {
             "el": "",
@@ -490,14 +491,14 @@
           "sources": [
             {
               "name": "ertnews.gr",
-              "url": "https://www.ertnews.gr/eidiseis/agrotikes-enisxyseis-pliromes-32-34-ekat-eyro/"
+              "url": "https://www.ertnews.gr/eidiseis/diethni/kina-kokkina-synnefa-fotizoun-ton-ourano-pano-apo-limni/"
             }
           ]
         },
         {
           "title": {
-            "el": "«Δαίδαλος»: Live τα εγκαίνια του εθνικού υπερυπολογιστή στο Λαύριο",
-            "en": "«Δαίδαλος»: Live τα εγκαίνια του εθνικού υπερυπολογιστή στο Λαύριο"
+            "el": "ΕΛΣΤΑΤ: Eνας στους τρεις εργαζόμενους δυσκολεύεται να συνδυάσει εργασία και οικογενειακές υποχρεώσεις",
+            "en": "ΕΛΣΤΑΤ: Eνας στους τρεις εργαζόμενους δυσκολεύεται να συνδυάσει εργασία και οικογενειακές υποχρεώσεις"
           },
           "summary": {
             "el": "",
@@ -506,14 +507,14 @@
           "sources": [
             {
               "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
-              "url": "https://www.kathimerini.gr/society/564531862/daidalos-live-ta-egkainia-toy-ethnikoy-yperypologisti-sto-layrio/"
+              "url": "https://www.kathimerini.gr/society/564532156/elstat-enas-stoys-treis-ergazomenoys-dyskoleyetai-na-syndyasei-ergasia-kai-oikogeneiakes-ypochreoseis/"
             }
           ]
         },
         {
           "title": {
-            "el": "«Κάμπινγκ» : Τι θα δούμε απόψε στο νέο επεισόδιο της σειράς",
-            "en": "«Κάμπινγκ» : Τι θα δούμε απόψε στο νέο επεισόδιο της σειράς"
+            "el": "Μαρινάκης στο «Βήμα»: «Δεν είμαστε εκεί που είναι η Γαλλία» – Άλλο η διαμαρτυρία, άλλο τα επεισόδια",
+            "en": "Μαρινάκης στο «Βήμα»: «Δεν είμαστε εκεί που είναι η Γαλλία» – Άλλο η διαμαρτυρία, άλλο τα επεισόδια"
           },
           "summary": {
             "el": "",
@@ -522,14 +523,14 @@
           "sources": [
             {
               "name": "ΤΟ ΒΗΜΑ",
-              "url": "https://www.tovima.gr/2026/10/19/media/kampingk-ti-tha-doume-apopse-sto-neo-epeisodio-tis-seiras/"
+              "url": "https://www.tovima.gr/2026/10/19/politics/marinakis-sto-vima-den-eimaste-ekei-pou-einai-i-gallia-allo-i-diamartyria-allo-ta-epeisodia/"
             }
           ]
         },
         {
           "title": {
-            "el": "Θριαμβολογία χωρίς αντίκρισμα",
-            "en": "Θριαμβολογία χωρίς αντίκρισμα"
+            "el": "Ελλάδα – Ιαπωνία: Συμμαχία για ρεαλισμό στην απανθρακοποίηση της ναυτιλίας",
+            "en": "Ελλάδα – Ιαπωνία: Συμμαχία για ρεαλισμό στην απανθρακοποίηση της ναυτιλίας"
           },
           "summary": {
             "el": "",
@@ -538,14 +539,14 @@
           "sources": [
             {
               "name": "Η Εφημερίδα των Συντακτών",
-              "url": "https://www.efsyn.gr/oikonomia/1491460/thriamvologia-horis-antikrisma/"
+              "url": "https://www.efsyn.gr/oikonomia/1491540/ellada-iaponia-symmahia-gia-realismo-stin-apanthrakopoiisi-tis-naytilias/"
             }
           ]
         },
         {
           "title": {
-            "el": "Αθανάσιος Πετμεζάς: Η Ελλάδα μπορεί να γίνει η «Νότια Κορέα» των καλλυντικών αν υπάρξει εθνική στρατηγική",
-            "en": "Αθανάσιος Πετμεζάς: Η Ελλάδα μπορεί να γίνει η «Νότια Κορέα» των καλλυντικών αν υπάρξει εθνική στρατηγική"
+            "el": "Αλμπέρτα: Γιατί σκέφτεται να ανεξαρτητοποιηθεί από τον Καναδά – Πόσο πιθανό είναι",
+            "en": "Αλμπέρτα: Γιατί σκέφτεται να ανεξαρτητοποιηθεί από τον Καναδά – Πόσο πιθανό είναι"
           },
           "summary": {
             "el": "",
@@ -554,7 +555,7 @@
           "sources": [
             {
               "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-              "url": "https://www.naftemporiki.gr/business/2176836/athanasios-petmezas-i-ellada-mporei-na-ginei-i-notia-korea-ton-kallyntikon-an-yparxei-ethniki-stratigiki/?utm_source=rss&utm_medium=rss&utm_campaign=athanasios-petmezas-i-ellada-mporei-na-ginei-i-notia-korea-ton-kallyntikon-an-yparxei-ethniki-stratigiki"
+              "url": "https://www.naftemporiki.gr/kosmos/2176861/almperta-giati-skeftetai-na-anexartitopoiithei-apo-ton-kanada-poso-pithano-einai/?utm_source=rss&utm_medium=rss&utm_campaign=almperta-giati-skeftetai-na-anexartitopoiithei-apo-ton-kanada-poso-pithano-einai"
             }
           ]
         }
@@ -569,8 +570,8 @@
       "stories": [
         {
           "title": {
-            "el": "Президентът на Евролигата Деян Бодирога: „Цървена звезда и Партизан имат много добри шансове да продължат да бъдат част от надпреварата“",
-            "en": "Президентът на Евролигата Деян Бодирога: „Цървена звезда и Партизан имат много добри шансове да продължат да бъдат част от надпреварата“"
+            "el": "Брадли Баркола за мениджъра на Ливърпул Андони Ираола: „Мисля, че стилът ми на игра пасва добре на неговите изисквания“",
+            "en": "Брадли Баркола за мениджъра на Ливърпул Андони Ираола: „Мисля, че стилът ми на игра пасва добре на неговите изисквания“"
           },
           "summary": {
             "el": "",
@@ -579,14 +580,14 @@
           "sources": [
             {
               "name": "BG RSS Free",
-              "url": "https://www.bta.bg/bg/news/sport/1227652-prezidentat-na-evroligata-deyan-bodiroga-tsarvena-zvezda-i-partizan-imat-mnogo"
+              "url": "https://www.bta.bg/bg/news/sport/1227714-bradli-barkola-za-menidzhara-na-livarpul-andoni-iraola-mislya-che-stilat-mi-n"
             }
           ]
         },
         {
           "title": {
-            "el": "Сигнал за бомба е получен в здравната каса",
-            "en": "Сигнал за бомба е получен в здравната каса"
+            "el": "Четирима загинали и десетки ранени след пожар в канадска военна база",
+            "en": "Четирима загинали и десетки ранени след пожар в канадска военна база"
           },
           "summary": {
             "el": "",
@@ -595,7 +596,7 @@
           "sources": [
             {
               "name": "Dnevnik.bg",
-              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/19/4968146_signal_za_bomba_e_poluchen_v_zdravnata_kasa/?ref=rss"
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/19/4968200_chetirima_zaginali_i_desetki_raneni_sled_pojar_v/?ref=rss"
             }
           ]
         },
@@ -617,8 +618,8 @@
         },
         {
           "title": {
-            "el": "Зеленски обвини Тръмп, че тласка Украйна към капитулация пред Путин",
-            "en": "Зеленски обвини Тръмп, че тласка Украйна към капитулация пред Путин"
+            "el": "Нова вълна от удари по украинската енергетика, Украйна отново не е била предупредена от съюзниците си",
+            "en": "Нова вълна от удари по украинската енергетика, Украйна отново не е била предупредена от съюзниците си"
           },
           "summary": {
             "el": "",
@@ -627,7 +628,7 @@
           "sources": [
             {
               "name": "Mediapool.bg",
-              "url": "https://www.mediapool.bg/voina-v-ukraina/zelenski-obvini-tramp-che-tlaska-ukraina-kam-kapitulatsiya-pred-putin/"
+              "url": "https://www.mediapool.bg/voina-v-ukraina/nova-valna-ot-udari-po-ukrainskata-energetika-ukraina-otnovo-ne-e-bila-predupredena-ot-sayuznitsite-si/"
             }
           ]
         },
@@ -649,8 +650,8 @@
         },
         {
           "title": {
-            "el": "Два сигнала за домашно насилие са регистрирани в Ловешка област през почивните дни",
-            "en": "Два сигнала за домашно насилие са регистрирани в Ловешка област през почивните дни"
+            "el": "Заповед за изменение на ПУП за нулевия лот на пътя Видин – Монтана се очаква да бъде издадена следващата седмица, каза регионалният министър",
+            "en": "Заповед за изменение на ПУП за нулевия лот на пътя Видин – Монтана се очаква да бъде издадена следващата седмица, каза регионалният министър"
           },
           "summary": {
             "el": "",
@@ -659,14 +660,14 @@
           "sources": [
             {
               "name": "BG RSS Free",
-              "url": "https://www.bta.bg/bg/news/bulgaria/1227646-dva-signala-za-domashno-nasilie-sa-registrirani-v-loveshka-oblast-prez-pochivnit"
+              "url": "https://www.bta.bg/bg/news/bulgaria/1227721-zapoved-za-izmenenie-na-pup-za-nuleviya-lot-na-patya-vidin-montana-se-ochakva-"
             }
           ]
         },
         {
           "title": {
-            "el": "Жена загина при трудова злополука в \"Мини Бобов дол\"",
-            "en": "Жена загина при трудова злополука в \"Мини Бобов дол\""
+            "el": "Десетки са задържани по време на полицейска акция в Старозагорско",
+            "en": "Десетки са задържани по време на полицейска акция в Старозагорско"
           },
           "summary": {
             "el": "",
@@ -675,7 +676,7 @@
           "sources": [
             {
               "name": "Dnevnik.bg",
-              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/19/4968144_jena_zagina_pri_trudova_zlopoluka_v_mini_bobov_dol/?ref=rss"
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/19/4968181_desetki_sa_zadurjani_po_vreme_na_policeiska_akciia_v/?ref=rss"
             }
           ]
         },
@@ -697,8 +698,8 @@
         },
         {
           "title": {
-            "el": "Цените на петрола се понижиха след облекчаването на санкциите срещу Русия",
-            "en": "Цените на петрола се понижиха след облекчаването на санкциите срещу Русия"
+            "el": "Зеленски обвини Тръмп, че тласка Украйна към капитулация пред Путин",
+            "en": "Зеленски обвини Тръмп, че тласка Украйна към капитулация пред Путин"
           },
           "summary": {
             "el": "",
@@ -707,14 +708,14 @@
           "sources": [
             {
               "name": "Mediapool.bg",
-              "url": "https://www.mediapool.bg/biznes/tsenite-na-petrola-se-ponizhiha-sled-oblekchavaneto-na-sanktsiite-sreshtu-rusiya/"
+              "url": "https://www.mediapool.bg/voina-v-ukraina/zelenski-obvini-tramp-che-tlaska-ukraina-kam-kapitulatsiya-pred-putin/"
             }
           ]
         },
         {
           "title": {
-            "el": "Оказват ли натиск пакистанските власти върху бившия премиер Имран Хан да бъде изпратен в изгнание",
-            "en": "Оказват ли натиск пакистанските власти върху бившия премиер Имран Хан да бъде изпратен в изгнание"
+            "el": "Ректорите на осем университета подписаха меморандум за участие в иновативната програма GEN I: Генерация иновация",
+            "en": "Ректорите на осем университета подписаха меморандум за участие в иновативната програма GEN I: Генерация иновация"
           },
           "summary": {
             "el": "",
@@ -723,7 +724,7 @@
           "sources": [
             {
               "name": "BG RSS Free",
-              "url": "https://www.bta.bg/bg/news/world/1227202-okazvat-li-natisk-pakistanskite-vlasti-varhu-bivshiya-premier-imran-han-da-bade-"
+              "url": "https://www.bta.bg/bg/news/lik/1227716-rektorite-na-osem-universiteta-podpisaha-memorandum-za-uchastie-v-inovativnata-p"
             }
           ]
         }
