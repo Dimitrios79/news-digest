@@ -1,19 +1,19 @@
 {
   "date": "2026-10-19",
-  "generated": "2026-10-19T08:05:38.305391+00:00",
+  "generated": "2026-10-19T08:19:51.340879+00:00",
   "ai": "GitHub Models",
   "glance": {
     "el": [
       "Anthropic Acquires Confidential AI Startup Opaque Systems",
       "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900",
-      "Μεσσηνία: Σεισμός 4 Ρίχτερ κοντά στην Πύλο – Αισθητός και στην Καλαμάτα",
-      "Ecumenical Patriarch Bartholomew and Bulgarian Patriarch Daniil Arrive at Rila Monastery"
+      "Πλεύρης στο ΕΡΤnews: Οι διακινητές είναι εγκληματίες, αντιμετωπίζουν τους ανθρώπους ως εμπόρευμα – Ο Οκτώβριος είναι μήνας αυξημένης μεταναστευτικής πίεσης",
+      "Hungarian Parliament Foreign Policy Committee Chair Highlights Longstanding Ties between Bulgaria, Hungary"
     ],
     "en": [
       "Anthropic Acquires Confidential AI Startup Opaque Systems",
       "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900",
-      "Μεσσηνία: Σεισμός 4 Ρίχτερ κοντά στην Πύλο – Αισθητός και στην Καλαμάτα",
-      "Ecumenical Patriarch Bartholomew and Bulgarian Patriarch Daniil Arrive at Rila Monastery"
+      "Πλεύρης στο ΕΡΤnews: Οι διακινητές είναι εγκληματίες, αντιμετωπίζουν τους ανθρώπους ως εμπόρευμα – Ο Οκτώβριος είναι μήνας αυξημένης μεταναστευτικής πίεσης",
+      "Hungarian Parliament Foreign Policy Committee Chair Highlights Longstanding Ties between Bulgaria, Hungary"
     ]
   },
   "meta": {
@@ -247,22 +247,6 @@
         },
         {
           "title": {
-            "el": "Namecheap just seized and disabled all my domains",
-            "en": "Namecheap just seized and disabled all my domains"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "Hacker News: Front Page",
-              "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/"
-            }
-          ]
-        },
-        {
-          "title": {
             "el": "Someone behind the software",
             "en": "Someone behind the software"
           },
@@ -292,6 +276,22 @@
               "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
             }
           ]
+        },
+        {
+          "title": {
+            "el": "RepRapMicron",
+            "en": "RepRapMicron"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://github.com/VikOlliver/RepRapMicron/wiki"
+            }
+          ]
         }
       ]
     },
@@ -304,8 +304,8 @@
       "stories": [
         {
           "title": {
-            "el": "Μεσσηνία: Σεισμός 4 Ρίχτερ κοντά στην Πύλο – Αισθητός και στην Καλαμάτα",
-            "en": "Μεσσηνία: Σεισμός 4 Ρίχτερ κοντά στην Πύλο – Αισθητός και στην Καλαμάτα"
+            "el": "Πλεύρης στο ΕΡΤnews: Οι διακινητές είναι εγκληματίες, αντιμετωπίζουν τους ανθρώπους ως εμπόρευμα – Ο Οκτώβριος είναι μήνας αυξημένης μεταναστευτικής πίεσης",
+            "en": "Πλεύρης στο ΕΡΤnews: Οι διακινητές είναι εγκληματίες, αντιμετωπίζουν τους ανθρώπους ως εμπόρευμα – Ο Οκτώβριος είναι μήνας αυξημένης μεταναστευτικής πίεσης"
           },
           "summary": {
             "el": "",
@@ -314,7 +314,39 @@
           "sources": [
             {
               "name": "ertnews.gr",
-              "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/kalamata/messinia-seismos-4-rixter-konta-stin-pylo-aisthitos-kai-stin-kalamata/"
+              "url": "https://www.ertnews.gr/roi-idiseon/pleyris-sto-ertnews-oi-diakinites-einai-egklimaties-antimetopizoun-tous-anthropous-os-emporeyma-o-oktovrios-einai-minas-ayksimenis-metanasteytikis-piesis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ζελένσκι: Πάνω από 500.000 άνθρωποι χωρίς ηλεκτρικό ρεύμα στην Ουκρανία μετά από ρωσική επίθεση",
+            "en": "Ζελένσκι: Πάνω από 500.000 άνθρωποι χωρίς ηλεκτρικό ρεύμα στην Ουκρανία μετά από ρωσική επίθεση"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/zelenski-pano-apo-500-000-anthropoi-xoris-ilektriko-reyma-stin-oukrania-meta-apo-rosiki-epithesi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Μεσσηνία: Σεισμός 3,9 Ρίχτερ κοντά στην Πύλο – Αισθητός και στην Καλαμάτα",
+            "en": "Μεσσηνία: Σεισμός 3,9 Ρίχτερ κοντά στην Πύλο – Αισθητός και στην Καλαμάτα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/kalamata/messinia-seismos-3-9-rixter-konta-stin-pylo-aisthitos-kai-stin-kalamata/"
             }
           ]
         },
@@ -352,8 +384,8 @@
         },
         {
           "title": {
-            "el": "Διπλή τραγωδία σε Λέσβο και Σάμο: Πνίγηκαν 12 άτομα μεταξύ τους ένα βρέφος",
-            "en": "Διπλή τραγωδία σε Λέσβο και Σάμο: Πνίγηκαν 12 άτομα μεταξύ τους ένα βρέφος"
+            "el": "Διπλή τραγωδία με μετανάστες σε Λέσβο και Σάμο: Πνίγηκαν 12 άτομα μεταξύ τους ένα βρέφος – Ανατράπηκαν οι λέμβοι τους",
+            "en": "Διπλή τραγωδία με μετανάστες σε Λέσβο και Σάμο: Πνίγηκαν 12 άτομα μεταξύ τους ένα βρέφος – Ανατράπηκαν οι λέμβοι τους"
           },
           "summary": {
             "el": "",
@@ -362,7 +394,7 @@
           "sources": [
             {
               "name": "ertnews.gr",
-              "url": "https://www.ertnews.gr/eidiseis/dipli-tragodia-se-lesvo-kai-samo-pnigikan-12-atoma-metaksy-tous-ena-vrefos/"
+              "url": "https://www.ertnews.gr/eidiseis/dipli-tragodia-me-metanastes-se-lesvo-kai-samo-pnigikan-12-atoma-metaksy-tous-ena-vrefos-anatrapikan-oi-lemvoi-tous/"
             }
           ]
         },
@@ -410,7 +442,7 @@
           "sources": [
             {
               "name": "ertnews.gr",
-              "url": "https://www.ertnews.gr/frontpage/live-i-ekdilosi-gia-ton-yperypologisti-daidalos-me-symmetoxi-tou-prothypourgou/"
+              "url": "https://www.ertnews.gr/roi-idiseon/live-i-ekdilosi-gia-ton-yperypologisti-daidalos-me-symmetoxi-tou-prothypourgou/"
             }
           ]
         },
@@ -429,38 +461,6 @@
               "url": "https://www.ertnews.gr/eidiseis/diethni/isimerinos-stayros-epese-pano-se-ierea-tin-ora-tis-leitourgias-kai-ton-skotose/"
             }
           ]
-        },
-        {
-          "title": {
-            "el": "Αίγυπτος: Εγχώριο σύστημα αεράμυνας «κυνηγός drones» προκαλεί ερωτήματα στο Ισραήλ",
-            "en": "Αίγυπτος: Εγχώριο σύστημα αεράμυνας «κυνηγός drones» προκαλεί ερωτήματα στο Ισραήλ"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "ertnews.gr",
-              "url": "https://www.ertnews.gr/eidiseis/aigyptos-egxorio-systima-aeramynas-kynigos-drones-prokalei-erotimata-sto-israil/"
-            }
-          ]
-        },
-        {
-          "title": {
-            "el": "Τουρκία: 36 συλλήψεις σε επιχείρηση για παράνομη εμπορία ωαρίων – Είχαν διασυνδέσεις και στην Κύπρο",
-            "en": "Τουρκία: 36 συλλήψεις σε επιχείρηση για παράνομη εμπορία ωαρίων – Είχαν διασυνδέσεις και στην Κύπρο"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "ertnews.gr",
-              "url": "https://www.ertnews.gr/eidiseis/tourkia-36-syllipseis-se-epixeirisi-gia-paranomi-emporia-oarion-eixan-diasyndeseis-kai-stin-kypro/"
-            }
-          ]
         }
       ]
     },
@@ -471,6 +471,38 @@
         "en": "Bulgaria"
       },
       "stories": [
+        {
+          "title": {
+            "el": "Hungarian Parliament Foreign Policy Committee Chair Highlights Longstanding Ties between Bulgaria, Hungary",
+            "en": "Hungarian Parliament Foreign Policy Committee Chair Highlights Longstanding Ties between Bulgaria, Hungary"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "EN RSS Free",
+              "url": "https://www.bta.bg/en/bg-world/1227543-hungarian-parliament-foreign-policy-committee-chair-highlights-longstanding-ties"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Bulgaria Lacks Conditions for Social Unrest Seen in France, Deputy PM Hristov Says",
+            "en": "Bulgaria Lacks Conditions for Social Unrest Seen in France, Deputy PM Hristov Says"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "EN RSS Free",
+              "url": "https://www.bta.bg/en/news/bulgaria/1227532-bulgaria-lacks-conditions-for-social-unrest-seen-in-france-deputy-pm-hristov-sa"
+            }
+          ]
+        },
         {
           "title": {
             "el": "Ecumenical Patriarch Bartholomew and Bulgarian Patriarch Daniil Arrive at Rila Monastery",
@@ -500,22 +532,6 @@
             {
               "name": "EN RSS Free",
               "url": "https://www.bta.bg/en/news/archives/1227527-october-19-2016-bulgarian-hungarian-friendship-day-marked-for-first-time"
-            }
-          ]
-        },
-        {
-          "title": {
-            "el": "\"Ледникът на Страшния съд\" може да ни залее по-бързо от очакваното - Dnes.bg",
-            "en": "\"Ледникът на Страшния съд\" може да ни залее по-бързо от очакваното - Dnes.bg"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "Dnes.bg",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWg3ZlROeWRfbHdTWFhHQWVvNWE2TnZ0bkllWFFNc2dWcWgtQUxNMlhVdzBjX1psd3VUMm9IWWFZV3JqVDZiWG5STng2XzVfcEF6YlNxbHJpX0xyb0ZSUHkyNXEzZ1M0M08yYU15cnZlVkZCazJZRzl2UUZPT3gwQlhaMFplSS00TE8zSW05c0ZlTkUwbW54T3RJRFFyUjJGUjBiU0NBV0o?oc=5"
             }
           ]
         },
@@ -601,8 +617,8 @@
         },
         {
           "title": {
-            "el": "President Iotova to Present 2026 Doctor of the Year Award at Ceremony in Sofia",
-            "en": "President Iotova to Present 2026 Doctor of the Year Award at Ceremony in Sofia"
+            "el": "Три пробойни по кораба \"Челси 3\", капитан твърди, че е празен - News.bg",
+            "en": "Три пробойни по кораба \"Челси 3\", капитан твърди, че е празен - News.bg"
           },
           "summary": {
             "el": "",
@@ -610,24 +626,8 @@
           },
           "sources": [
             {
-              "name": "EN RSS Free",
-              "url": "https://www.bta.bg/en/news/bulgaria/1227444-president-iotova-to-present-2026-doctor-of-the-year-award-at-ceremony-in-sofia"
-            }
-          ]
-        },
-        {
-          "title": {
-            "el": "Синди Крауфорд с първо изявление след смъртта на сина си - Dir.bg",
-            "en": "Синди Крауфорд с първо изявление след смъртта на сина си - Dir.bg"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "Dir.bg",
-              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeDVxZElNckFjdFR4UmxLS1NENzRDUmlSUUZHbkxkYzA4eUR6cGFLS0l2TXRjd1VZM0piaTRheHJnWFRva3hGWmwxZEw2eTlycmUzS20tQTdveG9RMzhtVjZGaXQ5TzNwV1NGUDBfcjFscEdqRFYtZmkyaFdPREN5ZVBTdnBRWHJGVVh2bA?oc=5"
+              "name": "News.bg",
+              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVNhQ2o4ZEZlcnZKbFBlbzAxdmk4dVVmRjlDRUV6bWVaWlVfQ1Y2cUw3Slpzam9PVzY0aTZNYU1mSFBSVEo0QTNKeVhxMjZlVnpUSi1JLTRzN2tzUWp1ZzY4ZXpEU2dQMzg1ekZJOGRfd1U2Z1FnLXdmbTljREZRSFJOT3MtQkRtNnBiN1pFNUFYdw?oc=5"
             }
           ]
         }
