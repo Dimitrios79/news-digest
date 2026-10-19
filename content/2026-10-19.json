@@ -1,25 +1,25 @@
 {
   "date": "2026-10-19",
-  "generated": "2026-10-19T11:08:24.084634+00:00",
+  "generated": "2026-10-19T11:22:27.339622+00:00",
   "ai": null,
   "ai_sections": 0,
   "glance": {
     "el": [
       "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
       "Anthropic gives outside AI watchdog “employee-like” access",
-      "Απάτη μαμούθ στη Δεσκάτη Γρεβενών – Πάνω από 100.000 η λεία της σπείρας",
-      "Магдалена Врабчева-Райкова е избрана за кмет на пазарджишкото село Мало Конаре"
+      "Λονδίνο: Αιγυπτιακές μούμιες «στοιχειώνουν» το London Dungeon για το Halloween",
+      "Новоизбраният управител на Югозападната болница д-р Маргарита Гетова представи екипа си"
     ],
     "en": [
       "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
       "Anthropic gives outside AI watchdog “employee-like” access",
-      "Απάτη μαμούθ στη Δεσκάτη Γρεβενών – Πάνω από 100.000 η λεία της σπείρας",
-      "Магдалена Врабчева-Райкова е избрана за кмет на пазарджишкото село Мало Конаре"
+      "Λονδίνο: Αιγυπτιακές μούμιες «στοιχειώνουν» το London Dungeon για το Halloween",
+      "Новоизбраният управител на Югозападната болница д-р Маргарита Гетова представи екипа си"
     ]
   },
   "meta": {
-    "el": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers; Anthropic gives outside AI watchdog “employee-like” access; Απάτη μαμούθ",
-    "en": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers; Anthropic gives outside AI watchdog “employee-like” access; Απάτη μαμούθ"
+    "el": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers; Anthropic gives outside AI watchdog “employee-like” access; Λονδίνο: Αιγ",
+    "en": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers; Anthropic gives outside AI watchdog “employee-like” access; Λονδίνο: Αιγ"
   },
   "sections": [
     {
@@ -63,8 +63,8 @@
         },
         {
           "title": {
-            "el": "MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks",
-            "en": "MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks"
+            "el": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack",
+            "en": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack"
           },
           "summary": {
             "el": "",
@@ -73,14 +73,14 @@
           "sources": [
             {
               "name": "SecurityWeek",
-              "url": "https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/"
+              "url": "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/"
             }
           ]
         },
         {
           "title": {
-            "el": "Cybercriminals favor Microsoft over Apple and Google in brand phishing attacks",
-            "en": "Cybercriminals favor Microsoft over Apple and Google in brand phishing attacks"
+            "el": "With open-weight AI, more of the security burden falls on enterprises",
+            "en": "With open-weight AI, more of the security burden falls on enterprises"
           },
           "summary": {
             "el": "",
@@ -89,7 +89,7 @@
           "sources": [
             {
               "name": "Help Net Security",
-              "url": "https://www.helpnetsecurity.com/2026/10/19/check-point-brand-impersonation-scams-q3-2026-report/"
+              "url": "https://www.helpnetsecurity.com/2026/10/19/open-weight-ai-model-risks-microsoft-nvidia/"
             }
           ]
         },
@@ -111,8 +111,8 @@
         },
         {
           "title": {
-            "el": "Attackers Abuse Stolen ConnectWise Application Credentials to Target Microsoft 365",
-            "en": "Attackers Abuse Stolen ConnectWise Application Credentials to Target Microsoft 365"
+            "el": "Big Fish: OpenBSD Root Exploit Chains a 37-Year-Old BSD Bug With a Kernel Flaw",
+            "en": "Big Fish: OpenBSD Root Exploit Chains a 37-Year-Old BSD Bug With a Kernel Flaw"
           },
           "summary": {
             "el": "",
@@ -121,7 +121,7 @@
           "sources": [
             {
               "name": "Security Affairs",
-              "url": "https://securityaffairs.com/201236/hacking/attackers-abuse-stolen-connectwise-application-credentials-to-target-microsoft-365.html"
+              "url": "https://securityaffairs.com/201285/hacking/big-fish-openbsd-root-exploit-chains-a-37-year-old-bsd-bug-with-a-kernel-flaw.html"
             }
           ]
         },
@@ -175,6 +175,22 @@
         },
         {
           "title": {
+            "el": "Training AIs to Solve CAPTCHAs",
+            "en": "Training AIs to Solve CAPTCHAs"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Schneier on Security",
+              "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html"
+            }
+          ]
+        },
+        {
+          "title": {
             "el": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
             "en": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys"
           },
@@ -202,22 +218,6 @@
             {
               "name": "BleepingComputer",
               "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/"
-            }
-          ]
-        },
-        {
-          "title": {
-            "el": "Anthropic Acquires Confidential AI Startup Opaque Systems",
-            "en": "Anthropic Acquires Confidential AI Startup Opaque Systems"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "SecurityWeek",
-              "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/"
             }
           ]
         }
@@ -401,8 +401,8 @@
       "stories": [
         {
           "title": {
-            "el": "Απάτη μαμούθ στη Δεσκάτη Γρεβενών – Πάνω από 100.000 η λεία της σπείρας",
-            "en": "Απάτη μαμούθ στη Δεσκάτη Γρεβενών – Πάνω από 100.000 η λεία της σπείρας"
+            "el": "Λονδίνο: Αιγυπτιακές μούμιες «στοιχειώνουν» το London Dungeon για το Halloween",
+            "en": "Λονδίνο: Αιγυπτιακές μούμιες «στοιχειώνουν» το London Dungeon για το Halloween"
           },
           "summary": {
             "el": "",
@@ -411,7 +411,7 @@
           "sources": [
             {
               "name": "ertnews.gr",
-              "url": "https://www.ertnews.gr/perifereia/apati-mamouth-sti-deskati-grevenon-pano-apo-100-000-i-leia-tis-speiras/"
+              "url": "https://www.ertnews.gr/roi-idiseon/londino-aigyptiakes-moumies-stoixeionoun-to-london-dungeon-gia-to-halloween/"
             }
           ]
         },
@@ -433,8 +433,8 @@
         },
         {
           "title": {
-            "el": "Ελπίδες",
-            "en": "Ελπίδες"
+            "el": "Νησιώτικες ομελέτες – Σφουγγάτα, φρουτάλιες και στραπατσάδες",
+            "en": "Νησιώτικες ομελέτες – Σφουγγάτα, φρουτάλιες και στραπατσάδες"
           },
           "summary": {
             "el": "",
@@ -443,14 +443,14 @@
           "sources": [
             {
               "name": "ΤΟ ΒΗΜΑ",
-              "url": "https://www.tovima.gr/2026/10/19/opinions/elpides-5/"
+              "url": "https://www.tovima.gr/2026/10/19/elliniki-kouzina/nisiotikes-omeletes-sfouggata-froutalies-kai-strapatsades/"
             }
           ]
         },
         {
           "title": {
-            "el": "Ο Μητσοτάκης αγόρασε λαχεία στο Λαύριο – Μίλησε με πυροσβέστες, έβγαλε selfie [εικόνες – βίντεο]",
-            "en": "Ο Μητσοτάκης αγόρασε λαχεία στο Λαύριο – Μίλησε με πυροσβέστες, έβγαλε selfie [εικόνες – βίντεο]"
+            "el": "Η Μαρίνα Ασλάνογλου μιλά για την περιπέτεια υγείας της: «Πέρασα αυτοάνοσο και έχασα τα μαλλιά μου» [βίντεο]",
+            "en": "Η Μαρίνα Ασλάνογλου μιλά για την περιπέτεια υγείας της: «Πέρασα αυτοάνοσο και έχασα τα μαλλιά μου» [βίντεο]"
           },
           "summary": {
             "el": "",
@@ -459,14 +459,14 @@
           "sources": [
             {
               "name": "Η Εφημερίδα των Συντακτών",
-              "url": "https://www.efsyn.gr/politiki/1491576/o-mitsotakis-agorase-laheia-sto-layrio-milise-me-pyrosvestes-evgale-selfie-eikones-vinteo/"
+              "url": "https://www.efsyn.gr/life/1491593/i-marina-aslanogloy-mila-gia-tin-peripeteia-ygeias-tis-ehasa-megalo-meros-ton-mallion-moy-vinteo/"
             }
           ]
         },
         {
           "title": {
-            "el": "Κουμπαράς για παιδιά: Μετοχές ή ομόλογα; Οι 4 επενδυτικές επιλογές των γονέων και η εγγύηση κεφαλαίου",
-            "en": "Κουμπαράς για παιδιά: Μετοχές ή ομόλογα; Οι 4 επενδυτικές επιλογές των γονέων και η εγγύηση κεφαλαίου"
+            "el": "Γρεβενά: «Μαϊμού» υπάλληλοι της ΑΑΔΕ υπεξαίρεσαν 108.000 ευρώ από 25χρονη",
+            "en": "Γρεβενά: «Μαϊμού» υπάλληλοι της ΑΑΔΕ υπεξαίρεσαν 108.000 ευρώ από 25χρονη"
           },
           "summary": {
             "el": "",
@@ -475,14 +475,14 @@
           "sources": [
             {
               "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-              "url": "https://www.naftemporiki.gr/finance/economy/2176812/koymparas-gia-paidia-metoches-i-omologa-oi-4-ependytikes-epiloges-ton-goneon-kai-i-eggyisi-kefalaioy/?utm_source=rss&utm_medium=rss&utm_campaign=koymparas-gia-paidia-metoches-i-omologa-oi-4-ependytikes-epiloges-ton-goneon-kai-i-eggyisi-kefalaioy"
+              "url": "https://www.naftemporiki.gr/society/2176902/grevena-maimoy-ypalliloi-tis-aade-ypexairesan-108-000-eyro-apo-25chroni/?utm_source=rss&utm_medium=rss&utm_campaign=grevena-maimoy-ypalliloi-tis-aade-ypexairesan-108-000-eyro-apo-25chroni"
             }
           ]
         },
         {
           "title": {
-            "el": "«Δεν κάνω πίσω, θα πάρουμε τον Κένταυρο» – Ο άνθρωπος που έφερε το άγαλμα στο Πήλιο ζητά τώρα να επιστραφεί",
-            "en": "«Δεν κάνω πίσω, θα πάρουμε τον Κένταυρο» – Ο άνθρωπος που έφερε το άγαλμα στο Πήλιο ζητά τώρα να επιστραφεί"
+            "el": "Παγκόσμια Τράπεζα: Η «μικρή ΤΝ» ως μοχλός ανάπτυξης για τις αναπτυσσόμενες χώρες",
+            "en": "Παγκόσμια Τράπεζα: Η «μικρή ΤΝ» ως μοχλός ανάπτυξης για τις αναπτυσσόμενες χώρες"
           },
           "summary": {
             "el": "",
@@ -491,7 +491,7 @@
           "sources": [
             {
               "name": "ertnews.gr",
-              "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/volos/den-kano-piso-tha-paroume-ton-kentayro-o-anthropos-pou-efere-to-agalma-sto-pilio-zita-tora-na-epistrafei/"
+              "url": "https://www.ertnews.gr/eidiseis/pagkosmia-trapeza-i-mikri-tn-os-moxlos-anaptyksis-gia-tis-anaptyssomenes-xores/"
             }
           ]
         },
@@ -513,8 +513,8 @@
         },
         {
           "title": {
-            "el": "Εργασία και οικογένεια : δυσκολίες για 1 στους 3 εργαζόμενους σύμφωνα με την ΕΛΣΤΑΤ",
-            "en": "Εργασία και οικογένεια : δυσκολίες για 1 στους 3 εργαζόμενους σύμφωνα με την ΕΛΣΤΑΤ"
+            "el": "Γαλλία: Μερική απαγόρευση κυκλοφορίας μετά τις ταραχές θέλει ο Λεκορνί – Νέες διαδηλώσεις",
+            "en": "Γαλλία: Μερική απαγόρευση κυκλοφορίας μετά τις ταραχές θέλει ο Λεκορνί – Νέες διαδηλώσεις"
           },
           "summary": {
             "el": "",
@@ -523,14 +523,14 @@
           "sources": [
             {
               "name": "ΤΟ ΒΗΜΑ",
-              "url": "https://www.tovima.gr/2026/10/19/society/ergasia-kai-oikogeneia-dyskolies-gia-1-stous-3-ergazomenous-symfona-me-tin-elstat/"
+              "url": "https://www.tovima.gr/2026/10/19/world/gallia-meriki-apagoreysi-kykloforias-meta-tis-taraxes-thelei-o-lekorni-nees-diadiloseis/"
             }
           ]
         },
         {
           "title": {
-            "el": "Σπέτσες: Στο νοσοκομείο πλοίαρχος μετά από βίαιη επίθεση κατά τη φόρτωση οχημάτων – Πέντε συλλήψεις",
-            "en": "Σπέτσες: Στο νοσοκομείο πλοίαρχος μετά από βίαιη επίθεση κατά τη φόρτωση οχημάτων – Πέντε συλλήψεις"
+            "el": "ΕΛΣΤΑΤ: Ένας στους τρεις δυσκολεύεται να συνδυάσει δουλειά και οικογένεια – Μεγαλύτερη πίεση στις γυναίκες",
+            "en": "ΕΛΣΤΑΤ: Ένας στους τρεις δυσκολεύεται να συνδυάσει δουλειά και οικογένεια – Μεγαλύτερη πίεση στις γυναίκες"
           },
           "summary": {
             "el": "",
@@ -539,14 +539,14 @@
           "sources": [
             {
               "name": "Η Εφημερίδα των Συντακτών",
-              "url": "https://www.efsyn.gr/ellada/1491591/spetses-sto-nosokomeio-ploiarhos-meta-apo-viaii-epithesi-kata-ti-fortosi-ohimaton-pente-syllipseis/"
+              "url": "https://www.efsyn.gr/ellada/1491581/elstat-enas-stoys-treis-dyskoleyetai-na-syndyasei-doyleia-kai-oikogeneia-megalyteri-piesi-stis-gynaikes/"
             }
           ]
         },
         {
           "title": {
-            "el": "Γαλλία: Η έκρηξη στους δρόμους καίει και τις αγορές – Ξεπούλημα για μετοχές, ομόλογα, ευρώ",
-            "en": "Γαλλία: Η έκρηξη στους δρόμους καίει και τις αγορές – Ξεπούλημα για μετοχές, ομόλογα, ευρώ"
+            "el": "K. Πιερρακάκης: Η Ελλάδα έχει τις δυνατότητες να γίνει μία από τις πιο δυναμικές και επιδραστικές χώρες της Ευρώπης",
+            "en": "K. Πιερρακάκης: Η Ελλάδα έχει τις δυνατότητες να γίνει μία από τις πιο δυναμικές και επιδραστικές χώρες της Ευρώπης"
           },
           "summary": {
             "el": "",
@@ -555,7 +555,7 @@
           "sources": [
             {
               "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-              "url": "https://www.naftemporiki.gr/finance/markets/2176877/gallia-i-ekrixi-stoys-dromoys-kaiei-kai-tis-agores-xepoylima-gia-metoches-omologa-eyro/?utm_source=rss&utm_medium=rss&utm_campaign=gallia-i-ekrixi-stoys-dromoys-kaiei-kai-tis-agores-xepoylima-gia-metoches-omologa-eyro"
+              "url": "https://www.naftemporiki.gr/finance/economy/2176896/k-pierrakakis-i-ellada-echei-tis-dynatotites-na-ginei-mia-apo-tis-pio-dynamikes-kai-epidrastikes-chores-tis-eyropis/?utm_source=rss&utm_medium=rss&utm_campaign=k-pierrakakis-i-ellada-echei-tis-dynatotites-na-ginei-mia-apo-tis-pio-dynamikes-kai-epidrastikes-chores-tis-eyropis"
             }
           ]
         }
@@ -570,8 +570,8 @@
       "stories": [
         {
           "title": {
-            "el": "Магдалена Врабчева-Райкова е избрана за кмет на пазарджишкото село Мало Конаре",
-            "en": "Магдалена Врабчева-Райкова е избрана за кмет на пазарджишкото село Мало Конаре"
+            "el": "Новоизбраният управител на Югозападната болница д-р Маргарита Гетова представи екипа си",
+            "en": "Новоизбраният управител на Югозападната болница д-р Маргарита Гетова представи екипа си"
           },
           "summary": {
             "el": "",
@@ -580,14 +580,14 @@
           "sources": [
             {
               "name": "BG RSS Free",
-              "url": "https://www.bta.bg/bg/news/bulgaria/1227728-magdalena-vrabcheva-raykova-e-izbrana-za-kmet-na-pazardzhishkoto-selo-malo-konar"
+              "url": "https://www.bta.bg/bg/news/bulgaria/1227764-novoizbraniyat-upravitel-na-yugozapadnata-bolnitsa-d-r-margarita-getova-predstav"
             }
           ]
         },
         {
           "title": {
-            "el": "Ученическите протести във Франция спряха достъпа до Лувъра",
-            "en": "Ученическите протести във Франция спряха достъпа до Лувъра"
+            "el": "Порои в южна Испания предизвикаха бедствено положение",
+            "en": "Порои в южна Испания предизвикаха бедствено положение"
           },
           "summary": {
             "el": "",
@@ -596,7 +596,7 @@
           "sources": [
             {
               "name": "Dnevnik.bg",
-              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/19/4968207_uchenicheskite_protesti_vuv_franciia_spriaha_dostupa/?ref=rss"
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/19/4968225_poroi_v_jujna_ispaniia_predizvikaha_bedstveno_polojenie/?ref=rss"
             }
           ]
         },
@@ -618,8 +618,8 @@
         },
         {
           "title": {
-            "el": "Нова вълна от удари по украинската енергетика, Украйна отново не е била предупредена от съюзниците си",
-            "en": "Нова вълна от удари по украинската енергетика, Украйна отново не е била предупредена от съюзниците си"
+            "el": "Заподозрените за палежа на Starlink са в чужбина",
+            "en": "Заподозрените за палежа на Starlink са в чужбина"
           },
           "summary": {
             "el": "",
@@ -628,7 +628,7 @@
           "sources": [
             {
               "name": "Mediapool.bg",
-              "url": "https://www.mediapool.bg/voina-v-ukraina/nova-valna-ot-udari-po-ukrainskata-energetika-ukraina-otnovo-ne-e-bila-predupredena-ot-sayuznitsite-si/"
+              "url": "https://www.mediapool.bg/bulgaria/zapodozrenite-za-palezha-na-starlink-sa-v-chuzhbina/"
             }
           ]
         },
@@ -650,8 +650,8 @@
         },
         {
           "title": {
-            "el": "Кремъл каза, че е малко вероятно да има крайно решение за Украйна без участието на Киев",
-            "en": "Кремъл каза, че е малко вероятно да има крайно решение за Украйна без участието на Киев"
+            "el": "Научно откритие може да доведе до пробив в лечението на Алцхаймер",
+            "en": "Научно откритие може да доведе до пробив в лечението на Алцхаймер"
           },
           "summary": {
             "el": "",
@@ -660,14 +660,14 @@
           "sources": [
             {
               "name": "BG RSS Free",
-              "url": "https://www.bta.bg/bg/news/world/1227725-kremal-kaza-che-e-malko-veroyatno-da-ima-krayno-reshenie-za-ukrayna-bez-uchasti"
+              "url": "https://www.bta.bg/bg/news/lik/1227720-nauchno-otkritie-mozhe-da-dovede-do-probiv-v-lechenieto-na-altshaymer"
             }
           ]
         },
         {
           "title": {
-            "el": "Разследващите все още не са установили произхода на дроновете, ударили кораба \"Челси 3\"",
-            "en": "Разследващите все още не са установили произхода на дроновете, ударили кораба \"Челси 3\""
+            "el": "Пловдивското висше училище освободи професора с над 95% плагиатство",
+            "en": "Пловдивското висше училище освободи професора с над 95% плагиатство"
           },
           "summary": {
             "el": "",
@@ -676,7 +676,7 @@
           "sources": [
             {
               "name": "Dnevnik.bg",
-              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/19/4968202_razsledvashtite_vse_oshte_ne_sa_ustanovili_proizhoda/?ref=rss"
+              "url": "https://www.dnevnik.bg/obrazovanie/2026/10/19/4968209_plovdivskoto_visshe_uchilishte_osvobodi_profesora_s/?ref=rss"
             }
           ]
         },
@@ -698,8 +698,8 @@
         },
         {
           "title": {
-            "el": "Зеленски обвини Тръмп, че тласка Украйна към капитулация пред Путин",
-            "en": "Зеленски обвини Тръмп, че тласка Украйна към капитулация пред Путин"
+            "el": "САЩ заплашиха ЕС с \"разрушителен\" ответен удар, ако ограничи Starlink при разпределянето на честоти",
+            "en": "САЩ заплашиха ЕС с \"разрушителен\" ответен удар, ако ограничи Starlink при разпределянето на честоти"
           },
           "summary": {
             "el": "",
@@ -708,14 +708,14 @@
           "sources": [
             {
               "name": "Mediapool.bg",
-              "url": "https://www.mediapool.bg/voina-v-ukraina/zelenski-obvini-tramp-che-tlaska-ukraina-kam-kapitulatsiya-pred-putin/"
+              "url": "https://www.mediapool.bg/evropa/sasht-zaplashiha-es-s-razrushitelen-otveten-udar-ako-ogranichi-starlink-pri-razpredelyaneto-na-chestoti/"
             }
           ]
         },
         {
           "title": {
-            "el": "Ловешко сдружение реализира проект за насърчаване на младежкото участие в демократичните процеси в партньорство с швейцарска организация",
-            "en": "Ловешко сдружение реализира проект за насърчаване на младежкото участие в демократичните процеси в партньорство с швейцарска организация"
+            "el": "Министър Иван Демерджиев и австрийският му колега обсъдиха подобряването на сигурността в Черно море и защитата на външните граници",
+            "en": "Министър Иван Демерджиев и австрийският му колега обсъдиха подобряването на сигурността в Черно море и защитата на външните граници"
           },
           "summary": {
             "el": "",
@@ -724,7 +724,7 @@
           "sources": [
             {
               "name": "BG RSS Free",
-              "url": "https://www.bta.bg/bg/news/bulgaria/1227713-loveshko-sdruzhenie-realizira-proekt-za-nasarchavane-na-mladezhkoto-uchastie-v-d"
+              "url": "https://www.bta.bg/bg/news/bulgaria/1227779-ministar-ivan-demerdzhiev-i-avstriyskiyat-mu-kolega-obsadiha-podobryavaneto-na-s"
             }
           ]
         }
