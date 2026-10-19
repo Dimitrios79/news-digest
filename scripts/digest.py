@@ -153,7 +153,7 @@ class OpenAICompatClient:
     def name(self) -> str:
         return f"{self.label} ({self.models[0]})" if self.models else self.label
 
-    def _post(self, model: str, tool: dict, prompt: str, _retry: bool = False) -> dict:
+    def _post(self, model: str, tool: dict, prompt: str, _retry: int = 0) -> dict:
         # Το GitHub Models μπορεί να απαντήσει είτε σε μορφή OpenAI (JSON με
         # choices/tool_calls) είτε ως σκέτο κείμενο (text/plain). Για να δουλεύει
         # και στις δύο περιπτώσεις, ζητάμε ρητά JSON με το σχήμα στο ίδιο το prompt.
@@ -187,12 +187,14 @@ class OpenAICompatClient:
         except urllib.error.HTTPError as e:
             text = e.read().decode(errors="replace")[:300]
             if e.code == 429:
-                wait = min(int(float(e.headers.get("Retry-After") or 30)), 90)
-                if not _retry:
-                    print(f"  {model}: όριο ανά λεπτό — αναμονή {wait}s")
+                if "per-day" in text.lower() or "daily" in text.lower():
+                    raise QuotaError(f"{model}: εξαντλήθηκε το ημερήσιο όριο — {text[:150]}") from e
+                if _retry < 3:  # τα δωρεάν μοντέλα είναι συχνά προσωρινά υπερφορτωμένα
+                    wait = min(int(float(e.headers.get("Retry-After") or 0)) or 30 * (_retry + 1), 120)
+                    print(f"  {model}: προσωρινό όριο (429) — αναμονή {wait}s [{_retry + 1}/3] {text[:120]}")
                     time.sleep(wait)
-                    return self._post(model, tool, prompt, _retry=True)
-                raise QuotaError(f"{model}: όριο χρήσης (HTTP 429) {text}") from e
+                    return self._post(model, tool, prompt, _retry=_retry + 1)
+                raise QuotaError(f"{model}: όριο χρήσης (HTTP 429) {text[:200]}") from e
             low = text.lower()
             if e.code in (402, 404) or (e.code == 400 and ("model" in low or "endpoint" in low)):
                 raise QuotaError(f"{model}: μη διαθέσιμο μοντέλο (HTTP {e.code}) {text[:150]}") from e
