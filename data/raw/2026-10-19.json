@@ -1,0 +1,891 @@
+{
+  "date": "2026-10-19",
+  "generated": "2026-10-19T08:00:31.978065+00:00",
+  "categories": {
+    "security": {
+      "items": [
+        {
+          "title": "Anthropic Acquires Confidential AI Startup Opaque Systems",
+          "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
+          "source": "SecurityWeek",
+          "published": "2026-10-19T07:45:25+00:00",
+          "summary": "Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware. The post Anthropic Acquires Confidential AI Startup Opaque Systems appeared first on SecurityWeek ."
+        },
+        {
+          "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+          "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+          "source": "The Hacker News",
+          "published": "2026-10-19T06:29:44+00:00",
+          "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16. He showed the attack working against home gateways supplied by three Belgian internet providers, in one case reading the Wi-Fi password off the device"
+        },
+        {
+          "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+          "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+          "source": "The Hacker News",
+          "published": "2026-10-19T06:07:08+00:00",
+          "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there, and Console uses that key to call the provider so team members can use the models without"
+        },
+        {
+          "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+          "source": "BleepingComputer",
+          "published": "2026-10-18T14:23:16+00:00",
+          "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]"
+        },
+        {
+          "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+          "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+          "source": "SecurityWeek",
+          "published": "2026-10-18T11:00:00+00:00",
+          "summary": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag. The post US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars appeared first on SecurityWeek ."
+        },
+        {
+          "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+          "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+          "source": "The Hacker News",
+          "published": "2026-10-18T08:23:02+00:00",
+          "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed below - ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae ConnectWise"
+        }
+      ],
+      "failed_feeds": [
+        "https://www.cisa.gov/cybersecurity-advisories/all.xml (SAXParseException)"
+      ]
+    },
+    "tech": {
+      "items": [
+        {
+          "title": "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/19/sponsored-ai-inference-is-running-into-a-memory-bottleneck-huawei-wants-to-tackle-it-with-oceanstor-m900/5303543",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-19T08:00:00+00:00",
+          "summary": "SPONSORED POST: The Context Memory Storage platform aims to improve the economics of large-scale AI inference"
+        },
+        {
+          "title": "Engineer was so sick of office pranks, he 'wiped' his antagonist's disk",
+          "url": "https://www.theregister.com/software/2026/10/19/engineer-was-so-sick-of-office-pranks-he-wiped-his-antagonists-disk/5302162",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-19T05:30:00+00:00",
+          "summary": "Revenge is a dish best served by autoexec.bat"
+        },
+        {
+          "title": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU",
+          "url": "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-19T04:31:00+00:00",
+          "summary": "Huntress alleges takeover of M365 accounts"
+        },
+        {
+          "title": "ICANN vows to work faster, improve transparency",
+          "url": "https://www.theregister.com/networks/2026/10/19/icann-vows-to-work-faster-improve-transparency/5303751",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-19T03:28:34+00:00",
+          "summary": "Leaders expect AI and geopolitics will throw up more governance challenges and threats"
+        },
+        {
+          "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+          "url": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-19T00:33:00+00:00",
+          "summary": "Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape"
+        },
+        {
+          "title": "Time Lords kill leap seconds, before they become the new Y2K bug",
+          "url": "https://www.theregister.com/networks/2026/10/19/time-lords-kill-leap-seconds-before-they-become-the-new-y2k-bug/5303711",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-18T23:01:00+00:00",
+          "summary": "Cite difficulty of updating IoT devices as major reason to stop adding time"
+        },
+        {
+          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "url": "https://arxiv.org/abs/2610.18861",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-18T20:48:14+00:00",
+          "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 361 # Comments: 173"
+        },
+        {
+          "title": "Namecheap just seized and disabled all my domains",
+          "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-18T16:56:56+00:00",
+          "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 559 # Comments: 290"
+        },
+        {
+          "title": "Someone behind the software",
+          "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-18T16:32:00+00:00",
+          "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 420 # Comments: 158"
+        },
+        {
+          "title": "Anthropic gives outside AI watchdog “employee-like” access",
+          "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-18T16:25:19+00:00",
+          "summary": "The outside watchdog can publish its findings without Anthropic's approval."
+        },
+        {
+          "title": "RepRapMicron",
+          "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-18T13:48:48+00:00",
+          "summary": "Article URL: https://github.com/VikOlliver/RepRapMicron/wiki Comments URL: https://news.ycombinator.com/item?id=50141076 Points: 381 # Comments: 60"
+        },
+        {
+          "title": "Oh no, what happened to my OOHPod? Windows command prompt puts in a surprise appearance",
+          "url": "https://www.theregister.com/offbeat/2026/10/18/oh-no-what-happened-to-my-oohpod-windows-command-prompt-puts-in-a-surprise-appearance/5303109",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-18T08:09:00+00:00",
+          "summary": "Pop quiz: somebody left a command shell logged in. What do you do?"
+        }
+      ],
+      "failed_feeds": []
+    },
+    "greece": {
+      "items": [
+        {
+          "title": "Μεσσηνία: Σεισμός 4 Ρίχτερ κοντά στην Πύλο – Αισθητός και στην Καλαμάτα",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/kalamata/messinia-seismos-4-rixter-konta-stin-pylo-aisthitos-kai-stin-kalamata/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:56:34+00:00",
+          "summary": "Ασθενής σεισμική δόνηση μεγέθους 4 Ρίχτερ σημειώθηκε στις 10:41 το πρωί της Δευτέρας 19 Οκτωβρίου στη Μεσσηνία. Ο σεισμός έγινε αισθητός στην Καλαμάτα και σε αρκετές ακόμη περιοχές της Μεσσηνίας. Σύμφωνα με την πρώτη αυτόματη λύση του Γεωδυναμικού Ινστιτούτου του Εθνικού Αστεροσκοπείου Αθηνών, το επίκεντρο εντοπίζεται 9 χιλιόμετρα ανατολικά της Πύλου, ενώ το εστιακό βάθος ... Περισσότερα…"
+        },
+        {
+          "title": "Σουδάν: Νεκροταφείο από τη Νεολιθική εποχή στην Αλ Κανταρίφ αποκαλύπτει μυστικά 7.000 ετών",
+          "url": "https://www.ertnews.gr/eidiseis/soudan-nekrotafeio-apo-ti-neolithiki-epoxi-stin-al-kantarif-apokalyptei-mystika-7-000-eton/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:55:12+00:00",
+          "summary": "Αυτό που ξεκίνησε ως εκπαιδευτική άσκηση για φοιτητές Αρχαιολογίας εξελίχθηκε σε μια σημαντική αρχαιολογική ανακάλυψη στην ανατολική περιοχή του Σουδάν. Στην περιοχή Αλ Μαριμπέια, στην επαρχία Αλ Φάσκα της πολιτείας Αλ Κανταρίφ, ερευνητές εντόπισαν θαμμένα κεραμικά αγγεία, ανθρώπινα οστά και εκτεταμένους ταφικούς λόφους που ενδέχεται να χρονολογούνται από τη Νεολιθική περίοδο, μεταξύ 5000 και…"
+        },
+        {
+          "title": "Συναντήσεις ιστορίας τέχνης και νέο εργαστήριο αφήγησης για ενήλικες στην Οικία Τέλλογλου- Έναρξη εγγραφών",
+          "url": "https://www.ertnews.gr/ert3/synantiseis-istorias-texnis-kai-neo-ergastirio-afigisis-gia-enilikes-stin-oikia-telloglou-enarksi-eggrafon/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:53:26+00:00",
+          "summary": "Η ιστορική οικία του Νέστορα και της Αλίκης Τέλλογλου ανοίγει και πάλι τις πόρτες της. Το Τελλόγλειο Ίδρυμα Τεχνών Α.Π.Θ. προσκαλεί -στην Αριστοτέλους 2- σε ένα ταξίδι τέχνης και δημιουργίας, με συναντήσεις ιστορίας της τέχνης και το ολοκαίνουργιο εργαστήριο αφήγησης για ενήλικες. Πιο αναλυτικά: Συναντήσεις Ιστορίας Τέχνης Η Τέχνη στην Ελλάδα από την περίοδο του ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Διπλή τραγωδία σε Λέσβο και Σάμο: Πνίγηκαν 12 άτομα μεταξύ τους ένα βρέφος",
+          "url": "https://www.ertnews.gr/eidiseis/dipli-tragodia-se-lesvo-kai-samo-pnigikan-12-atoma-metaksy-tous-ena-vrefos/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:52:21+00:00",
+          "summary": "Δύο νέες τραγωδίες σε Λέσβο και Σάμο μέσα σε λίγες ώρες συγκλονίζουν το Βόρειο Αιγαίο, με τον μέχρι στιγμής τραγικό απολογισμό να ανέρχεται σε 12 νεκρούς, ανάμεσά τους ένα βρέφος. Στη Σάμο βρίσκεται σε εξέλιξη επιχείρηση έρευνας και διάσωσης υπό τον συντονισμό του ΕΚΣΕΔ, μετά την ανατροπή ταχύπλοου σκάφους που μετέφερε αλλοδαπούς, 3,7 ναυτικά μίλια ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Ρωσία: Ο Πούτιν εγκρίνει κυβερνητικό ανασχηματισμό που πρότεινε ο Μισούστιν",
+          "url": "https://www.ertnews.gr/eidiseis/rosia-o-poutin-egkrinei-kyvernitiko-anasximatismo-pou-proteine-o-misoustin/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:51:23+00:00",
+          "summary": "Ο Ρώσος πρόεδρος Βλαντίμιρ Πούτιν παρείχε τη στήριξή του σε κυβερνητικό ανασχηματισμό που πρότεινε ο πρωθυπουργός Μιχαήλ Μισούστιν, μετέδωσαν σήμερα κρατικά πρακτορεία ειδήσεων επικαλούμενα το Κρεμλίνο. “Μαζί με μια συζήτηση για κοινωνικά και οικονομικά ζητήματα ο πρωθυπουργός πρότεινε στον επικεφαλής του κράτους μια σερά από αλλαγές στα πρόσωπα που απαρτίζουν την κυβέρνηση. Σε αυτές συναίνεσε…"
+        },
+        {
+          "title": "Εξάρχεια: Ο Χάρης Δούκας ζητά από την Ελληνικό Μετρό να άρει την περίφραξη",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/eksarxeia-o-xaris-doukas-zita-apo-tin-elliniko-metro-na-arei-tin-perifraksi/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:47:18+00:00",
+          "summary": "Την άμεση συμμόρφωση της Ελληνικό Μετρό Α.Ε. με τη δικαστική απόφαση για την περίφραξη του εργοταξίου στην πλατεία Εξαρχείων ζητά ο Δήμαρχος Αθηναίων, Χάρης Δούκας, με επιστολή του προς τον πρόεδρο της εταιρείας, Σπυρίδωνα Χρυσανθόπουλο. Ο δήμαρχος επισημαίνει την ανάγκη αποκατάστασης του λειτουργικού πλάτους της οδού Θεμιστοκλέους, ώστε να διασφαλίζεται η απρόσκοπτη διέλευση οχημάτων έκτακτης…"
+        },
+        {
+          "title": "Live η εκδήλωση για τον υπερυπολογιστή «Δαίδαλος» με συμμετοχή του Πρωθυπουργού",
+          "url": "https://www.ertnews.gr/frontpage/live-i-ekdilosi-gia-ton-yperypologisti-daidalos-me-symmetoxi-tou-prothypourgou/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:44:12+00:00",
+          "summary": "Σε απευθείας μετάδοση από το ertnews.gr η εκδήλωση που διοργανώνει στο Λαύριο το υπουργείο Ψηφιακής Διακυβέρνησης και Τεχνητής Νοημοσύνης για τα εγκαίνια του υπερυπολογιστή «Δαίδαλος». Στο πλαίσιο της εκδήλωσης θα πραγματοποιηθεί συζήτηση στην οποία θα συμμετάσχει ο Πρωθυπουργός Κυριάκος Μητσοτάκης. Συντονίζει ο δημοσιογράφος Τίμος Κουρεμένος. www.ertnews.gr"
+        },
+        {
+          "title": "Ισημερινός: Σταυρός έπεσε πάνω σε ιερέα την ώρα της λειτουργίας και τον σκότωσε",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/isimerinos-stayros-epese-pano-se-ierea-tin-ora-tis-leitourgias-kai-ton-skotose/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:37:04+00:00",
+          "summary": "Ένας καθολικός ιερέας, ο Πατρίσιο Αλφρέντο Σάντσες, έχασε τη ζωή του με τραγικό τρόπο σε εκκλησία στο Γκουαγιακίλ του Ισημερινού, όταν ένας μεγάλος σταυρός αποκολλήθηκε από τον τοίχο πίσω από την Αγία Τράπεζα και έπεσε πάνω του, ενώ τελούσε τη λειτουργία. Το περιστατικό καταγράφηκε σε ζωντανή μετάδοση της ακολουθίας στα μέσα κοινωνικής δικτύωσης. Στο βίντεο ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Αίγυπτος: Εγχώριο σύστημα αεράμυνας «κυνηγός drones» προκαλεί ερωτήματα στο Ισραήλ",
+          "url": "https://www.ertnews.gr/eidiseis/aigyptos-egxorio-systima-aeramynas-kynigos-drones-prokalei-erotimata-sto-israil/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:35:21+00:00",
+          "summary": "Ερευνητικά κέντρα ασφαλείας και ισραηλινά μέσα ενημέρωσης ανέφεραν ότι ο αιγυπτιακός στρατός παρουσίασε τον Οκτώβριο το νέο σύστημα αεράμυνας λέιζερ «Egy-Hel-01», το οποίο εκτιμάται ότι αποτελεί την πρώτη έκδοση της αιγυπτιακής πλατφόρμας λέιζερ υψηλής ισχύος. Η παρουσίαση πραγματοποιήθηκε κατά τη διάρκεια άσκησης με πραγματικά πυρά του Β’ Στρατού Πεδίου. «Κυνηγός μη επανδρωμένων αεροσκαφών» Το…"
+        },
+        {
+          "title": "Τουρκία: 36 συλλήψεις σε επιχείρηση για παράνομη εμπορία ωαρίων – Είχαν διασυνδέσεις και στην Κύπρο",
+          "url": "https://www.ertnews.gr/eidiseis/tourkia-36-syllipseis-se-epixeirisi-gia-paranomi-emporia-oarion-eixan-diasyndeseis-kai-stin-kypro/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:25:04+00:00",
+          "summary": "Στην εξάρθρωση κυκλώματος που φέρεται να εμπλέκεται σε παράνομη εμπορία αναπαραγωγικών κυττάρων προχώρησαν οι τουρκικές αρχές, πραγματοποιώντας ταυτόχρονες επιχειρήσεις σε 14 επαρχίες της χώρας. Όπως ανακοίνωσε ο υπουργός Δικαιοσύνης της Τουρκίας, Ακίν Γκιουρλέκ, 36 από τους συνολικά 53 υπόπτους έχουν συλληφθεί. Σύμφωνα με τον Τούρκο υπουργό, η υπόθεση αφορά οργανωμένη δραστηριότητα με…"
+        },
+        {
+          "title": "Δυσλεξία: Έγκαιρη ανίχνευση από τις πρώτες τάξεις του Δημοτικού – Τι αλλάζει στην υποστήριξη των παιδιών",
+          "url": "https://www.ertnews.gr/eidiseis/dysleksia-egkairi-anixneysi-apo-tis-protes-takseis-tou-dimotikou-ti-allazei-stin-ypostiriksi-ton-paidion/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:21:32+00:00",
+          "summary": "Η έγκαιρη ανίχνευση, η συστηματική υποστήριξη στο σχολείο και η απομάκρυνση από παλαιότερες αντιλήψεις για τη δυσλεξία βρίσκονται στο επίκεντρο του νεότερου ορισμού της, όπως τον περιέγραψε η καθηγήτρια στο τμήμα Φιλοσοφίας και Παιδαγωγικής του Α.Π.Θ. Σουζάνα Παντελιάδου, μιλώντας στο ΕΡΤnews. Όπως διευκρίνισε, δεν πρόκειται για έναν εντελώς νέο επιστημονικό ορισμό, αλλά για την ενσωμάτωση ...…"
+        },
+        {
+          "title": "Παραιτήθηκε από βουλευτής ο Χάρης Μαμουλάκης: «Ένας κύκλος έκλεισε»",
+          "url": "https://www.ertnews.gr/roi-idiseon/paraitithike-apo-vouleytis-o-xaris-mamoulakis-enas-kyklos-ekleise/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:21:15+00:00",
+          "summary": "Παραίτηση από το βουλευτικό αξίωμα, του πρώην βουλευτή Ηρακλείου Κρήτης του ΣΥΡΙΖΑ-ΠΣ και νυν Ανεξάρτητου, Χάρη Μαμουλάκη. Ρεπορτάζ: Νίκος Τσιμπίδας Σύμφωνα με πληροφορίες την έδρα αναμένεται να αποδεχτεί ο πρώτος επιλαχών, Σωκράτης Βαρδάκης. Ο Σ. Βαρδακης, έχει εκλεγεί στο παρελθόν δύο φορές βουλευτής με τον ΣΥΡΙΖΑ-ΠΣ, το 2015 και το 2019 και είναι μέλος της ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Συμβολική κατασκήνωση φοιτητών έξω από την Περιφέρεια Ηπείρου",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/ioanina/symvoliki-kataskinosi-foititon-ekso-apo-tin-perifereia-ipeirou/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:18:41+00:00",
+          "summary": "Συμβολική κατασκήνωση έξω από το κτίριο της Περιφέρειας Ηπείρου οργανώνουν αύριο, Τρίτη, στις 7 το απόγευμα, οι Φοιτητικοί Σύλλογοι Ιωαννίνων. Με την κινητοποίηση αναδεικνύουν το αυξημένο κόστος σπουδών και τη δυσκολία εξεύρεσης προσιτής κατοικίας στην πόλη. Οι φοιτητικοί σύλλογοι αναφέρουν ότι «οι δαπάνες στέγασης και διαβίωσης επιβαρύνουν σημαντικά τους οικογενειακούς προϋπολογισμούς». Ζητούν…"
+        },
+        {
+          "title": "Στην Τεχεράνη ο Λαβρόφ για συνομιλίες – Στο επίκεντρο η κρίση με τις ΗΠΑ και τα Στενά του Ορμούζ",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/stin-texerani-o-lavrof-gia-synomilies-sto-epikentro-i-krisi-me-tis-ipa-kai-ta-stena-tou-ormouz/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:18:23+00:00",
+          "summary": "Το ιρανικό υπουργείο Εξωτερικών ανακοίνωσε χθες, Κυριακή (18/10), ότι ο Ρώσος υπουργός Εξωτερικών, Σεργκέι Λαβρόφ, θα επισκεφθεί σήμερα, Δευτέρα, την Τεχεράνη, όπου θα έχει συνομιλίες με Ιρανούς αξιωματούχους με αντικείμενο την παρακολούθηση της εφαρμογής των διμερών συμφωνιών μεταξύ των δύο χωρών. Ο πρέσβης του Ιράν στη Ρωσία, Καζέμ Τζαλαλί, επιβεβαίωσε την επίσκεψη του Λαβρόφ στην ...…"
+        },
+        {
+          "title": "Ανταγωνιστικός ο Βίκος Falcons απέναντι στον Ολυμπιακό",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/ioanina/antagonistikos-o-vikos-falcons-apenanti-ston-olympiako/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:17:35+00:00",
+          "summary": "Με 79-68 επικράτησε ο Ολυμπιακός του Βίκου Falcons στο Νέο Κλειστό Γυμναστήριο Ιωαννίνων, στο πρώτο εντός έδρας παιχνίδι της ηπειρωτικής ομάδας στη μεγάλη κατηγορία του μπάσκετ. Ο Βίκος προηγήθηκε με 23-21 στην πρώτη περίοδο και διατήρησε το προβάδισμα στο μεγαλύτερο μέρος του πρώτου ημιχρόνου, το οποίο ολοκληρώθηκε με 39-36 υπέρ του Ολυμπιακού. Οι φιλοξενούμενοι πήραν ... Περισσότερα…"
+        },
+        {
+          "title": "Έκρηξη με απολογισμό 8 νεκρούς κατά τη διάρκεια στρατιωτικής άσκησης στη Λιβύη",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/ekriksi-me-apologismo-8-nekrous-kata-ti-diarkeia-stratiotikis-askisis-sti-livyi/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:15:53+00:00",
+          "summary": "Οκτώ στρατιώτες σκοτώθηκαν και αρκετοί ακόμη τραυματίστηκαν έπειτα από έκρηξη όλμου μέσα σε στρατόπεδο στην πόλη Αζ-Ζαουίγια της Λιβύης, κατά τη διάρκεια στρατιωτικής εκπαίδευσης. Σύμφωνα με τοπικές πηγές, το περιστατικό σημειώθηκε σε στρατόπεδο που ανήκει στην Υπηρεσία Αντιμετώπισης Απειλών Ασφαλείας, στην περιοχή Αλ-Χάρσα της Αζ-Ζαουίγια, ενώ διεξάγονταν στρατιωτικές ασκήσεις. Ο αρχικός…"
+        },
+        {
+          "title": "Τραγωδία στη Σάμο με ανατροπή ταχύπλοου: Έξι νεκροί – 14 άτομα διασώθηκαν",
+          "url": "https://www.ertnews.gr/perifereia/tragodia-sti-samo-me-anatropi-taxyploou-eksi-nekroi-14-atoma-diasothikan/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:15:48+00:00",
+          "summary": "Σε εξέλιξη βρίσκεται επιχείρηση έρευνας και διάσωσης υπό τον συντονισμό του ΕΚΣΕΔ, στη θαλάσσια περιοχή 3,7 ναυτικά μίλια βόρεια της Σάμου, μετά την ανατροπή ταχύπλοου σκάφους που μετέφερε αλλοδαπούς επιβαίνοντες. Σύμφωνα με τις πρώτες πληροφορίες, το σκάφος, το οποίο κινούνταν με μεγάλη ταχύτητα, εντοπίστηκε αρχικά από τουρκική ακταιωρό εντός των τουρκικών χωρικών υδάτων. Στη συνέχεια, ...…"
+        },
+        {
+          "title": "Δίκτυο απινιδωτών δημιουργείται στην Περιφέρεια Πελοποννήσου",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/tripoli/diktyo-apinidoton-dimiourgeitai-stin-perifereia-peloponnisou/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:10:20+00:00",
+          "summary": "Σε εξέλιξη είναι όλους αυτούς τους μήνες, στην Πελοπόννησο, η ανάπτυξη του δικτύου που έχει να κάνει με τους σταθμούς απινίδωσης, σε διάφορους δημόσιους χώρους. Υλοποιείται με αφορμή τη συνεργασία της Περιφέρειας Πελοποννήσου με τον ανθρωπιστικό οργανισμό Kids Save Lives, που ξεκίνησε, με υπογραφή μνημονίου συνεργασίας, πριν κάποιους μήνες στην Τρίπολη. Η συνεργασία συνδυάζει την ... Περισσότερα…"
+        },
+        {
+          "title": "Θεσσαλονίκη: 85,5 εκατ. ευρώ για την ανάπτυξη του Προαστιακού και του Λιμένος με απόφαση του Νίκου Παπαθανάση",
+          "url": "https://www.ertnews.gr/ert3/thessaloniki-85-5-ekat-eyro-gia-tin-anaptyksi-tou-proastiakou-kai-tou-limenos-me-apofasi-tou-nikou-papathanasi/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:10:00+00:00",
+          "summary": "Με απόφαση του αναπληρωτή υπουργού Εθνικής Οικονομίας και Οικονομικών Νίκου Παπαθανάση, εντάσσονται στο τομεακό Πρόγραμμα ΕΣΠΑ «Μεταφορές 2021- 2027» οι πράξεις «Κατασκευή Προαστιακού Δυτικής Θεσσαλονίκης» και «Σιδηροδρομική σύνδεση του 6ου Προβλήτα Λιμένα Θεσσαλονίκης». Συγκεκριμένα: Το έργο «Κατασκευή Προαστιακού Δυτικής Θεσσαλονίκης» με συνολική δημόσια δαπάνη 24.549.345,82 ευρώ και…"
+        },
+        {
+          "title": "Ρωσία: Μαζικά πλήγματα σε Κίεβο και Μαύρη Θάλασσα – Στο στόχαστρο και φορτηγό πλοίο με στρατιωτικό εξοπλισμό",
+          "url": "https://www.ertnews.gr/eidiseis/rosia-mazika-pligmata-se-kievo-kai-mayri-thalassa-sto-stoxastro-kai-fortigo-ploio-me-stratiotiko-eksoplismo/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:09:28+00:00",
+          "summary": "Το ρωσικό υπουργείο Άμυνας ανακοίνωσε σήμερα πως οι δυνάμεις του πραγματοποίησαν «μαζικό πλήγμα» εναντίον στόχων στο Κίεβο και την περιφέρεια της ουκρανικής πρωτεύουσας. Το υπουργείο ανέφερε πως κατά την επίθεση επλήγησαν στρατιωτικοβιομηχανικές εγκαταστάσεις, αποθήκες για πυραύλους κρουζ και μη επανδρωμένα αεροσκάφη, καθώς και κέντρα δεδομένων. Το ρωσικό υπουργείο ανέφερε επίσης σήμερα ότι οι…"
+        },
+        {
+          "title": "Έως 5.000 ευρώ σε 20 νέα ζευγάρια από τον Δήμο Σερβίων",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/kozani/eos-5-000-eyro-se-20-nea-zeygaria-apo-ton-dimo-servion/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:09:11+00:00",
+          "summary": "Με 20 νέα ζευγάρια, που επέλεξαν να μείνουν και να δημιουργήσουν την οικογένειά τους στον τόπο τους, συναντήθηκε ο Δήμαρχος Σερβίων Χρήστος Ελευθερίου. Πρόκειται για 20 ζευγάρια που εντάχθηκαν στο πρόγραμμα οικονομικής ενίσχυσης του Δήμου, με εγκεκριμένα ποσά από 2.500 έως 5.000 ευρώ. Μια πρωτοβουλία με την οποία ο Δήμος Σερβίων συγκαταλέγεται στους πρώτους δήμους ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Αμερικανοί διπλωμάτες επισκέφθηκαν τη χριστιανική κοινότητα της Ταϊμπέχ μετά τις επιθέσεις εποίκων",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/amerikanoi-diplomates-episkefthikan-ti-xristianiki-koinotita-tis-taimpex-meta-tis-epitheseis-epoikon/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:08:56+00:00",
+          "summary": "Αμερικανοί διπλωμάτες επισκέφθηκαν χθες, Κυριακή (19/10), τη χριστιανική παλαιστινιακή κοινότητα της Ταϊμπέχ, στην κατεχόμενη Δυτική Όχθη, μετά τις επιθέσεις Ισραηλινών εξτρεμιστών εποίκων εναντίον Ευρωπαίων διπλωματών και μιας Αμερικανίδας φωτορεπόρτερ τις προηγούμενες ημέρες. Ο Ράιλι Μπαρνς, βοηθός υπουργός Εξωτερικών των ΗΠΑ, αρμόδιος για θέματα Δημοκρατίας, Ανθρωπίνων Δικαιωμάτων και…"
+        },
+        {
+          "title": "Η Ουάσιγκτον πιέζει τη Βηρυτό: «Περιορίστε τη Χεζμπολάχ τώρα»",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/i-ouasigkton-piezei-ti-viryto-perioriste-ti-xezmpolax-tora/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:08:44+00:00",
+          "summary": "Η περασμένη εβδομάδα στον Λίβανο είχε σαφώς αμερικανικό χαρακτήρα, παρά την άφιξη γαλλικής υπουργικής αντιπροσωπείας με επικεφαλής τον υπουργό Εξωτερικών Ζαν-Νοέλ Μπαρό. Οι αμερικανικές θέσεις και τα μηνύματα που μεταφέρθηκαν άμεσα ή έμμεσα επισκίασαν σχεδόν κάθε άλλη πολιτική εξέλιξη. Σύμφωνα με πληροφορίες και διπλωματικές πηγές, τόσο οι δηλώσεις του Αμερικανού πρέσβη στον Λίβανο Μισέλ Ίσα, ...…"
+        },
+        {
+          "title": "ΚΝΕ: Αλληλεγγύη στους αγώνες της νεολαίας στη Γαλλία – Παράσταση διαμαρτυρίας έξω από τη γαλλική πρεσβεία, σήμερα στις 18:00",
+          "url": "https://www.ertnews.gr/roi-idiseon/kne-allileggyi-stous-agones-tis-neolaias-sti-gallia-parastasi-diamartyrias-ekso-apo-ti-galliki-presveia-simera-stis-18-00/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:08:01+00:00",
+          "summary": "Η Κομμουνιστική Νεολαία Ελλάδας, με ανακοίνωσή της, «χαιρετίζει τις μεγαλειώδεις κινητοποιήσεις του λαού και της νεολαίας στη Γαλλία που εδώ και έναν μήνα έχουν κατακλύσει τους δρόμους της χώρας με αποκορύφωμα τις συγκλονιστικές πανεθνικές κινητοποιήσεις στις 17 Οκτώβρη. Εκφράζουμε την αλληλεγγύη μας στον δίκαιο αγώνα των μαθητών, των φοιτητών και των εργαζομένων της Γαλλίας για ... Περισσότερα…"
+        },
+        {
+          "title": "Δωρέα ασθενοφόρου στο ΕΚΑΒ Παραμυθιάς",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/ioanina/dorea-asthenoforou-sto-ekav-paramythias/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:05:33+00:00",
+          "summary": "Ένα ασθενοφόρο προσφέρθηκε στο ΕΚΑΒ Παραμυθιάς από πολίτη, για την ενίσχυση της επείγουσας προνοσοκομειακής φροντίδας στην περιοχή. Με αφορμή τη δωρεά, την Παραμυθιά επισκέφθηκε ο πρόεδρος του ΕΚΑΒ Γεώργιος Χαραλάμπους. Συναντήθηκε με τον δήμαρχο Σουλίου Αθανάσιο Ντάνη και επισκέφθηκε το Κέντρο Υγείας, όπου ενημερώθηκε για τη λειτουργία και τις ανάγκες του. Στη συνάντηση εξετάστηκαν η ...…"
+        },
+        {
+          "title": "Κυκλοφοριακές ρυθμίσεις στην Εγνατία Οδό στην περιοχή της Παραμυθιάς",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/ioanina/kykloforiakes-rythmiseis-stin-egnatia-odo-stin-perioxi-tis-paramythias/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:05:17+00:00",
+          "summary": "Με μία λωρίδα διεξάγεται κατά τμήματα η κυκλοφορία στην Εγνατία Οδό, μεταξύ των κόμβων Νεοχωρίου, Σελλών και Τύριας, λόγω εργασιών ασφαλτόστρωσης. Οι ρυθμίσεις αφορούν και τις δύο κατευθύνσεις και θα εφαρμόζονται έως την Κυριακή 25 Οκτωβρίου. Στο ρεύμα προς Ηγουμενίτσα οι αποκλεισμοί εντοπίζονται σε τμήματα συνολικού μήκους περίπου εννιάμισι χιλιομέτρων. Στην κατεύθυνση προς Θεσσαλονίκη αφορούν…"
+        },
+        {
+          "title": "Δήμος Βόλου: Εντάλματα 34.521 ευρώ για 130 κάδους και μέσα προστασίας εργαζομένων",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/volos/dimos-volou-entalmata-34-521-eyro-gia-130-kadous-kai-mesa-prostasias-ergazomenon/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:04:49+00:00",
+          "summary": "Χρηματικά εντάλματα συνολικού ύψους 34.521,60 ευρώ για την προμήθεια 130 κάδων απορριμμάτων και μέσων ατομικής προστασίας εργαζομένων αναρτήθηκαν στη Διαύγεια την Παρασκευή 16 Οκτωβρίου από τον Δήμο Βόλου. Το μεγαλύτερο ποσό, 33.852 ευρώ, αφορά 110 πράσινους και 20 μπλε πλαστικούς τροχήλατους κάδους. Επιπλέον 669,60 ευρώ αφορούν δύο εντάλματα για μέσα ατομικής προστασίας στις υπηρεσίες Πρασίνου…"
+        },
+        {
+          "title": "Tesla Roadster: Από τα άλματα στον αέρα μέχρι τις αποδράσεις από την αστυνομία – Τα AI βίντεο που έγιναν viral",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/tesla-roadster-apo-ta-almata-ston-aera-mexri-tis-apodraseis-apo-tin-astynomia-ta-ai-vinteo-pou-eginan-viral/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T07:02:46+00:00",
+          "summary": "Το νέο Tesla Roadster έχει καταφέρει να τραβήξει την προσοχή των χρηστών των social media, όχι μόνο για τις εντυπωσιακές δυνατότητές του, αλλά και για τα χιουμοριστικά βίντεο που δημιουργούνται με τη βοήθεια της τεχνητής νοημοσύνης. Το Tesla Roadster είναι το ηλεκτρικό σπορ αυτοκίνητο υψηλών επιδόσεων που αναπτύσσει η Tesla, με στόχο να συνδυάσει την ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Πέντε βλήματα όλμου κοντά σε κάδο απορριμμάτων στην Πεδινή",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/ioanina/pente-vlimata-olmou-konta-se-kado-aporrimmaton-stin-pedini/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T06:57:53+00:00",
+          "summary": "Πέντε παλιά βλήματα όλμου εντοπίστηκαν το απόγευμα της Κυριακής κοντά σε κάδο απορριμμάτων στην Πεδινή Ιωαννίνων. Στο σημείο έφτασαν αστυνομικές δυνάμεις και πυροτεχνουργοί, οι οποίοι περισυνέλεξαν με ασφάλεια το πολεμικό υλικό. Όπως φαίνεται τα βλήματα είχαν εγκαταλειφθεί από άγνωστο. Οι αρμόδιες Aρχές ερευνούν τις συνθήκες υπό τις οποίες βρέθηκαν στο σημείο. www.ertnews.gr"
+        },
+        {
+          "title": "Χίος: Πρόστιμα για καύση υπολειμμάτων καλλιεργειών",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/voreio_aigaio/xios-prostima-gia-kaysi-ypoleimmaton-kalliergeion/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T06:57:27+00:00",
+          "summary": "Με την επιβολή διοικητικών προστίμων, αλλά και την ανάγκη άμεσης επέμβασης της Πυροσβεστικής Υπηρεσίας Χίου σε δύο περιπτώσεις καύσεις υπολειμμάτων καλλιεργειών, υπενθύμισε η Πυροσβεστική Υπηρεσία, ότι η αντιπυρική περίοδος είναι σε ισχύ μέχρι τέλος Οκτωβρίου.Συγκεκριμένα το πρωί του Σαββάτου, 17/10, χάρη στην έγκαιρη επέμβαση της Πυροσβεστικής , περιορίστηκε η πυρκαγιά που ξεκίνησε από καύση…"
+        },
+        {
+          "title": "Γ. Σαχαρίδης: Το καλοκαίρι του 2027 η αποτίμηση των μέτρων για την αερορύπανση στον Βόλο – Δεν αρκούν οι σημερινές δράσεις",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/volos/g-saxaridis-to-kalokairi-tou-2027-i-apotimisi-ton-metron-gia-tin-aerorypansi-ston-volo-den-arkoun-oi-simerines-draseis/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T06:56:49+00:00",
+          "summary": "Το καλοκαίρι του 2027 θα μπορεί να αξιολογηθεί η επίδραση των παρεμβάσεων για την αερορύπανση στον Βόλο, σύμφωνα με τον κοσμήτορα της Πολυτεχνικής Σχολής του Πανεπιστημίου Θεσσαλίας και αναπληρωτή καθηγητή στο Τμήμα Μηχανολόγων Μηχανικών, Γιώργο Σαχαρίδη, ο οποίος ξεκαθαρίζει ότι οι δράσεις που έχουν υλοποιηθεί αποτελούν ένα πρώτο βήμα, αλλά δεν επαρκούν για την αντιμετώπιση ... Περισσότερα…"
+        },
+        {
+          "title": "Δήμος Βόλου: 73.386 ευρώ για αποζημιώσεις και οφειλές μετά από δικαστικές αποφάσεις",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/volos/dimos-volou-73-386-eyro-gia-apozimioseis-kai-ofeiles-meta-apo-dikastikes-apofaseis/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T06:55:54+00:00",
+          "summary": "Πιστώσεις συνολικού ύψους 73.386,74 ευρώ δεσμεύει ο Δήμος Βόλου για πέντε υποθέσεις που κρίθηκαν δικαστικά. Αφορούν αποζημιώσεις από περιστατικά με αδέσποτα και τροχαίο λόγω ανεπαρκούς σήμανσης, καθώς και οφειλές για καύσιμα και τεχνικές εργασίες σε αθλητικές εγκαταστάσεις σύμφωνα με αποφάσεις που αναρτήθηκαν στη Διαύγεια. Από το συνολικό ποσό, 60.541,98 ευρώ αφορούν τις κύριες απαιτήσεις και ...…"
+        },
+        {
+          "title": "Με τεράστια επιτυχία το ντεμπούτο της Εθνικής Λυρικής Σκηνής στη Νέα Υόρκη",
+          "url": "https://www.ertnews.gr/omogeneia/me-terastia-epityxia-to-ntempouto-tis-ethnikis-lyrikis-skinis-sti-nea-yorki/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T06:50:34+00:00",
+          "summary": "Με ένα μοναδικό πρόγραμμα ελληνικής λόγιας και λαϊκής μουσικής εμπνευσμένο από το έργο του Νίκου Καζαντζάκη, η Εθνική Λυρική Σκηνή πραγματοποίησε ένα εξαιρετικά επιτυχημένο ντεμπούτο στη Νέα Υόρκη, την Πέμπτη 15 Οκτωβρίου 2026. Η συναυλία υλοποιήθηκε με τη δωρεά του Ιδρύματος Σταύρος Νιάρχος (ΙΣΝ) για την ενίσχυση της καλλιτεχνικής εξωστρέφειας της ΕΛΣ και εντάσσεται στις ... Περισσότερα…"
+        },
+        {
+          "title": "Τουρκία: Στους 6 οι νεκροί από τις πλημμύρες – Βίντεο με τη συγκλονιστική διάσωση βρέφους στη Σακάρια",
+          "url": "https://www.ertnews.gr/eidiseis/tourkia-stous-6-oi-nekroi-apo-tis-plimmyres-vinteo-me-ti-sygklonistiki-diasosi-vrefous-sti-sakaria/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T06:47:47+00:00",
+          "summary": "Στους έξι ανήλθε ο αριθμός των νεκρών από τις πλημμύρες στην Τουρκία, μετά τον εντοπισμό σορού άνδρα το πρωί της Δευτέρας 19 Οκτωβρίου 2026, κοντά στην προβλήτα των φέρι στο Αϊβανσαράι της Κωνσταντινούπολης. Σύμφωνα με ανακοίνωση της Νομαρχίας Κωνσταντινούπολης, η σορός ταυτοποιήθηκε και ανήκει σε έναν άνδρα, ο οποίος αγνοούνταν μετά τις πλημμύρες. Οι έρευνες ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Μνημείο Αγνώστου Στρατιώτη: Το σχέδιο ανάπλασης με μάρμαρο αντί ασφάλτου – Τι λένε οι αρχιτέκτονες του έργου στο ΕΡΤnews",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/mnimeio-agnostou-stratioti-to-sxedio-anaplasis-me-marmaro-anti-asfaltou-ti-lene-oi-arxitektones-tou-ergou-sto-ertnews/",
+          "source": "ertnews.gr",
+          "published": "2026-10-19T06:38:14+00:00",
+          "summary": "Χωρίς άσφαλτο θα είναι το Μνημείο του Αγνώστου Στρατιώτη μετά την ανάπλαση που σχεδιάζεται για τον χώρο, με μάρμαρο Αλιβερίου, αντιολισθηρή επεξεργασία, νέα φύτευση και εποπτικό υλικό προσβάσιμο σε όλους, ακόμη και με γραφή Μπράιγ. Τα στοιχεία του έργου παρουσίασαν στην εκπομπή «Συνδέσεις» του ΕΡΤnews οι αρχιτέκτονες μηχανικοί Μαρία Μαγνήσαλη και Θεμιστοκλής Μπιλής, στους οποίους ... Περισσότερα…"
+        },
+        {
+          "title": "Χανιά: Νεκρός σε τροχαίο επιχειρηματίας που αρνούνταν να βάλει βενζίνη σε οδηγούς χωρίς κράνος - In.gr",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVBmUlRlSHJSX091d0VyeTJkYnZrREVsZmdSWmQwSFFrcXctanE5RkFOR1J6OHNqcHV3NTM0QzdFeXI2NkFGWERZeUQzb21ZY1h5TWREc2tRRFMtZ29NNXh0QkJDTEwzcmdaZ0otc09mZU8wQmszUm1NMzdqblUzV0dpZEtSRkFKRkhXWURPMkZ6eGx1a25JQldxcTRfcWR4cXpVOWk3NUNUX2Rqd3BLMDA1dGFpOGR3NUpac1FXUlcwTG11eXJ5S1BB0gHPAUFVX3lxTE9TUTQwc3lZMVloTTVZUVcxdTNNeVo3QnZtZGZsWnJvdXdHMHRxbnY3LS1KN1FHQksyZTE2S1ZBeHY1NVdQdzFEWjYxcUxad3pLWlhXUl9zUU10SHpiUEJtOHRVYVR1N19mdEZDazZnXzhDaHF2dFBjaVF6Tm5ac3o1MG51UHdGdHNxSngxV3l1dDNyLWM3eUNxQ1pNOU1MYjdkU3hJLVAwMG1KLVBzbXVUVG4xWHM2MWtTZ2RhMDR4UjdCMDdLMFJmc1BxenNDUQ?oc=5",
+          "source": "In.gr",
+          "published": "2026-10-19T06:20:18+00:00",
+          "summary": "Χανιά: Νεκρός σε τροχαίο επιχειρηματίας που αρνούνταν να βάλει βενζίνη σε οδηγούς χωρίς κράνος In.gr Μανώλης Ροδουσάκης: Σκοτώθηκε σε τροχαίο ο επιχειρηματίας που ξεκίνησε το «βενζίνη μόνο με κράνος CNN.gr Μανώλης Ροδουσάκης: Νεκρός σε τροχαίο ο επιχειρηματίας που αρνούνταν να βάλει βενζίνη σε οδηγούς χωρίς κράνος NewsIT Θλίψη στην Κρήτη για τον θάνατο του επιχειρηματία Μανώλη Ροδουσάκη σε…"
+        },
+        {
+          "title": "Η Γαλλία στο χάος, ο Μακρόν «με την πλάτη στον τοίχο»: Τα αμείλικτα ερωτήματα και το Υπουργικό - CNN.gr",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMi00RHpyMnJTaGJjbFZmVUl0UDBoZDJFREVNTW44SG5wdzh1MTBacjBqWDQ5TFdDRU1PQjRMdS1tUGQ0NExYZTMzWDUzZ3VFdTg3UFdwN0hqWktoRFZyUHNFYXNIcGVVUENYR0doR2tIYW1PNmZiTDZjbTNsVWZuREZWT1MyYm9MYjRGNkVtSFk2a3FGY0pHT0dNM05vQzVjRF9BQTcxaERCdnFwLVJGYnVFY0dVMFpwUjVmYkIzZjVla3BQWnUtRA?oc=5",
+          "source": "CNN.gr",
+          "published": "2026-10-19T05:38:06+00:00",
+          "summary": "Η Γαλλία στο χάος, ο Μακρόν «με την πλάτη στον τοίχο»: Τα αμείλικτα ερωτήματα και το Υπουργικό CNN.gr ΚΝΕ: Αλληλεγγύη στους αγώνες της νεολαίας στη Γαλλία! - Παράσταση διαμαρτυρίας σήμερα στις 6 μ.μ. στη γαλλική πρεσβεία 902 «Αυτό που έγινε την Κυριακή στη Γαλλία είναι σοκαριστικό και εξωπραγματικό»: Ελληνίδα καθηγήτρια στο Παρίσι αναλύει στο ΕΡΤnews τα αίτια της κρίσης ertnews.gr Η φανερή βία, η…"
+        },
+        {
+          "title": "ΦΗΜΗ: Το PS6 θα κοστίζει πάνω από $1.000! - Unboxholics",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemc0bUZoVGJQX3FBX1g3Q05vMmttNmhZT0JCZVlqNEhZMUFGR3VYbFN0VlZSSHpGdEloNzktOEVyajVCUUFseURRTlA0Zk1yaFh4OG5reHJaclFCRURQdnJ2ZmJxeWROZEw2TXhaU1NhRnBfZTRhS2ItS0Y2WlY0QTBOdGdERFFw?oc=5",
+          "source": "Unboxholics",
+          "published": "2026-10-19T05:09:00+00:00",
+          "summary": "ΦΗΜΗ: Το PS6 θα κοστίζει πάνω από $1.000! Unboxholics PS6: Σοκαριστικό κόστος παραγωγής; Game 2.0 Ιαπωνία: Το κόστος μνήμης και αποθήκευσης του PS6 ξεπερνά τα 680 δολάρια Pieria24 Πόσο θα κοστίζει το PS6; Οι μνήμες δείχνουν τιμή γύρω στα 1.000 ευρώ TechFreaks.gr Το PlayStation 6 θα έρθει με τιμή άνω των €1.000. RAM και SSD κοστίζουν πάνω από $680 Techmaniacs.gr"
+        },
+        {
+          "title": "Ανάλυση Politico: Η Ευρώπη μπροστά στην τέλεια πολιτική καταιγίδα – Το χάος στη Γαλλία και η επόμενη μέρα στην ΕΕ - NewsIT",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaFVNZ1EtNmJoLUxUUzVjUFBJdUY3VVhSSk1idlVBd2cyNHV6S0FIS05EeDM1ZjAydjlzcGdYYTQzNV93MUl0Vm9oa1NHR2VFUF9MNnVzNTlkZVlFVlhMS3FoUk5HTWhBMGtVcEF4UWtWenhDcnZDVWN3T0IweDNULW1rNWlFT1Zzd0Q3MHlDcmdkYWd1MklFSkM5M3ZSZ1VhZkpsbFdFbXZWTUMySW10UGp3dVFYQmZKMjZvRFZlMV94MktuM2R1bExkYzEzMkduZjBJSWJoQWFzamJVQUVJRzFR?oc=5",
+          "source": "NewsIT",
+          "published": "2026-10-19T05:05:21+00:00",
+          "summary": "Ανάλυση Politico: Η Ευρώπη μπροστά στην τέλεια πολιτική καταιγίδα – Το χάος στη Γαλλία και η επόμενη μέρα στην ΕΕ NewsIT Προϋπολογισμός, διαδηλώσεις, Ουκρανία: Η ΕΕ αντιμέτωπη με την «τέλεια πολιτική καταιγίδα CNN.gr Αν η Ευρώπη ήθελε… Kathimerini Η ΕΕ μπροστά στην τέλεια καταιγίδα: Εκλογές, οικονομικές πιέσεις και αδιέξοδο στον προϋπολογισμό Skai.gr Politico: Η Ευρώπη στο χείλος του γκρεμού,…"
+        },
+        {
+          "title": "Ο ιερέας που σκοτώθηκε στον Ισημερινό έκανε κήρυγμα για την εφήμερη ζωή λίγο πριν ο Σταυρός να πέσει στο κεφάλι του, σκληρό βίντεο - ProtoThema",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbGFOV200eW56VmZqRzh2Mmc4T3BaT2hrd2pOWWx3VW1WV2taZjFnR0VfX2JlUU4weThYQ3pmTk1pSi1TMGlGdEVpTDNKX1BzZzVwS3dIZF9LMEhveVJCV2ZmaC1ZODF4d2tFbExRMXFCM0g3djFoTkpzXzFROXI2MWNUck05anNyWmZ3aGNIcFZ5cUg3aHhGU2JKSXpvWTNMUlRabE91YXFEUExidVBxUDczQzJfWUdhcXFfZnhQQThoMnU2NmY3UFFqUTBORUQ5NDhGbm02OEcycFFZVGVKaWd2dXgydDBvc0hTeEFjM3Qxb2s5ZGxvatIB_gFBVV95cUxQczZ5dE9Pcm1vTi1Kd2djQXBfbkxPVlNMVmhlQjd0XzY2cjVGbXhoTF9PYXhxMUQtcDNkbS0xeGhRd0N4VTduWVJWdTZrZTA1VFNKTWZPNHg5dlBROHlmR2IwZExzaXBOTWU0dmR1UDd5R2JGZ0ptOHdLZWxrNHJ2MTJQdlpJaGhOUk5WdWZ0MENxN1lIVXNKYzVOQlRvQURJbjZ2Xy1Sd0RaZFdRc3FWaWVoY1ppUWYwdl9ET3lzU01PZGwtUG8yRUUwNjhvRkVTaV9zQ1k1eV9sdGFaYW5SaC1FeDhVdWt5dXgxVTg5SjhGN3Z5NVdDanNaMnp5Zw?oc=5",
+          "source": "ProtoThema",
+          "published": "2026-10-19T04:52:21+00:00",
+          "summary": "Ο ιερέας που σκοτώθηκε στον Ισημερινό έκανε κήρυγμα για την εφήμερη ζωή λίγο πριν ο Σταυρός να πέσει στο κεφάλι του, σκληρό βίντεο ProtoThema Ισημερινός: Ιερέας σκοτώθηκε όταν σταυρός έπεσε στο κεφάλι του την ώρα της λειτουργίας Kathimerini Εκουαδόρ: Σταυρός έπεσε πάνω σε ιερέα την ώρα που τελούσε τη Θεία Λειτουργία και τον σκότωσε In.gr Τραγωδία σε εκκλησία στο Εκουαδόρ -Σταυρός έπεσε στο κεφάλι…"
+        },
+        {
+          "title": "Σήμερα τα εγκαίνια του ελληνικού υπερυπολογιστή: O «Δαίδαλος» μπαίνει στην πρίζα και αλλάζει τη ζωή μας - ProtoThema",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSjlpcnU3UlNyYjFUMG5HZXlJblhQdHlIQXpEM084VGFHNUF1ZGROZHpqc2ltWWh1RUV4bWNER3d3bWxxWjgwSmVONGhTVjNjb3UtVm5yYk5ncjJaa0FfdC1yRmpRS1p2ck8zMlgteUUtYzZQZ0NXblJXd2ZpcjJEOFJUZmdVRGNUNDBjaEJ3NUFpU2Rzal9CSTVTYnFDRzd4SVVTY0ZUTHNzV1JVVzZMbHRIdTctWElkSzVuajJZWHlicWxXWVExOEhLS20zd9IB0wFBVV95cUxNSE53WVA2ekxvNEU2cjhsUVZDTEpUNFdoMmF4VnZnSWlRa05RbTdwTW45ZXk1UHhKeTdaWEtXQS1SX0xPVExUTmlVbllIa3dpbkNSMko1cnIyQ0tDZ182T3B0RmNjbnJiRjdQZUJmeGtvaXl3NlBoazNjU2ZIOG5NWW5KMk4zLVZrbzczY29mUF9xaFZIbDJvYk1ucUU0cDFlRHpzYkNfWEFGUVZJWC02Ymd6Um1aSGFzUW9FV0NuRDN5V0lxVnU1R2E3SnFuNVRocVQw?oc=5",
+          "source": "ProtoThema",
+          "published": "2026-10-19T04:42:00+00:00",
+          "summary": "Σήμερα τα εγκαίνια του ελληνικού υπερυπολογιστή: O «Δαίδαλος» μπαίνει στην πρίζα και αλλάζει τη ζωή μας ProtoThema Αυτός είναι ο «Δαίδαλος», ο πρώτος πανίσχυρος ελληνικός υπερυπολογιστής - Δείτε βίντεο Skai.gr Υπερυπολογιστής «ΔΑΙΔΑΛΟΣ»: Τι είναι και τι θα αλλάξει στην πράξη ΤΟ ΒΗΜΑ Κυρ. Μητσοτάκης: Παρών σήμερα στα εγκαίνια του υπερυπολογιστή «ΔΑΙΔΑΛΟΣ» Liberal.gr Live: Τα εγκαίνια του…"
+        },
+        {
+          "title": "Ρούμπιο: \"Η Ελλάδα αξίζει ισχυρό πρέσβη με την πλήρη εμπιστοσύνη του Τραμπ\" - News 24/7",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRmk0aUlvUV9sNHVGdTNWY0wxUi04RjVQZWppNm5odzMyVHp0U002MEdLeE42cVVHWFlIcTIwNFNwNFdRcEJwcmtzelBtSk9rNDd6RlN3T2xLVUoxY0NSazVFbEw5R0ViT25DSHBwc3h0aE92S0dvOFgtMGF0RnpXYmNKMWhPT3pSQlRrSDdjVVJxVmp2bTQwRUJpUEptM1llWWQ4T0Zn?oc=5",
+          "source": "News 24/7",
+          "published": "2026-10-19T04:41:00+00:00",
+          "summary": "Ρούμπιο: \"Η Ελλάδα αξίζει ισχυρό πρέσβη με την πλήρη εμπιστοσύνη του Τραμπ\" News 24/7 Ρούμπιο για Ελλάδα: Πολύ σημαντική χώρα και σπουδαίος σύμμαχος, αξίζει έναν ισχυρό πρέσβη με την πλήρη εμπιστοσύνη του Τραμπ ProtoThema Ρούμπιο: Η Ελλάδα αξίζει πρέσβη με την πλήρη εμπιστοσύνη του Τραμπ - Το μήνυμα για τη διαδοχή Γκιλφόιλ η ναυτεμπορικη Μ. Ρούμπιο: Η Ελλάδα αξίζει πρέσβη με την πλήρη εμπιστοσύνη…"
+        },
+        {
+          "title": "Τραγωδία ανοιχτά της Λέσβου – Ναυάγιο με έξι νεκρούς μετανάστες - Newsbeast",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnA3LXlFem5SVHJmdmg4U3ZYYWNvY0hWUXVsX21IcjRiZ09jZktzWWt1R01lM2wybl81bENLSUVrUHk4aUNVSmdxTUd3UmRUMnhHb1dEamZQdFp0anBacWRacXJBQkpfVm1PVnlQT1M0RkM4T2ItQ3YwVkc3ajdodGdQNVk1cG56azZEcUQ4aXNGU1dITjBrWlRQb0ZoZkRFc0F3Vm1CcnZWQm41ZjZR?oc=5",
+          "source": "Newsbeast",
+          "published": "2026-10-19T04:33:23+00:00",
+          "summary": "Τραγωδία ανοιχτά της Λέσβου – Ναυάγιο με έξι νεκρούς μετανάστες Newsbeast Κικίλιας: Θλίψη και οργή για την τραγωδία στη Λέσβο – Μηδενική ανοχή στους διακινητές In.gr Διπλή τραγωδία στο Αιγαίο: Δύο ναυάγια με 12 νεκρούς μετανάστες σε Λέσβο και Σάμο Η Εφημερίδα των Συντακτών Μυτιλήνη: Έξι νεκροί μετά από σύγκρουση ταχύπλοου με σκάφος του Λιμενικού στη θαλάσσια περιοχή νότια της Αγριελιάς Capital.gr…"
+        },
+        {
+          "title": "Επίδομα Χριστουγέννων: Τα 500 ευρώ και σε δημάρχους, περιφερειάρχες και διοικήσεις - Οικονομικός Ταχυδρόμος",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1BVV2phd0lLOVJya2JpR3ozREcyV09ZQ1E1czF4MU41WG1MY1ZFSE5rRnFwTnhva25QTENrUW1Cb2pobTFfU3lnTVAxRnVXbkxOMmI3ajhDcXVDb2RPZlBfQkNwYXdlWnBjN2xhMmVUYkNrNlhpZm1iSzlWejIxRUdCXy10YTR4d3RDM3JlSi1NOEkzd255OGo5YnI2dTZWTXVIVkN6WV9mYmZkZkJQS1ZxV3NuUGNZSXNhaw?oc=5",
+          "source": "Οικονομικός Ταχυδρόμος",
+          "published": "2026-10-19T04:02:07+00:00",
+          "summary": "Επίδομα Χριστουγέννων: Τα 500 ευρώ και σε δημάρχους, περιφερειάρχες και διοικήσεις Οικονομικός Ταχυδρόμος Δημόσιο: Πώς θα δοθεί το επίδομα Χριστουγέννων- Ποιοι θα το λάβουν μισό (έγγραφο) Aftodioikisi.gr Δώρο Χριστουγέννων 500 ευρώ στο Δημόσιο: Ο κατάλογος των δικαιούχων και οι «γκρίζες ζώνες» – Αναλυτικά παραδείγματα NewsIT Δώρο Χριστουγέννων 2026: Πότε μπαίνουν τα χρήματα στους λογαριασμούς –…"
+        },
+        {
+          "title": "WSJ: Ο Πούτιν προτείνει Σύνοδο με Τραμπ και Σι για την Ουκρανία – Χωρίς τον Ζελένσκι - η ναυτεμπορικη",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWNhLVZDQlAyVUNSblNkSVVoWmdoT25VX1NieTJWd2EwRm54SmRoNW42UWFRZ1BURm9YeVVrdGtRSzYxUHZYcjZsQjZGd29hd2hCNmVoQTlQMzhER0NCVDY2a050VF84RUV1c0VnN01ELUZybjNFZ0ZrZnYzWk5fM3ZNcU4xSkdyLU00U21SbDFGMGV1dWQzYkFCNy1Vak0yQTZtYVV4RWRUcmVYcEsxQlliX1JsMFlRZENJZ19xaU1KX1Nm?oc=5",
+          "source": "η ναυτεμπορικη",
+          "published": "2026-10-19T03:11:10+00:00",
+          "summary": "WSJ: Ο Πούτιν προτείνει Σύνοδο με Τραμπ και Σι για την Ουκρανία – Χωρίς τον Ζελένσκι η ναυτεμπορικη Διαψεύδει ο Ρούμπιο ότι έπαψαν οι ΗΠΑ να παρέχουν πληροφορίες στο Κίεβο Kathimerini Αποκάλυψη WSJ: Ο Πούτιν ζητά τριμερή σύνοδο με Τραμπ και Σι για την Ουκρανία χωρίς τον Ζελένσκι ProtoThema Μ. Ρούμπιο: Ουκρανία και Ρωσία θα πρέπει να επικεντρωθούν στον τερματισμό του πολέμου Μακεδονικό Πρακτορείο…"
+        },
+        {
+          "title": "Καιρός: Ανατροπή σκηνικού με κύμα βροχών πρό των πυλών – Πώς θα κυλήσει η εβδομάδα - News 24/7",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjdJOFJkQ0xpdk9scjBpb3VWVnNqU202MzFOSmRyQkg1Qko1WFk1elZmZHdKQ1JwV0dpLUxtaFhYOFJIeE1xUnJod05DRF9SeTd6Y09mQUlQdDRnbW9iYWFkR0JkLXpzRHdyVk56S2c2T2lFcmtlcnNsRlhjZHVPZ3lqck8yM19DaDFfb1ZJZmx1TjUtajUtd3I2VjlOT2pjaDZrRFdETkg1RGFaWVY2TdIBtgFBVV95cUxQTTBZWlhqUjZsV2tyM21DX21TUzM3SHcyZzhWejI0RDZ3bVVPRTBobjJZdVhXaXRSOV9pT0hXNS1hM1R3WTduNzRXY2tHVm5HR3NzdjZGSWVudW5oT1dDUDFSMERnWGFSWVN6REdQd0hWSF9TLXlkZmhIXzhNNTE0cnFHalF4VW55bndLZDVOaG8yd3JOUnozWFR2R1VYLUhyN2UzaWdIcGlLSTFXem0wU29uczNodw?oc=5",
+          "source": "News 24/7",
+          "published": "2026-10-19T03:02:00+00:00",
+          "summary": "Καιρός: Ανατροπή σκηνικού με κύμα βροχών πρό των πυλών – Πώς θα κυλήσει η εβδομάδα News 24/7 Ανεβαίνει η θερμοκρασία στους 25 βαθμούς με αφρικανική σκόνη, πότε επιστρέφουν οι βροχές ProtoThema Καιρός: Ηλιοφάνεια και νέα άνοδος της θερμοκρασίας σήμερα AlphaTV Καιρός: «Μικρό καλοκαιράκι» από Δευτέρα - Τι αλλάζει την Τετάρτη LiFO Καιρός: Βελτιωμένος με άνοδο της θερμοκρασίας - Βοριάδες έως 5 μποφόρ…"
+        },
+        {
+          "title": "Εορτολόγιο: Ποιος γιορτάζει σήμερα 19 Οκτωβρίου - Newsbeast",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3RGeGhiS0pXZy1UZEo4MzJZZlFKZlVqVndBLXVzOWsyazhsQXJOZkVUd1BfVE9QblhsYjBaU3ZDYktJY0dpbmljYlV3ZnhzVVpydGVqajg0eC1UcmtmMC1CMjMtWGYtc3Eza3JCRVFKVS1ld2tWZTdIXzllQzN1YURtTTQ2MV9uUGJzVi1CRU5JU1kxdGRDNzRqVVg?oc=5",
+          "source": "Newsbeast",
+          "published": "2026-10-19T02:46:33+00:00",
+          "summary": "Εορτολόγιο: Ποιος γιορτάζει σήμερα 19 Οκτωβρίου Newsbeast Εορτολόγιο: Γιορτή συνδεόμενη με το Άγιο Πνεύμα σήμερα - Ποιοι γιορτάζουν Δευτέρα 19 Οκτωβρίου η ναυτεμπορικη Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 19 Οκτωβρίου Kathimerini Εορτολόγιο: Ποιοι γιορτάζουν σήμερα, 19 Οκτωβρίου Skai.gr Εορτολόγιο: Ποιοι γιορτάζουν την Δευτέρα 19 Οκτωβρίου News 24/7"
+        },
+        {
+          "title": "Πότε θα πληρωθούν οι συντάξεις Νοεμβρίου - Αναλυτικά οι ημερομηνίες - CNN.gr",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbklaZzMzdUVYVElSS2RvSkVLX05oanRRV3BkNVVKeER3TG84cEtoYTVtUEZxNWJGX243cE5wQUdjTTdzRTBQRmRZbFVVa2FxWjFkcjdsM0dFM1NrVWVUNmFkdWNkRzl4R3FNVkRMMW9KVkxpMXFRcGk4eG42bzBLQ1Z4X2pzQUlJaTJqc1V1eENBRzdqTTlheEtGQVN0LW5TOVhMUTlHUktaT2pRUkhEMlFITzdpaE9Q?oc=5",
+          "source": "CNN.gr",
+          "published": "2026-10-18T23:00:50+00:00",
+          "summary": "Πότε θα πληρωθούν οι συντάξεις Νοεμβρίου - Αναλυτικά οι ημερομηνίες CNN.gr Έρχεται «τριπλή» πληρωμή για τους συνταξιούχους Skai.gr Συνταξιούχοι: Τρεις πληρωμές έως τα τέλη Νοεμβρίου – Πότε καταβάλλονται οι συντάξεις και το επίδομα των 400 ευρώ ertnews.gr Συνταξιούχοι: Τρεις πληρωμές μέχρι το τέλος Νοεμβρίου – Τι χρήματα θα λάβουν ΤΑ ΝΕΑ Συνταξιούχοι: Έρχεται τριπλή πληρωμή – Οι ημερομηνίες…"
+        },
+        {
+          "title": "Μαρία Μαζωνάκη: Η ανάρτησή της με μαύρο φόντο και τραγούδι της Ματούλας Ζαμάνη: «Πάρε και την καρδιά μου - Newsbeast",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSlBjQ3pTZFZMbTJQcVdpVmtqYjh1Zk1ZUTM3d2o4QXBLcWF2am15a2pBZnZWRHNTYnR5VUI5NDRaYm1KYzNXQU9UaEwyTHpzb2NIZkFuYVB5MjFFa1JmWFpoZUdpMjdnTnppUU9UWGdQUVRibnB0Q0ptYURpWHBHZWFsYUdsY0t3eG1adnJWMXBRX1JLY0tmYmJxV1NLWnpVd1p3SG9xSl95bFNoRXlGWjVVQ3Nkd0EtcDBHUldFQ3Q2a1ZTVDBPeEYxeEVOWUU0aXdUekpKY19pNVJINVJCNU1wWFAtcXM?oc=5",
+          "source": "Newsbeast",
+          "published": "2026-10-18T22:03:21+00:00",
+          "summary": "Μαρία Μαζωνάκη: Η ανάρτησή της με μαύρο φόντο και τραγούδι της Ματούλας Ζαμάνη: «Πάρε και την καρδιά μου Newsbeast Με τραγούδια και χορούς το μνημόσυνο του Γιώργου Μαζωνάκη: Θαυμαστές άφηναν σημειώματα και λουλούδια στο μνήμα του, φώναζαν «όσο ζω Μαζώ» ProtoThema Η συγκινητική ανάρτηση της αδελφής του Γιώργου Μαζωνάκη μετά το μνημόσυνο -5 λέξεις και ένα τραγούδι iefimerida.gr Συγκλονίζει ο θρήνος…"
+        },
+        {
+          "title": "ΠΑΟΚ - Ηρακλής 2-1: Κουτσιαύτης, Βαρούχας σχολίασαν τις επίμαχες φάσεις - Gazzetta.gr",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXBtV0ZtblhsdkxQWG9vR1kteTlydGhVQUJBSnpJZlVTWlgybWo0QmFReXE2VEpHSHk5MERzTFEtXzF4ZTNnc0otaTc0ZE5CeG5RUFRmQzA1V2gzVTRvYlB6eGdyOVE3Nm1PRndmMHQ1UnlOTFFuZFhPWEduaklZamNrTjJQdlcxR3ZEQ0R5aXNKWTVuR2VueDVTOTRJX3Zic0dYRjZLLV9sVkZhYTVYNld3SG1kVXRVT0FZQ9IBwgFBVV95cUxQckFTc2hQWFBWejZoLVZsOU9mZkFjNDNERU9uMUt0Y09Xd1h3a0xVbHJycFRzTE5kS0RoRHpUclF1Y1RNbzZtY2RmYWgxckdvS2Z6S0haMTNuR0tsX3EzN3RFU18zVThjY0JpWXR0ekNUcG9LaHhDMTY0NVViRmVuWVV4dUIyckRVeFhPQ29GanFuaVJOMzJ5UnJFaV9sUHNaaVFrNWE5Q3hPclNrRDRWMjl1SkFnckdoTlR3aV9BYnRZQQ?oc=5",
+          "source": "Gazzetta.gr",
+          "published": "2026-10-18T21:40:35+00:00",
+          "summary": "ΠΑΟΚ - Ηρακλής 2-1: Κουτσιαύτης, Βαρούχας σχολίασαν τις επίμαχες φάσεις Gazzetta.gr Ηρακλής: Η πρώτη αντίδραση του Γηραιού μετά την ήττα από τον ΠΑΟΚ είναι 80, 11, 17 Sport24 Σόρια: «Πέντε χρόνια στην Ελλάδα, δεν έχω ξαναδεί κάτι τέτοιο όπως στο ματς με τον ΠΑΟΚ» In.gr Βοηθός Ματσάρι: «Ο κόουτς είναι έξαλλος, σε 45 χρόνια καριέρας δεν έχει ξαναδεί κάτι τέτοιο, θέλει να γυρίσει στην Ιταλία»…"
+        },
+        {
+          "title": "Ρεάλ Μαδρίτης – Σεβίλλη 4-1: «Καθάρισε» με δύο γκολ ο Εμπαπέ, στο -6 από την Μπαρτσελόνα πριν από το Clasico, δείτε τα γκολ - ProtoThema",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS21jNi1QaFpJV0NhYXZUV2dsNDZFN1pyemxkbUdoUWE5bDZWN1dWUEdPcDBpci1QU3ZtYy1MenhwZUctOVlWcDdFeWFQcmFXUjJKVVpVUWttU1c4dTRqYkFlOUVDZnZvV2RZR3pvVzdUX2ZrMDYxQWk0TUZnbGw4S2VodUJyODdPLXdSY3VwdzRUM25OZWtYVWJEeExoZ3d3WjU4bC1sX0tsX2Zha3VMdW81dlItcGlmR2pqUG5XaFJ1NTZkZXVrTzZiUXhiNWhiYTNEVUNJc2VxYlBoNkZxRFVlSzJpcDdVWXhDQ2V0TWtLSV9h0gH6AUFVX3lxTFA2bDM3ZTJaaHVoWkU5MTR0eVcwNlFwSkV2UlpwWXJEUVo4VVkyVEN6SlJELXl2a3dJQVZXYVpzRHdmWG9HdDljZGVEdnZzZU5aa1Q3N1BrekZWVkRHRW5vODBLcXpLMHpqcDNnNEExQjc1WEJpd0lOcVBuODhsZWRRa2hnY3IzNExFek9EQkFYQWppMFBXTHhiZU9sb3hWN21sZDFYVWdMNlhlWHpoYVY1a1JwYkJ0UmhNVGx6ZldZTzVEOXZOMmtuUlRCTEZKYUFkT3BpX19Hc012N1U1bEowSGlFdF84em9tUFlFSUU0ZnBPcG1GRHVBM1E?oc=5",
+          "source": "ProtoThema",
+          "published": "2026-10-18T21:34:00+00:00",
+          "summary": "Ρεάλ Μαδρίτης – Σεβίλλη 4-1: «Καθάρισε» με δύο γκολ ο Εμπαπέ, στο -6 από την Μπαρτσελόνα πριν από το Clasico, δείτε τα γκολ ProtoThema Ρεάλ Μαδρίτης - Σεβίλλη 4-1: Οι Μερένχες «σκόρπισαν» τη Σεβίλλη με μαγικούς Γκιουλέρ και Μπαπέ Gazzetta.gr Οργή στην Σεβίλλη για τη διαιτησία με Ρεάλ: «Έπρεπε να αποβληθεί ο Γκιουλέρ στο 0-0» bwinΣΠΟΡ FM 94.6 Με ηγέτη Εμπαπέ η Ρεάλ «καθάρισε» με 4-1 τη Σεβίλλη…"
+        },
+        {
+          "title": "Πάτρα: Ανήλικος κατήγγειλε επίθεση από ομάδα νεαρών - Δεύτερο περιστατικό μέσα σε λίγες ώρες - Newsbomb",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZGFiRk5KNktTakNwMjJsZ1ViekVQQnpKSjdib0pnUVY4cGN5T1dJQkNqcUxkQlVkbS1oT2xQY2JwcTJpeVJQVHI3ejJHOFNTSFMtVVNTbjc0Z2c0VURRVGhQeno0dHN6U2lzMHhFLXJqdk5ROUs3TElUUWkzbGw5QlZxYzkwd1hDeWlNZG9xTTA1ZVktN296UDVMd18zVnFXWmI4MXJlaWg3LU8yOGdWWXZidlRNNUprc21GdXg0Y3ZZckpkX04tMjhmazdHTWJU?oc=5",
+          "source": "Newsbomb",
+          "published": "2026-10-18T20:37:47+00:00",
+          "summary": "Πάτρα: Ανήλικος κατήγγειλε επίθεση από ομάδα νεαρών - Δεύτερο περιστατικό μέσα σε λίγες ώρες Newsbomb Πάτρα: Αναζητείται ο δράστης της επίθεσης με σουγιά κατά 16χρονου Kathimerini Τρόμος στην Πάτρα: 22χρονος μαχαίρωσε 16χρονο – Ανθρωποκυνηγητό για τον εντοπισμό του ΤΑ ΝΕΑ Πάτρα: Αιματηρό επεισόδιο στα Ψηλαλώνια – 22χρονος τραυμάτισε με σουγιά 16χρονο η ναυτεμπορικη Μαχαίρωμα μεταξύ ανηλίκων στην…"
+        },
+        {
+          "title": "Στην κορυφή των charts τα τραγούδια του Γιώργου Μαζωνάκη: Η φωνή του εξακολουθεί να ακούγεται παντού - The TOC",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU0RDZnBQRUFzbFQtd0Z1R3RzXzAzQ3JSVmthYWlGWmNwUUpUSzB1cDI4UGZxaENWdDJtQ0FSRkVwLVI4Wmh0QnVFWVNOa1B1UXBBYVZ0dzhJN2pIVzNNNEhWUHFFXzJKTV85Tl9jXzEyX2daWEpPTDgxTmtQLWFCQUZnZjJ4anFUbEVYZHF0dkhYMTZsbVoyME40OUVqRkRvb2pfMVZHZzVUUjhiZ1YwQUdmUkxzTEMxMmxBajBMT2xXVWRhRmZjcnFnNFNSb0Z3TWtnN2FvVdIB4wFBVV95cUxORmtQajZEU2RzRmtEVkFXbm10T3NHS25qY05Vc3dVZmwtektocmxEOGJSbktJdHNrLXVMNGNGTGFhUGs2WklpdmVpcDg0UnJEQXJ4bXVCd2pqRTF4SDBUM0JsanRtTlFZOUNBZkpPeHV4TEVRYXd0dkdaWUlLdXoyMzVuZDBFNzU1Wm94UGdoaEV1R0g5MEZsb1Zaa2FjaHV0QzZ0bG9xeFFkaEZrR21IekFRM0RGZHdKR2V6T3huUS1ZYmZlbGRvSi1VSC14QW0yMU1Sc3JpX3F6bjJzak43YTA2NA?oc=5",
+          "source": "The TOC",
+          "published": "2026-10-18T20:30:51+00:00",
+          "summary": "Στην κορυφή των charts τα τραγούδια του Γιώργου Μαζωνάκη: Η φωνή του εξακολουθεί να ακούγεται παντού The TOC Ανδρέας Πεχλιβάνης: To συγκινητικό αφιέρωμα στον Γιώργο Μαζωνάκη! (Βίντεο) ANT1 TV Τοιχογραφία αφιερωμένη στον Γιώργο Μαζωνάκη στο Βόλο - Δείτε φωτό ENIKOS Συγκλονίζει το βίντεο: Όταν η μητέρα του Γιώργου Μαζωνάκη χόρεψε ζεϊμπέκικο υπό τους ήχους του \"Ώρες Μικρές\" Παραπολιτικά Γιώργος…"
+        },
+        {
+          "title": "ΠΑΟΚ – Ηρακλής 2-1: Νίκη με ανατροπή, χάος με τον διαιτητή Φωτιά και το VAR - Newsbeast",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkdFSUZjYjJIZENXRllQem9GcWZXWUozcUc5VDlTSnBlWXVVVUV5Q0VLc2xjMXR3OVRtNGEtX0FKNzBWMGFXRXpBbFdHemJwUkh6MVJXNjNJbFlMQVR0S1JMOHJPNFhJMDZycGNQaFlnX3NxWVJzUWFiaG1SZjd5Z1N0cHYzNnhUeFJ3OHlxVkNwSzMzR2hteDZEM2xqOUxnTUZtbnRpdEpJY3NkT24wbkZMdUExRk1IYVZMMA?oc=5",
+          "source": "Newsbeast",
+          "published": "2026-10-18T20:02:51+00:00",
+          "summary": "ΠΑΟΚ – Ηρακλής 2-1: Νίκη με ανατροπή, χάος με τον διαιτητή Φωτιά και το VAR Newsbeast ΠΑΟΚ - Ηρακλής: Τι είδε ο Φωτιάς και ακύρωσε το γκολ για το 0-2 - Τι είπε στον Μάρκες Gazzetta.gr Ο ΠΑΟΚ νίκησε, αλλά δεν έδωσε πειστικές απαντήσεις ProtoThema ΠΑΟΚ – Ηρακλής: Το VIDEO με τη φάση που έκρινε το ντέρμπι Sport24 ΠΑΟΚ-Ηρακλής 2-1: Πραξικόπημα στην Τούμπα (vid) In.gr"
+        },
+        {
+          "title": "Τα πρώτα γράμματα του παπύρου PHerc. 343 διαβάστηκαν ψηφιακά και έφεραν βραβείο 50.000 δολαρίων - Insomnia.gr",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeG93TU1Jdk1ldWE3a2xEQlQ5UHBTNGlRckY4Um9oOEw4S1FUclpBekVyYVE4Z2JibjNHeERNQ0lzVTYzZ3kxRW1yR2Jkek9ORVdjNHdVV2JXR0huaGhpa19YcWxfLWxuZEV3VVNqaE5aSzlqLWRnOHd5b3lwTjl4YjBhc3R3NTcwVmZzdXFKNWxCUzNoRWZtNGxJUUJxU2x3Si10eDdMX18xUXdYX25oaWY3U00zZ2lRbmpZQUZvNjlMSWo5MXVrZXhzcWVsRHA1Wk9jRlBZUF9kWTdxR1E?oc=5",
+          "source": "Insomnia.gr",
+          "published": "2026-10-18T18:34:02+00:00",
+          "summary": "Τα πρώτα γράμματα του παπύρου PHerc. 343 διαβάστηκαν ψηφιακά και έφεραν βραβείο 50.000 δολαρίων Insomnia.gr"
+        },
+        {
+          "title": "Παναθηναϊκός – Αστέρας AKTOR 5-1: Τίμησε τον «καπετάνιο» με γκολ και θέαμα (vid) - In.gr",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2FKckFQaG1CaDBYZUg0Nk1zbGFhSHNXcm5kVERFMUpJWFVZd0FzRHF0SlBKVkNzTHJ1d2VjaUwyaFp6cV9Pb3RrUkt4OGZLSnVQTXpIaXZYa1Y2ZVBXWXNrOXVKRENyczMwTDZuT0pJMk5OWmlFN2ozOEtVRW0zN19BaWxrZWVsNE8tbjR2V0Q0bGpPdE1EajRTRktGeUVmMzhHZ2NEWHlKcG40Wm9DSVlBVGhjLU5I0gG-AUFVX3lxTE9rajhfLXFvYkFuUEdFdzZkTEtWWF96SjJzYVY4b1Etc185RGlOcmotZ21KY2ZabnlPT2pLQkg3Ni1KOEJXaFUzb3E3NjM3N3hOcFl4STR4aEtLNU9FMnlJSFdIRlZxei15Mmp6QWhQREUzNXJod1ZuUWszcDdiQURGOE82Y2RqSExDOWdwVm1KdHpQNEZncmpEbHV0Q1pqamYybEhleDF5VHVESWhLOVcyaWNsWDdJcUJKQVZNN1E?oc=5",
+          "source": "In.gr",
+          "published": "2026-10-18T16:33:03+00:00",
+          "summary": "Παναθηναϊκός – Αστέρας AKTOR 5-1: Τίμησε τον «καπετάνιο» με γκολ και θέαμα (vid) In.gr Παναθηναϊκός: Ο Λουζά και ο Κάνγκουα γλύκαναν τη μαυρίλα του Ουναΐ Sport24 Ιστορική επίδοση για τον Παναθηναϊκό Newsbeast Ο Παναθηναϊκός γίνεται ομάδα Νίστρουπ και τα... σπάει Gazzetta.gr Εντυπωσιακός ο Παναθηναϊκός, 5-1 τον Αστέρα με πρωταγωνιστή τον Λούζα Kathimerini"
+        },
+        {
+          "title": "Σε δημόσια διαβούλευση το φορολογικό νομοσχέδιο: Μειώσεις φόρων, ενισχύσεις συνταξιούχων και μέτρα για το στεγαστικό - Skai.gr",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3c2T1dNdkh3UFJESnpIcExaODhnMEZ5VXVBMlpBcW83bG1uY1h1MDA2OXVLUEk1TjltWmZnbVFLak5xXzM0VTc2LW9yVURxMmh4dTNaSENZSUwwcmhFM2RFaGg0VWdDWmM1dDFJM2M3WGlzX0lNajJnODBqWUt4N1ozRVB4QktT0gGOAUFVX3lxTE5FZ01BR3VzaFlhZV9KYUloSWUyMHVGeW4xQ0wzNDVsdFVhbzdXOHgyeUFhN1A4ZkFzYXdsOUJVSWpEeFZxT3g0YkpfNnRvMVE1S3VUX0VCVmVPYzBVTWk5VmpwQUk4RlNxSk84aHdmMktMTUlkd3lJT21XdHJ5R3hES1l4LUN2aGFGR21KeUE?oc=5",
+          "source": "Skai.gr",
+          "published": "2026-10-18T15:34:30+00:00",
+          "summary": "Σε δημόσια διαβούλευση το φορολογικό νομοσχέδιο: Μειώσεις φόρων, ενισχύσεις συνταξιούχων και μέτρα για το στεγαστικό Skai.gr Το νέο φορολογικό νομοσχέδιο - Τι αλλάζει αναλυτικά, και από πότε θα ισχύσει η κάθε διάταξη Taxheaven Πώς θα λειτουργεί ο Ατομικός Επενδυτικός Λογαριασμός Ανηλίκων - Όλες οι κρίσιμες λεπτομέρειες Capital.gr Κουμπαράς για παιδιά: Πώς ανοίγει, πόσα βάζει το κράτος και πότε…"
+        },
+        {
+          "title": "Πιερία: Θρήνος για τον 41χρονο πιλότο – Ήταν πατέρας 4 παιδιών, εκπαιδευτής Canadair - η ναυτεμπορικη",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUjJRT2xjLTJVdHhqN3pZUktleFk3VldPSXlaYXpQV0FWWXJsLWtMeUNYRmFpaVVCWHJiZHlrTVBHX2QxODcyV0Y3bk1IaC1PdVpEeUFiMWVRbzNfU2NHZ0VuMHgtWDA3Yzl1bFZJZGR6UnNCb2tJQnlXUjFZNThNSXF6dGZBZ1JzdnRIWUtrNlY2Zl9GZUtMMWdyaVY5SmN2Z0RwYkRIN1hRdHBfSnBXcEJoU0F5bzhwTHd1cmJwUlJ4cy1CdEE?oc=5",
+          "source": "η ναυτεμπορικη",
+          "published": "2026-10-18T15:28:26+00:00",
+          "summary": "Πιερία: Θρήνος για τον 41χρονο πιλότο – Ήταν πατέρας 4 παιδιών, εκπαιδευτής Canadair η ναυτεμπορικη Θρήνος στην Πιερία: Ποιοι ήταν ο 41χρονος πιλότος των Canadair, πατέρας τεσσάρων παιδιών, και ο 58χρονος που σκοτώθηκαν με το μονοκινητήριο - «Έκανε λάθος ελιγμό» ProtoThema Συντριβή αεροσκάφους: Τι είναι η «πτήση εθισμού» που οδήγησε στην τραγωδία Zougla Πιερία: Θρίλερ με τη συντριβή του…"
+        },
+        {
+          "title": "Ανυποχώρητη η Αλβανία: Στους δρόμους για 6η ημέρα - Ο Ράμα επιστρατεύει «ειδική ομάδα» [εικόνες] - Η Εφημερίδα των Συντακτών",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUN0YUtsRjNZNXdPQUxYRUtPQ1FlcC1ZRS0tc2R1Z1FtSVdOQTcwc0ZjNnBZVmxSVVlpZDZsS0dydXRyQl92cXZfejhKM25OLTMyU084Zkg4V2JPcmtfVVViY3RQMWRhZ25sRTB1d0xCRVBtaTZvWkNyY19VRHZGR3dJR1hoRGxKWWFYRFoyWGFXT2thZFJmU21lMXJrYnhVeHlpRklJQWxtTnd5R3FTTkJUVkxmQTJjeUlvT29xd3UwNjZQ?oc=5",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-18T14:53:59+00:00",
+          "summary": "Ανυποχώρητη η Αλβανία: Στους δρόμους για 6η ημέρα - Ο Ράμα επιστρατεύει «ειδική ομάδα» [εικόνες] Η Εφημερίδα των Συντακτών Χάος στα Τίρανα: Φωτιά σε αστυνομικό τμήμα και επιθέσεις με μολότοφ – 16 τραυματίες στις διαδηλώσεις Newsbeast Αλβανία: «Προσπαθούμε να καθαρίσουμε τη χώρα μας από τη διαφθορά» Kathimerini Το ΕΡΤnews στην Αλβανία: Πεδίο μάχης τα Τίρανα – Άγριες συγκρούσεις και δεκάδες…"
+        },
+        {
+          "title": "Δυτική Όχθη: Όργιο βίας από εποίκους - «Δεν θα με σταματήσουν» απαντά η ρεπόρτερ που ξυλοκοπήθηκε - Η Εφημερίδα των Συντακτών",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNTN1cDFEMmo5THpYYWc3dnJOazVCa3BpZ0xoWmtVTzBoV216Tnh1MmxkUHowMGpQaUtOdXd4YmhpMnlpNWZBbU1CODJNRWhMWDBJdVhTVmdYTHhEWTFyalJDNC0tY2NnT1R3OGdQczFXa3EyMm0zekFzTDhyMGh4Y3pubVhWVFNVN1pwSmJ6ZmZfSXpvU2pFNUV6S3RHYVVnSVVTNzYxZE5aTEs2U2oyWjl3LUR5Y0tSbENaYWMxRXlMd2FKdFdSYVhVUXI?oc=5",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-18T13:14:26+00:00",
+          "summary": "Δυτική Όχθη: Όργιο βίας από εποίκους - «Δεν θα με σταματήσουν» απαντά η ρεπόρτερ που ξυλοκοπήθηκε Η Εφημερίδα των Συντακτών Ισραήλ: Οκτώ συλλήψεις για τις επιθέσεις εποίκων εναντίον Αμερικανίδας δημοσιογράφου και διπλωματών Kathimerini Ισραήλ: 10 συλλήψεις μετά τις επιθέσεις εποίκων στη Δυτική Όχθη κατά διπλωματών και δημοσιογράφου CNN.gr Δυτική Όχθη: Συλλήψεις εποίκων για τις επιθέσεις σε…"
+        }
+      ],
+      "failed_feeds": [
+        "https://www.ekathimerini.com/rss (SAXParseException)"
+      ]
+    },
+    "bulgaria": {
+      "items": [
+        {
+          "title": "Ecumenical Patriarch Bartholomew and Bulgarian Patriarch Daniil Arrive at Rila Monastery",
+          "url": "https://www.bta.bg/en/news/culture/1227528-ecumenical-patriarch-bartholomew-and-bulgarian-patriarch-daniil-arrive-at-rila-m",
+          "source": "EN RSS Free",
+          "published": "2026-10-19T07:56:25+00:00",
+          "summary": "Ecumenical Patriarch Bartholomew I and Bulgarian Patriarch Daniil, who is also Metropolitan of Sofia, arrived at the Rila Monastery in Southwestern Bulgaria on Monday for celebrations dedicated to St John of Rila (876-946). Solemn services at the country's largest and most important monastery are marking its feast day and the day on which the Bulgarian Orthodox Church honours St John of Rila the…"
+        },
+        {
+          "title": "October 19, 2016: Bulgarian-Hungarian Friendship Day Marked for First Time",
+          "url": "https://www.bta.bg/en/news/archives/1227527-october-19-2016-bulgarian-hungarian-friendship-day-marked-for-first-time",
+          "source": "EN RSS Free",
+          "published": "2026-10-19T07:23:45+00:00",
+          "summary": "Bulgarian-Hungarian Friendship Day was marked for the first time in Shumen on October 19, 2016, with the participation and support of representatives of the Hungarian Cultural Institute in Sofia. October 19 is the day on which the Bulgarian Orthodox Church commemorates St John of Rila. The date was officially designated as Bulgarian-Hungarian Friendship Day by a resolution of Bulgaria’s National…"
+        },
+        {
+          "title": "\"Ледникът на Страшния съд\" може да ни залее по-бързо от очакваното - Dnes.bg",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWg3ZlROeWRfbHdTWFhHQWVvNWE2TnZ0bkllWFFNc2dWcWgtQUxNMlhVdzBjX1psd3VUMm9IWWFZV3JqVDZiWG5STng2XzVfcEF6YlNxbHJpX0xyb0ZSUHkyNXEzZ1M0M08yYU15cnZlVkZCazJZRzl2UUZPT3gwQlhaMFplSS00TE8zSW05c0ZlTkUwbW54T3RJRFFyUjJGUjBiU0NBV0o?oc=5",
+          "source": "Dnes.bg",
+          "published": "2026-10-19T06:39:00+00:00",
+          "summary": "\"Ледникът на Страшния съд\" може да ни залее по-бързо от очакваното Dnes.bg Антарктида се топи. Зимният максимален размер на морския лед на Южния полюс през 2026 г. е един от най-ниските в историята Kaldata.com „Ледникът на Страшния съд“ се топи по-бързо от очакваното – учените предупреждават за нарастващ риск DarikNews.bg Ледникът на Страшния съд се оказа още по-страшен Webcafe Ледникът на…"
+        },
+        {
+          "title": "Иво Христов: Истерици искат да кажем, че дроновете са руски - Новини СЕГА",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWdJN3plVnAtWVJfZHluQ0FxRFJGbmJPNlZtQ01DUUF1NnpyVEpWMVU2M2pkRS0wYVVoTF9HOVc2b1ppM2RUV3pfdHhaUHF6WlhhX3gwa0NuYWpPWlBwT3BBMTJ4YVFwTzA5bzhUbmJMb1VvbkYtQTdYMnpQRmRsNVU5RG40MGRTNXdycVB2alJXdDVFMWdaWjBZNnhTSG1rZkhMN2l0MA?oc=5",
+          "source": "Новини СЕГА",
+          "published": "2026-10-19T06:36:57+00:00",
+          "summary": "Иво Христов: Истерици искат да кажем, че дроновете са руски Новини СЕГА Иво Христов: Ще се опитаме дефицитът да бъда в рамките на 3% Mediapool.bg Иво Христов: Не бива да допускаме ескалация на войната в Черно море Dnes.bg Иво Христов: Всички страни в НАТО се опасяват от задействането на член пети DUNAVMOST.com Иво Христов: Ясно е, че дроновете са руски. Ние сме против да се доставя оръжие на…"
+        },
+        {
+          "title": "Според Иво Христов краят на войната в Украйна няма да бъде благоприятен за Европа - Dnevnik.bg",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTFE4c2F6amZaVzFJdUJ4RkdPNHhuZ0lqNUMzcGNqelpLNHIyQXZuMGM2S1ZYa005aWt2Zmoyb0VvZThjRi1SS2VNMnlQUEZNaTZILU5teVN3TTk5M05IQkdRUTlMTmdzZW55d1pyV3JUMTN6dERIaTVJWk9zU0V5SW54YTNfRGRKbnJiWV9ybmZhSGZJSlhUS0N2ZTF3LUJ6ZjJqb05oZjRkdw?oc=5",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-19T06:26:00+00:00",
+          "summary": "Според Иво Христов краят на войната в Украйна няма да бъде благоприятен за Европа Dnevnik.bg Иво Христов в спор с БНТ за края на войната в Украйна и ще оцелее ли ЕС News.bg Вицепремиерът Иво Христов: Бъдещето на ЕС е под въпрос, трябва да разглеждаме всички сценарии Dir.bg Иво Христов: България няма социалната база за протести като във Франция Евроком Краят на войната в Украйна няма да бъде…"
+        },
+        {
+          "title": "21st World Meeting of Bulgarian Media to Open in Budapest on Monday",
+          "url": "https://www.bta.bg/en/bg-world/1227479-21st-world-meeting-of-bulgarian-media-to-open-in-budapest-on-monday21-vata-sveto",
+          "source": "EN RSS Free",
+          "published": "2026-10-19T06:24:00+00:00",
+          "summary": "The 21st World Meeting of Bulgarian Media, organized by the Bulgarian News Agency (BTA), will open in Budapest on Monday. This year’s meeting is mottoed \"Media and Leaders\". The forum, which will take place in the Hungarian cities of Budapest and Esztergom, is expected to bring together participants from 25 countries, both in person and online. Among them are 47 journalists from 32…"
+        },
+        {
+          "title": "Левски с Акрам Бурас в Пилзен - Gong.bg",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQamFsT0dFaHdrcjAzTExiRWdZWXA3MU9SMXZ0Zmk3bnVjYUtxdXBQaERLRkhnWnFlM2dnWXdpZXUwdW9fS3c5U2VraFhFeFhPWTA3U2h6WDBLY1U4OVhWalRXeXRoRVlYN19NblFVVlRZQXNPY3d4SlZQVHpmVnc0QWluTTBWUQ?oc=5",
+          "source": "Gong.bg",
+          "published": "2026-10-19T05:56:34+00:00",
+          "summary": "Левски с Акрам Бурас в Пилзен Gong.bg Луд късмет за Виктория (Пилзен) преди мача с Левски Sportal.bg Виктория Пилзен бе близо до голям гаф преди двубоя с Левски Dsport.bg Заявка на билети за мача с „Виктория“ (Пилзен) Levski.bg Левски с две занимания на българска земя преди мача в Пилзен ФОКУС"
+        },
+        {
+          "title": "Bulgarian Athletes Win Eight Medals at International Aerobic Gymnastics Tournament in Plovdiv",
+          "url": "https://www.bta.bg/en/news/sport/1227453-bulgarian-athletes-win-eight-medals-at-international-aerobic-gymnastics-tourname",
+          "source": "EN RSS Free",
+          "published": "2026-10-19T05:28:58+00:00",
+          "summary": "Bulgarian athletes have won eight medals — two silver and six bronze — at the Plovdiv Cup 2026 international aerobic gymnastics tournament, held at the International Fair Plovdiv. In the senior categories, Borislava Ivanova, who had qualified with the highest score, won bronze with 19.400 points. Aleksandar Mishinkov also took bronze, scoring 18.900 points, as did the mixed pair of Borislava…"
+        },
+        {
+          "title": "President Iotova to Present 2026 Doctor of the Year Award at Ceremony in Sofia",
+          "url": "https://www.bta.bg/en/news/bulgaria/1227444-president-iotova-to-present-2026-doctor-of-the-year-award-at-ceremony-in-sofia",
+          "source": "EN RSS Free",
+          "published": "2026-10-19T04:58:18+00:00",
+          "summary": "President Iliana Iotova will attend a ceremony at the National History Museum in Sofia on Monday evening, where the Bulgarian Medical Union will honour outstanding physicians for their achievements in 2026 as part of the observance of National Doctors' Day on October 19, the President’s Press Secretariat said. This year’s ceremony coincides with the 125th anniversary of the establishment of the…"
+        },
+        {
+          "title": "Синди Крауфорд с първо изявление след смъртта на сина си - Dir.bg",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeDVxZElNckFjdFR4UmxLS1NENzRDUmlSUUZHbkxkYzA4eUR6cGFLS0l2TXRjd1VZM0piaTRheHJnWFRva3hGWmwxZEw2eTlycmUzS20tQTdveG9RMzhtVjZGaXQ5TzNwV1NGUDBfcjFscEdqRFYtZmkyaFdPREN5ZVBTdnBRWHJGVVh2bA?oc=5",
+          "source": "Dir.bg",
+          "published": "2026-10-19T04:54:24+00:00",
+          "summary": "Синди Крауфорд с първо изявление след смъртта на сина си Dir.bg Кая Гербер и първата ѝ публична поява след смъртта на брат си (ГАЛЕРИЯ) Ladyzone.bg Кая Гербер с разтърсващо послание към загиналия си брат Пресли Dnes.bg „Сърцата ни са разбити“: Синди Крауфорд проговори за смъртта на 27-годишния си син Edna.bg Синди Крауфорд за пръв път проговори за трагичната смърт на сина си Пресли Гербер…"
+        },
+        {
+          "title": "„Уолстрийт джърнъл“: Путин е предложил среща с Тръмп и Си Цзинпин за обсъждане на споразумение за Украйна - nova.bg",
+          "url": "https://news.google.com/rss/articles/CBMingZBVV95cUxPSUFNb3NreWZ2VUg4LXhpaUlGTE5vYTB5NGVncW12M3A5dU9qU1ZqWWhWNUZhLUNTTmZZbW1zelI4bUE1TGQ0MnpmSEhpX0l0S0ZJYl9EcjNVLXN6VzVPLUlJNUVCRW93S0pldXZkT2F0dEhibkRja282V0tYYVV1ZlFJNTQzb1VvXy1QLTYzQnFhYVBJNW93QTRCalNJMnRDbk00dFUtVlROX3RzMXVhNnQzczNQcUFLZFdJeENTZDBGaTRCSDQ4R2VTdWM4RFU4NWkxZVhCT19PLVQ3SE5QX3EtMWN2WTUwc0FDVDlrcTZ5QXRjbzZ1eDB2UkJIblFDVXdLTGVCWFFaRmN1VWdfSWNHa1dEM0lOUGVtYjNrMnRpaWFJNlJfNGJtUnRVYWRMZDVudWZLUVVacVRYRDhvWXd5Nl9SOW5WUXVvd3hDcnp5cDZBSldKaGw2dWozem9hbFdjRUxjdzB6MmZ0alItd0ZnOEt2OUFLNFJRLTU5ZE5XUGxlNFlwX1VHMWpLczJVZ2x4cDNFc3B3cWttNms2ZmtKTHl5QzFOeU85dExGeHhnU1FmNWlsUG1HeDFVc1ZDZlI5OVBTdTZ1MVhkbFZWZWJ5QUNlUjdXOVFmbDNuZG50d2s1ZVNKNFBVaUhISzJUellRU1VqWHkxQlBHWS1rYURpZFE5RmREVWdzX0UwcV9tVEhFejZLR2NFeVh0VVVjNXlnbnFuazN2T3hNZ1M5UDBtdENWejhqbFVQRUV1Z1NZTWJXdmhCQzdlWFlJZXktZlhuUlZnWE54ZVhYQkxWeTJDWS1KRUpVc3hnREFkSG00ZjlhM0ZwTzlqVkhZYnlsRmtKUVNYY1FZRHhvX3N5b081RjFWSC1tcUIzV0dBRlc5WlllZU83ZWNzWE5Ya1BOY0tUSTc2c1pWQmVidmlTdWlEcjFpUUp6Z3o5Q3dzVmNTN3U4QXpyUjdjTzdJc1lSX0I2VUY1S2ExMUlwNGNwYzk4ZW5jNW1KTkx2VmlZZTFfb3l6T0wyTkFvZHNyYm5qNTlHUGE1M2tHdFhLV0E?oc=5",
+          "source": "nova.bg",
+          "published": "2026-10-19T04:30:47+00:00",
+          "summary": "„Уолстрийт джърнъл“: Путин е предложил среща с Тръмп и Си Цзинпин за обсъждане на споразумение за Украйна nova.bg Рубио предупреди: Войната в Украйна може да се разпространи и в други държави bTV Новините Путин предлага тристранна среща с Тръмп и Си Дзинпин Новини СЕГА Путин е предложил среща на високо равнище с Доналд Тръмп и Си Цзинпин за Украйна Mediapool.bg Путин предложи среща с Тръмп и Си…"
+        },
+        {
+          "title": "\"Гняв и срам\". Макрон: Как е възможно французи да причинят това на Франция? - Mediapool.bg",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekFBZS11QXRicGdiWUhwZDVlSXpVYmpaN3kyeWdlWlIxbG1ETkJxNV9pS214ODJWM0dOaWJsbF9Od3Ficm9MOTBPZjdnQ1ItdDRETmU0NFVNRXRQRDk3aHMweXE5aE9sUE1GYzV6SEVZUzkwQlBQNnJ3Sm83cF8zWEJaTEotOXYwMFBDZWR5NzIxcC1xZzQ5UUlGQmY4WkV5VTFZcmRxdjJVQWc1dUE?oc=5",
+          "source": "Mediapool.bg",
+          "published": "2026-10-19T04:26:34+00:00",
+          "summary": "\"Гняв и срам\". Макрон: Как е възможно французи да причинят това на Франция? Mediapool.bg Макрон с обръщение към нацията след погрома във Франция БНТ Новини \"Всички изпитваме гняв и срам.\" Макрон твърди, че няма да се правят никакви компромиси Клуб 'Z' Макрон след безредиците: Който е нападал държавни сгради, ще плати за това boulevardbulgaria.bg „Франция гори!“: Тръмп обвини имиграцията за…"
+        },
+        {
+          "title": "Passenger Plane Operating Tel Aviv–Vienna Flight Diverted to Sofia after Bomb Threat",
+          "url": "https://www.bta.bg/en/news/world/1227434-passenger-plane-operating-tel-aviv-vienna-flight-diverted-to-sofia-after-bomb-th",
+          "source": "EN RSS Free",
+          "published": "2026-10-19T04:25:00+00:00",
+          "summary": "An Airbus A320 operating flight OS82 from Tel Aviv to Vienna was diverted to Sofia on Sunday evening following a bomb threat. According to initial information, there were six crew members and 51 passengers on board, the Ministry of Transport and Communications' press centre said. While the aircraft was approaching the Romanian border, the crew reported receiving a bomb threat and decided to make…"
+        },
+        {
+          "title": "\"Сърбия или мафията\": Студентите имат план за изборите и Вучич задейства машината срещу него - Dnevnik.bg",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnBCYm1DZ0xVRW1hZU9MT1ZTNnNPTkhGZ1BnV2dLN01lUGxzOUpTNHpUelNYUnRMakJHR1VvTkRsNnJWcWF4QXpQeHcxQU1VVGJXNHI5TmFoUWd0SVE2MzUtd2J2bWxMekx0Qklpd1lsUjFyWHE5WnFCcVEwT0h6MHdyZElNTEpjUDNpbEhWT2tIYzlDYUN2dzFTZE5ZV3dBQm93?oc=5",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-19T03:07:00+00:00",
+          "summary": "\"Сърбия или мафията\": Студентите имат план за изборите и Вучич задейства машината срещу него Dnevnik.bg Иван Николов: Сърбия навлиза в преломни времена, страната е драматично разделена БГНЕС Накъде поема Сърбия: Ще свалят ли студентите Вучич от власт www.capital.bg Вучич се бори да остане на власт: студентски протести, наети банди и подкрепата на Путин Dnes.bg Над 110 000 подкрепиха Вучич в Нови…"
+        },
+        {
+          "title": "Хороскоп за 19 октомври 2026 г.: Много задачи за Овните, Рибите да избягват проблемите - Bgonair",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1VldVBZM3J5UkZ4UEhubmp3VlFJR0lMNjl4TFl2ZnZ2WlBsNlY1OFVRN3o2UlpIT1NNSnRJWTJ6UjNyTTMxRUZjUnRsLXlLVHk1aXg4MjJReExETzZNQXRqMEppMl84TkJua0NGNWVUOTdVOHVRNHVrLWdnSXRseFVjME1HeHQ5M1RKcDZoUXBEN3ZrYXF3S1FVTGx4Z254WlhpZTdZRFpWbXRpdVJQY3M5NWgzOGRZYzNLNGpmWHpBQW1lSTcxeERB?oc=5",
+          "source": "Bgonair",
+          "published": "2026-10-19T02:00:00+00:00",
+          "summary": "Хороскоп за 19 октомври 2026 г.: Много задачи за Овните, Рибите да избягват проблемите Bgonair 5 зодии получават важен знак от Вселената на 19 октомври 2026 Bgonair Звездите за бизнеса от 19 до 25 октомври: Проверявайте внимателно числата, преди да вземате решения manager.bg Какво ни предсказват звездите: хороскоп за 19–25 октомври 2026 г. ЖЕНАТА ДНЕС Седмичен хороскоп за 19 - 25 октомври Edna.bg"
+        },
+        {
+          "title": "Самолет с маршрут Тел Авив - Виена кацна извънредно в София заради сигнал за бомбена заплаха - БНТ Новини",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSWJFVXBjOHRxZTB0dFhxUzUwZG1mM0NuN2hOLTFiZmtHeXFLX1plaUpPQXNHbG1WNFUtR2I4MG1vdXR1UmYzczdWdjIzVGNFelFnYXdlOFhUS3FuWTVIR2FiN2dFWFozR2hxYTYxX3RJaERkUFNFNGdwUlB1VTdYODUzNHYyMEl5UlRuUGRFRW5YZEkzYURiY0lobnpYajJldXhPSU12aUZLUlA0NV9iVDc2ZERuMThOSm1EbkU0Q0xFLVczbjcwaDJZamdxdw?oc=5",
+          "source": "БНТ Новини",
+          "published": "2026-10-18T19:43:00+00:00",
+          "summary": "Самолет с маршрут Тел Авив - Виена кацна извънредно в София заради сигнал за бомбена заплаха БНТ Новини Вдигнаха МиГ-29 по тревога заради сигнал за бомба на борда на пътнически самолет ФОКУС Самолет от Тел Авив кацна извънредно в София заради бомбена заплаха Dnevnik.bg Самолет от Израел за Виена кацна извънредно в София заради сигнал за бомба nova.bg Дежурни изтребители МиГ-29 са задействани във…"
+        },
+        {
+          "title": "„Мирът се постига само чрез сила“: Зеленски проведе разговор с пратениците на Тръмп - bTV Новините",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFBrX0JZbXNNY192THlYVVk1Wmlfd0lReXJLOHlFazJNRU9EZkpkMzM2V0JLc2tsUXRJd0JZWnJZUkN4WHhYM2g4ZXdYdWc1TlhhU0pNcGVseG1JcXNpcnBCZGZXbURJQkJQcF91UlBrWUVrMVRmcWs5eDl3SE5HVXROWk50ZllUU2VnZHc5c1B1Um8yMmlFWDRRdTBuaHlOVll2eU8xbGpVSHJ3WHhEWXRra3RPUnc?oc=5",
+          "source": "bTV Новините",
+          "published": "2026-10-18T18:54:00+00:00",
+          "summary": "„Мирът се постига само чрез сила“: Зеленски проведе разговор с пратениците на Тръмп bTV Новините Зеленски: Украйна няма шанс, ако САЩ официално застанат на страната на Русия Investor.bg Напрежението между Киев и Вашингтон: Зеленски разговаря с Уиткоф и Къшнър БНТ Новини Украйна и САЩ подготвят нови преговори Новини СЕГА Зеленски обвини Тръмп, че притиска Украйна към капитулация пред Русия Dnes.bg"
+        },
+        {
+          "title": "Посланикът на Великобритания у нас: Руснаците искат да ни накарат да се страхуваме. Атаките в Черно море са умишлени - ФОКУС",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcDBTcmVZci04SEdIaFp3aEZBMVVTMDZmdjJrUGRmS1pIekpjbVRHZm5sTnphTm1pT2RRZXBsMTNPc25ERXVObjhJdmdpdFM1aHk3YkZPY2lmNjRmOC1QbHhOMU1pVGtiY0ZvbHg2M2lGZlJXX19YeWhGSi1OX2t4SWNmYlh2Vzg4YjJZNFltc0o5NzVOVkhPZGk0WWhZMHZ2Ymh5N1loMXRIamh2bDZUbUJLMDlRdmlrdHFvdHhha08zY3FSc1hZa0U2YU5UWVh1WWZkT1RTSXFTWHBRMTlvUjAxYUNLNFdiX3VHOWY1TElKbFhSM0xxWmNpaw?oc=5",
+          "source": "ФОКУС",
+          "published": "2026-10-18T18:41:49+00:00",
+          "summary": "Посланикът на Великобритания у нас: Руснаците искат да ни накарат да се страхуваме. Атаките в Черно море са умишлени ФОКУС Посланикът на Великобритания: Русия има план с атаките в Черно море Dnevnik.bg Посланикът на Великобритания: Русия стои зад атаките в Черно море, има коварен план News.bg Емануил Йорданов: Русия може да има интерес от ограничаване на корабоплаването в Черно море ФОКУС…"
+        },
+        {
+          "title": "Маркус Гиздол отговори за евентуално отлагане на мача с Лудогорец (ВИДЕО) - Dsport.bg",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONlFPVTA2WmR1LXFWbHBBcmVneHRZMHZ1Qnd6VGxOVHhQcXpZdXdyUHgzdFNTRVFOMGFTTjQ5d1NhcGc3VkxaLWl1V09uVFhGTFRKT3lFa3pZRXJjZGRTWUx2cVY2dGhlZ1lIMm5yZFU3VFgwSVVfRnpHdEh0YjBuRkc5QjVXTktnRHVrb050cExNUUNFRTBYMTlQQW0?oc=5",
+          "source": "Dsport.bg",
+          "published": "2026-10-18T18:18:42+00:00",
+          "summary": "Маркус Гиздол отговори за евентуално отлагане на мача с Лудогорец (ВИДЕО) Dsport.bg ЦСКА решава днес за мача с Лудогорец Topsport.bg ЦСКА решава днес дали да отложи мача с Лудогорец Арена Спорт"
+        },
+        {
+          "title": "Opposition MP Mirchev Accuses Government of Failing to Identify Source of National Security Threats",
+          "url": "https://www.bta.bg/en/news/bulgaria/1227389-opposition-mp-mirchev-accuses-government-of-failing-to-identify-source-of-nation",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T17:58:00+00:00",
+          "summary": "The Government is unwilling to identify the source of threats to Bulgaria’s national security, Democratic Bulgaria (DB) MP and Yes, Bulgaria Co-Chair Ivaylo Mirchev said on Nova TV on Sunday. He also accused President and presidential candidate Iliana Iotova of conducting a campaign based on \"lies and divisions\". Mirchev accused the Government of failing to respond adequately to what he described…"
+        },
+        {
+          "title": "Radicalization in Bulgaria’s Foreign Policy Is a Serious Mistake, President Says",
+          "url": "https://www.bta.bg/en/news/bulgaria/1227366-radicalization-in-bulgaria-s-foreign-policy-is-a-serious-mistake-president-says",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T17:06:00+00:00",
+          "summary": "Radicalization in Bulgaria’s foreign policy is a serious mistake and is not a course the country intends to pursue, President Iliana Iotova told Nova TV on Sunday. \"I represent the head of State and I know very well the weight of every word,\" she said. Asked whether national security is under threat, Iotova said there are risks and threats to Black Sea security in a number of areas. \"I cannot…"
+        },
+        {
+          "title": "Transport Minister: Procedures Worth over EUR 350 Mln Terminated at Railway Infrastructure Company after Audit",
+          "url": "https://www.bta.bg/en/news/economy/1227365-transport-minister-procedures-worth-over-eur-350-mln-terminated-at-railway-infr",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T16:42:10+00:00",
+          "summary": "Procurement procedures worth more than EUR 350 million and contracts worth over EUR 20 million have been terminated at the National Railway Infrastructure Company (NRIC) following an audit that raised suspicions of irregularities, Transport and Communications Minister Georgi Peev told Nova TV on Sunday. Asked about the results of audits at Bulgarian State Railways (BDZ) and NRIC, Peev said 17…"
+        },
+        {
+          "title": "Канадската звезда Джонатан Рой излиза на сцената на \"Гласът на България\" - bTV Новините",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1BBcXhFSXQta21TTjlBYld5UndYYk16Q3BfRGR5S203blJlNVQwUWNnUlVkNFNQVGVXUFlsQXZYZjZvY1NuTFo2WDBFTExsM3RkaUZNUldpTWttSlloNXhnNjgwMG5iSWU5SVB2WFgxTEtjZFV1a0g4b0hOTlM0NmJtYXlEQ21FZ0l4NmdEeXV6czNtV0FEQ0ducTlCbnVlZmZRR1o4WVphWm1tNlE?oc=5",
+          "source": "bTV Новините",
+          "published": "2026-10-18T16:30:00+00:00",
+          "summary": "Канадската звезда Джонатан Рой излиза на сцената на \"Гласът на България\" bTV Новините Джонатан Рой и Мария Илиева откраднаха шоуто в \"Гласът на България\" Plovdiv24.bg Канадска звезда изгрява в \"Гласът на България\" bgdnes.bg Световна музика Signal.bg Световна звезда излиза бос на сцената на „Гласът на България“ Радио N-JOY"
+        },
+        {
+          "title": "Пропуските в киберсигурността достигнаха исторически рекорд заради изкуствения интелект - Dir.bg",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGJUczA1a2ZRYjJlVzNPTmI1MEY1OTdoYlZsSWlaUUJZRVdKa2ZqOWp5dmhYamV5c2FiWExRZmpQcG9wTE1tT3lBc1ZNUFJJSW9pT3lrRXp4a294ZDA5QU9NTjExZmlSbUdiVHhvVHVtR3ROckROeXpIOUR6dXZuQWQ1T3BDc0lWX0E0UUNxTjByTUpEVC1MZWdsSkl5QjZBeDY3QUxzaHdqbGFaRFZPcVhaQWpSNmVvZFpkNzNB?oc=5",
+          "source": "Dir.bg",
+          "published": "2026-10-18T15:53:27+00:00",
+          "summary": "Пропуските в киберсигурността достигнаха исторически рекорд заради изкуствения интелект Dir.bg Броят на откритите пропуски в киберсигурността достига рекордно високо ниво благодарение на изкуствения интелект, съобщи „Майтър корпорейшън“ Дебати БГ"
+        },
+        {
+          "title": "Никелът на Нова Каледония - Франция и ЕС търсят алтернатива на влиянието на Китай - Mediapool.bg",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGliSWRyR3FBVjB5MjYyZ09na2xXd1FMWDNGQ3Z5aDhpRHFQUDNkMHpGeWRRLW43YnhqVEtpWklFWlNFTjhoMmxodEQzSmszWVg5Y2pPVm1JQUVJdXk4ZDhzbm8yVFJlY3VZSGVlUzg3OWwxRzRQaXNVOUQ3QjRoRGN1MUlaZGwzQ25Jc2szOG9HRE9EeVRCWkd6em55dnpsR3o1UTkzQnlqTEJVSTBtSk1KcnI5UGlL?oc=5",
+          "source": "Mediapool.bg",
+          "published": "2026-10-18T15:16:55+00:00",
+          "summary": "Никелът на Нова Каледония - Франция и ЕС търсят алтернатива на влиянието на Китай Mediapool.bg"
+        },
+        {
+          "title": "Говори оцелял от ударения с дронове HS Dignity: Корабът потъваше изключително бързо и повличаше хората със себе си - nova.bg",
+          "url": "https://news.google.com/rss/articles/CBMiswZBVV95cUxQMGVxUlJsM3dwUHcxU2xNSnRvV1NmTVQ2aXBjYkhXeUR4Vl9jdkEzcGY4TDNpSUQ3ZWJVTmcyT0llYTZPVVdyYkYwcE5vOEJFWWZmV3FCSmFobC1WZ0RCNzJsWEozQ01GcENZZVVHNDJvTUdUMXdLejgyT0dWaldqZWhpZF9FdTE5aUZLTWRFenFxV1p1cUVFaFRIRjBxYWtEVVg0TWFRTTJ6aDkySUFoQm5PaG03d0VKVTlVc0lvbUpkNEwyY1V2TS1uR1lYQWlHTkV1ek9QUHl1MFBWMm9uQV9XVjdTeGtuUkltUjJCNFRtbVAtQi16QnQ0MGhZM2FuekY4WVpxSEVuWk9hZEpHU1NkQTZUX3BoWmg2SmlUUDZhT21CWWJ2ZFh2cUtZeUdaeDVqN3NUWjJUNkYtOFJNY29uNXFPRWQ3NjlHakVKeFhsRTVWazVJR1IzYTlhYURaNXNUbU1IV3dhYkpuWm5McHpnazZha2hISWlkQnRWT2VpeXA4Q2NubzJLZ3hha1pTXzh0MGFTTXNPdWgyNmNpVnIweDd3R0Znc3lzdVQwQncwa3NkUml3MERWRXhZUldXZG5tSUpUWnJwUGVmVUk1TmloemxCQ283NVNSWmp6MUFFdHMtY0xfUmZGQzRDTGNiaTMzZUE0eWxWZG5XUDh2LUM5dzNxTEtaVllBWWhTekgxQ25ZYTNLNlNGY2ZnX1JSMG9ocFFDYVlnOHJBQ2pUZEh0Q3RYbGNTSWx6b1kybm10andUOVlYdGdfR012bV8tX3drSTBHeXRLVENFOHpab0ZNRlgzVU1IZ0tuSmpiekZyUC1HRDNHYU82MHR6emFIOFpoYWtQTTJ1aVAtTGh2RmVpTDdrQzdWRjlTVnIyNWZKY2NBWG85bHBoY0FjQ0pYdGN2a2t1RWUwM3VGQ3RfV2FFeDNwTkJBQzhYSjJmNjF0dE9Kem5VbzZzR1V4ekM1VG5VdmxNRnA1UmhpaFkxOXRYNnRkUzQ0WVFSVUZ0ZG91aFVQRjYyaS1seENGaE5PTWdpclluODVDOVNYcWFaOVRPV1A1MFAySV91UTViQXdGM0E?oc=5",
+          "source": "nova.bg",
+          "published": "2026-10-18T14:54:00+00:00",
+          "summary": "Говори оцелял от ударения с дронове HS Dignity: Корабът потъваше изключително бързо и повличаше хората със себе си nova.bg Близки на моряците от потъналите кораби ги търсят във \"Фейсбук\" Dnevnik.bg Оцелял моряк разказва за трагедия в Черно море: Чухме два взрива, корабът потъваше изключително бързо bgdnes.bg Вятър с пориви до 72 км/ч и вълнение от 5 бала прекратиха издирването на моряците от \"Ейч…"
+        },
+        {
+          "title": "Левски пречупи Спартак Плевен за Sesame Купа на България - Gong.bg",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcExBVkZEaHJ4SjhXcUZBTHJwZEhDSnQ2UmZKcW5GWmV5QXV3R2lZWWcyMTdaRTBzV3IydFBXeEtrZ25JSFJ3WUp1YUJmLTFibUxwYmtWdWxiOExIRmNFS2JyVXM3SlVZSXN5UE9aWlIzSGZpSUo3NWZsbnpSR2NqM2JyRUM4UDRDRW9nb0R1TUVtaEFBeTk4?oc=5",
+          "source": "Gong.bg",
+          "published": "2026-10-18T14:00:06+00:00",
+          "summary": "Левски пречупи Спартак Плевен за Sesame Купа на България Gong.bg Левски се справи със Спартак (Плевен) пред отличната атмосфера в Ловеч Sportal.bg НА ЖИВО: Спартак Плевен 0:1 Левски, Бала откри от дузпа Gong.bg БУТОНКИТЕ: Постен Левски между Ниймеген и Пилзен Dsport.bg Спартак Плевен - Левски 0:0, греда за плевенчани! Topsport.bg"
+        },
+        {
+          "title": "ЦСКА се измъчи срещу Несебър, късни голове донесоха успеха на \"армейците\" - Gong.bg",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFBNWkJON05pc29BQ1drQW9ZRjBDbUdGNXVXelNLSGRWcVNXTjJVaHUxakx5LTFNTG5RWUdMSnhiMjV5OTVXbUFGTng1RDFGaWhHNFlCN010dWtDdEh3UGZlOHJ1ZGVsMTl6OVlnSkRjZTh1dXlDTmNKUlFQNXA3OVhocFM0WXZvMXVN?oc=5",
+          "source": "Gong.bg",
+          "published": "2026-10-18T13:57:49+00:00",
+          "summary": "ЦСКА се измъчи срещу Несебър, късни голове донесоха успеха на \"армейците\" Gong.bg ЦСКА си поигра с огъня, но започна успешно защитата на Купата Sportal.bg БУТОНКИТЕ: ЦСКА скъса нерви, вместо мрежата, има и такива мачове Dsport.bg Гиздол след победата: Трудно предизвикателство беше ФОКУС Димитър Евтимов: Срещата се оказа доста по-трудна от очакваното Topsport.bg"
+        },
+        {
+          "title": "Bulgarian Participants in EU Citizens’ Panel Discuss Europe’s Digital Sovereignty, AI",
+          "url": "https://www.bta.bg/en/news/world/1227301-bulgarian-participants-in-eu-citizens-panel-discuss-europe-s-digital-sovereignt",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T13:40:00+00:00",
+          "summary": "Strengthening Europe’s digital sovereignty, developing European artificial intelligence and protecting personal data were among the issues discussed by Bulgarian participants in the second session of the European Citizens’ Panel on Democratic Resilience, held online from October 16 to 18. Mihaela Koleva from Yambol, Gabriela Karadzhonova-Malcheva from Plovdiv, Stefan Rusev from Ivaylovgrad and…"
+        },
+        {
+          "title": "Bulgarian Athletes Win Two Bronze Medals at Balkan Half Marathon Championships",
+          "url": "https://www.bta.bg/en/news/balkans/1227291-bulgarian-athletes-win-two-bronze-medals-at-balkan-half-marathon-championships",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T13:15:00+00:00",
+          "summary": "Bulgarian athletes won two bronze medals at the Balkan Half Marathon Championships in Apatin, Serbia, the Bulgarian Athletics Federation said Sunday. Marinela Nineva finished third in the women’s race, covering the 21.097-kilometre distance in 1:16:09. Filippo Trevisani also took bronze in the men’s race, clocking 1:09:59."
+        },
+        {
+          "title": "Bulgaria Seeks NATO Support to Strengthen Air Defence, Prioritizes Diplomacy over Black Sea Tensions - Defence Minister",
+          "url": "https://www.bta.bg/en/news/bulgaria/1227281-bulgaria-seeks-nato-support-to-strengthen-air-defence-prioritizes-diplomacy-ove",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T12:42:00+00:00",
+          "summary": "Bulgaria is seeking enhanced NATO support for its air defence capabilities while prioritizing diplomacy to address security incidents in the Black Sea, Defence Minister Dimitar Stoyanov said here on Sunday. Bulgaria has sent two letters to NATO, at the end of August and on October 13, requesting enhanced aerial surveillance, air policing support and surface-to-air missile systems, depending on…"
+        },
+        {
+          "title": "Bulgarian Patriarch Daniil, Ecumenical Patriarch Bartholomew Call for Church Unity and World Peace",
+          "url": "https://www.bta.bg/en/news/culture/1227274-bulgarian-patriarch-daniil-ecumenical-patriarch-bartholomew-call-for-church-uni",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T12:28:39+00:00",
+          "summary": "Bulgarian Patriarch Daniil and visiting Ecumenical Patriarch Bartholomew called for peace, unity and understanding in a divided world during a solemn hierarchical Divine Liturgy at the Patriarchal Cathedral of St. Alexander Nevsky in Sofia on Sunday. Bartholomew said the world urgently needed peace and that prayers would be offered for unity among the Churches. Describing his visit as an…"
+        },
+        {
+          "title": "Fact Check: Ukrainian Drones Did Not Silence Russian Propaganda Bots",
+          "url": "https://www.novinite.com/view_news.php?id=241123",
+          "source": "Novinite.com (Sofia News Agency)",
+          "published": "2026-10-18T12:17:29+00:00",
+          "summary": "Ukrainian drone strikes on three Yandex data centers this month caused widespread disruption to Russian internet services, but researchers and fact-checkers have found no evidence that they silenced Russian propaganda networks on Western social media, contrary to viral claims that circulated after the attacks. The strikes The attacks came in response to a Russian campaign against Ukrainian data…"
+        },
+        {
+          "title": "Ecumenical Patriarch Bartholomew Holds Memorial Prayer at Grave of Late Bulgarian Patriarch Neophyte",
+          "url": "https://www.bta.bg/en/news/culture/1227248-ecumenical-patriarch-bartholomew-holds-memorial-prayer-at-grave-of-late-bulgaria",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T11:32:00+00:00",
+          "summary": "Ecumenical Patriarch Bartholomew held a trisagion memorial service at the grave of the late Bulgarian Patriarch Neophyte here on Sunday. Bulgarian Patriarch Daniil, hierarchs of the Holy Synod of the Bulgarian Orthodox Church and members of Bartholomew’s delegation attended the service. Earlier in the day, the two patriarchs participated in prayer during a solemn hierarchical Divine Liturgy at…"
+        },
+        {
+          "title": "Bulgarian Special Operations Forces Seek Faster Modernization, Commander Says",
+          "url": "https://www.bta.bg/en/news/bulgaria/1227238-bulgarian-special-operations-forces-seek-faster-modernization-commander-says",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T11:12:00+00:00",
+          "summary": "Bulgaria’s Special Operations Forces are working to acquire modern weapons and equipment and develop skills in operating remote systems and countering hybrid threats, Brigadier General Bozhidar Boykov, commander of the Joint Special Operations Command, told reporters at a ceremony marking Military Paratrooper Day here on Sunday. Boykov said the Special Operations Forces are adapting quickly to a…"
+        },
+        {
+          "title": "Defence Minister Says It Is Too Early to Say What NATO Assistance Bulgaria Will Receive",
+          "url": "https://www.bta.bg/en/news/bulgaria/1227232-defence-minister-says-it-is-too-early-to-say-what-nato-assistance-bulgaria-will-",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T11:05:00+00:00",
+          "summary": "It is too early to say exactly what assistance Bulgaria will receive from NATO, as further discussions are pending. However, Bulgaria's airspace is already protected by its own fighter aircraft and surface-to-air missile systems, although some of the equipment is somewhat outdated, Defence Minister Dimitar Stoyanov told reporters during an event marking Paratrooper Day in Sofia, when asked about…"
+        },
+        {
+          "title": "Ecumenical Patriarch Bartholomew Describes Visit to Sofia as Historic Day of Renewed Sanctification of Church Relations",
+          "url": "https://www.bta.bg/en/news/culture/1227218-ecumenical-patriarch-bartholomew-describes-visit-to-sofia-as-historic-day-of-ren",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T10:36:25+00:00",
+          "summary": "Ecumenical Patriarch Bartholomew described his visit to Sofia as a historic day of renewed sanctification of church relations during the solemn Divine Liturgy at the Patriarchal Cathedral of St. Alexander Nevsky, concelebrated with Bulgarian Patriarch Daniil. Patriarch Bartholomew expressed his deep gratitude for the invitation and the warm welcome extended by the Bulgarian Orthodox Church,…"
+        },
+        {
+          "title": "Russian Attacks Hit Residential Building and Energy Infrastructure in Odesa Region",
+          "url": "https://www.bta.bg/en/news/world/1227215-russian-attacks-hit-residential-building-and-energy-infrastructure-in-odesa-regi",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T10:27:17+00:00",
+          "summary": "Russian forces struck a multi-storey residential building in a densely populated area of Odesa around midday Sunday, while launching a large-scale overnight drone attack on energy facilities in the wider region, Ukrainian officials said. The strike on the residential building injured a 13-year-old girl, Serhii Lysak, head of the Odesa City Military Administration, said on Telegram. The attack…"
+        },
+        {
+          "title": "There Are No Lost Generations, Presidential Candidate Iotova Tells Students",
+          "url": "https://www.bta.bg/en/news/bulgaria/1227213-there-are-no-lost-generations-presidential-candidate-iotova-tells-students",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T10:24:00+00:00",
+          "summary": "There are no lost generations. Everyone lives in their own time, with the hope, desire and opportunity to give their best, said Iliana Iotova, incumbent President and presidential candidate in the October 25 election, during a discussion with students in Sofia. She recalled that she graduated from university in 1989 and that for many years her generation had been described as a lost generation.…"
+        },
+        {
+          "title": "„Гардиън“: Шест поразени кораба за 10 дни в Черно море, България е на първа линия на ескалиращия конфликт - bTV Новините",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSXEydzVvMDF1SGpCa1RoRklyT0txTXYtWkNpcGx3djlCdTZBclIzZU5TUHRDajVzZmktYkFZNUpPSUY5bkZhWHJBelFEOVowMUF5Z2diNmhiVlFnRVZUdGRQRHBoczZjYlE3NDdqczNTVVFKa3ZQc0M4UUd0ZjR2b2xaTjVGdUFJS195YzVCa3JNcnFQaWNMNC1tX3V0T2JPajJJM216YmdZVVJmV0lUVFRKWXVRMnVfR2NueWk3NzhjMzVncnFYQTllRFR3ZlVxX3hmbHpIaW9Pb1E?oc=5",
+          "source": "bTV Новините",
+          "published": "2026-10-18T10:21:42+00:00",
+          "summary": "„Гардиън“: Шест поразени кораба за 10 дни в Черно море, България е на първа линия на ескалиращия конфликт bTV Новините Илияна Йотова ще предложи проект за изменение на Конституцията, ако бъде избрана за президент nova.bg Йотова приема заключенията на Европейския съвет за руските удари в Черно море. Но чака доказателства boulevardbulgaria.bg The Guardian: Черно море става все по-опасно, България…"
+        },
+        {
+          "title": "GERB Leader Borissov Says Black Sea Attacks Have Hurt Tourism, Questions Fuel Price Increases",
+          "url": "https://www.bta.bg/en/news/bulgaria/1227212-gerb-leader-borissov-says-black-sea-attacks-have-hurt-tourism-questions-fuel-pr",
+          "source": "EN RSS Free",
+          "published": "2026-10-18T10:15:39+00:00",
+          "summary": "GERB leader Boyko Borissov said attacks on ships in the Black Sea had severely damaged tourism along Bulgaria’s coast, while describing the recent rise in fuel prices as inexplicable. Borissov said that during GERB’s time in government, policies had focused on developing the Black Sea coast as a hub for tourism and trade, with record tourism revenues reported during that period. He said petrol…"
+        },
+        {
+          "title": "Дара и Лу Дельоз ще бъдат специални гости на детската Евровизия - Dir.bg",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnBZdkpPNWh5RXBJaVkydWtobWE2bGh0a0FCTFR6WjZsLWh6bVpmU1huTjBWWmVDOEtTcU1MNnUzMno5VGVCa3BGRzZOZVNkQTJoX3llcDlGTjdjQWlQbUdKSDVHVzBrVWtqSXVfYloyUEVIR1JlcnhQUVVZV0VPQUxXNF85UkNDdDVpUGVkYnI0cGdRZ09j?oc=5",
+          "source": "Dir.bg",
+          "published": "2026-10-18T09:42:37+00:00",
+          "summary": "Дара и Лу Дельоз ще бъдат специални гости на детската Евровизия Dir.bg Дара и Лу Дельоз ще пеят заедно на детската \"Евровизия\" Новини СЕГА Дара ще е специален гост на детската \"Евровизия\" 2026 www.24chasa.bg Дара и Лу Дельоз ще бъдат специални гости на детската Евровизия в Малта https://dunav24.com/ Дара и Лу Дельоз ще бъдат специални гости на детската „Евровизия“ 2026 БТА"
+        },
+        {
+          "title": "Неизбежното се случи, първият електрически SUV на AMG е с 1169 к.с. - Carmarket.bg",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTU9wcmxXb3BNZGJuT2x1YXRYQ0lQWW9oX19RR09OY2U5SHIwR0NoeTFnVUFub0pqNXdQTjFJSlRmYXN1RHMyaDY4S2pWVlVBcWloQU9WMXN6a2liQzBZTzNjNlQxeHNTMU5FU1VjM0R6V3p1TlVXVTdGVEx3VWJYMWVrbDJZd08taFNnMFhleUhvb0hxTzdGbVZ1UEc4bER5MXlCbzA5bnZnOEU?oc=5",
+          "source": "Carmarket.bg",
+          "published": "2026-10-18T08:56:53+00:00",
+          "summary": "Неизбежното се случи, първият електрически SUV на AMG е с 1169 к.с. Carmarket.bg Mercedes представи електрически AMG - пряк конкурент на Cayenne на Porsche Investor.bg Специална експозиция в София разказва историята на автомобила DizzyRiders.bg EXPO 140 на Mercedes-Benz разказва историята на автомобила Lifestyle.bg Мерцедес-АМГ GT SUV с 1153 к.с. за семейни приключения Topgear.bg"
+        },
+        {
+          "title": "Димитър Стоянов: Идват самолети на НАТО над Черно море - БНТ Новини",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaVRWU2pKdnRzS2lYOEhyZmFrclBtajFtVnBTM3l6VGNPckx2cGhzdXVXYTNTMVNPRmkyYVY1cnpUeWF5c09ibjlCZDFiTDMxaVNtdGMxNTlaZVl4Zm9hSlRvdUJyQ1dMX3AxNnAxalFNMzBSQ1plb0xkd1dNOTl1OTVIYnpCUGE5NnY4cVJyS0V3N3hPajJtZm1iSVk?oc=5",
+          "source": "БНТ Новини",
+          "published": "2026-10-18T07:25:36+00:00",
+          "summary": "Димитър Стоянов: Идват самолети на НАТО над Черно море БНТ Новини България ще поиска да бъде включена в системата на НАТО за защита от дронове Investor.bg Бизнес закуска: 🥐САЩ искат руския газ обратно в Европа; България чака самолети на НАТО над Черно море; Гневни млади европейци www.capital.bg България очаква скоро съюзна авиация и антидрон системи Dnevnik.bg ДЕНЯТ В НЯКОЛКО РЕДА: авиация на…"
+        },
+        {
+          "title": "Твърде ранна несигурност – католиците отново са с папа, който се бори със заболяване - Dnevnik.bg",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGl6VEZlRTVwLTFQR01FLUJMbnp5emZHZV9sd0d4VlJkcGc4bWpqY1N6VDJ1UkhzdnNWRm9LeG9SOU9ETTdvdFhBOFpObnc5dHhBOXlKTl90Z0NPcHoxOHo1WW04MGY3QmUwdVhFZDZDTHl3aGJ3ZHBaMjlsYzBRQkVGQWQwc2xzU0xNczhUR1RSb3ZzRGM4Um5oVi0weHhJSU9n?oc=5",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-18T06:02:00+00:00",
+          "summary": "Твърде ранна несигурност – католиците отново са с папа, който се бори със заболяване Dnevnik.bg Папа Лъв XIV се появи публично за първи път след операцията на белия дроб Moreto.net Папата напусна пеша болницата, четири дни след операцията на белия дроб Mediapool.bg Папа Лъв се появи за първи път след операцията, поздрави събралите се във Ватикана ФОКУС Папа Лъв XIV след операцията: Благодаря на…"
+        }
+      ],
+      "failed_feeds": []
+    }
+  }
+}
