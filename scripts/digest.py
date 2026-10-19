@@ -125,8 +125,14 @@ def extract_json(text: str, model: str = "", ctype: str = "") -> dict:
     start, end = t.find("{"), t.rfind("}")
     if start == -1 or end <= start:
         raise RuntimeError(f"{model}: η απάντηση δεν περιέχει JSON ({ctype}): {text[:200]!r}")
+    chunk = t[start:end + 1]
+    for candidate in (chunk, re.sub(r",\s*([}\]])", r"\1", chunk)):
+        try:
+            return json.loads(candidate)
+        except ValueError:
+            pass
     try:
-        return json.loads(t[start:end + 1])
+        return json.loads(chunk)
     except ValueError as e:
         raise RuntimeError(f"{model}: άκυρο JSON στην απάντηση: {e}; αρχή: {t[start:start + 200]!r}") from e
 
@@ -154,15 +160,21 @@ class OpenAICompatClient:
         schema = json.dumps(tool["input_schema"], ensure_ascii=False)
         json_prompt = (
             f"{prompt}\n\n---\nΑπάντησε ΜΟΝΟ με ένα έγκυρο JSON object (χωρίς markdown, "
-            f"χωρίς σχόλια, χωρίς κείμενο πριν ή μετά) που ακολουθεί αυτό το JSON Schema:\n{schema}"
+            f"χωρίς σχόλια, χωρίς κείμενο πριν ή μετά) που ακολουθεί αυτό το JSON Schema:\n{schema}\n"
+            "ΣΗΜΑΝΤΙΚΟ: μέσα στα κείμενα ΜΗ χρησιμοποιείς διπλά εισαγωγικά (\"). "
+            "Για παραθέματα χρησιμοποίησε «» στα ελληνικά και ‘’ στα αγγλικά."
         )
         body = {
             "model": model,
-            "max_tokens": 4000,
+            "max_tokens": 8000,
             "temperature": 0.5,
             "messages": [{"role": "system", "content": NEUTRALITY_RULES},
                          {"role": "user", "content": json_prompt}],
         }
+        if "openrouter.ai" in self.endpoint:
+            # Τα μοντέλα «συλλογισμού» ξοδεύουν αλλιώς όλα τα tokens σκεπτόμενα
+            # και επιστρέφουν κενή απάντηση. Λίγη σκέψη αρκεί για περιλήψεις.
+            body["reasoning"] = {"effort": "low", "exclude": True}
         req = urllib.request.Request(
             self.endpoint, data=json.dumps(body).encode(), method="POST",
             headers={"Authorization": f"Bearer {self.token}", "Content-Type": "application/json",
@@ -204,7 +216,11 @@ class OpenAICompatClient:
                 args = call.get("function", {}).get("arguments") or ""
                 if args.strip():
                     return extract_json(args, model)
-            return extract_json(msg.get("content") or "", model)
+            content = msg.get("content") or ""
+            if not content.strip():
+                why = data["choices"][0].get("finish_reason")
+                raise QuotaError(f"{model}: κενό περιεχόμενο (finish_reason={why}) — αλλάζουμε μοντέλο")
+            return extract_json(content, model)
         # 2) Το ίδιο το JSON object που ζητήσαμε
         if isinstance(data, dict):
             return data
@@ -240,7 +256,7 @@ def make_client():
 
 def call_tool(client, tool: dict, prompt: str) -> dict:
     last_err = None
-    for attempt in range(3):
+    for attempt in range(2):
         try:
             return client.tool(tool, prompt)
         except QuotaError:
@@ -248,7 +264,7 @@ def call_tool(client, tool: dict, prompt: str) -> dict:
         except Exception as e:  # δίκτυο / κακό JSON
             last_err = e
             print(f"  προσπάθεια {attempt + 1} απέτυχε: {e}")
-            time.sleep(10 * (attempt + 1))
+            time.sleep(5)
     raise RuntimeError(f"Αποτυχία κλήσης μοντέλου: {last_err}")
 
 
