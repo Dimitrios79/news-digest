@@ -1,24 +1,24 @@
 {
   "date": "2026-10-19",
-  "generated": "2026-10-19T09:16:33.711608+00:00",
+  "generated": "2026-10-19T09:27:03.818058+00:00",
   "ai": "GitHub Models",
   "glance": {
     "el": [
       "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
       "Anthropic gives outside AI watchdog “employee-like” access",
-      "Ανανεωμένη η μεγάλη παρέλαση της 28ης Οκτωβρίου στη Θεσσαλονίκη",
-      "Турските власти разбиха предполагаема мрежа за незаконна търговия с яйцеклетки, свързана с Турция, Северен Кипър, Албания и Грузия"
+      "Οι πέντε μάχες που θα καθορίσουν τα σχέδια του ΝΑΤΟ για τον πόλεμο με τη Ρωσία – Το κενό των ΗΠΑ και τα διδάγματα από την Ουκρανία",
+      "Сигнал за бомба е получен в здравната каса"
     ],
     "en": [
       "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
       "Anthropic gives outside AI watchdog “employee-like” access",
-      "Ανανεωμένη η μεγάλη παρέλαση της 28ης Οκτωβρίου στη Θεσσαλονίκη",
-      "Турските власти разбиха предполагаема мрежа за незаконна търговия с яйцеклетки, свързана с Турция, Северен Кипър, Албания и Грузия"
+      "Οι πέντε μάχες που θα καθορίσουν τα σχέδια του ΝΑΤΟ για τον πόλεμο με τη Ρωσία – Το κενό των ΗΠΑ και τα διδάγματα από την Ουκρανία",
+      "Сигнал за бомба е получен в здравната каса"
     ]
   },
   "meta": {
-    "el": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers; Anthropic gives outside AI watchdog “employee-like” access; Ανανεωμένη η",
-    "en": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers; Anthropic gives outside AI watchdog “employee-like” access; Ανανεωμένη η"
+    "el": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers; Anthropic gives outside AI watchdog “employee-like” access; Οι πέντε μάχ",
+    "en": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers; Anthropic gives outside AI watchdog “employee-like” access; Οι πέντε μάχ"
   },
   "sections": [
     {
@@ -94,6 +94,70 @@
         },
         {
           "title": {
+            "el": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU",
+            "en": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Japan’s SiteGuard WAF flaw CVE-2026-106931 is already being exploited",
+            "en": "Japan’s SiteGuard WAF flaw CVE-2026-106931 is already being exploited"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/201258/security/japans-siteguard-waf-flaw-cve-2026-106931-is-already-being-exploited.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The password nobody owns: Taking machines to zero standing privilege (ZSP)",
+            "en": "The password nobody owns: Taking machines to zero standing privilege (ZSP)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4236528/the-password-nobody-owns-taking-machines-to-zero-standing-privilege-zsp.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
+            "en": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33434"
+            }
+          ]
+        },
+        {
+          "title": {
             "el": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
             "en": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys"
           },
@@ -155,70 +219,6 @@
               "url": "https://www.helpnetsecurity.com/2026/10/19/rpo-rto-video/"
             }
           ]
-        },
-        {
-          "title": {
-            "el": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-            "en": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "The Hacker News",
-              "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html"
-            }
-          ]
-        },
-        {
-          "title": {
-            "el": "Half the AI bot traffic hammering your website comes from Meta",
-            "en": "Half the AI bot traffic hammering your website comes from Meta"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "Help Net Security",
-              "url": "https://www.helpnetsecurity.com/2026/10/19/datadome-ai-agent-traffic-report/"
-            }
-          ]
-        },
-        {
-          "title": {
-            "el": "Ransomware pressure now reaches employees’ homes and families",
-            "en": "Ransomware pressure now reaches employees’ homes and families"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "Help Net Security",
-              "url": "https://www.helpnetsecurity.com/2026/10/19/semperis-ransomware-employee-safety-report/"
-            }
-          ]
-        },
-        {
-          "title": {
-            "el": "Week in review: Hidden implant in Ledger wallets linked to $93M theft, 1,500+ npm packages exposed",
-            "en": "Week in review: Hidden implant in Ledger wallets linked to $93M theft, 1,500+ npm packages exposed"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "Help Net Security",
-              "url": "https://www.helpnetsecurity.com/2026/10/18/week-in-review-hidden-implant-in-ledger-wallets-linked-to-93m-theft-1500-npm-packages-exposed/"
-            }
-          ]
         }
       ]
     },
@@ -247,8 +247,8 @@
         },
         {
           "title": {
-            "el": "AI’s epic cash call is matched only by its ability to strangle revenue streams",
-            "en": "AI’s epic cash call is matched only by its ability to strangle revenue streams"
+            "el": "Microsoft’s second-hand licensing appeal gets the brush-off",
+            "en": "Microsoft’s second-hand licensing appeal gets the brush-off"
           },
           "summary": {
             "el": "",
@@ -257,7 +257,7 @@
           "sources": [
             {
               "name": "www.theregister.com - Articles",
-              "url": "https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493"
+              "url": "https://www.theregister.com/legal/2026/10/19/microsofts-second-hand-licensing-appeal-gets-the-brush-off/5303718"
             }
           ]
         },
@@ -295,8 +295,8 @@
         },
         {
           "title": {
-            "el": "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900",
-            "en": "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900"
+            "el": "AI’s epic cash call is matched only by its ability to strangle revenue streams",
+            "en": "AI’s epic cash call is matched only by its ability to strangle revenue streams"
           },
           "summary": {
             "el": "",
@@ -305,7 +305,7 @@
           "sources": [
             {
               "name": "www.theregister.com - Articles",
-              "url": "https://www.theregister.com/ai-and-ml/2026/10/19/sponsored-ai-inference-is-running-into-a-memory-bottleneck-huawei-wants-to-tackle-it-with-oceanstor-m900/5303543"
+              "url": "https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493"
             }
           ]
         },
@@ -327,8 +327,8 @@
         },
         {
           "title": {
-            "el": "Engineer was so sick of office pranks, he 'wiped' his antagonist's disk",
-            "en": "Engineer was so sick of office pranks, he 'wiped' his antagonist's disk"
+            "el": "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900",
+            "en": "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900"
           },
           "summary": {
             "el": "",
@@ -337,7 +337,7 @@
           "sources": [
             {
               "name": "www.theregister.com - Articles",
-              "url": "https://www.theregister.com/software/2026/10/19/engineer-was-so-sick-of-office-pranks-he-wiped-his-antagonists-disk/5302162"
+              "url": "https://www.theregister.com/ai-and-ml/2026/10/19/sponsored-ai-inference-is-running-into-a-memory-bottleneck-huawei-wants-to-tackle-it-with-oceanstor-m900/5303543"
             }
           ]
         },
@@ -359,8 +359,8 @@
         },
         {
           "title": {
-            "el": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU",
-            "en": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU"
+            "el": "Engineer was so sick of office pranks, he 'wiped' his antagonist's disk",
+            "en": "Engineer was so sick of office pranks, he 'wiped' his antagonist's disk"
           },
           "summary": {
             "el": "",
@@ -369,7 +369,7 @@
           "sources": [
             {
               "name": "www.theregister.com - Articles",
-              "url": "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758"
+              "url": "https://www.theregister.com/software/2026/10/19/engineer-was-so-sick-of-office-pranks-he-wiped-his-antagonists-disk/5302162"
             }
           ]
         },
@@ -400,8 +400,8 @@
       "stories": [
         {
           "title": {
-            "el": "Ανανεωμένη η μεγάλη παρέλαση της 28ης Οκτωβρίου στη Θεσσαλονίκη",
-            "en": "Ανανεωμένη η μεγάλη παρέλαση της 28ης Οκτωβρίου στη Θεσσαλονίκη"
+            "el": "Οι πέντε μάχες που θα καθορίσουν τα σχέδια του ΝΑΤΟ για τον πόλεμο με τη Ρωσία – Το κενό των ΗΠΑ και τα διδάγματα από την Ουκρανία",
+            "en": "Οι πέντε μάχες που θα καθορίσουν τα σχέδια του ΝΑΤΟ για τον πόλεμο με τη Ρωσία – Το κενό των ΗΠΑ και τα διδάγματα από την Ουκρανία"
           },
           "summary": {
             "el": "",
@@ -410,7 +410,7 @@
           "sources": [
             {
               "name": "ertnews.gr",
-              "url": "https://www.ertnews.gr/ert3/ananeomeni-i-megali-parelasi-tis-28is-oktovriou-sti-thessaloniki/"
+              "url": "https://www.ertnews.gr/eidiseis/oi-pente-maxes-pou-tha-kathorisoun-ta-sxedia-tou-nato-gia-ton-polemo-me-ti-rosia-to-keno-ton-ipa-kai-ta-didagmata-apo-tin-oukrania/"
             }
           ]
         },
@@ -432,8 +432,8 @@
         },
         {
           "title": {
-            "el": "Ομόνοια: Ατομο έπεσε στο κενό από παράθυρο ξενοδοχείου",
-            "en": "Ομόνοια: Ατομο έπεσε στο κενό από παράθυρο ξενοδοχείου"
+            "el": "Μητσοτάκης για ΔΑΙΔΑΛΟ: «Έχει φοβερές δυνατότητες, να γίνει η Ελλάδα πρωταγωνίστρια»",
+            "en": "Μητσοτάκης για ΔΑΙΔΑΛΟ: «Έχει φοβερές δυνατότητες, να γίνει η Ελλάδα πρωταγωνίστρια»"
           },
           "summary": {
             "el": "",
@@ -442,14 +442,14 @@
           "sources": [
             {
               "name": "ΤΟ ΒΗΜΑ",
-              "url": "https://www.tovima.gr/2026/10/19/society/omonoia-atomo-epese-sto-keno-apo-parathyro-ksenodoxeiou/"
+              "url": "https://www.tovima.gr/2026/10/19/politics/mitsotakis-gia-daidalo-exei-foveres-dynatotites-na-ginei-i-ellada-protagonistria/"
             }
           ]
         },
         {
           "title": {
-            "el": "Αποκάλυψη Time: Ο Νετανιάχου ενθάρρυνε τη χρηματοδότηση της Γάζας με 2 δισ. δολάρια από το Κατάρ",
-            "en": "Αποκάλυψη Time: Ο Νετανιάχου ενθάρρυνε τη χρηματοδότηση της Γάζας με 2 δισ. δολάρια από το Κατάρ"
+            "el": "Συναγερμός στην Ομόνοια: Άνδρας έπεσε στο κενό από κτίριο στην Πειραιώς",
+            "en": "Συναγερμός στην Ομόνοια: Άνδρας έπεσε στο κενό από κτίριο στην Πειραιώς"
           },
           "summary": {
             "el": "",
@@ -458,14 +458,14 @@
           "sources": [
             {
               "name": "Η Εφημερίδα των Συντακτών",
-              "url": "https://www.efsyn.gr/kosmos/1491424/apokalypsi-time-o-netaniahoy-entharryne-ti-hrimatodotisi-tis-gazas-me-2-dis-dolaria-apo-to-katar/"
+              "url": "https://www.efsyn.gr/ellada/1491443/synagermos-stin-omonoia-andras-epese-sto-keno-apo-ktirio-stin-peiraios/"
             }
           ]
         },
         {
           "title": {
-            "el": "Η νέα ευρωπαϊκή αρχιτεκτονική κατά του ξεπλύματος χρήματος",
-            "en": "Η νέα ευρωπαϊκή αρχιτεκτονική κατά του ξεπλύματος χρήματος"
+            "el": "Cenergy Holdings approves expansion of Hellenic Cables’ US production facility",
+            "en": "Cenergy Holdings approves expansion of Hellenic Cables’ US production facility"
           },
           "summary": {
             "el": "",
@@ -474,14 +474,14 @@
           "sources": [
             {
               "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-              "url": "https://www.naftemporiki.gr/afieromata/the-n-society/2176824/i-nea-eyropaiki-architektoniki-kata-toy-xeplymatos-chrimatos/?utm_source=rss&utm_medium=rss&utm_campaign=i-nea-eyropaiki-architektoniki-kata-toy-xeplymatos-chrimatos"
+              "url": "https://www.naftemporiki.gr/english/2176834/cenergy-holdings-approves-expansion-of-hellenic-cables-us-production-facility/?utm_source=rss&utm_medium=rss&utm_campaign=cenergy-holdings-approves-expansion-of-hellenic-cables-us-production-facility"
             }
           ]
         },
         {
           "title": {
-            "el": "Κινητοποίηση αγροτών στην Περιφέρεια Δυτ. Μακεδονίας",
-            "en": "Κινητοποίηση αγροτών στην Περιφέρεια Δυτ. Μακεδονίας"
+            "el": "Δίκη για τα Τέμπη: Δεν κατέθεσαν οι γονείς της Εριέττας Μόλχο λόγω κακής ψυχολογικής κατάστασης – Ιδρύθηκε κοινωφελές ίδρυμα στο όνομά της",
+            "en": "Δίκη για τα Τέμπη: Δεν κατέθεσαν οι γονείς της Εριέττας Μόλχο λόγω κακής ψυχολογικής κατάστασης – Ιδρύθηκε κοινωφελές ίδρυμα στο όνομά της"
           },
           "summary": {
             "el": "",
@@ -490,7 +490,7 @@
           "sources": [
             {
               "name": "ertnews.gr",
-              "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/kozani/kinitopoiisi-agroton-stin-perifereia-dyt-makedonias/"
+              "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/larisa/diki-gia-ta-tempi-den-katethesan-oi-goneis-tis-eriettas-molxo-logo-kakis-psyxologikis-katastasis-idrythike-koinofeles-idryma-sto-onoma-tis/"
             }
           ]
         },
@@ -512,8 +512,8 @@
         },
         {
           "title": {
-            "el": "Γαλλία: Φοιτητές αποκλείουν το Λούβρο – «Αποτύχαμε» λέει η κυβέρνηση",
-            "en": "Γαλλία: Φοιτητές αποκλείουν το Λούβρο – «Αποτύχαμε» λέει η κυβέρνηση"
+            "el": "Απεργία 21η Οκτωβρίου: Στους δρόμους οι εκπαιδευτικοί, τα αιτήματα",
+            "en": "Απεργία 21η Οκτωβρίου: Στους δρόμους οι εκπαιδευτικοί, τα αιτήματα"
           },
           "summary": {
             "el": "",
@@ -522,14 +522,14 @@
           "sources": [
             {
               "name": "ΤΟ ΒΗΜΑ",
-              "url": "https://www.tovima.gr/2026/10/19/world/gallia-foitites-apokleioun-to-louvro-apotyxame-leei-i-kyvernisi/"
+              "url": "https://www.tovima.gr/2026/10/19/society/apergia-21i-oktovriou-stous-dromous-oi-ekpaideytikoi-ta-aitimata/"
             }
           ]
         },
         {
           "title": {
-            "el": "Δίκη για τα Τέμπη: «Ήταν ένα σκηνικό σαν πολεμική ταινία» – Τι κατέθεσε επιζώντας από το δεύτερο βαγόνι",
-            "en": "Δίκη για τα Τέμπη: «Ήταν ένα σκηνικό σαν πολεμική ταινία» – Τι κατέθεσε επιζώντας από το δεύτερο βαγόνι"
+            "el": "Ζελένσκι: Μπαράζ ρωσικών επιθέσεων τη νύχτα – Καμία προειδοποίηση από τους συμμάχους «ούτε αυτή τη φορά»",
+            "en": "Ζελένσκι: Μπαράζ ρωσικών επιθέσεων τη νύχτα – Καμία προειδοποίηση από τους συμμάχους «ούτε αυτή τη φορά»"
           },
           "summary": {
             "el": "",
@@ -538,14 +538,14 @@
           "sources": [
             {
               "name": "Η Εφημερίδα των Συντακτών",
-              "url": "https://www.efsyn.gr/ellada/1491434/diki-gia-ta-tempi-itan-ena-skiniko-san-polemiki-tainia-ti-katethese-epizontas-apo-to-deytero-vagoni/"
+              "url": "https://www.efsyn.gr/kosmos/1491454/zelenski-mparaz-rosikon-epitheseon-ti-nyhta-kamia-proeidopoiisi-apo-toys-symmahoys-oyte-ayti-ti-fora/"
             }
           ]
         },
         {
           "title": {
-            "el": "Άδωνις Γεωργιάδης: «Και α και ου» – Το viral video που ανέβασε από τη συνάντηση με μέλη της ΟΝΝΕΔ στα Ιωάννινα",
-            "en": "Άδωνις Γεωργιάδης: «Και α και ου» – Το viral video που ανέβασε από τη συνάντηση με μέλη της ΟΝΝΕΔ στα Ιωάννινα"
+            "el": "ABS Bulk Carrier Forum: Focus on dry bulk shipping",
+            "en": "ABS Bulk Carrier Forum: Focus on dry bulk shipping"
           },
           "summary": {
             "el": "",
@@ -554,7 +554,7 @@
           "sources": [
             {
               "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-              "url": "https://www.naftemporiki.gr/politics/2176826/adonis-georgiadis-kai-a-kai-oy-to-viral-video-poy-anevase-apo-ti-synantisi-me-meli-tis-onned-sta-ioannina/?utm_source=rss&utm_medium=rss&utm_campaign=adonis-georgiadis-kai-a-kai-oy-to-viral-video-poy-anevase-apo-ti-synantisi-me-meli-tis-onned-sta-ioannina"
+              "url": "https://www.naftemporiki.gr/english/2176833/abs-bulk-carrier-forum-focus-on-dry-bulk-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=abs-bulk-carrier-forum-focus-on-dry-bulk-shipping"
             }
           ]
         }
@@ -569,24 +569,8 @@
       "stories": [
         {
           "title": {
-            "el": "Турските власти разбиха предполагаема мрежа за незаконна търговия с яйцеклетки, свързана с Турция, Северен Кипър, Албания и Грузия",
-            "en": "Турските власти разбиха предполагаема мрежа за незаконна търговия с яйцеклетки, свързана с Турция, Северен Кипър, Албания и Грузия"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "BG RSS Free",
-              "url": "https://www.bta.bg/bg/news/balkans/1227612-turskite-vlasti-razbiha-predpolagaema-mrezha-za-nezakonna-targoviya-s-yaytseklet"
-            }
-          ]
-        },
-        {
-          "title": {
-            "el": "Разследващите търсят двама за палежа на антени на \"Старлинк\" край София",
-            "en": "Разследващите търсят двама за палежа на антени на \"Старлинк\" край София"
+            "el": "Сигнал за бомба е получен в здравната каса",
+            "en": "Сигнал за бомба е получен в здравната каса"
           },
           "summary": {
             "el": "",
@@ -595,23 +579,7 @@
           "sources": [
             {
               "name": "Dnevnik.bg",
-              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/19/4968143_razsledvashtite_tursiat_dvama_za_paleja_na_anteni_na/?ref=rss"
-            }
-          ]
-        },
-        {
-          "title": {
-            "el": "САЩ срещу Иран или Русия срещу Украйна – коя война оказва по-силно влияние върху цените на дизела",
-            "en": "САЩ срещу Иран или Русия срещу Украйна – коя война оказва по-силно влияние върху цените на дизела"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "Капитал - статии",
-              "url": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/10/19/4968073_sasht_sreshtu_iran_ili_rusiia_sreshtu_ukraina_koia/?ref=rss"
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/19/4968146_signal_za_bomba_e_poluchen_v_zdravnata_kasa/?ref=rss"
             }
           ]
         },
@@ -649,24 +617,8 @@
         },
         {
           "title": {
-            "el": "Украйна отново изобщо не беше предупредена от съюзниците си, преди Русия да нанесе удари през нощта, заяви Зеленски",
-            "en": "Украйна отново изобщо не беше предупредена от съюзниците си, преди Русия да нанесе удари през нощта, заяви Зеленски"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "BG RSS Free",
-              "url": "https://www.bta.bg/bg/news/world/1227605-ukrayna-otnovo-izobshto-ne-beshe-predupredena-ot-sayuznitsite-si-predi-rusiya-d"
-            }
-          ]
-        },
-        {
-          "title": {
-            "el": "Четирима от кандидатите за президент и вицепрезидент са с принадлежност към Държавна сигурност",
-            "en": "Четирима от кандидатите за президент и вицепрезидент са с принадлежност към Държавна сигурност"
+            "el": "Жена загина при трудова злополука в \"Мини Бобов дол\"",
+            "en": "Жена загина при трудова злополука в \"Мини Бобов дол\""
           },
           "summary": {
             "el": "",
@@ -675,23 +627,7 @@
           "sources": [
             {
               "name": "Dnevnik.bg",
-              "url": "https://www.dnevnik.bg/izbori-2026/2026/10/19/4968139_chetirima_ot_kandidatite_za_prezident_i_viceprezident/?ref=rss"
-            }
-          ]
-        },
-        {
-          "title": {
-            "el": "A1 Group: Бъдещето на ICT бизнеса е в суверенните AI агенти",
-            "en": "A1 Group: Бъдещето на ICT бизнеса е в суверенните AI агенти"
-          },
-          "summary": {
-            "el": "",
-            "en": ""
-          },
-          "sources": [
-            {
-              "name": "Капитал - статии",
-              "url": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/10/19/4964230_a1_group_budeshteto_na_ict_biznesa_e_v_suverennite_ai/?ref=rss"
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/19/4968144_jena_zagina_pri_trudova_zlopoluka_v_mini_bobov_dol/?ref=rss"
             }
           ]
         },
@@ -713,8 +649,8 @@
         },
         {
           "title": {
-            "el": "Мениджърът на Манчестър Юнайтед Майкъл Карик: „Не се съмнявам, че можем да навлезем в добра серия“",
-            "en": "Мениджърът на Манчестър Юнайтед Майкъл Карик: „Не се съмнявам, че можем да навлезем в добра серия“"
+            "el": "Разследващите търсят двама за палежа на антени на \"Старлинк\" край София",
+            "en": "Разследващите търсят двама за палежа на антени на \"Старлинк\" край София"
           },
           "summary": {
             "el": "",
@@ -722,8 +658,72 @@
           },
           "sources": [
             {
-              "name": "BG RSS Free",
-              "url": "https://www.bta.bg/bg/news/sport/1227610-menidzharat-na-manchestar-yunayted-maykal-karik-ne-se-samnyavam-che-mozhem-da"
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/19/4968143_razsledvashtite_tursiat_dvama_za_paleja_na_anteni_na/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Албанският премиер обвини Русия и Иран за ескалацията на протестите",
+            "en": "Албанският премиер обвини Русия и Иран за ескалацията на протестите"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/svyat/albanskiyat-premier-obvini-rusiya-i-iran-za-eskalatsiyata-na-protestite/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Четирима от кандидатите за президент и вицепрезидент са с принадлежност към Държавна сигурност",
+            "en": "Четирима от кандидатите за президент и вицепрезидент са с принадлежност към Държавна сигурност"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/izbori-2026/2026/10/19/4968139_chetirima_ot_kandidatite_za_prezident_i_viceprezident/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Военната прокуратура оглежда поразения от дрон кораб Chelsea 3",
+            "en": "Военната прокуратура оглежда поразения от дрон кораб Chelsea 3"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/bulgaria/voennata-prokuratura-oglezhda-porazeniya-ot-dron-korab-chelsea-3/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Агенцията по храните откри близо 39 тона райски газ в три склада в София",
+            "en": "Агенцията по храните откри близо 39 тона райски газ в три склада в София"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/19/4968135_agenciiata_po_hranite_otkri_blizo_39_tona_raiski_gaz_v/?ref=rss"
             }
           ]
         }
