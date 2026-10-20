@@ -1,0 +1,738 @@
+{
+  "date": "2026-10-20",
+  "generated": "2026-10-20T09:45:30.479235+00:00",
+  "ai": "OpenRouter",
+  "ai_sections": 1,
+  "glance": {
+    "el": [
+      "Το Υπουργείο Ομογενούς Ασφάλειας των ΗΠΑ απαγόρευσε το DeepSeek σε ομοσπονδιακούς οργανισμούς",
+      "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "Μητσοτάκης στον «Δημόκριτο»: Μόνο αυτή η κυβέρνηση συνομιλεί με το αύριο, άλλοι μένουν εγκλωβισμένοι στο χθες",
+      "ННА: Ливанският министър на промишлеността обсъди в Париж възможностите за привличането на френски инвестиции"
+    ],
+    "en": [
+      "Το Υπουργείο Ομογενούς Ασφάλειας των ΗΠΑ απαγόρευσε το DeepSeek σε ομοσπονδιακούς οργανισμούς",
+      "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "Μητσοτάκης στον «Δημόκριτο»: Μόνο αυτή η κυβέρνηση συνομιλεί με το αύριο, άλλοι μένουν εγκλωβισμένοι στο χθες",
+      "ННА: Ливанският министър на промишлеността обсъди в Париж възможностите за привличането на френски инвестиции"
+    ]
+  },
+  "meta": {
+    "el": "Το Υπουργείο Ομογενούς Ασφάλειας των ΗΠΑ απαγόρευσε το DeepSeek σε ομοσπονδιακούς οργανισμούς; Japan launches mission to bring home a piece of the Martian ",
+    "en": "Το Υπουργείο Ομογενούς Ασφάλειας των ΗΠΑ απαγόρευσε το DeepSeek σε ομοσπονδιακούς οργανισμούς; Japan launches mission to bring home a piece of the Martian "
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Το Υπουργείο Ομογενούς Ασφάλειας των ΗΠΑ απαγόρευσε το DeepSeek σε ομοσπονδιακούς οργανισμούς",
+            "en": "The US government prohibited DeepSeek usage within federal civilian agencies"
+          },
+          "summary": {
+            "el": "Η απόφαση βασίζεται σε ανησυχίες για την εθνική ασφάλεια, καθώς τα δεδομένα αποστέλλονται σε διακομιστές στην Κίνα. Το Υπουργείο ανέφερε κινδύνους για την υποδομή πληροφορικής και πιθανότητα παρουσίας κακόβουλου λογισμικού.",
+            "en": "The order cites national security concerns regarding data transmission to Chinese servers. The DHS noted risks to federal IT systems and the potential for malware."
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Πρώην υπάλληλος της OpenAI κράτηκε για τοποθέτηση συσκευής καταγραφής",
+            "en": "A former OpenAI employee was detained for installing a recording device"
+          },
+          "summary": {
+            "el": "Ένας υπήκοος της Σαουδικής Αραβίας κατηγορείται ότι τοποθέτησε συσκευή σε αίθουσα συσκέψεων της εταιρείας στο Σαν Φρανσίσκο για κλοπή μυστικών. Σύμφωνα με την εισαγγελία, ο κατηγορούμενος είχε συχνή επικοινωνία μέσω WhatsApp με Σαουδάραβες.",
+            "en": "A Saudi national is accused of placing a recording device in a San Francisco conference room to steal company secrets. Prosecutors stated the individual maintained frequent WhatsApp communications with Saudi royals."
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κενό ασφαλείας στο λογισμικό της Siemens χρησιμοποιήθηκε για εγκατάσταση Trojan",
+            "en": "A Siemens software flaw was used to deploy remote access Trojans"
+          },
+          "summary": {
+            "el": "Η εταιρεία διόρθωσε μια ευπάθεια DLL sideloading (CVE-2026-110936) στο Siemens Software Center. Επιθεμείς χρησιμοποίησαν την κενή αυτή πλευρά μέσω επιθέσεων ClickFix για την εκτέλεση κακόβουλου κώδικα σε υπολογιστές Windows.",
+            "en": "Siemens patched a DLL sideloading vulnerability (CVE-2026-110936) in its Software Center. Attackers utilized this flaw via ClickFix lures to execute malicious code on Windows systems."
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html"
+            },
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Η Nikkei Inc. ανακοίνωσε τη διαρροή 1,8 εκατομμυρίων αρχείων",
+            "en": "Nikkei Inc. reported a data breach involving 1.8 million records"
+          },
+          "summary": {
+            "el": "Η εταιρεία αποκάλυψε την έκθεση προσωπικών δεδομένων 1,83 εκατομμυρίων εγγραφών. Πρόκειται για την τρίτη περίπτωση διαρροής δεδομένων της Nikkei μέσα σε έναν μήνα.",
+            "en": "Nikkei Inc. disclosed a breach affecting 1.83 million personal information records. This marks the third data leak for the company within a single month."
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Απομακρυσμένη επίθεση σε γαλλικά σούπερ μάρκετ προκάλεσε απώλεια προϊόντων",
+            "en": "Remote attacks on French supermarkets led to widespread food spoilage"
+          },
+          "summary": {
+            "el": "Άτομα ενεργοποίησαν απομακρυσμένα τη λειτουργία απόψυξης σε ψυγεία εκατοντάδων καταστημάτων Intermarché και Netto. Η θερμοκρασία ανήλθε στους 50°C για έξι ώρες, με την εταιρεία Les Mousquetaires να αναμένει ζημιές δεκάδων εκατομμυρίων ευρώ.",
+            "en": "Attackers remotely triggered the defrost mode in hundreds of Intermarché and Netto stores. Temperatures reached 50°C for six hours, leading Les Mousquetaires to expect losses in the tens of millions of euros."
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4237172/when-defrost-becomes-sabotage-3-ot-lessons-from-frances-supermarket-attack.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Μέσω νέου πλαισίου, η Microsoft προτείνει την αντιμετώπιση των AI Agents ως εσωτερικές απειλές",
+            "en": "Microsoft suggests categorizing AI agents as insider threats in its latest framework"
+          },
+          "summary": {
+            "el": "Η εταιρεία προτρέπει τους οργανισμούς να εφαρμόζουν δυναμικά δικαιώματα και συνεχή παρακολούθηση κινδύνου για τους πράκτορες τεχνητής νοημοσύνης. Η Microsoft δήλωσε ότι οι AI agents αποτελούν αυξανόμενη εσωτερική απειλή.",
+            "en": "Microsoft's new security framework urges organizations to use dynamic permissions and continuous monitoring for AI agents. The company stated that these agents represent a growing insider threat."
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/201336/ai/microsoft-treats-ai-agents-as-insider-threats-in-new-security-framework.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Διακοπή υπηρεσίας Cloud Backup της ConnectWise μετά από επίθεση",
+            "en": "ConnectWise halted its Cloud Backup service following a supply chain attack"
+          },
+          "summary": {
+            "el": "Η εταιρεία επιβεβαίωσε μη εξουσιοδοτημένη πρόσβαση στο περιβάλλον της υπηρεσίας ConnectWise Cloud Backup. Ως αποτέλεσμα της επίθεσης στην εφοδιαστική αλυσίδα, η υπηρεσία τέθηκε προσωρινά εκτός λειτουργίας.",
+            "en": "The company confirmed unauthorized access to its ConnectWise Cloud Backup environment. The service was suspended following a supply chain attack."
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Αμερικανικές αρχές εξετάζουν συμμετοχή διαπραγματιστών σε δίκτυο εκβιασμού",
+            "en": "US authorities are investigating ransomware negotiators for links to an extortion group"
+          },
+          "summary": {
+            "el": "Ομοσπονδιακοί ερευνητές ταυτοποίησαν στελέχη δύο εταιρειών διαπραγμάτευσης λυτρώσεων με στενές σχέσεις με την ομάδα ShinyHunters. Σύμφωνα με πηγές, ένας από τους Αμερικανούς στελέχους βοήθησε την ομάδα που έκλεψε δεδομένα από το FBI.",
+            "en": "Federal investigators identified executives from two ransomware negotiation firms with close ties to the ShinyHunters group. Sources claim one US-based executive assisted the group that stole data from the FBI."
+          },
+          "sources": [
+            {
+              "name": "Krebs on Security",
+              "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Παραβίαση διακομιστών της AOMEI για διανομή κακόβουλου λογισμικού",
+            "en": "AOMEI update servers were compromised to distribute malicious software"
+          },
+          "summary": {
+            "el": "Επιθεμείς χρησιμοποίησαν μια προωθητική λειτουργία στο λογισμικό εφεδρείας της AOMEI για τη διανομή κακόβουλου κώδικα. Οι χάκερ τροποποίησαν αρχεία ρυθμίσεων στους διακομιστές ενημέρωσης και στη συνέχεια τα επαναφέραν στην αρχική τους μορφή.",
+            "en": "Attackers utilized a promotional feature in AOMEI backup software to distribute malware. The perpetrators modified configuration files on update servers before restoring them to hide the activity."
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Επίθεση στην εφοδιαστική αλυσίδα του πρόσθετου Rank Math για WordPress",
+            "en": "The Rank Math PRO WordPress plugin was used to install website backdoors"
+          },
+          "summary": {
+            "el": "Ορισμένα πακέτα του Rank Math PRO που διατέθηκαν από τον επίσημο ιστότοπο του προμηθευτή περιείχαν κακόβουλο λογισμικό. Η επίθεση οδήγησε στην εγκατάσταση κρυφών οδών πρόσβασης σε ιστότοπους.",
+            "en": "Some downloads of the Rank Math PRO plugin from the official vendor site contained malware. This supply chain attack resulted in the installation of hidden backdoors on websites."
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κρίσιμο κενό ασφαλείας στο Drupal επιτρέπει απομακρυσμένη εκτέλεση κώδικα",
+            "en": "Drupal identified a critical core flaw enabling remote code execution"
+          },
+          "summary": {
+            "el": "Η Drupal προειδοποίησε για κρίσιμες ευπάθειες στις ενότητες Entity List και Field UI. Υπάρχει κίνδυνος ταχείας εκμετάλλευσης του κενού, ειδικά όταν χρησιμοποιούνται πρόσθετα modules.",
+            "en": "Drupal warned of critical flaws in the Entity List and Field UI modules. The company noted a risk of rapid exploitation, particularly when combined with contributed modules."
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Σχεδόν ένας χρόνος μετά την εισβολή, η Paradigm Healthcare ανακοίνωσε διαρροή δεδομένων",
+            "en": "Paradigm Healthcare reported a data breach affecting 970,000 Medi-Cal members"
+          },
+          "summary": {
+            "el": "Η Paradigm Healthcare Services εντόπισε εισβολή στα συστήματά της τον Οκτώβριο του 2025. Η ενημέρωση των 970.000 πληγείμενων μελών του Medi-Cal ξεκίνησε σχεδόν έναν χρόνο μετά την ανίχνευση του περιστατικού.",
+            "en": "Paradigm Healthcare Services detected a system intrusion in October 2025. Notifications to the 970,000 affected Medi-Cal members began nearly one year after the detection."
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+            "en": "Japan launches mission to bring home a piece of the Martian moon Phobos"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "London’s mobile networks fall to bottom of Europe’s capital league",
+            "en": "London’s mobile networks fall to bottom of Europe’s capital league"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/networks/2026/10/20/londons-mobile-networks-fall-to-bottom-of-europes-capital-league/5303800"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "A visit to Samsung’s massive new semiconductor hub",
+            "en": "A visit to Samsung’s massive new semiconductor hub"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+            "en": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+            "en": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Sony updates the Walkman as a $5,900 gold-plated MP3 player",
+            "en": "Sony updates the Walkman as a $5,900 gold-plated MP3 player"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/personal-tech/2026/10/20/sony-updates-the-walkman-as-a-5900-gold-plated-mp3-player/5304051"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "These startups hope “blended” food will cut our appetite for red meat",
+            "en": "These startups hope “blended” food will cut our appetite for red meat"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "MiniMax M3.1 Flash",
+            "en": "MiniMax M3.1 Flash"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.minimax.io/blog/minimax-m31f"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+            "en": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "‘David Beckham’ was briefly the world’s second-worst manga pirate",
+            "en": "‘David Beckham’ was briefly the world’s second-worst manga pirate"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/legal/2026/10/20/david-beckham-was-briefly-the-worlds-second-worst-manga-pirate/5304044"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Μητσοτάκης στον «Δημόκριτο»: Μόνο αυτή η κυβέρνηση συνομιλεί με το αύριο, άλλοι μένουν εγκλωβισμένοι στο χθες",
+            "en": "Μητσοτάκης στον «Δημόκριτο»: Μόνο αυτή η κυβέρνηση συνομιλεί με το αύριο, άλλοι μένουν εγκλωβισμένοι στο χθες"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/roi-idiseon/mitsotakis-ston-dimokrito-mono-ayti-i-kyvernisi-synomilei-me-to-ayrio-alloi-menoun-egklovismenoi-sto-xthes/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ευρωπαϊκή συμμαχία απέναντι στη Starlink του Eλον Μασκ",
+            "en": "Ευρωπαϊκή συμμαχία απέναντι στη Starlink του Eλον Μασκ"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/economy/international/564533851/eyropaiki-symmachia-apenanti-sti-starlink-toy-elon-mask/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ισραήλ: Άνθρακες ο εκλογικός «θησαυρός» Τραμπ για τον Νετανιάχου;",
+            "en": "Ισραήλ: Άνθρακες ο εκλογικός «θησαυρός» Τραμπ για τον Νετανιάχου;"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/10/20/world/israil-anthrakes-o-eklogikos-thisayros-tramp-gia-ton-netaniaxou/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Η κίνηση της Άννας Βίσση για τους μουσικούς της μετά το πάγωμα των εμφανίσεων στο «Αθηνών Αρένα»",
+            "en": "Η κίνηση της Άννας Βίσση για τους μουσικούς της μετά το πάγωμα των εμφανίσεων στο «Αθηνών Αρένα»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/life/1492324/i-kinisi-tis-annas-vissi-gia-toys-moysikoys-tis-meta-to-pagoma-ton-emfaniseon-sto-athinon-arena/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Γιατί η Γερμανία μπορεί να γίνει νέα «Γαλλία»",
+            "en": "Γιατί η Γερμανία μπορεί να γίνει νέα «Γαλλία»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/kosmos/2177418/giati-i-germania-mporei-na-ginei-nea-gallia/?utm_source=rss&utm_medium=rss&utm_campaign=giati-i-germania-mporei-na-ginei-nea-gallia"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Θεσσαλονίκη: Ελεύθεροι οι τέσσερις ανήλικοι που κατηγορούνται για απόπειρα ληστείας στη Νεάπολη",
+            "en": "Θεσσαλονίκη: Ελεύθεροι οι τέσσερις ανήλικοι που κατηγορούνται για απόπειρα ληστείας στη Νεάπολη"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/ert3/thessaloniki-eleytheroi-oi-tesseris-anilikoi-pou-katigorountai-gia-apopeira-listeias-sti-neapoli/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Θεσσαλονίκη: Ταυτοποιήθηκαν τρεις ανήλικοι για την επίθεση σε 12χρονο",
+            "en": "Θεσσαλονίκη: Ταυτοποιήθηκαν τρεις ανήλικοι για την επίθεση σε 12χρονο"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/society/564534091/thessaloniki-taytopoiithikan-treis-anilikoi-gia-tin-epithesi-se-12chrono/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Φωτιά στην Κέα – Ζητήθηκαν ενισχύσεις από την Αθήνα",
+            "en": "Φωτιά στην Κέα – Ζητήθηκαν ενισχύσεις από την Αθήνα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/10/20/society/fotia-stin-kea-zitithikan-enisxyseis-apo-tin-athina/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Φλωρίδης για Τέμπη: «Ο Βελόπουλος ρεζιλεύτηκε με τις φωτογραφίες οστών που ανήκαν σε ζώα»",
+            "en": "Φλωρίδης για Τέμπη: «Ο Βελόπουλος ρεζιλεύτηκε με τις φωτογραφίες οστών που ανήκαν σε ζώα»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/politiki/1492325/floridis-gia-tempi-o-velopoylos-rezileytike-me-tis-fotografies-oston-poy-anikan-se-zoa/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ο «δούρειος ίππος» του Πούτιν στη Βαλτική: Τα εξοχικά-ορμητήρια και το ραντάρ του Καλίνινγκραντ",
+            "en": "Ο «δούρειος ίππος» του Πούτιν στη Βαλτική: Τα εξοχικά-ορμητήρια και το ραντάρ του Καλίνινγκραντ"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/kosmos/2177375/o-doyreios-ippos-toy-poytin-sti-valtiki-ta-exochika-ormitiria-kai-to-rantar-toy-kaliningkrant/?utm_source=rss&utm_medium=rss&utm_campaign=o-doyreios-ippos-toy-poytin-sti-valtiki-ta-exochika-ormitiria-kai-to-rantar-toy-kaliningkrant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "ННА: Ливанският министър на промишлеността обсъди в Париж възможностите за привличането на френски инвестиции",
+            "en": "ННА: Ливанският министър на промишлеността обсъди в Париж възможностите за привличането на френски инвестиции"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/world/1228417-nna-livanskiyat-ministar-na-promishlenostta-obsadi-v-parizh-vazmozhnostite-za-p"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Кметът на Горна Оряховица подаде оставка",
+            "en": "Кметът на Горна Оряховица подаде оставка"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/bulgaria/2026/10/20/4968594_kmetut_na_gorna_oriahovica_podade_ostavka/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "KNEXT: Залогът на изборите в Сърбия; Протестите в НАТФИЗ се разрастват; \"Идейник\" търси млади иноватори; Стаж в BMW Group Bulgaria",
+            "en": "KNEXT: Залогът на изборите в Сърбия; Протестите в НАТФИЗ се разрастват; \"Идейник\" търси млади иноватори; Стаж в BMW Group Bulgaria"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/obrazovanie/2026/10/20/4968438_knext_zalogut_na_izborite_v_surbiia_protestite_v/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "София иска целогодишна забрана за замърсяващи коли, ама друг път",
+            "en": "София иска целогодишна забрана за замърсяващи коли, ама друг път"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/bulgaria/sofiya-iska-tselogodishna-zabrana-za-zamarsyavashti-koli-ama-drug-pat/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Лихвите по ипотечните кредити в Германия достигнаха най-високото си равнище от 2009 година",
+            "en": "Лихвите по ипотечните кредити в Германия достигнаха най-високото си равнище от 2009 година"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/economy/1228457-lihvite-po-ipotechnite-krediti-v-germaniya-dostignaha-nay-visokoto-si-ravnishte-"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Съдът остави в ареста момчето, задържано за убийството на майка си",
+            "en": "Съдът остави в ареста момчето, задържано за убийството на майка си"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/bulgaria/2026/10/20/4968591_sudut_ostavi_v_aresta_momcheto_zadurjano_za_ubiistvoto/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Интервю | Тибо Музерг: Ескалацията на протестите във Франция ще засили крайната десница на Льо Пен",
+            "en": "Интервю | Тибо Музерг: Ескалацията на протестите във Франция ще засили крайната десница на Льо Пен"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/10/20/4968518_intervju_tibo_muzerg_eskalaciiata_na_protestite_vuv/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "На кораба \"Chelsea 3\" са намерени останки, неясно от какво",
+            "en": "На кораба \"Chelsea 3\" са намерени останки, неясно от какво"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/bulgaria/na-koraba-chelsea-3-sa-namereni-ostanki-neyasno-ot-kakvo/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Оглавената от Саудитска Арабия коалиция съобщи, че е прехванала и унищожила балистична ракета, изстреляна от хусите към Рияд",
+            "en": "Оглавената от Саудитска Арабия коалиция съобщи, че е прехванала и унищожила балистична ракета, изстреляна от хусите към Рияд"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/world/1228483-oglavenata-ot-sauditska-arabiya-koalitsiya-saobshti-che-e-prehvanala-i-unishtoz"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Започна делото срещу двамата, отнасяли се жестоко и заснемали порнографски материали с животни",
+            "en": "Започна делото срещу двамата, отнасяли се жестоко и заснемали порнографски материали с животни"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/20/4968584_zapochna_deloto_sreshtu_dvamata_otnasiali_se_jestoko_i/?ref=rss"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
