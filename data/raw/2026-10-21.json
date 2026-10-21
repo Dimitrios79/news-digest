@@ -1,0 +1,1784 @@
+{
+  "date": "2026-10-21",
+  "generated": "2026-10-21T09:39:38.183970+00:00",
+  "categories": {
+    "security": {
+      "items": [
+        {
+          "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+          "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+          "source": "The Hacker News",
+          "published": "2026-10-21T07:44:22+00:00",
+          "summary": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in a stock-exchange filing dated October 21 that it \"has experienced an incident involving the loss of certain data.\" The count is"
+        },
+        {
+          "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+          "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+          "source": "BleepingComputer",
+          "published": "2026-10-21T08:36:24+00:00",
+          "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]"
+        },
+        {
+          "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
+          "url": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
+          "source": "SecurityWeek",
+          "published": "2026-10-21T07:02:06+00:00",
+          "summary": "Tracked as CVE-2026-109618 and CVE-2026-109619, the bugs could potentially lead to unauthenticated remote code execution. The post PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws appeared first on SecurityWeek ."
+        },
+        {
+          "title": "Grafana Labs connects observability and incident response with Knowledge Graph",
+          "url": "https://www.helpnetsecurity.com/2026/10/21/grafana-labs-knowledge-graph/",
+          "source": "Help Net Security",
+          "published": "2026-10-21T09:30:38+00:00",
+          "summary": "Grafana Labs has announced a Knowledge Graph in every Grafana Cloud stack, alongside new Digital Experience Monitoring capabilities and updates to Grafana Cloud Incident Response Management (IRM). The releases connect infrastructure and application dependencies with user experience and incident response, giving people and agents shared context to investigate problems and take action. As agentic…"
+        },
+        {
+          "title": "Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’",
+          "url": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T22:57:44+00:00",
+          "summary": "Massive clean-up job under way because this mess makes it possible to impersonate any website or service"
+        },
+        {
+          "title": "NSO Spyware Pegasus Hit a Serbian University Rector Six Days Before Snap Elections",
+          "url": "https://securityaffairs.com/201389/intelligence/nso-spyware-pegasus-hit-a-serbian-university-rector-six-days-before-snap-elections.html",
+          "source": "Security Affairs",
+          "published": "2026-10-21T05:57:29+00:00",
+          "summary": "Citizen Lab confirmed Pegasus on a Serbian rector’s iPhone 6 days before elections, raising the known civil society spyware target count to 16. The Citizen Lab published a research note confirming that the iPhone of Vladan Đokić, Rector of the University of Belgrade, was infected with NSO Group’s Pegasus spyware sometime in 2026. The infection […]"
+        },
+        {
+          "title": "Philippines-based American pleads guilty to running expansive fraud scheme targeting US servicemembers",
+          "url": "https://cyberscoop.com/identity-theft-fraud-military-servicemembers-veterans-guilty-robert-boling/",
+          "source": "CyberScoop",
+          "published": "2026-10-20T23:36:10+00:00",
+          "summary": "Robert Wayne Boling Jr. was the mastermind of an identity theft conspiracy that victimized thousands of military members and veterans. He faces up to 40 years in prison. The post Philippines-based American pleads guilty to running expansive fraud scheme targeting US servicemembers appeared first on CyberScoop ."
+        },
+        {
+          "title": "Moving past autonomous exploitation to machine-speed security",
+          "url": "https://www.csoonline.com/article/4237926/moving-past-autonomous-exploitation-to-machine-speed-security.html",
+          "source": "CSO Online",
+          "published": "2026-10-21T09:00:00+00:00",
+          "summary": "Frontier AI advancements have created a world where exploitation outpaces defense. The average enterprise takes 32 to 43 days to patch , but the mean time to exploit a vulnerability is 10 hours . This asymmetry creates questions around how enterprises can trust autonomous AI to operate ubiquitously across their environments. As I mentioned on the TechCrunch Disrupt stage last week, security at…"
+        },
+        {
+          "title": "ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)",
+          "url": "https://isc.sans.edu/diary/rss/33438",
+          "source": "SANS Internet Storm Center, InfoCON: green",
+          "published": "2026-10-21T02:00:03+00:00",
+          "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License."
+        },
+        {
+          "title": "Possible new Cellebrite iPhone Radio Zero-Day",
+          "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
+          "source": "Schneier on Security",
+          "published": "2026-10-20T11:03:13+00:00",
+          "summary": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the “advanced unlocking services” they’ve marketed for years. A press release from earlier this year confirms AU is a new product for 2026. […] According to Cellebrite, AU: is a “next-generation AFU vector that is more resilient…"
+        },
+        {
+          "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
+          "url": "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
+          "source": "The Record from Recorded Future News",
+          "published": "2026-10-20T20:27:00+00:00",
+          "summary": "The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks."
+        },
+        {
+          "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
+          "url": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
+          "source": "darkreading",
+          "published": "2026-10-20T21:45:47+00:00",
+          "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised."
+        },
+        {
+          "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+          "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+          "source": "The Hacker News",
+          "published": "2026-10-21T07:26:49+00:00",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called Plex2Shell. The vulnerabilities are listed below - CVE-2026-96652 (CVSS score: 5.3) - Plex Media Server Server-Side Request Forgery (SSRF)"
+        },
+        {
+          "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+          "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+          "source": "BleepingComputer",
+          "published": "2026-10-21T01:01:50+00:00",
+          "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]"
+        },
+        {
+          "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
+          "url": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
+          "source": "SecurityWeek",
+          "published": "2026-10-21T06:02:27+00:00",
+          "summary": "Researchers say the developer’s account was compromised in March with a GlassWorm-linked loader. The post Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI appeared first on SecurityWeek ."
+        },
+        {
+          "title": "ThreatLocker adds external controls for AI agent access and execution",
+          "url": "https://www.helpnetsecurity.com/2026/10/21/threatlocker-zero-trust-ai-control-ztaic/",
+          "source": "Help Net Security",
+          "published": "2026-10-21T09:07:30+00:00",
+          "summary": "ThreatLocker has announced the launch of Zero Trust AI Control (ZTAIC), giving organizations a tool to deploy agentic AI without surrendering control of their environments. ZTAIC enables security teams to give AI agents exactly what they need to perform their jobs while keeping everything else out of reach, even as agents invoke other applications and processes to take action. AI guardrails…"
+        },
+        {
+          "title": "Auto tech startup claims it traced hack attempt back to rival's IP address",
+          "url": "https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T22:00:46+00:00",
+          "summary": "IQ.Lvbs implies that rival Comma.ai isn't playing fair"
+        },
+        {
+          "title": "Nikkei data breach affected over 1.8 million records",
+          "url": "https://securityaffairs.com/201369/data-breach/nikkei-data-breach-affected-over-1-8-million-records.html",
+          "source": "Security Affairs",
+          "published": "2026-10-20T18:00:29+00:00",
+          "summary": "Nikkei disclosed a data breach affecting over 1.8 million records after hackers used stolen credentials to access a cloud service for system development. Japanese media company Nikkei has disclosed a data breach affecting more than 1.8 million records. The company, known for its financial news publications, including The Nikkei and the Financial Times, said attackers […]"
+        },
+        {
+          "title": "Nigerian sentenced to 8 years for long-running tax business hacking and fraud scheme",
+          "url": "https://cyberscoop.com/nigerian-sentenced-hacking-fraud-tax-investment-scheme/",
+          "source": "CyberScoop",
+          "published": "2026-10-20T19:33:21+00:00",
+          "summary": "Chukwuemeka Victor Amachukwu hacked tax preparation businesses, filed false tax returns and enticed victims to send him money for investment schemes. The post Nigerian sentenced to 8 years for long-running tax business hacking and fraud scheme appeared first on CyberScoop ."
+        },
+        {
+          "title": "14 ways attackers abuse cloud services to hack your enterprise",
+          "url": "https://www.csoonline.com/article/4142001/12-ways-attackers-abuse-cloud-services-to-hack-your-enterprise.html",
+          "source": "CSO Online",
+          "published": "2026-10-21T08:25:00+00:00",
+          "summary": "Attackers are increasingly abusing trusted SaaS platforms, cloud infrastructure, and identity systems to blend malicious activity into legitimate enterprise traffic. Adversaries are pushing command and control (C2) through high-reputation services, including OpenAI and AWS, to blend in with normal business traffic and evade blocklists. The shift from “ living off the land ” to “living off the…"
+        },
+        {
+          "title": "California warns all public school students of data stolen in contractor breach",
+          "url": "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
+          "source": "The Record from Recorded Future News",
+          "published": "2026-10-20T19:20:00+00:00",
+          "summary": "The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach."
+        },
+        {
+          "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
+          "url": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+          "source": "darkreading",
+          "published": "2026-10-20T19:16:49+00:00",
+          "summary": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector."
+        },
+        {
+          "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+          "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+          "source": "The Hacker News",
+          "published": "2026-10-21T06:05:15+00:00",
+          "summary": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Partisan Zmiy, which is also known as the Cyber Partisans. Known to be active since at least 2020, the group has a track record of striking industrial"
+        },
+        {
+          "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+          "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+          "source": "BleepingComputer",
+          "published": "2026-10-21T00:46:42+00:00",
+          "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]"
+        },
+        {
+          "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
+          "url": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
+          "source": "SecurityWeek",
+          "published": "2026-10-21T04:22:11+00:00",
+          "summary": "The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training. The post Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities appeared first on SecurityWeek ."
+        },
+        {
+          "title": "Info-stealing malware slipped into OVHcloud CLI releases on GitHub",
+          "url": "https://www.helpnetsecurity.com/2026/10/21/ovhcloud-cli-github-malware/",
+          "source": "Help Net Security",
+          "published": "2026-10-21T08:59:57+00:00",
+          "summary": "OVHcloud, the French cloud computing and web hosting company, alerted customers that a hacker tampered with its open-source command-line interface (CLI) tool to spread information-stealing malware. OVHcloud CEO Octave Klaba disclosed the incident on X, warning users who downloaded the latest CLI release that day to update the tool or delete it. According to Klaba, five versions of the CLI were…"
+        },
+        {
+          "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
+          "url": "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T17:33:26+00:00",
+          "summary": "Unit 42 investigates network compromises across numerous industries"
+        },
+        {
+          "title": "Google Cloud Outage in London Disrupts Revolut Banking Services",
+          "url": "https://securityaffairs.com/201358/breaking-news/google-cloud-outage-in-london-disrupts-revolut-banking-services.html",
+          "source": "Security Affairs",
+          "published": "2026-10-20T15:45:42+00:00",
+          "summary": "Google Cloud’s London outage disrupted Revolut payments and ATM withdrawals, while ING Germany reported online banking issues. Multiple Google Cloud services went offline in the London region this morning, according to Google’s status page, and the disruption didn’t stay contained to infrastructure dashboards. British digital bank Revolut reported a widespread service outage at roughly the […]"
+        },
+        {
+          "title": "Russian GRU hackers hit NATO shipbuilder, aircraft engine maker, law enforcement agency in espionage campaign",
+          "url": "https://cyberscoop.com/russian-hackers-apt28-target-nato-defense-firms/",
+          "source": "CyberScoop",
+          "published": "2026-10-20T17:55:35+00:00",
+          "summary": "It’s the work of the infamous group behind the attacks on Democrats during the 2016 presidential election, Symantec said. The post Russian GRU hackers hit NATO shipbuilder, aircraft engine maker, law enforcement agency in espionage campaign appeared first on CyberScoop ."
+        },
+        {
+          "title": "US bans DeepSeek across federal agencies, putting AI supply chains under scrutiny",
+          "url": "https://www.csoonline.com/article/4238149/us-bans-deepseek-across-federal-agencies-putting-ai-supply-chains-under-scrutiny-2.html",
+          "source": "CSO Online",
+          "published": "2026-10-21T01:55:45+00:00",
+          "summary": "DeepSeek has been dealt a huge blow in the US, even as it continues to innovate and keep pace with, or in some cases outperform, rival models from American labs. The US Secretary of Homeland Security has issued an order banning all DeepSeek products and services from federal agencies. Government organizations must purge their IT systems of it within 60 days; those with “compelling justification”…"
+        },
+        {
+          "title": "23andMe successor settles with California for $6 million over cybersecurity failings",
+          "url": "https://therecord.media/23andme-california-data-breach-settlement",
+          "source": "The Record from Recorded Future News",
+          "published": "2026-10-20T18:32:00+00:00",
+          "summary": "California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach."
+        },
+        {
+          "title": "Close Identity Gaps in Software Development Before Unleashing AI",
+          "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
+          "source": "darkreading",
+          "published": "2026-10-20T15:35:45+00:00",
+          "summary": "Artificial Intelligence is complicating security in the software development lifecycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead."
+        },
+        {
+          "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+          "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+          "source": "The Hacker News",
+          "published": "2026-10-21T04:57:50+00:00",
+          "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described."
+        },
+        {
+          "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+          "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+          "source": "BleepingComputer",
+          "published": "2026-10-20T20:56:43+00:00",
+          "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]"
+        },
+        {
+          "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
+          "url": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
+          "source": "SecurityWeek",
+          "published": "2026-10-20T15:45:00+00:00",
+          "summary": "NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents. The post US Agencies Detail Incident Response Practices for Rogue AI Agents appeared first on SecurityWeek ."
+        },
+        {
+          "title": "Safari blocks trackers that turn your email into a tracking ID",
+          "url": "https://www.helpnetsecurity.com/2026/10/21/apple-safari-tracking-protection/",
+          "source": "Help Net Security",
+          "published": "2026-10-21T08:53:34+00:00",
+          "summary": "Apple’s new anti-tracking protections in Safari and WebKit, the open-source web engine used by Safari, block connections to identity resolution services that turn email addresses into persistent tracking identifiers. How email addresses become tracking IDs This “post-cookie” tracking method allows a third party to collect a user’s email address when they log in to a website or sign up for a…"
+        },
+        {
+          "title": "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'",
+          "url": "https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T16:30:00+00:00",
+          "summary": "From October 26, only high and critical cases stay private as project seeks help sharing the workload"
+        },
+        {
+          "title": "AfD Email Breach Exposes 421,000 Messages in Anonymous Online Archive",
+          "url": "https://securityaffairs.com/201346/data-breach/afd-email-breach-exposes-421000-messages-in-anonymous-online-archive.html",
+          "source": "Security Affairs",
+          "published": "2026-10-20T10:53:15+00:00",
+          "summary": "A data breach exposed AfD emails, while an anonymous site published AI summaries of 421,000 messages, raising questions about authenticity and privacy. Germany’s Alternative für Deutschland (AfD) confirmed on October 19 that its hosting provider was hacked in September and that mailboxes were copied. By the time the confirmation reached Bild, a website called hexane.cc […]"
+        },
+        {
+          "title": "ConnectWise customers hit by supply-chain attack linked to compromised API secret",
+          "url": "https://cyberscoop.com/connectwise-cloud-backup-supply-chain-attack/",
+          "source": "CyberScoop",
+          "published": "2026-10-20T16:17:52+00:00",
+          "summary": "Hundreds of customers are confirmed impacted, as attackers use a sensitive credential to break into connected Microsoft 365 applications unimpeded. The post ConnectWise customers hit by supply-chain attack linked to compromised API secret appeared first on CyberScoop ."
+        },
+        {
+          "title": "UK FCA exec wants to require disclosure of ‘significant AI failures and near-misses’",
+          "url": "https://www.csoonline.com/article/4238124/uk-fca-exec-wants-to-require-disclosure-of-significant-ai-failures-and-near-misses-2.html",
+          "source": "CSO Online",
+          "published": "2026-10-21T01:09:32+00:00",
+          "summary": "When UK Financial Conduct Authority (FCA) Chief Data Officer Jessica Rusu gave a speech on Monday advocating that UK companies be required to report “significant AI failures and near-misses,” she added to the drumbeat of demands for some kind of regulatory control over enterprise AI deployments. But her speech also highlighted regulator frustration over futile attempts to slow down the seemingly…"
+        },
+        {
+          "title": "Nigerian national given 8-year sentence for tax business hacks",
+          "url": "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks",
+          "source": "The Record from Recorded Future News",
+          "published": "2026-10-20T17:14:00+00:00",
+          "summary": "A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced this week."
+        },
+        {
+          "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
+          "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
+          "source": "darkreading",
+          "published": "2026-10-20T14:36:05+00:00",
+          "summary": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins."
+        },
+        {
+          "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+          "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+          "source": "The Hacker News",
+          "published": "2026-10-20T17:09:53+00:00",
+          "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept. A researcher reported the"
+        },
+        {
+          "title": "Zeabur shutting down after second security breach in two months",
+          "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+          "source": "BleepingComputer",
+          "published": "2026-10-20T19:33:02+00:00",
+          "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]"
+        },
+        {
+          "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
+          "url": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
+          "source": "SecurityWeek",
+          "published": "2026-10-20T13:51:01+00:00",
+          "summary": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign appeared first on SecurityWeek ."
+        },
+        {
+          "title": "Privacy-preserving AI can protect your heart data, the bill is the problem",
+          "url": "https://www.helpnetsecurity.com/2026/10/21/ecg-heart-data-privacy-preserving-ai/",
+          "source": "Help Net Security",
+          "published": "2026-10-21T06:00:35+00:00",
+          "summary": "A heart monitor used to be a box beside a hospital bed. Electrodes fed a cable, the cable fed a screen, and a nurse watched the screen. The threat model fit on a sticky note. Cardiac care doesn’t work like that anymore. A patch or smartwatch records the electrocardiogram (ECG). A phone or gateway relays it. A cloud service stores and analyzes it, and a cardiologist reviews it from somewhere else…"
+        },
+        {
+          "title": "'Password1' and a forgotten test account land Welsh outfits in hot water",
+          "url": "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T13:35:00+00:00",
+          "summary": "ICO reprimands Ogi Networks and Data Cymru after ransomware breach exposes info of 3,300 people, mostly children"
+        },
+        {
+          "title": "DOJ escalates fight for election supremacy with California raids",
+          "url": "https://cyberscoop.com/justice-department-california-voter-arrests-noncitizen-claims/",
+          "source": "CyberScoop",
+          "published": "2026-10-20T15:29:36+00:00",
+          "summary": "The arrests were paired with comments from DOJ and DHS officials, threatening to investigate, arrest or prosecute tens of thousands of California voters if they vote in November. The post DOJ escalates fight for election supremacy with California raids appeared first on CyberScoop ."
+        },
+        {
+          "title": "KVM escape exposes broader attack surface in Linux networking",
+          "url": "https://www.csoonline.com/article/4237999/kvm-escape-exposes-broader-attack-surface-in-linux-networking.html",
+          "source": "CSO Online",
+          "published": "2026-10-20T21:37:05+00:00",
+          "summary": "Security researchers have found a critical flaw in the Linux kernel’s networking stack that can let attackers escape a KVM virtual machine and execute code on the host system. The weakness could also potentially let attackers compromise systems running other Linux-based virtualization and sandbox platforms. Tracked as CVE-2026-99999 and dubbed PwnEscape , the vulnerability was discovered by…"
+        },
+        {
+          "title": "EU cyber law won’t force fixes for fridge controllers hit in French attack",
+          "url": "https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack",
+          "source": "The Record from Recorded Future News",
+          "published": "2026-10-20T14:55:00+00:00",
+          "summary": "The EU’s Cyber Resilience Act that took effect last month only requires companies to fix vulnerabilities and issue free updates during a product's support period, which manufacturers define."
+        },
+        {
+          "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+          "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+          "source": "The Hacker News",
+          "published": "2026-10-20T15:38:52+00:00",
+          "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that could allow an unauthenticated attacker to execute unauthorized code or commands via specially"
+        },
+        {
+          "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+          "source": "BleepingComputer",
+          "published": "2026-10-20T18:11:03+00:00",
+          "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]"
+        },
+        {
+          "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
+          "url": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
+          "source": "SecurityWeek",
+          "published": "2026-10-20T13:34:23+00:00",
+          "summary": "Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk. The post The Key to AI Software Security Isn’t Speed, It’s Maturity appeared first on SecurityWeek ."
+        },
+        {
+          "title": "DevGuard: Open-source vulnerability management for the software supply chain",
+          "url": "https://www.helpnetsecurity.com/2026/10/21/devguard-open-source-vulnerability-management/",
+          "source": "Help Net Security",
+          "published": "2026-10-21T05:30:45+00:00",
+          "summary": "DevGuard is a free, open source vulnerability management platform that collects a software project’s security findings in one place, ranks them by risk, and tracks them. It’s an OWASP Incubating Project, and anyone can self-host it. One command line, six scans DevGuard runs secret scanning, static code analysis, dependency checks against known CVEs, infrastructure-as-code checks, container…"
+        },
+        {
+          "title": "Bullhorn sees red after cyberattack knocks recruitment platform offline",
+          "url": "https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T12:15:00+00:00",
+          "summary": "Staffing software giant calls in CrowdStrike as customers face login headaches and questions remain over possible data theft"
+        },
+        {
+          "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+          "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+          "source": "The Hacker News",
+          "published": "2026-10-20T15:32:27+00:00",
+          "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN connections. It was patched by Palo Alto Networks in May 2026 and was"
+        },
+        {
+          "title": "DHS bans DeepSeek products across US federal civilian agencies",
+          "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+          "source": "BleepingComputer",
+          "published": "2026-10-20T14:19:05+00:00",
+          "summary": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]"
+        },
+        {
+          "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
+          "url": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
+          "source": "SecurityWeek",
+          "published": "2026-10-20T13:02:18+00:00",
+          "summary": "The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. The post Ahold Delhaize Restoring Services Disrupted by Cyberattack appeared first on SecurityWeek ."
+        },
+        {
+          "title": "Why security tools lose sight of the credential",
+          "url": "https://www.helpnetsecurity.com/2026/10/21/gitguardian-securing-credential-layer/",
+          "source": "Help Net Security",
+          "published": "2026-10-21T05:00:32+00:00",
+          "summary": "Security teams have tools for code, endpoints, cloud infrastructure, identity, and secrets management. Credentials cut across all of them. A developer finds an AWS key in a repository. The first step is obvious: remove it. But that does not answer the questions the security team now has: Is the key still active? Who owns it? What can it access? Is the same credential sitting in a CI/CD variable,…"
+        },
+        {
+          "title": "Whitehall shuts the front door on digital ID but leaves the back open",
+          "url": "https://www.theregister.com/public-sector/2026/10/20/whitehall-shuts-the-front-door-on-digital-id-but-leaves-the-back-open/5304100",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T10:45:00+00:00",
+          "summary": "Ministers may have scrapped the national scheme, but One Login, digital wallets and 80-plus planned credentials are still very much alive"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://feeds.feedburner.com/TheHackersNews": {
+          "items": 15,
+          "status": "ok",
+          "secs": 0.5
+        },
+        "https://www.bleepingcomputer.com/feed/": {
+          "items": 13,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.securityweek.com/feed/": {
+          "items": 10,
+          "status": "ok",
+          "secs": 0.2
+        },
+        "https://www.helpnetsecurity.com/feed/": {
+          "items": 10,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.theregister.com/security/headlines.atom": {
+          "items": 8,
+          "status": "ok",
+          "secs": 0.8
+        },
+        "https://securityaffairs.com/feed": {
+          "items": 4,
+          "status": "ok",
+          "secs": 0.8
+        },
+        "https://cyberscoop.com/feed/": {
+          "items": 5,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.csoonline.com/feed/": {
+          "items": 5,
+          "status": "ok",
+          "secs": 0.2
+        },
+        "https://isc.sans.edu/rssfeed_full.xml": {
+          "items": 1,
+          "status": "ok",
+          "secs": 1.5
+        },
+        "https://krebsonsecurity.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.3
+        },
+        "https://www.schneier.com/feed/atom/": {
+          "items": 1,
+          "status": "ok",
+          "secs": 0.1
+        },
+        "https://therecord.media/feed": {
+          "items": 5,
+          "status": "ok",
+          "secs": 0.1
+        },
+        "https://www.darkreading.com/rss.xml": {
+          "items": 4,
+          "status": "ok",
+          "secs": 0.3
+        }
+      }
+    },
+    "tech": {
+      "items": [
+        {
+          "title": "PHP warns it plans to release 2 emergency patches imminently",
+          "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-21T02:12:18+00:00",
+          "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+        },
+        {
+          "title": "Happiness is the next AI KPI if Oxford boffins have their way",
+          "url": "https://www.theregister.com/offbeat/2026/10/21/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/5304253",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-21T09:15:00+00:00",
+          "summary": "Researchers say public subsidies for AI should be repaid in wellbeing, not just economic growth"
+        },
+        {
+          "title": "We can do impossible things",
+          "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+          "source": "MIT Technology Review",
+          "published": "2026-10-21T09:00:00+00:00",
+          "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.” I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:…"
+        },
+        {
+          "title": "The Future of CSS",
+          "url": "https://www.joshwcomeau.com/css/interop-2027/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-21T01:47:28+00:00",
+          "summary": "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 355 # Comments: 139"
+        },
+        {
+          "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+          "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T22:04:54+00:00",
+          "summary": "\"I do think there's a lot of merit to combining the companies.\""
+        },
+        {
+          "title": "MPs urge UK government to play venture capitalist with taxpayer-funded tech",
+          "url": "https://www.theregister.com/public-sector/2026/10/21/mps-urge-uk-government-to-play-venture-capitalist-with-taxpayer-funded-tech/5304212",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-21T08:30:00+00:00",
+          "summary": "Watchdog says Whitehall is too timid about taking stakes in British startups, leaving taxpayers at risk of missing out when they strike gold"
+        },
+        {
+          "title": "Nuclear-powered spaceships",
+          "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+          "source": "MIT Technology Review",
+          "published": "2026-10-21T09:00:00+00:00",
+          "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 2029. A successful mission would herald a new era…"
+        },
+        {
+          "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+          "url": "https://news-web.php.net/php.announce/509",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-20T20:15:50+00:00",
+          "summary": "https://cert.europa.eu/publications/security-advisories/2026... https://news.ycombinator.com/item?id=50167754 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 772 # Comments: 302"
+        },
+        {
+          "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+          "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T21:44:34+00:00",
+          "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation."
+        },
+        {
+          "title": "Nervous ISPs replace Chrome as strange consumers of DNS resources",
+          "url": "https://www.theregister.com/networks/2026/10/21/nervous-isps-replace-chrome-as-strange-consumers-of-dns-resources/5304344",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-21T03:16:37+00:00",
+          "summary": "Some network operators like to wear belts and suspenders to keep their services up"
+        },
+        {
+          "title": "Exercise in a pill",
+          "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+          "source": "MIT Technology Review",
+          "published": "2026-10-21T09:00:00+00:00",
+          "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to bring its upsides to people who…"
+        },
+        {
+          "title": "Show HN: SimCity, but with Permits",
+          "url": "https://permit.petercai.com/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-20T18:29:09+00:00",
+          "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 789 # Comments: 371"
+        },
+        {
+          "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+          "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T21:14:33+00:00",
+          "summary": "Xbox maker is also apparently planning its own gaming handheld for next year."
+        },
+        {
+          "title": "Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster, just waiting for a failure",
+          "url": "https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T20:39:42+00:00",
+          "summary": "And other fun facts about how Zuckercorp aims to keep a million GPUs running long enough to train a model"
+        },
+        {
+          "title": "Interspecies communication",
+          "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+          "source": "MIT Technology Review",
+          "published": "2026-10-21T09:00:00+00:00",
+          "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creatures who think,…"
+        },
+        {
+          "title": "What shall I teach my son?",
+          "url": "https://stevekrouse.com/ends",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-20T17:25:07+00:00",
+          "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 392 # Comments: 462"
+        },
+        {
+          "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+          "url": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T20:20:12+00:00",
+          "summary": "A lifetime ad-free subscription is available."
+        },
+        {
+          "title": "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/20/onedrive-loses-bunch-of-copilot-shortcuts-in-file-explorer-clear-out/5304149",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T16:04:00+00:00",
+          "summary": "Microsoft keeps 'Ask Copilot' as dedicated actions disappear between mid-November and early December"
+        },
+        {
+          "title": "Cleaning up PFAS",
+          "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+          "source": "MIT Technology Review",
+          "published": "2026-10-21T09:00:00+00:00",
+          "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to increased risks of fertility challenges, developmental delays, cancer, and reduced immune response. They are known for a strong bond…"
+        },
+        {
+          "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+          "url": "https://github.com/google-pytorch/torch_tpu",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-20T16:40:24+00:00",
+          "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 335 # Comments: 73"
+        },
+        {
+          "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+          "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T20:07:58+00:00",
+          "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt."
+        },
+        {
+          "title": "openEuler brings China's enterprise Linux ambitions to the desktop",
+          "url": "https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T15:30:00+00:00",
+          "summary": "CentOS roots give way to homegrown containers, AI tools, and a workstation edition we took for a spin"
+        },
+        {
+          "title": "Solid-state batteries",
+          "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+          "source": "MIT Technology Review",
+          "published": "2026-10-21T09:00:00+00:00",
+          "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in the last decade could tell you, storing and pumping out energy by moving charged lithium ions through a liquid electrolyte soup has…"
+        },
+        {
+          "title": "Voxtral 3",
+          "url": "https://mistral.ai/news/voxtral-3/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-20T16:02:07+00:00",
+          "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 662 # Comments: 166"
+        },
+        {
+          "title": "Gemini's Personal Intelligence is coming to cars",
+          "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T20:00:33+00:00",
+          "summary": "It's probably time to audit your Gemini settings."
+        },
+        {
+          "title": "How going dual-native means VM/container co-existence and sovereign security in the AI era",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/20/sponsored-how-going-dual-native-means-vm/container-co-existence-and-sovereign-security-in-the-ai-era/5303862",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T15:00:00+00:00",
+          "summary": "SPONSORED FEATURE: Nutanix says running VMs and containers within the same operating environment shouldn’t be a brake on AI ambitions"
+        },
+        {
+          "title": "Eliminating traffic deaths",
+          "url": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
+          "source": "MIT Technology Review",
+          "published": "2026-10-21T09:00:00+00:00",
+          "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local streets. “Traffic deaths are a leading cause of preventable death,…"
+        },
+        {
+          "title": "Ofcom concedes defeat in 4chan case",
+          "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-20T14:30:31+00:00",
+          "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 385 # Comments: 298"
+        },
+        {
+          "title": "OpenBSD 8.0 arrives with security record still intact",
+          "url": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T19:57:18+00:00",
+          "summary": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests"
+        },
+        {
+          "title": "Enterprises blow nearly a third of software budgets on upgrades they never asked for",
+          "url": "https://www.theregister.com/software/2026/10/20/enterprises-blow-nearly-a-third-of-software-budgets-on-upgrades-they-never-asked-for/5304181",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T14:43:00+00:00",
+          "summary": "Keeping vendors happy is costing businesses millions, even when everything was working fine in the first place"
+        },
+        {
+          "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+          "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+          "source": "MIT Technology Review",
+          "published": "2026-10-20T21:00:00+00:00",
+          "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have…"
+        },
+        {
+          "title": "eMudhra intermediate CA compromise",
+          "url": "https://emudhra.we-have-a-problem.com/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-20T13:58:33+00:00",
+          "summary": "https://blog.mozilla.org/security/2026/10/20/protecting-fire... https://bugzilla.mozilla.org/show_bug.cgi?id=2083449 Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 928 # Comments: 394"
+        },
+        {
+          "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+          "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T19:47:35+00:00",
+          "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server."
+        },
+        {
+          "title": "HPE to launch AI straight to the Moon",
+          "url": "https://www.theregister.com/science/2026/10/20/hpe-to-launch-ai-straight-to-the-moon/5303983",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T14:00:00+00:00",
+          "summary": "Mystery silicon and mirrored SSDs set to touch down before year's end"
+        },
+        {
+          "title": "Here’s the tea",
+          "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+          "source": "MIT Technology Review",
+          "published": "2026-10-20T21:00:00+00:00",
+          "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into…"
+        },
+        {
+          "title": "Tsrs: A Port of TypeScript to Rust",
+          "url": "https://blog.cloudflare.com/typescript-rust-port/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-20T13:18:07+00:00",
+          "summary": "Article URL: https://blog.cloudflare.com/typescript-rust-port/ Comments URL: https://news.ycombinator.com/item?id=50165953 Points: 407 # Comments: 198"
+        },
+        {
+          "title": "TP-Link tries to appease Trump admin with pledge to assemble routers in US",
+          "url": "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T19:25:14+00:00",
+          "summary": "TP-Link can't sell latest routers in US despite rivals getting FCC approvals."
+        },
+        {
+          "title": "Google Cloud says a 'power event' caused today's outage",
+          "url": "https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T12:49:56+00:00",
+          "summary": "Fells London zone, taking banks, parcel firm and property sites with it – and recovery is 'tentatively' due by 1300 UTC"
+        },
+        {
+          "title": "Melt it, spin it, use it again",
+          "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+          "source": "MIT Technology Review",
+          "published": "2026-10-20T21:00:00+00:00",
+          "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn. The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spandex with polyester or nylon. Those…"
+        },
+        {
+          "title": "Apple broke an essential presentation feature of iPads",
+          "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-20T12:17:28+00:00",
+          "summary": "Article URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/ Comments URL: https://news.ycombinator.com/item?id=50165208 Points: 555 # Comments: 272"
+        },
+        {
+          "title": "Does anyone actually want to win the medium-lift race in the United States?",
+          "url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T19:13:31+00:00",
+          "summary": "Ars Technica is here to help with a guide to the medium-lift space race."
+        },
+        {
+          "title": "Microsoft admits that Always On VPN problems were not fixed in the October Security Update",
+          "url": "https://www.theregister.com/os-platforms/2026/10/20/microsoft-admits-that-always-on-vpn-problems-were-not-fixed-in-the-october-security-update/5304063",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T11:30:00+00:00",
+          "summary": "Let they who are without sin throw a stone and miss the greenhouse entirely"
+        },
+        {
+          "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+          "url": "https://github.com/deepseek-ai/DeepInfer",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-20T09:08:54+00:00",
+          "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 2246 # Comments: 856"
+        },
+        {
+          "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+          "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T18:22:54+00:00",
+          "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties."
+        },
+        {
+          "title": "Google Cloud's London zones takes a nap, multiple services disrupted",
+          "url": "https://www.theregister.com/paas-and-iaas/2026/10/20/google-clouds-london-zones-takes-a-nap-multiple-services-disrupted/5304084",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-20T09:34:28+00:00",
+          "summary": "Lloyds, HSBC, Royal Mail, Revolut all hit as europe-west2-b falls over. No recovery time in sight, 'no workarounds for now'"
+        },
+        {
+          "title": "Quantum error correction goes well beyond breakeven",
+          "url": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T18:08:57+00:00",
+          "summary": "A demo of error-corrected qubits shows big reductions in errors as they grow."
+        },
+        {
+          "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+          "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T17:40:20+00:00",
+          "summary": "Meta argues nobody “decided” to pirate books to train AI."
+        },
+        {
+          "title": "Polestar tries to quantify what it’s like to drive a performance car",
+          "url": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T14:53:07+00:00",
+          "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track."
+        },
+        {
+          "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+          "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T12:33:13+00:00",
+          "summary": "Meta is suspending the sharing feature while it investigates its privacy."
+        },
+        {
+          "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
+          "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-20T11:00:16+00:00",
+          "summary": "Slate's first showroom sells the promise. Mass production will determine the rest."
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://feeds.arstechnica.com/arstechnica/index": {
+          "items": 17,
+          "status": "ok",
+          "secs": 0.2
+        },
+        "https://www.theregister.com/headlines.atom": {
+          "items": 12,
+          "status": "ok",
+          "secs": 1.1
+        },
+        "https://www.technologyreview.com/feed/": {
+          "items": 10,
+          "status": "ok",
+          "secs": 0.2
+        },
+        "https://hnrss.org/frontpage?points=300": {
+          "items": 11,
+          "status": "ok",
+          "secs": 4.4
+        }
+      }
+    },
+    "greece": {
+      "items": [
+        {
+          "title": "Τουρκολιβυκό μνημόνιο: Η ευρωομάδα ΝΔ και ΔΗΣΥ ζητά άμεση δράση της ΕΕ «με ενιαία φωνή και αποφασιστικότητα»",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/tourkolivyko-mnimonio-i-eyroomada-nd-kai-disy-zita-amesi-drasi-tis-ee-me-eniaia-foni-kai-apofasistikotita/",
+          "source": "ertnews.gr",
+          "published": "2026-10-21T09:37:05+00:00",
+          "summary": "Κοινή Δήλωση με την οποία καταδικάζουν «με τον πλέον κατηγορηματικό τρόπο» την έγκριση του άκυρου και ανυπόστατου τουρκολιβυκού μνημονίου από τη Βουλή των Αντιπροσώπων της Λιβύης, που αμφισβητεί τα κυριαρχικά δικαιώματα της Ελλάδας και της Κύπρου, παραβιάζει τις θεμελιώδεις αρχές του Διεθνούς Δικαίου της Θάλασσας και υπονομεύει την ειρήνη, τη σταθερότητα και την ασφάλεια στην ... Περισσότερα…"
+        },
+        {
+          "title": "Ρωσία: Καταρρίφθηκαν τρία μη επανδρωμένα αεροσκάφη στην περιφέρεια του Λένινγκραντ",
+          "url": "https://www.kathimerini.gr/world/564536863/rosia-katarrifthikan-tria-mi-epandromena-aeroskafi-stin-perifereia-toy-leningkrant/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-21T08:19:01+00:00",
+          "summary": "Η περιφέρεια περιβάλλει την Αγία Πετρούπολη, τη δεύτερη μεγαλύτερη πόλη της Ρωσίας, όπου ο ειδικός απεσταλμένος των ΗΠΑ, Στιβ Γουίτκοφ, αναμένεται να συναντηθεί με τον Ρώσο πρόεδρο, Βλαντιμίρ Πούτιν."
+        },
+        {
+          "title": "Αυτή την Κυριακή με το ΒΗΜΑ: «Η Μεγάλη Ιστορία της Αθήνας – Τόμος Α’», VITA, Μαθητική εφημερίδα Λεωνιδίου & ΒΗΜΑGAZINO",
+          "url": "https://www.tovima.gr/2026/10/21/media/ayti-tin-kyriaki-me-to-vima-i-megali-istoria-tis-athinas-tomos-a-vita-mathitiki-efimerida-leonidiou-vimagazino/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-21T09:36:14+00:00",
+          "summary": "Κυκλοφορούν αποκλειστικά με το ΒΗΜΑ την Κυριακή 25 Οκτωβρίου."
+        },
+        {
+          "title": "Αυστραλία: Ακρωτηριάστηκε και στα δύο πόδια η βουλεύτρια μετά την επίθεση με αυτοκίνητο",
+          "url": "https://www.efsyn.gr/kosmos/1493197/aystralia-akrotiriastike-kai-sta-dyo-podia-i-voyleytria-meta-tin-epithesi-me-aytokinito/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-21T09:38:03+00:00",
+          "summary": "Η 65χρονη ανεξάρτητη βουλεύτρια, γνωστή για τη μάχη της κατά της διαφθοράς και της κλιματικής αλλαγής, χτυπήθηκε από SUV το απόγευμα της Δευτέρας στη Γουανγκαράτα"
+        },
+        {
+          "title": "ΕΛΣΤΑΤ: Στο 2% του ΑΕΠ το πλεόνασμα της Γενικής Κυβέρνησης το 2025 – Στο 145,4% το δημόσιο χρέος",
+          "url": "https://www.naftemporiki.gr/finance/economy/2177994/elstat-sto-2-toy-aep-to-pleonasma-tis-genikis-kyvernisis-to-2025-sto-1454-to-dimosio-chreos/?utm_source=rss&utm_medium=rss&utm_campaign=elstat-sto-2-toy-aep-to-pleonasma-tis-genikis-kyvernisis-to-2025-sto-1454-to-dimosio-chreos",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-21T09:37:16+00:00",
+          "summary": "Στα 4,935 δισ. ευρώ (2% του ΑΕΠ) ανήλθε το 2025, σύμφωνα με το ESA 2010, το πλεόνασμα της Γενικής Κυβέρνησης, ενώ το ακαθάριστο ενοποιημένο χρέος σε ονομαστικές τιμές εκτιμάται στα… ΕΛΣΤΑΤ: Στο 2% του ΑΕΠ το πλεόνασμα της Γενικής Κυβέρνησης το 2025 – Στο 145,4% το δημόσιο χρέος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Πούτιν σε Γουίτκοφ: Πιθανή συνάντηση με Τραμπ στην Κίνα – Ελεύθερος ο 72χρονος αιχμάλωτος",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/poutin-se-gouitkof-pithani-synantisi-me-tramp-stin-kina-eleytheros-o-72xronos-aixmalotos/",
+          "source": "ertnews.gr",
+          "published": "2026-10-21T09:35:39+00:00",
+          "summary": "Με επιβεβαίωση ότι αφέθηκε ελεύθερος ο 72χρονος αμερικανός αιχμάλωτος Στίβεν Χάμπαρντ υποδέχτηκε ο Βλαντίμιρ Πούτιν, τον ειδικό απεσταλμένο του Λευκού Οίκου, στην Αγία Πετρούπολη. Από την πλευρά του ο Στιβ Γουίτκοφ εξέφρασε την ελπίδα ότι θα ακολουθήσει επανεκκίνηση των ρωσο – ουκρανικών συνομιλιών και τόνισε ότι μεταφέρει προτάσεις από την χθεσινή συνάντηση του στο Όσλο ... Περισσότερα…"
+        },
+        {
+          "title": "«Κλειδί» για την αύξηση της παραγωγικότητας οι επενδύσεις",
+          "url": "https://www.kathimerini.gr/economy/local/564536254/kleidi-gia-tin-ayxisi-tis-paragogikotitas-oi-ependyseis/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-21T08:19:00+00:00",
+          "summary": "Η μεγάλη υστέρηση συνδέεται και με το περιορισμένο βιομηχανικό αποτύπωμα και το μικρό μέγεθος επιχειρήσεων."
+        },
+        {
+          "title": "Μουσική καλλιγραφία",
+          "url": "https://www.tovima.gr/2026/10/21/culture/mousiki-kalligrafia/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-21T09:25:55+00:00",
+          "summary": "Ο ολλανδός καλλιτέχνης Vincent de Boer, έρχεται στην Αθήνα στο πλαίσιο του πολύ ενδιαφέροντος φεστιβάλ Scenius Sound που θα πραγματοποιηθεί σε λίγες ημέρες στο ΠΛΥΦΑ και μιλά στο «Βήμα» για τον Cy Twombly και τους βράχους που σμιλεύει η ελληνική θάλασσα."
+        },
+        {
+          "title": "BBC: Γιατί «πέθαναν» ξανά τον Κιμ Γιονγκ Ουν – Οι γεωπολιτικές ενδείξεις ότι ο ηγέτης της Βόρειας Κορέας είναι καλά",
+          "url": "https://www.efsyn.gr/kosmos/1493218/bbc-giati-pethanan-xana-ton-kim-giongk-oyn-oi-geopolitikes-endeixeis-oti-o-igetis-tis-voreias-koreas-einai-kala/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-21T09:29:39+00:00",
+          "summary": "Οι φήμες που κατέκλυσαν τα δυτικά ΜΜΕ περί θανάτου του Βορειοκορεάτη ηγέτη, Κιμ Γιονγκ Ουν, τον ανάγκασαν να εμφανιστεί δημοσίως και να τον καταγράψουν τυχαία οι κρατικές κάμερες. Φωτογραφίες που δημοσίευσε η κρατική εφημερίδα Rodong Sinmun δείχνουν τον 42χρονο δικτάτορα να επισκέπτεται, μαζί με την κόρη του, μια έκθεση ένδυσης και υπόδησης, σε εξαιρετική φυσική […]"
+        },
+        {
+          "title": "Ρωσία: Απελευθέρωσε 74χρονο Αμερικανό που κρατούνταν τέσσερα χρόνια",
+          "url": "https://www.naftemporiki.gr/kosmos/2177988/rosia-apeleytherose-74chrono-amerikano-poy-kratoyntan-tessera-chronia/?utm_source=rss&utm_medium=rss&utm_campaign=rosia-apeleytherose-74chrono-amerikano-poy-kratoyntan-tessera-chronia",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-21T09:35:41+00:00",
+          "summary": "Ένας 74χρονος Αμερικανός που κρατούνταν στη Ρωσία για πάνω από τέσσερα χρόνια, αφέθηκε ελεύθερος μετά από την άφιξη του ειδικού απεσταλμένου των ΗΠΑ, Στιβ Γουίτκοφ, στην Αγία Πετρούπολη, σύμφωνα με… Ρωσία: Απελευθέρωσε 74χρονο Αμερικανό που κρατούνταν τέσσερα χρόνια - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Ράντεφ: Η Βουλγαρία δεν θα εμπλακεί στο νέο πακέτο στήριξης που ζήτησε ο Ζελένσκι από την Ε.Ε",
+          "url": "https://www.ertnews.gr/eidiseis/rantef-i-voulgaria-den-tha-emplakei-sto-neo-paketo-stiriksis-pou-zitise-o-zelenski-apo-tin-e-e/",
+          "source": "ertnews.gr",
+          "published": "2026-10-21T09:35:23+00:00",
+          "summary": "Η Βουλγαρία δεν θα συμμετάσχει σε ένα νέο πακέτο οικονομικής βοήθειας της Ευρωπαϊκής Ένωσης στην Ουκρανία, το οποίο ζήτησε ο Ουκρανός πρόεδρος Βολοντίμιρ Ζελένσκι, δήλωσε ο πρωθυπουργός Ρούμεν Ράντεφ, σύμφωνα με το γερμανικό πρακτορείο ειδήσεων DPA. Στη σύνοδο κορυφής του Ευρωπαϊκού Συμβουλίου στις Βρυξέλλες, ο Πρόεδρος Ζελένσκι ζήτησε επιπλέον 70 δισεκατομμύρια ευρώ από την Ένωση ... Περισσότερα…"
+        },
+        {
+          "title": "Aδεια μητρότητας για… σκύλους; Η απαίτηση μιας εργαζόμενης που δίχασε την Αυστραλία",
+          "url": "https://www.kathimerini.gr/world/564536845/adeia-mitrotitas-gia-skyloys-i-apaitisi-mias-ergazomenis-poy-dichase-tin-aystralia/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-21T08:13:56+00:00",
+          "summary": "Η απαίτηση μιας εργαζόμενης για άδεια μετ' αποδοχών προκάλεσε έντονες αντιδράσεις και άνοιξε τη συζήτηση για το λεγόμενο «pawternity leave»."
+        },
+        {
+          "title": "Με Aντι-Navtex απαντά η Αθήνα στην τουρκική Navtex στην Ανατολική Μεσόγειο",
+          "url": "https://www.tovima.gr/2026/10/21/diplomatia/me-anti-navtex-apanta-i-athina-stin-tourkiki-navtex/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-21T09:04:16+00:00",
+          "summary": "Στην αντι-NAVTEX που εξέδωσε η Υδρογραφική Υπηρεσία του Πολεμικού Ναυτικού μέσω του σταθμού Ηρακλείου, υπογραμμίζεται ότι μη εγκεκριμένος σταθμός εξέπεμψε το μήνυμα NAVTEX FA41-1032/26."
+        },
+        {
+          "title": "Ηχηρό «όχι» στη διχοτόμηση της Ιατρικής Σχολής του ΑΠΘ",
+          "url": "https://www.efsyn.gr/ellada/1493076/ihiro-ohi-sti-dihotomisi-tis-iatrikis-sholis-toy-apth/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-21T09:24:02+00:00",
+          "summary": "Το Τμήμα απέρριψε την απόπειρα του πρύτανη Κυριάκου Αναστασιάδη, τον οποίο καταγγέλλουν για μεθόδευση με στόχο την αλλαγή των εκλογικών ισορροπιών τέσσερα εξέχοντα μέλη του Συμβουλίου Διοίκησης"
+        },
+        {
+          "title": "Euroseas: Containership 25ετίας ναυλώθηκε στα 62,5 χιλ. δολάρια την ημέρα",
+          "url": "https://www.naftemporiki.gr/maritime/2177987/euroseas-containership-25etias-naylothike-sta-625-chil-dolaria-tin-imera/?utm_source=rss&utm_medium=rss&utm_campaign=euroseas-containership-25etias-naylothike-sta-625-chil-dolaria-tin-imera",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-21T09:29:05+00:00",
+          "summary": "Σε επίπεδα που αναδεικνύουν τη συνεχιζόμενη ισχύ της αγοράς των feeder containerships έκλεισε νέα χρονοναύλωση η Euroseas. Η ναυτιλιακή, συμφερόντων του Αριστείδη Πίττα, εξασφάλισε ημερήσιο ναύλο 62.500 δολαρίων για πλοίο… Euroseas: Containership 25ετίας ναυλώθηκε στα 62,5 χιλ. δολάρια την ημέρα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Η εισήγηση Παππά για το ελβετικό φράγκο πριν από λίγο",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/i-eisigisi-pappa-gia-to-elvetiko-fragko-prin-apo-ligo/",
+          "source": "ertnews.gr",
+          "published": "2026-10-21T09:32:35+00:00",
+          "summary": "Παρακολουθήστε μέσω του ertnews.gr την εισήγηση του Νίκου Παππά κατά τη συνάντησή του με εκπροσώπους της Πρωτοβουλίας «ΔΙΚΑΙΩΣΗ» και συλλόγων δανειοληπτών σε ελβετικό φράγκο. www.ertnews.gr"
+        },
+        {
+          "title": "Εκρηξη επενδύσεων σε ξενοδοχεία στην Αθήνα",
+          "url": "https://www.kathimerini.gr/economy/business/564536263/ekrixi-ependyseon-se-xenodocheia-stin-athina/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-21T08:10:43+00:00",
+          "summary": "Τέταρτος δημοφιλέστερος προορισμός στην Ευρώπη για θεσμικούς επενδυτές, πάνω από Βαρκελώνη, Βιέννη και Πράγα."
+        },
+        {
+          "title": "Πανεκπαιδευτικό συλλαλητήριο: Στους δρόμους μαθητές, φοιτητές, εκπαιδευτικοί – Ζωντανή ενημέρωση",
+          "url": "https://www.tovima.gr/2026/10/21/live/panekpaideytiko-syllalitirio-stous-dromous-mathites-foitites-ekpaideytikoi-zontani-enimerosi/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-21T08:40:34+00:00",
+          "summary": "Σε εξέλιξη οι διαδηλώσεις μαθητών, φοιτητών, εκπαιδευτικών σε όλη τη χώρα - Κλειστοί δρόμοι στο κέντρο της Αθήνας, κλειστός και ο σταθμός μετρό Πανεπιστήμιο - Δρακόντεια μέτρα ασφαλείας από την ΕΛ.ΑΣ., 10 προσαγωγές"
+        },
+        {
+          "title": "ΠΑΟΚ: Στο προσκήνιο τα επιθετικά «όπλα»",
+          "url": "https://www.efsyn.gr/athlitismos/1493070/paok-sto-proskinio-ta-epithetika-opla/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-21T09:21:56+00:00",
+          "summary": "Ο ΠΑΟΚ ξεκινά σήμερα την προετοιμασία για το παιχνίδι με τον ΟΦΗ στο Ηράκλειο την Κυριακή, όπου μάλιστα θα έχει μαζί και τους οπαδούς του. Οι τρεις βαθμοί που κατακτήθηκαν στο τοπικό ντέρμπι με τον Ηρακλή βοήθησαν σίγουρα να πέσουν κάπως οι τόνοι μετά την ήττα από την Καλαμάτα, ωστόσο, η μέτρια εμφάνιση κόντρα στους […]"
+        },
+        {
+          "title": "Getty Images: Πώς χτίστηκε και πώς έπεσε με κρότο η αυτοκρατορία των εικόνων",
+          "url": "https://www.naftemporiki.gr/stories/2177973/getty-images-pos-chtistike-kai-pos-epese-me-kroto-i-aytokratoria-ton-eikonon/?utm_source=rss&utm_medium=rss&utm_campaign=getty-images-pos-chtistike-kai-pos-epese-me-kroto-i-aytokratoria-ton-eikonon",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-21T09:22:09+00:00",
+          "summary": "Το υδατογράφημά της βρίσκεται παντού: σε πρωτοσέλιδα, διαφημίσεις, ιστοσελίδες και εικόνες που ταξιδεύουν καθημερινά στις οθόνες μας. Για χρόνια, η Getty Images πιστεύει πως έχει το πιο πολύτιμο συστατικό στην… Getty Images: Πώς χτίστηκε και πώς έπεσε με κρότο η αυτοκρατορία των εικόνων - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Στο 95,61% η εκτέλεση δρομολογίων από τα ΚΤΕΛ Θεσσαλονίκης – Σερρών το τελευταίο επτάμηνο",
+          "url": "https://www.ertnews.gr/ert3/sto-95-61-i-ektelesi-dromologion-apo-ta-ktel-thessalonikis-serron-to-teleytaio-eptamino/",
+          "source": "ertnews.gr",
+          "published": "2026-10-21T09:31:31+00:00",
+          "summary": "Ποσοστά εκτέλεσης των προγραμματισμένων οχηματοχιλιομέτρων που ξεπερνούν το 95% για το μεγαλύτερο μέρος του επταμήνου Μαρτίου – Σεπτεμβρίου 2026, καταγράφει η Ένωση ΚΤΕΛ Θεσσαλονίκης – Σερρών, όπως επισημαίνεται σε σημερινή ανακοίνωσή της. Σύμφωνα με τα στοιχεία που παραθέτει η Ένωση, το ποσοστό εκτέλεσης των προγραμματισμένων οχηματοχιλιομέτρων διαμορφώθηκε στο 97,50% τον Μάιο, ενώ κατά τους…"
+        },
+        {
+          "title": "Στήριξη και από Μέτσολα σε Ελλάδα – Κύπρο για το τουρκολιβυκό μνημόνιο",
+          "url": "https://www.kathimerini.gr/world/564536815/stirixi-kai-apo-metsola-se-ellada-kypro-gia-to-toyrkolivyko-mnimonio/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-21T08:09:58+00:00",
+          "summary": "«Συμμεριζόμαστε τις ανησυχίες που διατυπώθηκαν. Αθήνα και Λευκωσία μπορούν να βασίζονται στην αλληλεγγύη μας»."
+        },
+        {
+          "title": "Μπεν Άφλεκ: Από το «Argo» στο «Animals» και στην ΤΝ των 587 εκατομμυρίων δολαρίων",
+          "url": "https://www.tovima.gr/2026/10/21/culture/mpen-aflek-apo-to-argo-sto-animals-kai-stin-tn-ton-587-ekatommyrion-dolarion/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-21T08:38:07+00:00",
+          "summary": "Την ώρα που το Χόλιγουντ ανησυχεί για την τεχνητή νοημοσύνη, ο Αμερικανός σταρ βγήκε μπροστά: έμαθε προγραμματισμό, ίδρυσε τη δική του startup και τη μοσχοπούλησε στο Netflix φτιάχνοντας από το μηδέν την πρώτη ταινία με τη σφραγίδα της δικής του τεχνολογίας."
+        },
+        {
+          "title": "Επιστολή Δούκα στη Ζαχαράκη για την ασφάλεια του σχολικού συγκροτήματος της Γκράβας",
+          "url": "https://www.efsyn.gr/ellada/1493226/epistoli-doyka-sti-zaharaki-gia-tin-asfaleia-toy-sholikoy-sygkrotimatos-tis-gkravas/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-21T09:16:44+00:00",
+          "summary": "Ο Χάρης Δούκας ζητά την αυτοπρόσωπη παρουσία της Σοφίας Ζαχαράκη στο Δημοτικό Συμβούλιο της Αθήνας, μετά τη δημοσιοποίηση του πορίσματος για το σχολικό συγκρότημα στην Γκράβα."
+        },
+        {
+          "title": "Ο Δαίδαλος της υπολογιστικής ισχύος και ο πολυδαίδαλος Κυβερνοχώρος",
+          "url": "https://www.naftemporiki.gr/opinion/2177976/o-daidalos-tis-ypologistikis-ischyos-kai-o-polydaidalos-kyvernochoros/?utm_source=rss&utm_medium=rss&utm_campaign=o-daidalos-tis-ypologistikis-ischyos-kai-o-polydaidalos-kyvernochoros",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-21T09:14:29+00:00",
+          "summary": "Το σημερινό τεχνολογικό οικοσύστημα που δημιουργεί την ενιαία ψηφιακή πραγματικότητα που ονομάζεται Κυβερνοχώρος περιλαμβάνει τρείς σημαντικούς πυλώνες την τεχνολογική υποδομή, τις ακολουθούμενες διαδικασίες (θεσμικό και κανονιστικό πλαίσιο) και την ανθρώπινη… Ο Δαίδαλος της υπολογιστικής ισχύος και ο πολυδαίδαλος Κυβερνοχώρος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Σε εξέλιξη το πανεκπαιδευτικό συλλαλητήριο στη Θεσσαλονίκη",
+          "url": "https://www.ertnews.gr/video/se-ekseliksi-to-panekpaideytiko-syllalitirio-sti-thessaloniki/",
+          "source": "ertnews.gr",
+          "published": "2026-10-21T09:31:12+00:00",
+          "summary": "Ξεκίνησε και στη Θεσσαλονίκη το πανεκπαιδευτικό συλλαλητήριο, στο πλαίσιο των πανελλαδικών κινητοποιήσεων. Προηγήθηκε συγκέντρωση στο άγαλμα Βενιζέλου και στη συνέχεια οι διαδηλωτές βγήκαν στο οδόστρωμα, κρατώντας πανό και φωνάζοντας συνθήματα. Στην πορεία συμμετέχουν πέρα από τους μαθητές (30 περίπου σχολεία ήδη έχουν ξεκινήσει καταλήψεις στην πόλη), σύλλογοι των φοιτητών των πανεπιστημίων της,…"
+        },
+        {
+          "title": "Ισπανία: Η επίσκεψη του Μιλέι προκαλεί αμηχανία στη Δεξιά",
+          "url": "https://www.kathimerini.gr/world/564536818/ispania-i-episkepsi-toy-milei-prokalei-amichania-sti-dexia/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-21T08:08:46+00:00",
+          "summary": "Στην επίσκεψή του στην Ισπανία, η οποία θα διαρκέσει λίγο περισσότερο από 24 ώρες, τον συνοδεύουν ο υπουργός Εξωτερικών της Αργεντινής, Πάμπλο Κίρνο, και ο εκπρόσωπός του, Αντριάν Ραβιέρ."
+        },
+        {
+          "title": "Πόσο επικίνδυνη θεωρεί ο Γκέιτς την τεχνητή νοημοσύνη",
+          "url": "https://www.tovima.gr/2026/10/21/texnologia/poso-epikindyni-theorei-o-gkeits-tin-texniti-noimosyni/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-21T08:34:48+00:00",
+          "summary": "Από τις προειδοποιήσεις του Μπιλ Γκέιτς μέχρι τα περιστατικά ανεξέλεγκτης δράσης συστημάτων τεχνητής νοημοσύνης, οι φόβοι για απώλεια του ανθρώπινου ελέγχου εντείνονται. Τι είναι το περίφημο «singularity»;"
+        },
+        {
+          "title": "Ολυμπιακός: Ο Αλγουαθίλ διαλέγει σέντερ φορ για τη Σπάρτα",
+          "url": "https://www.efsyn.gr/athlitismos/1493187/olympiakos-o-algoyathil-dialegei-senter-for-gia-ti-sparta/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-21T09:11:02+00:00",
+          "summary": "Από τη σημερινή τελευταία προπόνηση θα βγάλει τα τελευταία του συμπεράσματα και θα αποφασίσει για την αρχική ενδεκάδα που θα παρατάξει ο Ιμανόλ Αλγουαθίλ στην αυριανή εντός έδρας αναμέτρηση με τη Σπάρτα Πράγας"
+        },
+        {
+          "title": "Σε εξέλιξη το πανεκπαιδευτικό συλλαλητήριο: Απροσπέλαστο το κέντρο της Αθήνας – 10 προσαγωγές από την ΕΛΑΣ",
+          "url": "https://www.naftemporiki.gr/society/2177962/se-exelixi-to-panekpaideytiko-syllalitirio-aprospelasto-to-kentro-tis-athinas-10-prosagoges-apo-tin-elas/?utm_source=rss&utm_medium=rss&utm_campaign=se-exelixi-to-panekpaideytiko-syllalitirio-aprospelasto-to-kentro-tis-athinas-10-prosagoges-apo-tin-elas",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-21T09:11:38+00:00",
+          "summary": "Σε εξέλιξη βρίσκεται το πανεκπαιδευτικό συλλαλητήριο στο κέντρο της Αθήνας, με μαθητές, φοιτητές και εκπαιδευτικούς να έχουν κατακλύσει τα Προπύλαια. Στην κινητοποίηση συμμετέχουν μαθητικές επιτροπές από σχολεία της Αττικής, αλλά… Σε εξέλιξη το πανεκπαιδευτικό συλλαλητήριο: Απροσπέλαστο το κέντρο της Αθήνας – 10 προσαγωγές από την ΕΛΑΣ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Βούλτεψη στο ΕΡΤnews Radio 105,8 για τουρκολυβικό μνημόνιο: Το γνώριζαν όλες οι κυβερνήσεις από το 2006",
+          "url": "https://www.ertnews.gr/synenteykseis/voultepsi-sto-ertnews-radio-105-8-gia-tourkolyviko-mnimonio-to-gnorizan-oles-oi-kyverniseis-apo-to-2006/",
+          "source": "ertnews.gr",
+          "published": "2026-10-21T09:29:44+00:00",
+          "summary": "Στην αποκάλυψη ότι όλες οι ελληνικές κυβερνήσεις από το 2006 και μετά γνώριζαν για την ύπαρξη συνεργασίας Λιβύης – Τουρκίας, προχώρησε η Βουλευτής της Νέας Δημοκρατίας, Σοφία Βούλτεψη, μιλώντας εκπομπή «Πρωινές Διαδρομές» με τους Βασίλη Αδαμόπουλο και Μαρία Γεωργίου. «Το τουρκολιβυκό το γνώριζε ο Σαμαράς. Το γνώριζε πολύ καλά γιατί επί των ημερών του, του ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Πομπηία: «Ζωντανεύει» η μεγαλύτερη αρχαία κατοικία χάρη σε επένδυση ύψους 1,4 εκατ. ευρώ",
+          "url": "https://www.kathimerini.gr/world/564536776/pompiia-zontaneyei-i-megalyteri-archaia-katoikia-chari-se-ependysi-ypsoys-1-4-ekat-eyro/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-21T07:57:36+00:00",
+          "summary": "Ενα μέρος του αναμένεται να ανοίξει για ξεναγήσεις μέχρι τα Χριστούγεννα."
+        },
+        {
+          "title": "Τα πρόσωπα που κρίνουν το μέλλον της τεχνητής νοημοσύνης",
+          "url": "https://www.tovima.gr/2026/10/21/texnologia/ta-prosopa-pou-krinoun-to-mellon-tis-texnitis-noimosynis/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-21T08:33:56+00:00",
+          "summary": "Από τη Σίλικον Βάλεϊ μέχρι τα Ηνωμένα Έθνη, εννέα πρόσωπα αποτυπώνουν τις διαφορετικές όψεις της νέας εποχής της τεχνητής νοημοσύνης. Ποιοι συγκεντρώνουν την ισχύ, ποιοι ανατρέπουν τις ισορροπίες και ποιοι επιχειρούν να θέσουν όρια στην τεχνητή νοημοσύνη;"
+        },
+        {
+          "title": "Στις ΗΠΑ ο Δένδιας για υπογραφή συμφωνίας- Συναντήσεις για ρομποτική, ΤΝ και κυβερνοασφάλεια",
+          "url": "https://www.efsyn.gr/politiki/1493176/stis-ipa-o-dendias-gia-ypografi-symfonias-synantiseis-gia-rompotiki-tn-kai-kyvernoasfaleia/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-21T09:09:08+00:00",
+          "summary": "Συναντήσεις Δένδια με ειδικούς στους τομείς της ρομποτικής, της καινοτομίας, της Τεχνητής Νοημοσύνης, της Κυβερνοάμυνας και της Κυβερνοασφάλειας, καθώς και των διαστημικών τηλεπικοινωνιών."
+        },
+        {
+          "title": "Τουρκολιβυκό Μνημόνιο: Παρέμβαση Βόζεμπεργκ στο Ευρωκοινοβούλιο – «Η Ελλάδα και η Κύπρος μπορούν να βασίζονται στην αλληλεγγύη μας», απαντά η Μέτσολα",
+          "url": "https://www.naftemporiki.gr/politics/2177949/toyrkolivyko-mnimonio-paremvasi-vozempergk-sto-eyrokoinovoylio-i-ellada-kai-i-kypros-mporoyn-na-vasizontai-stin-allileggyi-mas-apanta-i-metsola/?utm_source=rss&utm_medium=rss&utm_campaign=toyrkolivyko-mnimonio-paremvasi-vozempergk-sto-eyrokoinovoylio-i-ellada-kai-i-kypros-mporoyn-na-vasizontai-stin-allileggyi-mas-apanta-i-metsola",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-21T09:09:53+00:00",
+          "summary": "Στην Ολομέλεια του Ευρωκοινοβουλίου στο Στρασβούργο τέθηκε το ζήτημα του Τουρκολιβυκού Μνημονίου με την πρόεδρο, Ρομπέρτα Μέτσολα, να διαβεβαιώνει ότι η Ελλάδα και η Κύπρος μπορούν να βασίζονται στην ευρωπαϊκή… Τουρκολιβυκό Μνημόνιο: Παρέμβαση Βόζεμπεργκ στο Ευρωκοινοβούλιο – «Η Ελλάδα και η Κύπρος μπορούν να βασίζονται στην αλληλεγγύη μας», απαντά η Μέτσολα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Δίπλωμα οδήγησης: Κάμερες στις εξετάσεις και ψηφιακή καταγραφή μαθημάτων – Τι είπε στο ΕΡΤnews Radio 105,8 η Πρ. Πανελλήνιας Ομοσπονδίας Εκπαιδευτών Οδήγησης",
+          "url": "https://www.ertnews.gr/roi-idiseon/diploma-odigisis-kameres-stis-eksetaseis-kai-psifiaki-katagrafi-mathimaton-ti-eipe-sto-ertnews-radio-105-8-i-pr-panellinias-omospondias-ekpaideyton-odigisis/",
+          "source": "ertnews.gr",
+          "published": "2026-10-21T09:26:32+00:00",
+          "summary": "Σημαντικές αλλαγές στην εκπαίδευση και την εξέταση των υποψήφιων οδηγών προωθούνται το επόμενο διάστημα, με στόχο τη μεγαλύτερη διαφάνεια, τη μείωση της γραφειοκρατίας και την ενίσχυση της οδικής ασφάλειας. Όπως ανέφερε η Πρόεδρος της Πανελλήνιας Ομοσπονδίας Εκπαιδευτών Οδήγησης, Έφη Λέντζιου μιλώντας στην εκπομπή «Πρωινή Παρέα» με τους Κατερίνα Σερέτη και Διονύση Χατζημιχάλη στο πλαίσιο των…"
+        },
+        {
+          "title": "Η οικονομία των ΗΠΑ πίσω από τους αριθμούς",
+          "url": "https://www.kathimerini.gr/economy/international/564536308/i-oikonomia-ton-ipa-piso-apo-toys-arithmoys/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-21T07:57:08+00:00",
+          "summary": "Ο Τραμπ πανηγυρίζει για την ανάπτυξη, αλλά τα νοικοκυριά πιέζονται."
+        },
+        {
+          "title": "Ξεκάθαρη θέση για τουρκολιβυκό από Μέτσολα: «Η Ελλάδα και η Κύπρος μπορούν να βασίζονται στην αλληλεγγύη μας»",
+          "url": "https://www.tovima.gr/2026/10/21/diplomatia/metsola-i-ellada-kai-i-kypros-mporoun-na-vasizontai-stin-allileggyi-mas/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-21T08:07:43+00:00",
+          "summary": "Η πρόεδρος του Ευρωπαϊκού Κοινοβουλίου επανέλαβε την στήριξη της ΕΕ σε Ελλάδα και Κύπρο με αφορμή την επικύρωση του τουρκολιβυκού μνημονίου."
+        },
+        {
+          "title": "Βούρκωσε η Γιαννακοπούλου από τους τραμπουκισμούς Λαζαρίδη: «Είστε ένας κινούμενος βούρκος» – [βίντεο]",
+          "url": "https://www.efsyn.gr/politiki/1493169/voyrkose-i-giannakopoyloy-apo-toys-trampoykismoys-lazaridi-eiste-enas-kinoymenos-voyrkos-vinteo/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-21T08:52:05+00:00",
+          "summary": "Ξέσπασε η βουλεύτρια του ΠΑΣΟΚ Νάντια Γιαννακοπούλου μετά την προσωπική επίθεση που δέχτηκε από τον βουλευτή της ΝΔ, Μακάριο Λαζαρίδη."
+        },
+        {
+          "title": "Ρούμπιο: Όσο είναι πρόεδρος ο Τραμπ, το Ιράν δεν πρόκειται να αποκτήσει πυρηνικό όπλο – Οι ΗΠΑ θα απορρίψουν όποια συμφωνία αφήνει ανοιχτό αυτό τον δρόμο",
+          "url": "https://www.naftemporiki.gr/kosmos/2177965/roympio-oso-einai-proedros-o-tramp-to-iran-den-prokeitai-na-apoktisei-pyriniko-oplo-oi-ipa-tha-aporripsoyn-opoia-symfonia-afinei-anoichto-ayto-ton-dromo/?utm_source=rss&utm_medium=rss&utm_campaign=roympio-oso-einai-proedros-o-tramp-to-iran-den-prokeitai-na-apoktisei-pyriniko-oplo-oi-ipa-tha-aporripsoyn-opoia-symfonia-afinei-anoichto-ayto-ton-dromo",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-21T09:04:37+00:00",
+          "summary": "Ο Αμερικανός υπουργός Εξωτερικών Μάρκο Ρούμπιο δήλωσε την Τετάρτη ότι η Ουάσιγκτον χαιρετίζει τις προσπάθειες διαμεσολάβησης από χώρες όπως το Κατάρ και το Πακιστάν για την επίλυση της σύγκρουσης στη… Ρούμπιο: Όσο είναι πρόεδρος ο Τραμπ, το Ιράν δεν πρόκειται να αποκτήσει πυρηνικό όπλο – Οι ΗΠΑ θα απορρίψουν όποια συμφωνία αφήνει ανοιχτό αυτό τον δρόμο - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Δούκας για Γκράβα: Ζητά την παρουσία Ζαχαράκη και του προέδρου του ΤΕΕ στο Δημοτικό Συμβούλιο – «Απαιτούνται άμεσες ενέργειες»",
+          "url": "https://www.ertnews.gr/roi-idiseon/doukas-gia-gkrava-zita-tin-parousia-zaxaraki-kai-tou-proedrou-tou-tee-sto-dimotiko-symvoulio-apaitountai-ameses-energeies/",
+          "source": "ertnews.gr",
+          "published": "2026-10-21T09:22:26+00:00",
+          "summary": "Την υπουργό Παιδείας, Θρησκευμάτων & Αθλητισμού Σοφία Ζαχαράκη και τον πρόεδρο του ΤΕΕ Γιώργο Στασινό, καλεί ο Χάρης Δούκας στη σημερινή (15:00) συνεδρίαση του δημοτικού συμβουλίου, για το ζήτημα με τις σχολικές μονάδες της Γκράβας. Ο δήμαρχος Αθηναίων έστειλε σήμερα επιστολή, στην οποία αναφέρει: «Κυρία υπουργέ, Κύριε πρόεδρε, Μετά τη δημοσιοποίηση του πορίσματος για το ... Περισσότερα…"
+        },
+        {
+          "title": "Θεσσαλονίκη: Τρεις συλλήψεις για απόρριψη αποβλήτων σε αγροτική έκταση – Δικογραφία για άλλους πέντε",
+          "url": "https://www.kathimerini.gr/society/564536788/thessaloniki-treis-syllipseis-gia-anexelegkti-aporripsi-apovliton-se-agrotiki-ektasi-dikografia-gia-alloys-pente/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-21T07:52:43+00:00",
+          "summary": "Από την αστυνομική έρευνα προέκυψε ότι δύο οδηγοί φορτηγών πραγματοποίησαν κατά το τελευταίο χρονικό διάστημα απορρίψεις φορτίων που εκτιμάται ότι ξεπερνούν συνολικά τις 3.500 τόνους, χωρίς να υπάρχει σχετική περιβαλλοντική αδειοδότηση."
+        },
+        {
+          "title": "Η προτίμηση Τραμπ σε Πούτιν αντί Ζελένσκι ανησυχούν Κίεβο – ΕΕ",
+          "url": "https://www.tovima.gr/2026/10/21/world/i-protimisi-tramp-se-poutin-anti-zelenski-anisyxoun-kievo-ee/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-21T08:04:45+00:00",
+          "summary": "Αξιωματούχοι της ΕΕ φοβούνται ότι ο Τραμπ αντιπαθεί τον Ζελένσκι σε βαθμό που δεν θα πιέσει για μια δίκαιη ειρήνη."
+        },
+        {
+          "title": "Θεσσαλονίκη: 3χρονο αγοράκι βρέθηκε να περιπλανιέται μόνο του – Συνελήφθη η μητέρα του",
+          "url": "https://www.efsyn.gr/ellada/1493167/thessaloniki-3hrono-agoraki-vrethike-na-periplanietai-mono-toy-synelifthi-i-mitera-toy/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-21T08:47:11+00:00",
+          "summary": "Περαστικός εντόπισε το ανήλικο παιδί και ενημέρωσε τις Αρχές."
+        },
+        {
+          "title": "Καταδικάζουν το τουρκολιβυκό μνημόνιο οι ευρωομάδες ΝΔ και ΔΗΣΥ",
+          "url": "https://www.naftemporiki.gr/politics/2177972/katadikazoyn-to-toyrkolivyko-mnimonio-oi-eyroomades-nd-kai-disy/?utm_source=rss&utm_medium=rss&utm_campaign=katadikazoyn-to-toyrkolivyko-mnimonio-oi-eyroomades-nd-kai-disy",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-21T09:00:38+00:00",
+          "summary": "Την έγκριση του τουρκολιβυκού μνημονίου από τη Βουλή των Αντιπροσώπων της Λιβύης καταδικάζουν οι ευρωομάδες της Νέας Δημοκρατίας και του Δημοκρατικού Συναγερμού (ΔΗΣΥ), χαρακτηρίζοντάς το «άκυρο και ανυπόστατο». Σε κοινή… Καταδικάζουν το τουρκολιβυκό μνημόνιο οι ευρωομάδες ΝΔ και ΔΗΣΥ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Εκδηλώσεις εορτασμού της Ημέρας των Ηνωμένων Εθνών στην Περιφέρεια Κεντρικής Μακεδονίας",
+          "url": "https://www.ertnews.gr/ert3/ekdiloseis-eortasmou-tis-imeras-ton-inomenon-ethnon-stin-perifereia-kentrikis-makedonias/",
+          "source": "ertnews.gr",
+          "published": "2026-10-21T09:18:11+00:00",
+          "summary": "Το Σάββατο 24 Οκτωβρίου 2026 θα εορτασθεί σε ολόκληρη τη χώρα η επέτειος της ίδρυσης του Οργανισμού των Ηνωμένων Εθνών. Στην Περιφέρεια Κεντρικής Μακεδονίας θα πραγματοποιηθούν οι ακόλουθες εκδηλώσεις: 1. Σημαιοστολισμός όλων των καταστημάτων του Δημοσίου, των Ο.Τ.Α., καθώς και των καταστημάτων των Ν.Π.Δ.Δ. σε ολόκληρη την επικράτεια στις 24 Οκτωβρίου 2026 από ώρα 08:00 ... Περισσότερα…"
+        },
+        {
+          "title": "Στο Τζάνειο σε κώμα 21χρονη – Φέρεται να είχε κάνει χρήση ουσιών, συνελήφθη φίλος της",
+          "url": "https://www.kathimerini.gr/society/564536614/sto-tzaneio-se-koma-21chroni-feretai-na-eiche-kanei-chrisi-oysion-synelifthi-filos-tis/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-21T07:52:38+00:00",
+          "summary": "Στην κατοχή του φίλου της βρέθηκε φιαλίδιο με άγνωστη ουσία. Διασωληνωμένη στη ΜΕΘ η 21χρονη."
+        },
+        {
+          "title": "Ο Νετανιάχου ετοίμαζε νέο μεγάλο χτύπημα στο Ιράν – Το μπλόκο Τραμπ",
+          "url": "https://www.tovima.gr/2026/10/21/world/o-netaniaxou-etoimaze-neo-megalo-xtypima-sto-iran-to-mploko-tramp/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-21T08:04:21+00:00",
+          "summary": "Οι IDF είχαν ετοιμάσει βομβαρδισμό σε πυρηνικές και πολιτικές υποδομές - Ο φόβος Τραμπ για τις αμερικανικές εκλογές και η επικαιροποιημένη λίστα στόχων."
+        },
+        {
+          "title": "Δημογλίδου: Να αποφευχθούν οι μετακινήσεις με ΙΧ στο κέντρο της Αθήνας – Είμαστε προετοιμασμένοι για το χειρότερο",
+          "url": "https://www.efsyn.gr/ellada/1493172/dimoglidoy-na-apofeyhthoyn-oi-metakiniseis-me-ih-sto-kentro-tis-athinas-eimaste-proetoimasmenoi-gia-to-heirotero/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-21T08:44:52+00:00",
+          "summary": "«Δεν μπορούμε να γνωρίζουμε πως θα κινηθούν ή πως θα σκεφθούν να κινηθούν συγκεκριμένα άτομα κατά τη διάρκεια της συγκέντρωσης»"
+        },
+        {
+          "title": "Νίκος Τσάκος: Πράσινη μετάβαση στη ναυτιλία με αποδεδειγμένα εφαρμόσιμες λύσεις",
+          "url": "https://www.naftemporiki.gr/maritime/2177954/nikos-tsakos-prasini-metavasi-sti-naytilia-me-apodedeigmena-efarmosimes-lyseis/?utm_source=rss&utm_medium=rss&utm_campaign=nikos-tsakos-prasini-metavasi-sti-naytilia-me-apodedeigmena-efarmosimes-lyseis",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-21T08:58:13+00:00",
+          "summary": "Στην ασφάλεια αλλά και στην προστασία των πλοίων της Tsakos Energy Navigation αφιερώνει η διοίκηση της εταιρείας το μεγαλύτερο μέρος των δραστηριοτήτων της. Όπως εξήγησε ο ιδρυτής και διευθύνων σύμβουλος… Νίκος Τσάκος: Πράσινη μετάβαση στη ναυτιλία με αποδεδειγμένα εφαρμόσιμες λύσεις - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Κωδικοί, ιατρικά δεδομένα, εταιρικά έγγραφα: Τι δεν πρέπει να στέλνετε σε εργαλεία Τεχνητής Νοημοσύνης",
+          "url": "https://www.ertnews.gr/roi-idiseon/kodikoi-iatrika-dedomena-etairika-eggrafa-ti-den-prepei-na-stelnete-se-ergaleia-texnitis-noimosynis/",
+          "source": "ertnews.gr",
+          "published": "2026-10-21T09:10:00+00:00",
+          "summary": "Τα AI chatbots, όπως το ChatGPT, το Claude και το Copilot, γίνονται ολοένα και πιο δημοφιλή. Πόσα όμως πρέπει πραγματικά να γνωρίζουν για εμάς; Στην εποχή των chatbots Τεχνητής Νοημοσύνης, το να γνωρίζουμε ποιες πληροφορίες πρέπει να κρατάμε για τον εαυτό μας αποτελεί, πλέον, βασική ψηφιακή δεξιότητα. Η εταιρεία ψηφιακής ασφάλειας ESET προειδοποιεί ότι δεν ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Αυξήθηκαν σε 20 τα εστιατόρια με αστέρι Michelin στην Ελλάδα",
+          "url": "https://www.kathimerini.gr/economy/business/564536296/ayxithikan-se-eikosi-ta-estiatoria-me-asteri-michelin-stin-ellada/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-21T07:50:49+00:00",
+          "summary": "Η επίσημη δημοσίευση των επιλογών του οδηγού Michelin για την Ελλάδα σηματοδοτεί τη διεύρυνση του γεωγραφικού πεδίου αξιολόγησης των επιθεωρητών, καθώς πέρα από την Αθήνα περιλαμβάνει πλέον επισήμως τη Θεσσαλονίκη και τη Σαντορίνη."
+        },
+        {
+          "title": "Διασωληνωμένη στο Τζάνειο 21χρονη από την Πάρο, ερευνάται αν της χορηγήθηκε «χάπι βιασμού»",
+          "url": "https://www.tovima.gr/2026/10/21/society/diasolinomeni-sto-tzaneio-21xroni-apo-tin-paro-ereynatai-an-tis-xorigithike-xapi-viasmou/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-21T08:00:30+00:00",
+          "summary": "Σε σοβαρή κατάσταση νοσηλεύεται στο Τζάνειο 21χρονη από την Πάρο - Τι ερευνούν οι Αρχές."
+        },
+        {
+          "title": "LIVE: Πανεκπαιδευτικά συλλαλητήρια σε όλη τη χώρα – Στους δρόμους με μπαλόνια και πανό [εικόνες-βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1493177/live-xekinoyn-ta-panekpaideytika-syllalitiria-lepto-pros-lepto-oi-exelixeis/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-21T08:41:54+00:00",
+          "summary": "Στους δρόμους των μεγάλων πόλεων φοιτητές και εκπαιδευτικοί - Κυκλοφοριακές ρυθμίσεις, κλειστοί σταθμοί του μετρό και προσαγωγές - Ολες οι εξελίξεις."
+        },
+        {
+          "title": "Πορτοφόλι στενότητας για 7 στους 10 Έλληνες – Πώς η ακρίβεια αποδομεί το εισόδημα",
+          "url": "https://www.naftemporiki.gr/finance/economy/2177832/i-akriveia-apodomei-to-oikogeneiako-eisodima/?utm_source=rss&utm_medium=rss&utm_campaign=i-akriveia-apodomei-to-oikogeneiako-eisodima",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-21T08:50:55+00:00",
+          "summary": "Αντιμέτωπος με μια δυστοπική πραγματικότητα στην καθημερινότητά του βρίσκεται ο εγχώριος καταναλωτής, καθώς η διαχείριση του οικογενειακού προϋπολογισμού εξελίσσεται σε άσκηση ισορροπίας. Η πίεση της ακρίβειας στο ράφι εισβάλλει βίαια… Πορτοφόλι στενότητας για 7 στους 10 Έλληνες – Πώς η ακρίβεια αποδομεί το εισόδημα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Θεσσαλονίκη: Ξεκίνησε η αποκατάσταση του «Αγοριού που Σφυρίζει» στην πλατεία Ναυαρίνου",
+          "url": "https://www.ertnews.gr/ert3/thessaloniki-ksekinise-i-apokatastasi-tou-agoriou-pou-sfyrizei-stin-plateia-nayarinou/",
+          "source": "ertnews.gr",
+          "published": "2026-10-21T09:10:00+00:00",
+          "summary": "Το μουντζούρωσαν, έγραψαν συνθήματα πάνω στο σώμα του με σπρέι, του πέταξαν μπλε και κόκκινες μπογιές, του φόρεσαν μέχρι και ψάθινο καπέλο, ενώ τον περασμένο Μάιο οι βανδαλισμοί κορυφώθηκαν, όταν άγνωστοι δράστες αποκόλλησαν το γλυπτό από τη βάση του και το πέταξαν στο νερό του σιντριβανιού. Σήμερα, το «Αγοράκι που Σφυρίζει» ετοιμάζεται να επιστρέψει ανανεωμένο ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Χρόνιος πόνος: 150 εκατομμύρια Ευρωπαίοι υποφέρουν – Το αθέατο κόστος στην εργασία και τη ζωή τους",
+          "url": "https://www.kathimerini.gr/life/health/564536782/chronios-ponos-150-ekatommyria-eyropaioi-ypoferoyn-to-atheato-kostos-stin-ergasia-kai-ti-zoi-toys/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-21T07:47:50+00:00",
+          "summary": "Eνας στους πέντε ενήλικες στην Ευρώπη ζει με χρόνιο πόνο. Οι επιπτώσεις στην εργασία, το τεράστιο οικονομικό κόστος και η εικόνα στην Ελλάδα."
+        },
+        {
+          "title": "Διαβάζοντας ξανά τον Κώστα Ταχτσή: Ένας οδηγός για τα διαθέσιμα βιβλία του",
+          "url": "https://www.tovima.gr/2026/10/21/books-ideas/diavazontas-ksana-ton-kosta-taxtsi-enas-odigos-gia-ta-diathesima-vivlia-tou/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-21T07:56:51+00:00",
+          "summary": "Με αφορμή την κυκλοφορία του «Το άλλο κρεβάτι» επιστρέφουμε στα βιβλία του Κώστα Ταχτσή που βρίσκονται αυτή τη στιγμή στα βιβλιοπωλεία."
+        },
+        {
+          "title": "WSJ: O Ιλον Μασκ ζήτησε να περιοριστεί η χρήση του Starshield στην Ουκρανία",
+          "url": "https://www.efsyn.gr/kosmos/1493115/wsj-o-ilon-mask-zitise-na-perioristei-i-hrisi-toy-starshield-stin-oykrania/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-21T08:40:32+00:00",
+          "summary": "Η αμερικανική κυβέρνηση παίρνει αποστάσεις από τα προβλήματα του Κιέβου στη σύνδεσή του με το δορυφορικό σύστημα."
+        },
+        {
+          "title": "Nautilus Management adds first tanker to its fleet",
+          "url": "https://www.naftemporiki.gr/english/2177958/nautilus-management-adds-first-tanker-to-its-fleet/?utm_source=rss&utm_medium=rss&utm_campaign=nautilus-management-adds-first-tanker-to-its-fleet",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-21T08:46:29+00:00",
+          "summary": "A significant milestone for Nautilus Management S.A., founded by brothers George and Dimitris Vernicos, is the addition of the first tanker to its managed fleet. On 17 October 2026, the… Nautilus Management adds first tanker to its fleet - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://www.ertnews.gr/feed/": {
+          "items": 35,
+          "status": "ok",
+          "secs": 1.1
+        },
+        "https://feeds.feedburner.com/kathimerini/DJpy": {
+          "items": 100,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.tovima.gr/feed/": {
+          "items": 50,
+          "status": "ok",
+          "secs": 0.7
+        },
+        "https://www.efsyn.gr/feed.xml": {
+          "items": 89,
+          "status": "ok",
+          "secs": 1.3
+        },
+        "https://www.naftemporiki.gr/feed/": {
+          "items": 30,
+          "status": "ok",
+          "secs": 0.5
+        }
+      }
+    },
+    "bulgaria": {
+      "items": [
+        {
+          "title": "Десетгодишният план на ЕСО за развитие на преносната мрежа получи критики на дискусия в КЕВР, че отново пренебрегва връзките с електроразпределителната мрежа",
+          "url": "https://www.bta.bg/bg/news/economy/1229312-desetgodishniyat-plan-na-eso-za-razvitie-na-prenosnata-mrezha-poluchi-kritiki-na",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:36:59+00:00",
+          "summary": "Планът за развитие на електропреносната мрежа на България за периода 2026-2035 г. на \"Електроенергийния системен оператор\" (ЕСО) е изготвен професионално от преносна гледна точка. Това становище изразиха председателят на Комисията за енергийно и водно регулиране (КЕВР) Пламен Младеновски и членът на Комисията Благой Голубарев по повод провелото се днес в КЕВР обществено обсъждане на…"
+        },
+        {
+          "title": "Борисов към Радев: С Пеевски не съм се чувал и виждал от месеци, за да ни слагат в пакет",
+          "url": "https://www.dnevnik.bg/politika/2026/10/21/4969190_borisov_kum_radev_ne_mislia_che_ministerskiiat_suvet_e/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T09:18:00+00:00",
+          "summary": "\"Не мисля, че Министерският съвет е партийна централа. Премиерът има две основни задачи - да осигури сигурността на страната, защото потапят кораби и падат дронове в Черно море, и да овладее цените, които отидоха в космоса\". Това коментира лидерът..."
+        },
+        {
+          "title": "\"Маркет линкс\": Йотова води пред Гюров със 17% дни преди президентския вот",
+          "url": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/10/21/4969180_market_links_iotova_vodi_pred_gjurov_sus_17_dni_predi/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-21T09:27:00+00:00",
+          "summary": "Около 17% е преднината на кандидатпрезидентската двойка Илияна Йотова - Кирил Вълчев пред двойката Андрей Гюров - Георги Кандев, сочат данните от социологическо проучване на \"Маркет линкс\" за bTV четири дни преди вота. То е проведено сред 1006 пълнолетни български граждани в периода между 13 и 19 октомври чрез пряко лично интервю и онлайн анкета. [[embed:4969183]] Според изследването за Йотова -…"
+        },
+        {
+          "title": "\"Маркет линкс\": Илияна Йотова – 47.3%, Андрей Гюров – 30.6%",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/market-links-iliyana-yotova-473-andrei-gyurov-306/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-21T09:16:51+00:00",
+          "summary": "Двойката Илияна Йотова – Кирил Вълчев води в прогнозите за спечелване на първи тур с подкрепа от 47.3% срещу Андрей Гюров – Георги Кандев с 30.6%, но разликата между тях намалява. Това показва социологическото проучване на “Маркет линкс“, представено в ефира на бТВ. Трета е двойката на радикалната проруска партия “Възраждане“ Костадин Костадинов и Петър Волгин с 10.3%…"
+        },
+        {
+          "title": "Ремонтирани са помещенията и е обновено оборудването на Домашния социален патронаж в Плевен",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1229300-remontirani-sa-pomeshteniyata-i-e-obnoveno-oborudvaneto-na-domashniya-sotsialen-",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:36:57+00:00",
+          "summary": "Помещенията на Домашния социален патронаж в Плевен са ремонтирани, а оборудването е обновено, съобщиха от общинския пресцентър. Стените и таваните в кухненския блок, транжорната и прилежащия коридор са шпакловани и боядисани с устойчива на влага антибактериална боя. Електрическата инсталация и осветителните тела са изцяло подменени и обезопасени. Задната врата на блока е подменена с нова здрава…"
+        },
+        {
+          "title": "МВР и ДАНС провеждат акция в общината в Белица",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/10/21/4969195_mvr_i_dans_provejdat_akciia_v_obshtinata_v_belica/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T09:18:00+00:00",
+          "summary": "МВР и ДАНС провеждат акция в общината в Белица, съобщават БНР и БНТ. Уточнява се, че акцията на Главна дирекция \"Борба с организираната престъпност\" (ГДБОП) е свързана с нередности при обществени поръчки. В момента в сградата..."
+        },
+        {
+          "title": "Tesla и SpaceX създават комисии за обсъждане на евентуално сливане, заяви Илон Мъск",
+          "url": "https://www.capital.bg/biznes/kompanii/2026/10/21/4969129_tesla_i_spacex_suzdavat_komisii_za_obsujdane_na/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-21T08:57:00+00:00",
+          "summary": "SpaceX и Tesla са създали специални комисии, които да обсъдят евентуално сливане между двете компании, заяви Илън Мъск във вторник. \"Специалните комисии все още не са постигнали споразумение относно условията на евентуална сделка и няма гаранция, че ще го направят. Смятам обаче, че има сериозни основания за обединяване на компаниите\", каза Мъск във вторник по време на конферентния разговор за…"
+        },
+        {
+          "title": "Акция на ГДБОП тече в общината в Белица",
+          "url": "https://www.mediapool.bg/bulgaria/aktsiya-na-gdbop-teche-v-obshtinata-v-belitsa/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-21T09:14:02+00:00",
+          "summary": "Акция на ГДБОП тече в общината в Белица Акция на ГДБОП се провежда в общината в Белица. По информация на Нова телевизия документи се изземват и от дома на кмета Радослав Ревански. Към момента няма официална информация за операцията…"
+        },
+        {
+          "title": "Ще има много повече активиране на българската авиация по Черноморското крайбрежие, обяви министър Димитър Стоянов",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1229318-shte-ima-mnogo-poveche-aktivirane-na-balgarskata-aviatsiya-po-chernomorskoto-kra",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:36:49+00:00",
+          "summary": "Ще има много повече активиране на българската авиация по Черноморското крайбрежие и ще работим в териториални води. Това заяви министърът на отбраната Димитър Стоянов пред журналисти. По-рано той участва в събитие във Военния клуб в София по случай 145-ата годишнина от основаването на Висшето военноморско училище “Н. Й. Вапцаров” Това не трябва да притеснява българските граждани – водим усилено…"
+        },
+        {
+          "title": "Едно наум за помилванията",
+          "url": "https://www.dnevnik.bg/analizi/edno_na_um/2026/10/21/4969097_edno_naum_za_pomilvaniiata/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T09:17:00+00:00",
+          "summary": "\"Едно наум\" е рубрика, в която \"Дневник\" публикува прессъобщения, откъси от текстове, изказвания и фото- и видеоматериали, които трябва да се четат или гледат с едно наум. На фона на информация за нов случай на помилван наркодилър,..."
+        },
+        {
+          "title": "Coface: Строителството в региона на ЦИЕ расте, но строителите са затруднени",
+          "url": "https://www.capital.bg/biznes/imoti/2026/10/21/4967801_coface_stroitelstvoto_v_regiona_na_cie_raste_no/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-21T07:48:00+00:00",
+          "summary": "В Полша строителният сектор отчита ръст на инфраструктурните проекти, но делът на фалитите сред компаниите достига 20% през 2026 г. Обемът на румънското строителство нараства с двуцифрени темпове, но държавата забавя плащанията и всяка четвърта фалирала фирма е строителна. В България строителната продукция расте, но забавянето на плащанията достига до 120 дни. Строителните фирми в Централна и…"
+        },
+        {
+          "title": "\"Уолстрийт Джърнъл\": Мъск е наредил забавянето на \"Старшийлд\" за Украйна",
+          "url": "https://www.mediapool.bg/voina-v-ukraina/uolstriyt-dzharnal-mask-e-naredil-zabavyaneto-na-starshiyld-za-ukraina/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-21T08:34:55+00:00",
+          "summary": "Илон Мъск е разпоредил забавяне на скоростта на функциониране на „Старшийлд“ за Украйна, съобщи „Уолстрийт Джърнъл“, след като технологичният милиардер заяви, че всички ограничения върху комуникационната система, управлявана от „СпейсЕкс“ в крайна сметка трябва да са дошли от президента на САЩ. Мъск е ограничил скоростта, с която украинското оборудване може да се свързва със системата, което…"
+        },
+        {
+          "title": "Започнаха планираните протести на студенти, ученици и преподаватели в много градове на Гърция",
+          "url": "https://www.bta.bg/bg/news/balkans/1229325-zapochnaha-planiranite-protesti-na-studenti-uchenitsi-i-prepodavateli-v-mnogo-g",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:35:38+00:00",
+          "summary": "Пред централната сграда на Атинския университет започна обявената голяма демонстрация на студенти, ученици, преподаватели и родители с искания за мерки срещу високата цена на живота и образованието и в подкрепа на обществената и безплатна просвета, съобщава държавната телевизия ЕРТ. Въпреки че протестът беше обявен за 12 ч., още от 10:30 на мястото започнаха да се събират демонстранти. Очаква се…"
+        },
+        {
+          "title": "ЦСКА и \"Левски\" вече не изглеждат като гости в турнирите на УЕФА. Смяна на властта във федерацията по борба. Начало на сезона в НБА",
+          "url": "https://www.dnevnik.bg/sport/2026/10/21/4969189_cska_i_levski_veche_ne_izglejdat_kato_gosti_v/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T09:14:00+00:00",
+          "summary": "Това е издание на \"Спортен Дневник с Павел Колев\" - специалният бюлетин на \"Дневник\". За да имате различен поглед към спорта с анализ, коментари и значимите истории - абонирайте се безплатно тук. Равенството на \"Левски\" срещу НЕК \"Ниймеген\" и..."
+        },
+        {
+          "title": "Мъск е наредил ограничаването на скоростта на Starlink, изненадало Украйна",
+          "url": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/10/21/4969095_musk_e_naredil_ogranichavane_na_skorostta_na_starlink/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-21T06:58:00+00:00",
+          "summary": "Илън Мъск е наредил ограничаване на скоростта на специализирана военна версия на Starlink, на която Украйна разчита. Решението предизвика паника в Киев и объркване в администрацията на Тръмп, съобщиха американски официални представители и запознати със случая източници. През последните седмици както Мъск, така и президентът Доналд Тръмп изразиха гняв към Украйна заради атаките ѝ срещу руски…"
+        },
+        {
+          "title": "Радев: Схемата започва да се разплита от Сунгурларе",
+          "url": "https://www.mediapool.bg/bulgaria/radev-shemata-zapochva-da-se-razplita-ot-sungurlare/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-21T08:31:53+00:00",
+          "summary": "Акция срещу кмета на Сунгурларе Димитър Гавазов бе представена от премиера Румен Радев като мащабна операция за разкриване на корупционни схеми. Газвазов бе арестуван при акция на ГДБОП във вторник и към момента МВР и прокуратурата не са дали никаква информация освен, че се проверяват обществени поръчки. Очевидно обаче операцията е важна – в сряда Радев ѝ отдели специално внимание в началото на…"
+        },
+        {
+          "title": "Фестивалът „Синелибри“ представя адаптации по Болеслав Прус, Елфриде Йелинек и Миеко Каваками",
+          "url": "https://www.bta.bg/bg/news/lik/1229306-festivalat-sinelibri-predstavya-adaptatsii-po-boleslav-prus-elfride-yelinek-i",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:33:45+00:00",
+          "summary": "„Синелибри“ продължава до 8 ноември с екранизация на „Кукла“ – класическия роман на Болеслав Прус, „Всички влюбени в нощта“ – една от най-обичаните книги на японската писателка Миеко Каваками, и „Кървавата графиня“ – новия филм на Улрике Отингер с Изабел Юпер в ролята на графиня Батори, информират от екипа на 12-ия кино-литературен фестивал. На 23 октомври в кино „Люмиер“ е премиерната прожекция…"
+        },
+        {
+          "title": "Мисия на ЕС в Черно море за дроновете едва ли ще има",
+          "url": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/10/21/4969150_misiia_na_es_v_cherno_more_za_dronovete_edva_li_shte/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T09:12:00+00:00",
+          "summary": "Мисия на ЕС в Черно море заради руските дронове едва ли ще се създаде. Въпреки подкрепата на първия дипломат на ЕС тя би изисквала много по-мащабни усилия от настоящата операция, а въздушният патрул може да се окаже много по-ефективна идея. ..."
+        },
+        {
+          "title": "AI новини: 👾 Когато AI хакне пералнята ви; Бъдещето на роботиката в България;AI и киберсигурност",
+          "url": "https://www.capital.bg/biznes/ai/2026/10/21/4968999_ai_novini_kogato_ai_hakne_peralniata_vi_budeshteto_na/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-21T06:30:00+00:00",
+          "summary": "Изследователи от Anthropic доказаха, че дори най-обикновените домашни устройства - като телевизионни приставки - могат да се свържат в обща мрежа и да поддържат работещ AI модел. Експериментът разкри, че хакери биха могли да използват умните електроуреди в дома ни, за да създадат нов вид саморазпространяващи се вируси. Подобно на познатите схеми, при които хакери тайно впрягат чужди устройства да…"
+        },
+        {
+          "title": "BIRD публикува нов запис, замесващ бившия шеф на ВАС",
+          "url": "https://www.mediapool.bg/bulgaria/bird-publikuva-nov-zapis-zamesvasht-bivshiya-shef-na-vas/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-21T08:20:32+00:00",
+          "summary": "Разследващият сайт BIRD публикува нов запис, за който се твърди, че представлява разговор на мъже, чиито гласове приличат на бившия шеф на Върховния административен съд Георги Чолаков и на адвокат Веселин Димитров – бивш административен съдия, който бил известен с пряко Веско Лютеничката. В предишните записи от тази серия, публикувани от медията, се обсъждаха торби с пари “карашик”. Записите и…"
+        },
+        {
+          "title": "Нов опит за намиране на мирно решение за Судан започва днес в Женева",
+          "url": "https://www.bta.bg/bg/news/world/1229291-nov-opit-za-namirane-na-mirno-reshenie-za-sudan-zapochva-dnes-v-zheneva",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:33:17+00:00",
+          "summary": "Международни посредници и ООН предприеха днес нов опит за намиране на мирно решение за Судан, предаде ДПА. Новите разговори в Женева, в които участват 27 делегации, започват три години и половина след началото на конфликта в Судан. \"На войната трябва да бъде сложен край\", каза Пека Хаависто - личен пратеник на генералния секретар на ООН за Судан в началото на срещата. ДПА отбелязва, че това е…"
+        },
+        {
+          "title": "Според ГЕРБ бюджетът не е обявен за противоконституционен, за да не падне кабинетът",
+          "url": "https://www.dnevnik.bg/politika/2026/10/21/4969160_spored_gerb_bjudjetut_ne_e_obiaven_za/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T08:57:00+00:00",
+          "summary": "\"Ако Конституционният съд беше обявил целия закон за противоконституционен, означава правителството да подаде оставка.\" Това каза пред журналисти в парламента бившият министър на финансите Теменужка Петкова от ГЕРБ за вчерашното решение на съда,..."
+        },
+        {
+          "title": "Коментар | България е лесна мишена за руските хибридни атаки",
+          "url": "https://www.capital.bg/politika_i_ikonomika/redakcionni_komentari/2026/10/21/4968877_komentar_bulgariia_e_lesna_mishena_za_ruskite_hibridni/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-21T06:30:00+00:00",
+          "summary": "[[img:4968938]] Румена Филипова, ръководител на Института за глобални анализи в София, пред Deutsche Wellе Атаките срещу кораби в Черно море са знак за ескалация на провокациите, по отношение на които България се установи като слабо звено. Това е така, защото липсва сериозен институционален отговор на всякакви хибридни заплахи и не се вземат съответните мерки, а по принцип тези инциденти се…"
+        },
+        {
+          "title": "\"По-добре да изстрадаме\": Тунел \"Топли дол\" ще е готов за лятото на 2027 г.",
+          "url": "https://www.mediapool.bg/bulgaria/po-dobre-da-izstradame-tunel-topli-dol-shte-e-gotov-za-lyatoto-na-2027-g/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-21T08:11:07+00:00",
+          "summary": "Десет километра колона от автомобили се образува миналата седмица по магистрала „Хемус“. Причината е продължаващият вече трета година ремонт на тунела „Топли дол“ за 25 милиона евро.Регионалният министър арх. Иван Шишков се извини на шофьорите за тапите на магистрала „Хемус“.“Тунелът беше пред разпадане…"
+        },
+        {
+          "title": "Вестник „Таймс“ се извини на Джани Инфантино за публикацията, че президентът на ФИФА е получавал втора заплата",
+          "url": "https://www.bta.bg/bg/news/sport/1229326-vestnik-tayms-se-izvini-na-dzhani-infantino-za-publikatsiyata-che-prezidentat",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:32:37+00:00",
+          "summary": "Престижният британски вестник „Таймс“ поднесе извиненията си на президента на Световната федерация по футбол (ФИФА) Джани Инфантино за публикацията, в която се твърди, че той получава втора заплата. Извинението се вижда на уеб-сайта на вестника. В броя си от 13-и октомври „Таймс“ публикува материал, в който се казва, че през 2024-а година Инфантино е получавал втора заплата. „На 13-и октомври…"
+        },
+        {
+          "title": "Пеевски и Борисов губят контрол върху финансовите потоци, убеждава Радев",
+          "url": "https://www.dnevnik.bg/politika/2026/10/21/4969125_peevski_i_borisov_gubiat_kontrol_vurhu_finansovite/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T08:52:00+00:00",
+          "summary": "Делян Пеевски и Бойко Борисов \"губят контрол върху финансовите потоци\". Това увери премиерът Румен Радев в изказване пред министрите си в началото на днешното правителствено заседание по повод вчерашната акция на прокуратурата и ДАНС в Сунгурларе и..."
+        },
+        {
+          "title": "\"БТЛ индъстрийз\": от влакче за материали до робот екзоскелет",
+          "url": "https://www.capital.bg/fabrika-na-godinata/2026/10/21/4968091_btl_industriiz_ot_vlakche_za_materiali_do_robot/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-21T06:29:00+00:00",
+          "summary": "В поредица от статии представяме участниците в конкурса \"Фабрика на годината 2026\", който ще отличи най-иновативните производствени предприятия в страната. Общо 6 са кандидатите в категорията \"Големи компании\", 2 са претендентите в групата \"Малки и средни предприятия\". \"БТЛ индъстрийз\" ще се бори за наградата в категорията \"Големи компании\". Победителите ще бъдат обявени на официална церемония на…"
+        },
+        {
+          "title": "Партията на Радев отново провали заседание на парламента за Ескобар",
+          "url": "https://www.mediapool.bg/bulgaria/partiyata-na-radev-otnovo-provali-zasedanie-na-parlamenta-za-eskobar/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-21T07:21:35+00:00",
+          "summary": "Липса на кворум заради отсъствието на мнозинството от депутатите на “Прогресивна България“ провали и второто насрочено извънредно заседание на парламента за обсъждане на случая с помилвания наркотрафикант Огнян Атанасов – Ескобар. При първия опит за регистрация се регистрираха едва 107 депутати. От “Прогресивна България\" липсваха 109 депутати, а от “Възраждане“ – 11…"
+        },
+        {
+          "title": "Георги Андреев ще представи авторския си концерт „Златното руно“ с Българския камерен оркестър в Добрич",
+          "url": "https://www.bta.bg/bg/news/lik/1229272-georgi-andreev-shte-predstavi-avtorskiya-si-kontsert-zlatnoto-runo-s-balgarski",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:31:32+00:00",
+          "summary": "Авторският концерт „Златното руно“ на композитора и диригент Георги Андреев ще бъде представен на 18 ноември в концертна зала „Добрич“, съобщават от Общинския културен институт. В музикалното събитие ще участват Българският камерен оркестър в Добрич и певицата Милена Андреева. Творчеството на Георги Андреев съчетава елементи от българския фолклор с похвати на класическата музика. Като композитор,…"
+        },
+        {
+          "title": "Бившият централен банкер на Унгария е арестуван",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/10/21/4969147_bivshiiat_centralen_banker_na_ungariia_e_arestuvan/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T08:36:00+00:00",
+          "summary": "Бившият централен банкер на Унгария е арестуван. Дьорд Матолчи е отведен в Централната следствена прокуратура рано сутринта, съобщава \"Телекс\". По непотвърдени данни освен Матолчи са задържани още няколко лица - сред които..."
+        },
+        {
+          "title": "Как и колко струва изграждането на дигитален екип от AI агенти",
+          "url": "https://www.capital.bg/biznes/ai/2026/10/21/4968306_kak_i_kolko_struva_izgrajdaneto_na_digitalen_ekip_ot/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-21T03:26:00+00:00",
+          "summary": "Въпросът кой е най-добрият или най-умният езиков модел с изкуствен интелект постепенно ще загуби значението си. Когато достъпът до сходни по възможности модели стане широко разпространен, предимството на компаниите няма да зависи толкова от това кой AI използват, а от това какво могат да накарат технологията да върши. Следващата стъпка е пълното преминаване от инструменти, които отговарят на…"
+        },
+        {
+          "title": "Тръмп заисилва натиска върху Украйна за руски мир",
+          "url": "https://www.mediapool.bg/voina-v-ukraina/tramp-zaisilva-natiska-varhu-ukraina-za-ruski-mir/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-21T07:02:00+00:00",
+          "summary": "Президентът на САЩ Доналд Тръмп призова Украйна да се съгласи на споразумение за слагане на край на войната с Русия, предаде Ройтерс. \"Украйна трябва да иска да бъде намерено решение на тази война\", каза Тръмп пред репортери в Овалния кабинет в Белия дом във Вашингтон. Президентът на САЩ заяви това след среща в Осло между неговия специален пратеник Стив Уиткоф и украинския си колега Володимир…"
+        },
+        {
+          "title": "Повишаването на акциза за тютюневите изделия в Германия влезе в сила по-рано заради грешка на финансовото министерство",
+          "url": "https://www.bta.bg/bg/news/economy/1229298-povishavaneto-na-aktsiza-za-tyutyunevite-izdeliya-v-germaniya-vleze-v-sila-po-ra",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:30:37+00:00",
+          "summary": "Грешка на германското министерство на финансите доведе до преждевременно влизане в сила на значително увеличение на данъка върху цигарите и другите тютюневи изделия, съобщи ДПА. Цените на фабрично произведените цигари в Германия трябваше да се повишат рязко в началото на следващата година, след като в петък германският парламент даде окончателно одобрение на правителствената реформа на акциза…"
+        },
+        {
+          "title": "България слезе надолу в световен индекс за върховенство на правото",
+          "url": "https://www.dnevnik.bg/sviat/2026/10/21/4969126_bulgariia_sleze_nadolu_v_svetoven_indeks_za/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T08:33:00+00:00",
+          "summary": "Над 10 години България стои на едно ниво в световен Индекс за върховенството на правото. В най-новото му издание, публикувано днес, е в компанията на Гана и Аржентина. От 2015 г. насам тази компания е относително устойчива - Аржентина, Тунис,..."
+        },
+        {
+          "title": "Бизнес закуска: 🥐Съдът спря намалението на продуктовите такси за електроуреди и солари; проблеми с плащанията през Revolut",
+          "url": "https://www.capital.bg/biznes-zakuska/2026/10/21/4969002_biznes_zakuska_vas_postanovi_vremenno_spirane_na/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-21T03:13:00+00:00",
+          "summary": "Това е нюзлетърът \"Бизнес закуска\", който абонатите на \"Капитал\" получават всяка сутрин в електронните си пощи. В него дежурният редактор събира всичко важно, така че с един поглед да сте наясно какво се случва. Може да се абонирате от тук. Колкото повече наближават президентските избори в България, толкова по-популиски и нелепи стават сюжетите в страната. Знаете ли, например, че Комисията по…"
+        },
+        {
+          "title": "Евангелие по БТА: Как държавната информационна агенция превърна църковните проповеди в новини",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/evangelie-po-bta-kak-darzhavnata-informatsionna-agentsiya-prevarna-tsarkovnite-propovedi-v-novini/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-21T06:04:32+00:00",
+          "summary": "Докато генералният директор на Българската телеграфна агенция е в неплатен отпуск, като кандидат за вицепрезидент на предстоящите избори, неговото управленско наследство в медията продължава да функционира като добре смазана машина за религиозна пропаганда. Кирил Вълчев превърна неделното отразяване на проповеди в редовна задача за цялата кореспондентска мрежа на агенцията. Самият той не крие…"
+        },
+        {
+          "title": "Спортният директор на Борусия Дортмунд Оле Бук: „Направихме значителна крачка напред по отношение на начина, по който играем футбол“",
+          "url": "https://www.bta.bg/bg/news/sport/1229308-sportniyat-direktor-na-borusiya-dortmund-ole-buk-napravihme-znachitelna-krachk",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:30:00+00:00",
+          "summary": "Отборът на Борусия Дортмунд приключва седмица, изпълнена с дълги пътувания, като изглежда готов за предстоящите предизвикателства, след като се завърна на победния път с успех с 2:1 в Шампионската лига в Азербайджан. Плеймейкърът Джоуи Феерман, който направи асистенцията за победното попадение, отбеляза, че авторът на двата гола Серу Гираси „е изключително опасен при центрирания, дори когато е…"
+        },
+        {
+          "title": "Антикорупционните сили на Украйна обискираха централната банка",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/10/21/4969142_antikorupcionnite_sili_na_ukraina_obiskiraha/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T08:30:00+00:00",
+          "summary": "Украинската антикорупционна служба съобщи за обиски в централната банка. Такива се провеждат и в дома на един от служителите на централната банка, предаде \"Ройтерс\". От антикорупционната служба (НАБУ) посочиха в изявление в приложението..."
+        },
+        {
+          "title": "ВАС спря намалението на продуктовите такси за уреди и солари",
+          "url": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/10/21/4968984_vas_spria_namalenieto_na_produktovite_taksi_za_uredi_i/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-21T03:12:00+00:00",
+          "summary": "Опитът на правителството да намали продуктовите такси за електроуреди и фотоволтаични панели е блокиран от Върховния административен съд. С определение от 6 октомври тричленен състав на ВАС е постановил спиране на новите ставки по искане на \"Грийнтех България\" и \"Елтехресурс\". Към общото дело са присъединени и оспорванията на \"Трансинс технорециклираща компания\" и \"Екобултех\". Това е временна…"
+        },
+        {
+          "title": "Мъж със синдром на Даун е брутално пребит в Якоруда",
+          "url": "https://www.mediapool.bg/bulgaria/mazh-sas-sindrom-na-daun-e-brutalno-prebit-v-yakoruda/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-21T05:38:53+00:00",
+          "summary": "44-годишен мъж със синдром на Даун е със счупени шест ребра и четири избити зъба след жесток побой, а заподозреният е непълнолетен мъж от града, съобщава БНТ. Случаят е от вечерта на 7 октомври, когато около 23:30 ч. Мъжът, когато целият град познава като Тошко, е нападнат на пазара в Якоруда…"
+        },
+        {
+          "title": "Хилда Казасян, Теодосий Спасов, Васил Петров и Плевенската филхармония представят „С обич на Вили Казасян“ на 29 октомври в Смолян",
+          "url": "https://www.bta.bg/bg/news/lik/1229279-hilda-kazasyan-teodosiy-spasov-vasil-petrov-i-plevenskata-filharmoniya-predsta",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:29:01+00:00",
+          "summary": "Концертът „С обич на Вили Казасян“ с участието на Хилда Казасян, Теодосий Спасов, Васил Петров и Плевенската филхармония ще бъде представен на сцената на Родопския драматичен театър в Смолян на 29 октомври, съобщиха за БТА организаторите. „С обич на Вили Казасян“ е продължение на три изключително успешни проекта – „Да послушаме кино“, „Световното кино в музиката“ и „Да обичаш Гершуин“. Концертът…"
+        },
+        {
+          "title": "Медия в Сърбия: \"българският влак\" е проблем, но и изборен мит",
+          "url": "https://www.dnevnik.bg/sviat/2026/10/21/4969031_mediia_v_surbiia_bulgarskiiat_vlak_e_problem_no_i/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T08:11:00+00:00",
+          "summary": "Около секциите се навъртат с листчета в ръце участници в \"български влак\". Така предупреждава сръбскоезична медия за риска от добре позната в страната измама дни преди парламентарния вот на 25 октомври. Някои организации по-късно..."
+        },
+        {
+          "title": "Снимка на деня: Президентът Макрон започна обиколка в страните от Персийския залив",
+          "url": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/10/20/4968526_snimka_na_denia_prezidentut_makron_zapochna_obikolka_v/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-20T14:15:00+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Британското правителство одобри сондажи в газовото находище „Джакдоу“ в Северно море",
+          "url": "https://www.bta.bg/bg/news/economy/1229253-britanskoto-pravitelstvo-odobri-sondazhi-v-gazovoto-nahodishte-dzhakdou-v-seve",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:26:26+00:00",
+          "summary": "Британското правителство одобри планове за започване на сондажи в газовото находище „Джакдоу“ (Jackdaw) в Северно море, съобщи ДПА. Решението слага край на продължилите месеци спекулации за бъдещето на проекта. Компанията „Ейдура” (Adura), която притежава находището, заяви, че то може да осигури около 6 на сто от добива на природен газ в британската част на Северно море. Проектът за сондажи е…"
+        },
+        {
+          "title": "Мобилни кабинети ще предлагат безплатни прегледи и изследвания в 17 области",
+          "url": "https://www.dnevnik.bg/zdrave/2026/10/21/4969130_mobilni_kabineti_shte_predlagat_bezplatni_pregledi_i/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T08:11:00+00:00",
+          "summary": "Мобилни медицински кабинети ще предлагат безплатни профилактични изследвания в 17 области на страната. Целта е да се подобри достъпът до медицинска помощ в населени места, където профилактиката и навременната диагностика често остават..."
+        },
+        {
+          "title": "Българската икономика е растяла малко по-бавно през последните години, показа ревизия на НСИ",
+          "url": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/10/20/4968878_bulgarskata_ikonomika_e_rastiala_malko_po-bavno_prez/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-20T13:40:00+00:00",
+          "summary": "Българската икономика е растяла малко по-бавно през последните осем години, отколкото се смяташе досега - това показват данните след мащабна ревизия на Националния статистически институт (НСИ). Средният годишен ръст на реалния брутен вътрешен продукт (БВП) за периода 2018 - 2025 г. всъщност възлиза на 2.6% вместо на 2.9%. Номинално обаче размерът на икономиката се оказва по-голям, като общо за…"
+        },
+        {
+          "title": "Националното антикорупционно бюро на Украйна съобщи, че претърсва помещения на централната банка и дома на неин служител",
+          "url": "https://www.bta.bg/bg/news/economy/1229314-natsionalnoto-antikoruptsionno-byuro-na-ukrayna-saobshti-che-pretarsva-pomeshte",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:21:05+00:00",
+          "summary": "Националното антикорупционно бюро на Украйна (НАБУ) съобщи, че следователи извършват претърсвания в помещения на Украинската централна банка, както и в дома на един от служителите ѝ, предаде Ройтерс. НАБУ заяви в приложението „Телеграм“, че никой не е бил задържан и на никого не е било връчено уведомление, че е заподозрян. Централната банка потвърди, че НАБУ провежда разследване в нейните…"
+        },
+        {
+          "title": "\"Гастрономически пътеводител\" 2026: \"Мерак\" - една семейна гостилница и новият живот на балканската кухня",
+          "url": "https://www.dnevnik.bg/bacchus/2026/10/21/4969118_gastronomicheski_putevoditel_2026_merak_-_edna_semeina/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T08:05:00+00:00",
+          "summary": "За четвърта поредна година инициативата \"Гастрономически пътеводител\" на МЕТРО България ни отвежда към интересни кулинарни адреси из страната. През 2026 г. фокусът е върху съвременната българска гастрономия, местните продукти и традиционните..."
+        },
+        {
+          "title": "Как бизнесът може да накара младите да останат в България",
+          "url": "https://www.capital.bg/politika_i_ikonomika/pazar-na-truda/2026/10/20/4968763_kak_biznesut_moje_da_nakara_mladite_da_ostanat_v/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-20T11:27:00+00:00",
+          "summary": "Инициативата \"20 под 20\" е организирана от Младежкия съвет на американския посланик в България и \"Капитал\". Тя отличава 20 млади таланти под 20-годишна възраст в областта на науката и технологиите, бизнеса, изкуствата, спорта и гражданския активизъм. Целта е да се даде гласност на младите хора, чиито идеи и проекти допринасят за развитието на средата, в която живеем. Историите на отличените във…"
+        },
+        {
+          "title": "В Перник пристигнаха хартиените бюлетини за изборите на 25 октомври",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1229304-v-pernik-pristignaha-hartienite-byuletini-za-izborite-na-25-oktomvri",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:20:41+00:00",
+          "summary": "В Перник пристигнаха 112 хиляди бюлетини за предстоящите на 25 октомври избори за президент и вицепрезидент. Те бяха доставени тази сутрин под полицейска охрана на паркинга на Областната администрация в присъствието на представители на Районната избирателна комисия (РИК), областната администрация и полицията. Броят на бюлетините, предназначени за 14-и многомандатен избирателен район - Перник,…"
+        },
+        {
+          "title": "\"Маркет линкс\": 28% от българите смятат, че Украйна стои зад атаките с дронове в Черно море",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/10/21/4969124_market_links_28_ot_bulgarite_smiatat_che_ukraina_stoi/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T07:50:00+00:00",
+          "summary": "Обществото е сериозно разтревожено по отношение на националната сигурност след атаките в Черно море. Това показва ново проучване на социологическата агенция \"Маркет линкс\" за Би Ти Ви, проведено сред 1006 пълнолетни български граждани в периода..."
+        },
+        {
+          "title": "Проектозаконът за лекарствата ще забави снабдяването с тях",
+          "url": "https://www.capital.bg/politika_i_ikonomika/zdraveopazvane/2026/10/20/4968820_proektozakonut_za_lekarstvata_shte_zabavi/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-20T11:04:00+00:00",
+          "summary": "В България всяка година се продават около 160 млн. опаковки с лекарства. На ден през аптеките и през болниците минават общо около 400 хиляди. В част от случаите обаче определени лекарства липсват и различните екипи на здравните институции предлагат всевъзможни начини да се справят с недостига. Здравното министерство от две години обсъжда промени в лекарствения закон, които да решат проблема.…"
+        },
+        {
+          "title": "Баварският лидер призова за санитарен кордон и срещу крайната левица",
+          "url": "https://www.bta.bg/bg/news/world/1229242-bavarskiyat-lider-prizova-za-sanitaren-kordon-i-sreshtu-kraynata-levitsa",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:19:44+00:00",
+          "summary": "Маркус Зьодер, баварският лидер и председател на консервативния Християнсоциален съюз (ХСС) призова за санитарен кордон срещу крайната левица, след като в Берлин крайнолявата партия „Левите“ се споразумя със Зелените и Германската социалдемократическа партия (ГСДП) за начало на коалиционни преговори, предаде ДПА. В Германия досега санитарен кордон, или „защитна стена“, каквото понятие се използва…"
+        },
+        {
+          "title": "\"Тесла\" и \"Спейс Екс\" обсъждат сливане, обяви Мъск",
+          "url": "https://www.dnevnik.bg/izkustven-intelekt/2026/10/21/4969094_tesla_i_speis_eks_obsujdat_slivane_obiavi_musk/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T06:58:00+00:00",
+          "summary": "Обсъжда се сливане на \"Тесла\" и \"Спейс Екс\". Това заяви милиардерът Илон Мъск, който нарече тази стъпка \"добра идея\". По думите му са създадени специални комисии, които да обсъдят въпроса. Новината доведе до ръст с 8% в цената на акциите на..."
+        },
+        {
+          "title": "Бизнес глобус: Ryanair очаква рекорден ръст на цените на билетите; Anthropic може да сключи сделка за $45 млрд. долара с Nscale",
+          "url": "https://www.capital.bg/politika_i_ikonomika/sviat/biznes-globus/2026/10/20/4968813_biznes_globus_ryanair_ochakva_rekorden_rust_na_cenite/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-20T10:47:00+00:00",
+          "summary": "Ryanair предупреждава за рекордно високи цени на самолетните билети Самолетните билети в Европа може да поскъпнат с до 20% през следващата година заради по-високите цени на петрола, подхранвани от войната в Близкия изток, прогнозира главният изпълнителен директор на Ryanair Майкъл О'Лиъри. Според него поскъпването може да се окаже недостатъчно, за да компенсира нарасналите разходи за гориво,…"
+        },
+        {
+          "title": "Путин прие Уиткоф в Санкт Петербург, благодари на Тръмп за вниманието му към намирането на изход от войната в Украйна",
+          "url": "https://www.bta.bg/bg/news/world/1229305-putin-prie-uitkof-v-sankt-peterburg-blagodari-na-tramp-za-vnimanieto-mu-kam-nam",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:19:08+00:00",
+          "summary": "Руският президент Владимир Путин прие американския специален пратеник Стив Уиткоф в Санкт Петербург днес, като пред него благодари на президента на САЩ за вниманието му към намирането на изход от войната в Украйна, предадоха Ройтерс и ТАСС. Путин попита Уиткоф как е преминала вчерашната му среща с украинския президент Володимир Зеленски в норвежката столица Осло, информираха двете агенции. Освен…"
+        },
+        {
+          "title": "\"Крият Йотова\": Управляващите провалиха поредно заседание за помилвания наркодилър",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/10/21/4969089_upravliavashtite_provaliha_poredno_zasedanie_za/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T06:33:00+00:00",
+          "summary": "\"Прогресивна България\" провали пореден опит на опозицията да постави въпроса за помилвания от Илияна Йотова наркодилър. Днес по инициатива на ГЕРБ, \"Продължаваме промяната\" и \"Демократична България\" трябваше да се проведе извънредно заседание за..."
+        },
+        {
+          "title": "Солун дебютира в гида \"Мишлен\" с 20 ресторанта, засега без звезда",
+          "url": "https://www.capital.bg/light/mesta/2026/10/20/4968812_solun_debjutira_v_gida_mishlen_s_20_restoranta_zasega/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-20T10:37:00+00:00",
+          "summary": "На фона на все още незатихналите съвсем вълнения около безрезултатния засега първи одит на световно известния кулинарен гид \"Мишлен\" в София във вторник (20 октомври) близкият Солун дебютира в гурмеводителя с общо 20 ресторанта. Засега на нито един от тях не е присъдена звезда, като 15 ресторанта са в селекцията \"препоръчани\", а още 5 са в секцията Bib Gourmand, която отличава вкусни, но достъпни…"
+        },
+        {
+          "title": "За пета година ОИ \"Старинен Пловдив\" започна обучение на ученици от гимназията по туризъм в менторска програма за екскурзоводи",
+          "url": "https://www.bta.bg/bg/news/lik/1229243-za-peta-godina-oi-starinen-plovdiv-zapochna-obuchenie-na-uchenitsi-ot-gimnaziy",
+          "source": "BG RSS Free",
+          "published": "2026-10-21T09:17:57+00:00",
+          "summary": "За пета година Общински институт (ОИ) \"Старинен Пловдив\" и Професионалната гимназия (ПГ) по туризъм \"Проф. д-р Асен Златаров\" в Пловдив започнаха обучение на ученици от специалност \"Организация на туризма и свободното време\" в менторска програма за екскурзоводи. С този випуск броят на стажант-екскурзоводите, преминали през програмата, става 130. Те ще опознават богатото културно-историческо…"
+        },
+        {
+          "title": "Подкрепата за \"Прогресивна България\" продължава да се топи според \"Маркет линкс\"",
+          "url": "https://www.dnevnik.bg/politika/2026/10/21/4969081_podkrepata_za_progresivna_bulgariia_produljava_da_se/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-21T05:54:00+00:00",
+          "summary": "Подкрепата на избирателите за управляващите от \"Прогресивна България\" продължава да се топи. \"Продължаваме промяната\" излиза на втора позиция, изпреварвайки ГЕРБ. Това показва ново проучване на социологическата агенция \"Маркет линкс\" за Би Ти Ви,..."
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://www.bta.bg/bg/rss/free": {
+          "items": 20,
+          "status": "ok",
+          "secs": 1.2
+        },
+        "https://www.dnevnik.bg/rss/": {
+          "items": 30,
+          "status": "ok",
+          "secs": 0.8
+        },
+        "https://www.capital.bg/rss/": {
+          "items": 19,
+          "status": "ok",
+          "secs": 5.7
+        },
+        "https://www.mediapool.bg/rss": {
+          "items": 10,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.novinite.com/services/news_rdf.php": {
+          "items": 0,
+          "status": "κανένα νέο (17 παλιά, 17 ήδη)",
+          "secs": 0.7
+        },
+        "https://sofiaglobe.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (30 παλιά, 0 ήδη)",
+          "secs": 1.1
+        }
+      }
+    }
+  }
+}
