@@ -1,0 +1,734 @@
+{
+  "date": "2026-10-22",
+  "generated": "2026-10-22T09:41:58.413024+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+      "Ιταλία – Ισπανία: Σε πλήρη ισχύ ο χώρος του Σένγκεν μετά την κρίση στη Θέουτα",
+      "Общо 12 души са задържани при специализирана полицейска операция на територията на Софийска област"
+    ],
+    "en": [
+      "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+      "Ιταλία – Ισπανία: Σε πλήρη ισχύ ο χώρος του Σένγκεν μετά την κρίση στη Θέουτα",
+      "Общо 12 души са задържани при специализирана полицейска операция на територията на Софийска област"
+    ]
+  },
+  "meta": {
+    "el": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release; FCC chair warns media not to run the \"fake polls\" Trump keeps compl",
+    "en": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release; FCC chair warns media not to run the \"fake polls\" Trump keeps compl"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+            "en": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+            "en": "Authorities disrupt nearly 11,000 cybercrime networks in Africa"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
+            "en": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Anthropic finds 94 cases where open-source projects drop security controls without warning",
+            "en": "Anthropic finds 94 cases where open-source projects drop security controls without warning"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/10/22/anthropic-attack-surface-reduction-open-source/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Certification authority eMudhra defends its laughably weak private keys",
+            "en": "Certification authority eMudhra defends its laughably weak private keys"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "FBI and CISA Warn of SafePay Ransomware Attacks on 600 Organizations",
+            "en": "FBI and CISA Warn of SafePay Ransomware Attacks on 600 Organizations"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/201464/cyber-crime/fbi-and-cisa-warn-of-safepay-ransomware-attacks-on-600-organizations.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Microsoft pins ConnectWise supply-chain attack to China-state aligned threat group",
+            "en": "Microsoft pins ConnectWise supply-chain attack to China-state aligned threat group"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/microsoft-attributes-connectwise-supply-chain-attack-china-storm-0940/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "OpenAI’s models are deliberately breaking their misalignment monitoring systems",
+            "en": "OpenAI’s models are deliberately breaking their misalignment monitoring systems"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4238782/openais-models-are-deliberately-breaking-their-misalignment-monitoring-systems.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
+            "en": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: yellow",
+              "url": "https://isc.sans.edu/diary/rss/33446"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Widespread PHP Flaw May Cause Many Site Outages Today",
+            "en": "Widespread PHP Flaw May Cause Many Site Outages Today"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Krebs on Security",
+              "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Workshop on Economics and Information Security (WEIS) Archive",
+            "en": "Workshop on Economics and Information Security (WEIS) Archive"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Schneier on Security",
+              "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Meta on the spot for $25 billion under New Mexico privacy ruling",
+            "en": "Meta on the spot for $25 billion under New Mexico privacy ruling"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+            "en": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "UK government hasn't the foggiest how much it's spending on digital transformation",
+            "en": "UK government hasn't the foggiest how much it's spending on digital transformation"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/public-sector/2026/10/22/uk-government-hasnt-the-foggiest-how-much-its-spending-on-digital-transformation/5304662"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "AI’s hidden storage bill: What inference leaves behind",
+            "en": "AI’s hidden storage bill: What inference leaves behind"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "mitmproxy adds --emudhra option",
+            "en": "mitmproxy adds --emudhra option"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+            "en": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Vendors asking forward deployed engineers to make good on trillion-dollar AI bet",
+            "en": "Vendors asking forward deployed engineers to make good on trillion-dollar AI bet"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/ai-and-ml/2026/10/22/vendors-asking-forward-deployed-engineers-to-make-good-on-trillion-dollar-ai-bet/5304366"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The Download: introducing the Impossible issue",
+            "en": "The Download: introducing the Impossible issue"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "There isn't an easy exploit for this PHP vulnerability",
+            "en": "There isn't an easy exploit for this PHP vulnerability"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://eliastaylor.com/noexploit/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+            "en": "Enterprises keep buying software upgrades that IT thinks will make things worse"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Why the immediate future of liquid cooling is hybrid",
+            "en": "Why the immediate future of liquid cooling is hybrid"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/ai-and-ml/2026/10/22/partner-content-why-the-immediate-future-of-liquid-cooling-is-hybrid/5303795"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Ιταλία – Ισπανία: Σε πλήρη ισχύ ο χώρος του Σένγκεν μετά την κρίση στη Θέουτα",
+            "en": "Ιταλία – Ισπανία: Σε πλήρη ισχύ ο χώρος του Σένγκεν μετά την κρίση στη Θέουτα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/roi-idiseon/italia-ispania-se-pliri-isxy-o-xoros-tou-sengken-meta-tin-krisi-sti-theouta/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Το άγαλμα του ιππέα εκτίθεται ξανά στο Μουσείο της Ακρόπολης – Φωτογραφίες, βίντεο",
+            "en": "Το άγαλμα του ιππέα εκτίθεται ξανά στο Μουσείο της Ακρόπολης – Φωτογραφίες, βίντεο"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/culture/564539485/to-agalma-toy-ippea-ektithetai-xana-sto-moyseio-tis-akropolis-fotografies-vinteo/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Λιόλιος – ΕΟΚ: Προθεσμία πήραν οι 6 – Πότε απολογούνται – Τι υποστηρίζει",
+            "en": "Λιόλιος – ΕΟΚ: Προθεσμία πήραν οι 6 – Πότε απολογούνται – Τι υποστηρίζει"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/10/22/sports/liolios-eok-prothesmia-piran-oi-6-pote-apologountai/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Οφη-Λεβερκούζεν: Επικίνδυνη αποστολή …εντός έδρας",
+            "en": "Οφη-Λεβερκούζεν: Επικίνδυνη αποστολή …εντός έδρας"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/athlitismos/1493939/ofi-leverkoyzen-epikindyni-apostoli-entos-edras/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "O απεσταλμένος του Πούτιν προανήγγειλε την επαναλειτουργία των αγωγών Nord Stream – «Είναι οικονομικά αναπόφευκτο»",
+            "en": "O απεσταλμένος του Πούτιν προανήγγειλε την επαναλειτουργία των αγωγών Nord Stream – «Είναι οικονομικά αναπόφευκτο»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/finance/world/2178554/o-apestalmenos-toy-poytin-proaniggeile-tin-epanaleitoyrgia-ton-agogon-nord-stream-einai-oikonomika-anapofeykto/?utm_source=rss&utm_medium=rss&utm_campaign=o-apestalmenos-toy-poytin-proaniggeile-tin-epanaleitoyrgia-ton-agogon-nord-stream-einai-oikonomika-anapofeykto"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Live η ενημέρωση του κυβερνητικού εκπροσώπου (22/10/26)",
+            "en": "Live η ενημέρωση του κυβερνητικού εκπροσώπου (22/10/26)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/frontpage/live-i-enimerosi-tou-kyvernitikou-ekprosopou-22-10-26/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Γιατί η Meta προσφέρει στον Ζούκερμπεργκ ένα οικονομικό κίνητρο για να μη φύγει από την Καλιφόρνια",
+            "en": "Γιατί η Meta προσφέρει στον Ζούκερμπεργκ ένα οικονομικό κίνητρο για να μη φύγει από την Καλιφόρνια"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/world/564539446/giati-i-meta-prosferei-ston-zoykermpergk-ena-oikonomiko-kinitro-gia-na-mi-fygei-apo-tin-kalifornia/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Έρευνα-σοκ της Κομισιόν για τη Booking.com: Τι απαντά για τις fake καταχωρίσεις – απάτες",
+            "en": "Έρευνα-σοκ της Κομισιόν για τη Booking.com: Τι απαντά για τις fake καταχωρίσεις – απάτες"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/10/22/finance/booking-com-ereyna-komision-gia-pseytikes-kataxoriseis-apates/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Η ανακοίνωση της Booking για έρευνα που αφορά παραπλανητικές καταχωρήσεις: «Συνεργαζόμαστε πλήρως με την Κομισιόν»",
+            "en": "Η ανακοίνωση της Booking για έρευνα που αφορά παραπλανητικές καταχωρήσεις: «Συνεργαζόμαστε πλήρως με την Κομισιόν»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/oikonomia/1494098/i-anakoinosi-tis-booking-gia-ereyna-poy-afora-paraplanitikes-katahoriseis-synergazomaste-pliros-me-tin-komision/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Βουλή: Διαφωνίες κατά τη συζήτηση του ν/σ για τα social media – Το βράδυ η ψήφισή του",
+            "en": "Βουλή: Διαφωνίες κατά τη συζήτηση του ν/σ για τα social media – Το βράδυ η ψήφισή του"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/politics/2178555/voyli-diafonies-kata-ti-syzitisi-toy-n-s-gia-ta-social-media-to-vrady-i-psifisi-toy/?utm_source=rss&utm_medium=rss&utm_campaign=voyli-diafonies-kata-ti-syzitisi-toy-n-s-gia-ta-social-media-to-vrady-i-psifisi-toy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Общо 12 души са задържани при специализирана полицейска операция на територията на Софийска област",
+            "en": "Общо 12 души са задържани при специализирана полицейска операция на територията на Софийска област"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/bulgaria/1230084-obshto-12-dushi-sa-zadarzhani-pri-spetsializirana-politseyska-operatsiya-na-teri"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Туроператори: Цената не е главният проблем при ученическите екскурзии",
+            "en": "Туроператори: Цената не е главният проблем при ученическите екскурзии"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/biznes/2026/10/22/4969668_turoperatori_cenata_ne_e_glavniiat_problem_pri/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "\"Деари фууд България\": Гъвкавата автоматизирана мандра",
+            "en": "\"Деари фууд България\": Гъвкавата автоматизирана мандра"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/fabrika-na-godinata/2026/10/22/4969344_deari_fuud_bulgariia_guvkavata_avtomatizirana_mandra/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Временният главен прокурор поиска имунитета на Божидар Божанов",
+            "en": "Временният главен прокурор поиска имунитета на Божидар Божанов"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/bulgaria/vremenniyat-glaven-prokuror-poiska-imuniteta-na-bozhidar-bozhanov/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Bulgaria Mayor Faces Prison Over EU-Funded Construction",
+            "en": "Bulgaria Mayor Faces Prison Over EU-Funded Construction"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Novinite.com (Sofia News Agency)",
+              "url": "https://www.novinite.com/view_news.php?id=241181"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Инвестиция за близо 20 млн. евро ще създаде между 150 и 200 работни места в нов ритейл парк в Стара Загора",
+            "en": "Инвестиция за близо 20 млн. евро ще създаде между 150 и 200 работни места в нов ритейл парк в Стара Загора"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/economy/1230152-investitsiya-za-blizo-20-mln-evro-shte-sazdade-mezhdu-150-i-200-rabotni-mesta-v"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Съдът освободи предсрочно осъдения за смъртта на Милен Цветков",
+            "en": "Съдът освободи предсрочно осъдения за смъртта на Милен Цветков"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/bulgaria/2026/10/22/4969688_sudut_osvobodi_predsrochno_osudeniia_za_smurtta_na/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Q&A: Защо тази година ваксините срещу грип закъсняват в България",
+            "en": "Q&A: Защо тази година ваксините срещу грип закъсняват в България"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/zdraveopazvane/2026/10/22/4969661_qa_zashto_tazi_godina_vaksinite_sreshtu_grip/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Съдът пусна предсрочно осъдения за смъртта на Милен Цветков",
+            "en": "Съдът пусна предсрочно осъдения за смъртта на Милен Цветков"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/bulgaria/sadat-pusna-predsrochno-osadeniya-za-smartta-na-milen-tsvetkov/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Италия и Испания отменят граничния контрол за гражданите на двете страни след тримесечен спор около кризата в Сеута",
+            "en": "Италия и Испания отменят граничния контрол за гражданите на двете страни след тримесечен спор около кризата в Сеута"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/world/1230148-italiya-i-ispaniya-otmenyat-granichniya-kontrol-za-grazhdanite-na-dvete-strani-s"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
