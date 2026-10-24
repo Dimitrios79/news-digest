@@ -1,0 +1,734 @@
+{
+  "date": "2026-10-24",
+  "generated": "2026-10-24T09:10:55.016255+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "Πειραιάς: Αυτοτραυματίστηκε με πιστόλι 55χρονος μέσα σε κατάστημα υγειονομικού ενδιαφέροντος – Διακομίστηκε στο «Λαϊκό»",
+      "Експерименти с вода и работилница за електронно пиано организира „Музейко“ на 25 октомври"
+    ],
+    "en": [
+      "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "Πειραιάς: Αυτοτραυματίστηκε με πιστόλι 55χρονος μέσα σε κατάστημα υγειονομικού ενδιαφέροντος – Διακομίστηκε στο «Λαϊκό»",
+      "Експерименти с вода и работилница за електронно пиано организира „Музейко“ на 25 октомври"
+    ]
+  },
+  "meta": {
+    "el": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud; NASA updates lander plans for Moon landings, finally solves long",
+    "en": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud; NASA updates lander plans for Moon landings, finally solves long"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+            "en": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+            "en": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
+            "en": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "UK proposes 14-year jail terms for subsea cable saboteurs",
+            "en": "UK proposes 14-year jail terms for subsea cable saboteurs"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/10/23/uk-undersea-cable-sabotage-sentences/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "There's a third PHP2Shell bug, but it won't get an emergency fix",
+            "en": "There's a third PHP2Shell bug, but it won't get an emergency fix"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "U.S. CISA adds Arista VeloCloud Orchestrator flaw to its Known Exploited Vulnerabilities catalog",
+            "en": "U.S. CISA adds Arista VeloCloud Orchestrator flaw to its Known Exploited Vulnerabilities catalog"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/201609/hacking/u-s-cisa-adds-arista-velocloud-orchestrator-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Senators say targeted ads are a security risk. Ad groups say the critics are off base.",
+            "en": "Senators say targeted ads are a security risk. Ad groups say the critics are off base."
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/targeted-ads-spyware-government-threat/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Oracle patches 1295 security vulnerabilities in October, including six scoring 10.0",
+            "en": "Oracle patches 1295 security vulnerabilities in October, including six scoring 10.0"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4239850/oracle-patches-1295-security-vulnerabilities-in-october-including-six-scoring-10-0-2.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
+            "en": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33452"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Friday Squid Blogging: Increasing Squid Populations",
+            "en": "Friday Squid Blogging: Increasing Squid Populations"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Schneier on Security",
+              "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "FCC bans two devices with surveillance chips linked to Huawei",
+            "en": "FCC bans two devices with surveillance chips linked to Huawei"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/fcc-bans-devices-huawei-surveillance-chips"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+            "en": "Trust Is Not What It Seems — And Fraudsters Are Counting on It"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "darkreading",
+              "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+            "en": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+            "en": "OpenAI disables internet access during model training while Anthropic issues another mea culpa"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The Download: testing six tech promises and biotech’s blind spots",
+            "en": "The Download: testing six tech promises and biotech’s blind spots"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Dessa: Conversation Model trained only on speech",
+            "en": "Dessa: Conversation Model trained only on speech"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://block.xyz/dessa"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+            "en": "Hegseth warns prediction market bets warp military judgment, endanger troops"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "AI models think humans are a bunch of amoral sheep",
+            "en": "AI models think humans are a bunch of amoral sheep"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+            "en": "Kimi K3.1 Pro and K3.1 Pro Highspeed"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Updated Google privacy policy says your Gmail might be used for advertising",
+            "en": "Updated Google privacy policy says your Gmail might be used for advertising"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Michigan prof creates Python-like Jac language for AI agents",
+            "en": "Michigan prof creates Python-like Jac language for AI agents"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Today, we hacked what we'd set out to hack: the iPhone",
+            "en": "Today, we hacked what we'd set out to hack: the iPhone"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://blog.calif.io/p/iphone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Πειραιάς: Αυτοτραυματίστηκε με πιστόλι 55χρονος μέσα σε κατάστημα υγειονομικού ενδιαφέροντος – Διακομίστηκε στο «Λαϊκό»",
+            "en": "Πειραιάς: Αυτοτραυματίστηκε με πιστόλι 55χρονος μέσα σε κατάστημα υγειονομικού ενδιαφέροντος – Διακομίστηκε στο «Λαϊκό»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/ellada/peiraias-aytotraymatistike-me-pistoli-55xronos-mesa-se-katastima-ygeionomikou-endiaferontos-diakomistike-sto-laiko/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Pizza Fan: Τα «κεράσματα», οι αποδείξεις και ο ΦΠΑ – Τι αποκαλύπτουν οι συνομιλίες για τον φερόμενο μηχανισμό φοροδιαφυγής",
+            "en": "Pizza Fan: Τα «κεράσματα», οι αποδείξεις και ο ΦΠΑ – Τι αποκαλύπτουν οι συνομιλίες για τον φερόμενο μηχανισμό φοροδιαφυγής"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/society/564546073/pizza-fan-ta-kerasmata-oi-apodeixeis-kai-o-fpa-ti-apokalyptoyn-oi-synomilies-gia-ton-feromeno-michanismo-forodiafygis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ντεκαντάνς και μόκο",
+            "en": "Ντεκαντάνς και μόκο"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/10/24/opinions/ntekantans-kai-moko/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Θεσσαλονίκη: Συνελήφθη 74χρονος οδηγός μετά από παράσυρση και τραυματισμό πεζού",
+            "en": "Θεσσαλονίκη: Συνελήφθη 74χρονος οδηγός μετά από παράσυρση και τραυματισμό πεζού"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/ellada/1495719/thessaloniki-synelifthi-74hronos-odigos-meta-apo-parasyrsi-kai-traymatismo-pezoy/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "«No Boundaries. Just Art»: Η αυθεντική, καλλιτεχνική έκφραση πρέπει να είναι ανοιχτή, προσβάσιμη και συμπεριληπτική",
+            "en": "«No Boundaries. Just Art»: Η αυθεντική, καλλιτεχνική έκφραση πρέπει να είναι ανοιχτή, προσβάσιμη και συμπεριληπτική"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/culture/arts/2179476/no-boundaries-just-art-i-aythentiki-kallitechniki-ekfrasi-prepei-na-einai-anoichti-prosvasimi-kai-symperiliptiki/?utm_source=rss&utm_medium=rss&utm_campaign=no-boundaries-just-art-i-aythentiki-kallitechniki-ekfrasi-prepei-na-einai-anoichti-prosvasimi-kai-symperiliptiki"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Πέντε τρόποι για να προστατευτείτε στο διαδίκτυο από τις AI κυβερνοεπιθέσεις",
+            "en": "Πέντε τρόποι για να προστατευτείτε στο διαδίκτυο από τις AI κυβερνοεπιθέσεις"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/epistimi/epistimi/pente-tropoi-gia-na-prostateyteite-sto-diadiktyo-apo-tis-ai-kyvernoepitheseis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Πειραιάς: 55χρονος αυτοτραυματίστηκε με όπλο μέσα σε νυχτερινό κέντρο",
+            "en": "Πειραιάς: 55χρονος αυτοτραυματίστηκε με όπλο μέσα σε νυχτερινό κέντρο"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/society/564546064/peiraias-55chronos-aytotraymatistike-me-oplo-mesa-se-nychterino-kentro/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "«Θαυμαστός καινούριος κόσμος»: Στις πρόβες της παράστασης της Αικατερίνης Παπαγεωργίου",
+            "en": "«Θαυμαστός καινούριος κόσμος»: Στις πρόβες της παράστασης της Αικατερίνης Παπαγεωργίου"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/10/24/culture/thaymastos-kainourios-kosmos-stis-proves-tis-parastasis-tis-aikaterinis-papageorgiou/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Πειραιάς: Αντιδήμαρχος αυτοτραυματίστηκε με όπλο μέσα σε κατάστημα – Νοσηλεύεται στο «Λαϊκό»",
+            "en": "Πειραιάς: Αντιδήμαρχος αυτοτραυματίστηκε με όπλο μέσα σε κατάστημα – Νοσηλεύεται στο «Λαϊκό»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/ellada/1495726/peiraias-55hronos-aytotraymatistike-me-oplo-mesa-se-katastima-nosileyetai-sto-laiko/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Γαλλία: Διαδηλώσεις, «Πράξη ΙΙ» – Ερωτηματικό η διαδρομή της πορείας στο Παρίσι, απαγόρευση κυκλοφορίας στους κάτω των 15 στην Ορλεάνη",
+            "en": "Γαλλία: Διαδηλώσεις, «Πράξη ΙΙ» – Ερωτηματικό η διαδρομή της πορείας στο Παρίσι, απαγόρευση κυκλοφορίας στους κάτω των 15 στην Ορλεάνη"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/kosmos/2179472/gallia-diadiloseis-praxi-ii-agnosti-i-diadromi-tis-poreias-sto-parisi-apagoreysi-kykloforias-stoys-kato-ton-15-stin-orleani/?utm_source=rss&utm_medium=rss&utm_campaign=gallia-diadiloseis-praxi-ii-agnosti-i-diadromi-tis-poreias-sto-parisi-apagoreysi-kykloforias-stoys-kato-ton-15-stin-orleani"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Експерименти с вода и работилница за електронно пиано организира „Музейко“ на 25 октомври",
+            "en": "Експерименти с вода и работилница за електронно пиано организира „Музейко“ на 25 октомври"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/lik/1231720-eksperimenti-s-voda-i-rabotilnitsa-za-elektronno-piano-organizira-muzeyko-na-2"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Как гласуваме на изборите за президент",
+            "en": "Как гласуваме на изборите за президент"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/10/24/4970701_kak_glasuvame_na_izborite_za_prezident/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Убит е Слави Бинев. Версията е скандал със съседи",
+            "en": "Убит е Слави Бинев. Версията е скандал със съседи"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/bulgaria/ubit-e-slavi-binev-versiyata-e-skandal-sas-sasedi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Луксозните магазини във Франция заковават с дъски прозорците в очакване на нови улични протести",
+            "en": "Луксозните магазини във Франция заковават с дъски прозорците в очакване на нови улични протести"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/world/1231715-luksoznite-magazini-vav-frantsiya-zakovavat-s-daski-prozortsite-v-ochakvane-na-n"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Убит е Слави Бинев, а трима души са задържани",
+            "en": "Убит е Слави Бинев, а трима души са задържани"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/10/24/4970811_ubit_e_slavi_binev_a_trima_dushi_sa_zadurjani/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Товарен кораб стресира морския контрол във Варна",
+            "en": "Товарен кораб стресира морския контрол във Варна"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/bulgaria/tovaren-korab-stresira-morskiya-kontrol-vav-varna/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Прогноза за времето",
+            "en": "Прогноза за времето"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/bulgaria/1231719-prognoza-za-vremeto"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Литературен стопаджия #2: Какво става накрая?",
+            "en": "Литературен стопаджия #2: Какво става накрая?"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/moiat_capital/svobodno_vreme/2026/10/24/4970763_literaturen_stopadjiia_2_kakvo_stava_nakraia/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Прокурорите избират своите хора във ВСС",
+            "en": "Прокурорите избират своите хора във ВСС"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/bulgaria/prokurorite-izbirat-svoite-hora-vav-vss/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Специализиран екип от архитекти и проектанти е изготвил проект за възстановяване на сградата на ДНА в Разград",
+            "en": "Специализиран екип от архитекти и проектанти е изготвил проект за възстановяване на сградата на ДНА в Разград"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/bulgaria/1231704-spetsializiran-ekip-ot-arhitekti-i-proektanti-e-izgotvil-proekt-za-vazstanovyava"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
