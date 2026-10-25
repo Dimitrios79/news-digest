@@ -1,0 +1,1128 @@
+{
+  "date": "2026-10-25",
+  "generated": "2026-10-25T09:25:31.502764+00:00",
+  "categories": {
+    "security": {
+      "items": [
+        {
+          "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+          "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+          "source": "The Hacker News",
+          "published": "2026-10-25T06:54:29+00:00",
+          "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no"
+        },
+        {
+          "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+          "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+          "source": "BleepingComputer",
+          "published": "2026-10-24T14:17:32+00:00",
+          "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]"
+        },
+        {
+          "title": "Week in review: PHP vulnerabilities patched, exploited Palo Alto GlobalProtect VPN flaw",
+          "url": "https://www.helpnetsecurity.com/2026/10/25/week-in-review-php-vulnerabilities-patched-exploited-palo-alto-globalprotect-vpn-flaw/",
+          "source": "Help Net Security",
+          "published": "2026-10-25T09:00:56+00:00",
+          "summary": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: A critical PHP security release is coming today, so get ready to update! The PHP security team has announced an urgent security release for Wednesday, 21 October 2026 at 14:00 UTC. The release fixes two vulnerabilities, each rated 9.2 (Critical) under CVSS v4.0. The project will publish those…"
+        },
+        {
+          "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
+          "url": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-24T13:02:00+00:00",
+          "summary": "Designed to carry out 100,000 steps without human approval"
+        },
+        {
+          "title": "Pierluigi Paganini answers questions about the PHP2Shell flaws",
+          "url": "https://securityaffairs.com/201662/hacking/pierluigi-paganini-answers-questions-about-the-php2shell-flaws.html",
+          "source": "Security Affairs",
+          "published": "2026-10-24T18:58:38+00:00",
+          "summary": "Pierluigi Paganini answers questions about the PHP2Shell vulnerability, early exploitation, AI-assisted attacks, and the risks to businesses, servers, and personal data. 1. Your latest report reveals that hackers began exploiting the PHP2Shell vulnerability four days before it was publicly disclosed. First, can you explain what PHP is, how widely it is used across the internet, […]"
+        },
+        {
+          "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+          "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+          "source": "The Hacker News",
+          "published": "2026-10-24T11:09:29+00:00",
+          "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially"
+        },
+        {
+          "title": "U.S. CISA adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog",
+          "url": "https://securityaffairs.com/201652/security/u-s-cisa-adds-collabora-online-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+          "source": "Security Affairs",
+          "published": "2026-10-24T16:53:59+00:00",
+          "summary": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Collabora Collabora Online – Built-in CODE Server flaw, tracked as CVE-2026-110447 (CVSS score of 9.2), to its Known Exploited Vulnerabilities (KEV) catalog. Collabora Online – Built-in CODE…"
+        },
+        {
+          "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+          "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+          "source": "The Hacker News",
+          "published": "2026-10-24T11:03:33+00:00",
+          "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of"
+        },
+        {
+          "title": "Usage Intelligence: The Monetization Signal Most AI Companies Are Ignoring",
+          "url": "https://securityaffairs.com/201643/ai/usage-intelligence-the-monetization-signal-most-ai-companies-are-ignoring.html",
+          "source": "Security Affairs",
+          "published": "2026-10-24T14:33:09+00:00",
+          "summary": "AI companies need usage data to align pricing with costs, improve products, identify churn risks, and grow revenue through informed decisions. The AI Paradox There is a paradox: AI companies exist to extract intelligence from data, yet many have almost no visibility into how their own software is being used. They design complex models, introduce […]"
+        },
+        {
+          "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+          "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+          "source": "The Hacker News",
+          "published": "2026-10-24T10:36:33+00:00",
+          "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,"
+        },
+        {
+          "title": "Capcom Data Breach Exposes 11.7 Million Email Addresses",
+          "url": "https://securityaffairs.com/201626/data-breach/capcom-data-breach-exposes-11-7-million-email-addresses.html",
+          "source": "Security Affairs",
+          "published": "2026-10-24T10:21:53+00:00",
+          "summary": "Capcom disclosed a data breach exposing 11.7 million email addresses and account details after hackers accessed its CAPCOM ID service. Japanese gaming company Capcom has disclosed a data breach discovered on October 19 involving its CAPCOM ID service, which provides access to online services and games. As of October 22, attackers stole 11,774,247 email addresses, […]"
+        },
+        {
+          "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+          "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+          "source": "The Hacker News",
+          "published": "2026-10-24T09:04:24+00:00",
+          "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent. Popcorn Time was"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://feeds.feedburner.com/TheHackersNews": {
+          "items": 5,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.bleepingcomputer.com/feed/": {
+          "items": 1,
+          "status": "ok",
+          "secs": 0.2
+        },
+        "https://www.securityweek.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.3
+        },
+        "https://www.helpnetsecurity.com/feed/": {
+          "items": 1,
+          "status": "ok",
+          "secs": 0.5
+        },
+        "https://www.theregister.com/security/headlines.atom": {
+          "items": 1,
+          "status": "ok",
+          "secs": 0.8
+        },
+        "https://securityaffairs.com/feed": {
+          "items": 4,
+          "status": "ok",
+          "secs": 0.6
+        },
+        "https://cyberscoop.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.2
+        },
+        "https://www.csoonline.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (20 παλιά, 0 ήδη)",
+          "secs": 0.3
+        },
+        "https://isc.sans.edu/rssfeed_full.xml": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.4
+        },
+        "https://krebsonsecurity.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.2
+        },
+        "https://www.schneier.com/feed/atom/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.2
+        },
+        "https://therecord.media/feed": {
+          "items": 0,
+          "status": "κανένα νέο (5 παλιά, 0 ήδη)",
+          "secs": 0.2
+        },
+        "https://www.darkreading.com/rss.xml": {
+          "items": 0,
+          "status": "κανένα νέο (50 παλιά, 0 ήδη)",
+          "secs": 0.5
+        }
+      }
+    },
+    "tech": {
+      "items": [
+        {
+          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-24T11:50:28+00:00",
+          "summary": "A new model suggests Mars may host ice-forming physics never directly observed before."
+        },
+        {
+          "title": "Reg readers land on 'Binface' as name for UK space cleanup mission",
+          "url": "https://www.theregister.com/offbeat/2026/10/25/reg-readers-land-on-binface-as-name-for-uk-space-cleanup-mission/5305144",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-25T09:00:00+00:00",
+          "summary": "Intergalactic Space Warrior, or a bin in orbit?"
+        },
+        {
+          "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+          "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+          "source": "Ars Technica - All content",
+          "published": "2026-10-24T11:00:09+00:00",
+          "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny."
+        },
+        {
+          "title": "Raspberry Pi Desktop proves old PCs aren't past it",
+          "url": "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-24T11:30:00+00:00",
+          "summary": "Debian 13-based refresh runs comfortably on veteran ThinkPads, without making installation a hobby"
+        }
+      ],
+      "failed_feeds": [
+        "https://hnrss.org/frontpage?points=300 (URLError)"
+      ],
+      "feeds": {
+        "https://feeds.arstechnica.com/arstechnica/index": {
+          "items": 2,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.theregister.com/headlines.atom": {
+          "items": 2,
+          "status": "ok",
+          "secs": 0.6
+        },
+        "https://www.technologyreview.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.2
+        },
+        "https://hnrss.org/frontpage?points=300": {
+          "items": 0,
+          "status": "URLError",
+          "secs": 20.1
+        }
+      }
+    },
+    "greece": {
+      "items": [
+        {
+          "title": "Καιρός: Με βροχές η παρέλαση στην Αθήνα – Τι προβλέπεται για τη Θεσσαλονίκη",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/kairos-me-vroxes-i-parelasi-stin-athina-ti-provlepetai-gia-ti-thessaloniki/",
+          "source": "ertnews.gr",
+          "published": "2026-10-25T09:24:10+00:00",
+          "summary": "Με βροχές και καταιγίδες θα κυλήσουν οι επόμενες ημέρες σε αρκετές περιοχές της χώρας, ενώ άστατος αναμένεται ο καιρός και την Τρίτη 28 Οκτωβρίου, ανήμερα της εθνικής επετείου. Σύμφωνα με τον μετεωρολόγο του ΕΡΤnews, Γιώργο Εμμανουήλ, βροχές είναι πιθανό να σημειωθούν στην Αθήνα κατά τη διάρκεια των μαθητικών παρελάσεων, ενώ στη Θεσσαλονίκη η μεγάλη στρατιωτική ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Αλβανία: Επικοινωνιακή αντεπίθεση του Ράμα στα επεισόδια με… καρέκλες και τραπεζάκια",
+          "url": "https://www.kathimerini.gr/world/564546889/alvania-epikoinoniaki-antepithesi-toy-rama-sta-epeisodia-me-karekles-kai-trapezakia/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-25T09:03:46+00:00",
+          "summary": "Ο Εντι Ράμα αμύνεται στις δυναμικές διαμαρτυρίες των εξεγερμένων με την επικοινωνία και την καταστολή."
+        },
+        {
+          "title": "Λιόλιος: «Αποσύρομαι για να λειτουργήσει το μπάσκετ»",
+          "url": "https://www.tovima.gr/2026/10/25/sports/liolios-aposyromai-gia-na-leitourgisei-to-mpasket/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-25T08:00:06+00:00",
+          "summary": "Ραγδαίες εξελίξεις στην υπόθεση των στημένων αγώνων με τον Βαγγέλη Λιόλιο να αποχωρεί από την ΕΟΚ και το μπάσκετ."
+        },
+        {
+          "title": "Πάνος Καμμένος: Θα εμπλακώ στις εκλογές για να μπλοκάρω το κόμμα Σαμαρά – Μιλάω με Αλέξη Τσίπρα",
+          "url": "https://www.efsyn.gr/politiki/1496066/panos-kammenos-tha-emplako-stis-ekloges-gia-na-mplokaro-to-komma-samara-milao-me-alexi-tsipra/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-25T09:21:23+00:00",
+          "summary": "Ο Πάνος Καμμένος κατηγόρησε τον πρώην πρωθυπουργό ότι «τώρα ανακάλυψε ότι είναι ο μόνος που υπερασπίζεται την πατρίδα»."
+        },
+        {
+          "title": "Μπορεί ο Καναδάς να γίνει «συνδεδεμένο μέλος» της ΕΕ; «Δεν έχει σημασία η ταμπέλα, αλλά το περιεχόμενο»",
+          "url": "https://www.naftemporiki.gr/finance/world/2179690/mporei-o-kanadas-na-ginei-syndedemeno-melos-tis-ee-den-echei-simasia-i-tampela-alla-to-periechomeno/?utm_source=rss&utm_medium=rss&utm_campaign=mporei-o-kanadas-na-ginei-syndedemeno-melos-tis-ee-den-echei-simasia-i-tampela-alla-to-periechomeno",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-25T09:24:13+00:00",
+          "summary": "Πριν από πέντε εβδομάδες, στην ομιλία της για την Κατάσταση της Ένωσης, η Ούρσουλα φον ντερ Λάιεν (εκπλήσσοντας αρκετούς) πρότεινε στον Καναδά κάτι που δεν έχει προσφέρει ποτέ σε άλλη… Μπορεί ο Καναδάς να γίνει «συνδεδεμένο μέλος» της ΕΕ; «Δεν έχει σημασία η ταμπέλα, αλλά το περιεχόμενο» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Μετρό: Ποιοι σταθμοί θα κλείνουν στις 21:40, από σήμερα έως τις 29 Οκτωβρίου",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/metro-poioi-stathmoi-tha-kleinoun-stis-21-40-apo-simera-eos-tis-29-oktovriou/",
+          "source": "ertnews.gr",
+          "published": "2026-10-25T09:18:11+00:00",
+          "summary": "Από σήμερα Κυριακή 25 Οκτωβρίου έως και την Πέμπτη 29 Οκτωβρίου οι σταθμοί «Εθνική Άμυνα», «Χολαργός», «Νομισματοκοπείο», «Αγία Παρασκευή» και «Χαλάνδρι» θα κλείνουν στις 21:40 το βράδυ, δυόμιση ώρες νωρίτερα από την καθορισμένη λήξη κυκλοφορίας, λόγω των έργων αντικατάστασης σιδηροτροχιών στη Γραμμή 3 του Μετρό. Σε ανακοίνωσή της, η ΣΤΑΣΥ ενημερώνει το επιβατικό κοινό πως ... Περισσότερα…"
+        },
+        {
+          "title": "Βλέπουμε μόνο αυτό που θέλουμε να δούμε",
+          "url": "https://www.kathimerini.gr/politics/564546853/vlepoyme-mono-ayto-poy-theloyme-na-doyme/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-25T08:49:05+00:00",
+          "summary": "Η εικόνα που θα σχηματίσουμε επηρεάζεται καταλυτικά από τις ιδεολογικές μας πεποιθήσεις. Αυτό συμβαίνει τώρα και με τα γεγονότα στη Γαλλία."
+        },
+        {
+          "title": "Τι προτείνουν οι πρυτάνεις για εισακτέους, ΕΒΕ, εξεταστικό – «Αγκάθι» το ασφυκτικό πλαίσιο στα ΑΕΙ",
+          "url": "https://www.tovima.gr/2026/10/25/society/ti-proteinoun-oi-prytaneis-gia-eisakteous-eve-kai-eksetastiko-agkathi-to-asfyktiko-plaisio-sta-aei/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-25T07:41:55+00:00",
+          "summary": "Την ανάγκη για ουσιαστική ακαδημαϊκή, διοικητική και οικονομική αυτονομία θέτουν στο τραπέζι οι διοικήσεις των δημοσίων πανεπιστημίων ενόψει της 113ης Συνόδου Πρυτάνεων"
+        },
+        {
+          "title": "Στημένα στο μπάσκετ: Παραιτήθηκε από πρόεδρος της ΕΟΚ ο Βαγγέλης Λιόλιος – Απολογείται στην Ευελπίδων με Μαυραγάνη",
+          "url": "https://www.efsyn.gr/athlitismos/1496062/paraitithike-apo-proedros-tis-eok-o-vaggelis-liolios/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-25T09:01:13+00:00",
+          "summary": "Με γραπτή δήλωσή του, ο 59χρονος παράγοντας ανακοίνωσε ότι απέχει από κάθε δραστηριότητα που σχετίζεται με το άθλημα για όσο διάστημα βρίσκεται σε εξέλιξη η νομική διαδικασία."
+        },
+        {
+          "title": "Τίρανα: Νέα πορεία προγραμματίζουν οι φοιτητές, διάλογο ζητά ο Ράμα",
+          "url": "https://www.naftemporiki.gr/kosmos/2179701/tirana-nea-poreia-programmatizoyn-oi-foitites-dialogo-zita-o-rama/?utm_source=rss&utm_medium=rss&utm_campaign=tirana-nea-poreia-programmatizoyn-oi-foitites-dialogo-zita-o-rama",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-25T09:22:05+00:00",
+          "summary": "Μετά την επί 6 ώρες χαοτική κατάσταση βίας και συγκρούσεων στην καρδιά της αλβανικής πρωτεύουσας χθες, ο πρωθυπουργός Ράμα επέμεινε στον διάλογο, αγνοώντας το αίτημα των χιλιάδων εξεγερμένων φοιτητών που… Τίρανα: Νέα πορεία προγραμματίζουν οι φοιτητές, διάλογο ζητά ο Ράμα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Παύλος Μαρινάκης: Το καλώδιο Ελλάδας–Κύπρου θα προχωρήσει κανονικά – «Δεν ζητάμε άδεια από την Τουρκία»",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/paylos-marinakis-to-kalodio-elladas-kyprou-tha-proxorisei-kanonika-den-zitame-adeia-apo-tin-tourkia/",
+          "source": "ertnews.gr",
+          "published": "2026-10-25T09:07:53+00:00",
+          "summary": "Σαφές μήνυμα ότι η ηλεκτρική διασύνδεση Ελλάδας-Κύπρου θα προχωρήσει κανονικά και ότι η Αθήνα δεν πρόκειται να ζητήσει άδεια από την Τουρκία για την άσκηση των κυριαρχικών της δικαιωμάτων έστειλε ο κυβερνητικός εκπρόσωπος, Παύλος Μαρινάκης, στον απόηχο της έγκρισης του τουρκολιβυκού μνημονίου από το κοινοβούλιο της Λιβύης. Σε συνέντευξή του στο mononews, ο κ. Μαρινάκης ... Περισσότερα…"
+        },
+        {
+          "title": "Κυριάκος Μητσοτάκης για ΑΟΖ: «Απέναντι στις αναθεωρητικές διεκδικήσεις απαντάμε με ισχυρές συμμαχίες»",
+          "url": "https://www.kathimerini.gr/politics/564546874/kyriakos-mitsotakis-gia-aoz-apenanti-stis-anatheoritikes-diekdikiseis-apantame-me-ischyres-symmachies/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-25T08:35:56+00:00",
+          "summary": "Στη συμφωνία για τη Μονή της Αγίας Αικατερίνης του Σινά και στην επανεκκίνηση των διαπραγματεύσεων Ελλάδας-Αιγύπτου για την οριοθέτηση του εναπομείναντος τμήματος της ΑΟΖ εστιάζει ο Κυριάκος Μητσοτάκης στην εβδομαδιαία ανάρτησή του."
+        },
+        {
+          "title": "Φώφη Γεννηματά: Σημασία έχει να θυμόμαστε πώς έζησε",
+          "url": "https://www.tovima.gr/2026/10/25/opinions/fofi-gennimata-simasia-exei-na-thymomaste-pos-ezise/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-25T07:31:29+00:00",
+          "summary": "Η μνήμη της δεν είναι μόνο όμορφες αναμνήσεις και στιγμές συγκίνησης. Είναι και μια διαρκής υπενθύμιση της ευθύνης μας να κρατήσουμε ζωντανές τις αξίες για τις οποίες αγωνίστηκε."
+        },
+        {
+          "title": "Φρεγάτα «Κίμων»: Ο κυβερνήτης αποκαλύπτει πώς οι Belharra αλλάζουν τις επιχειρησιακές δυνατότητες του Πολεμικού Ναυτικού",
+          "url": "https://www.efsyn.gr/ellada/1496055/fregata-kimon-o-kyvernitis-apokalyptei-pos-oi-belharra-allazoyn-tis-epiheirisiakes-dynatotites-toy-polemikoy-naytikoy/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-25T08:58:27+00:00",
+          "summary": "Η φρεγάτα «Κίμων» ενισχύει σημαντικά τις στρατηγικές δυνατότητες του Πολεμικού Ναυτικού, με την παραλαβή της δεύτερης φρεγάτας FDI προγραμματισμένη για τις 30 Οκτωβρίου."
+        },
+        {
+          "title": "EFA GROUP: Εγκαίνια του Κτηρίου Delta στο Alexandria Tech Campus",
+          "url": "https://www.naftemporiki.gr/business/2179695/efa-group-egkainia-toy-ktirioy-delta-sto-alexandria-tech-campus/?utm_source=rss&utm_medium=rss&utm_campaign=efa-group-egkainia-toy-ktirioy-delta-sto-alexandria-tech-campus",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-25T09:16:36+00:00",
+          "summary": "Ένα νέο κόμβο Τεχνητής Νοημοσύνης, καινοτομίας και επιχειρηματικότητας δημιούργησε ο αμυντικός όμιλος τεχνολογιών διττής χρήσης EFA Group. Πρόκειται για το Κτήριο Delta, τη νέα εγκατάσταση του Alexandria Tech Campus στο… EFA GROUP: Εγκαίνια του Κτηρίου Delta στο Alexandria Tech Campus - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Θεσσαλονίκη: Έξι συλλήψεις για ναρκωτικά, κλοπή και παραβάσεις του ΚΟΚ",
+          "url": "https://www.ertnews.gr/roi-idiseon/thessaloniki-eksi-syllipseis-gia-narkotika-klopi-kai-paravaseis-tou-kok/",
+          "source": "ertnews.gr",
+          "published": "2026-10-25T09:07:12+00:00",
+          "summary": "Σε έξι συλλήψεις για διαφορετικά αδικήματα προχώρησαν αστυνομικοί στη Θεσσαλονίκη, στο πλαίσιο ελέγχων και περιπολιών που πραγματοποιήθηκαν το Σάββατο (24/10) και τις πρώτες πρωινές ώρες της Κυριακής (25/10). Ειδικότερα, στους Αμπελόκηπους συνελήφθη νεραός 21 ετών για διευκόλυνση διαμονής πολίτη τρίτης χώρας. Κατά τη διάρκεια ελέγχου σε διαμέρισμα εντοπίστηκαν εννέα αλλοδαποί, εκ των οποίων ο…"
+        },
+        {
+          "title": "Συνελήφθη υπεύθυνη μπαρ που σέρβιρε αλκοόλ σε ανήλικους στα Μελίσσια",
+          "url": "https://www.kathimerini.gr/society/564546865/synelifthi-ypeythyni-mpar-poy-servire-alkool-se-anilikoys-sta-melissia/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-25T08:28:09+00:00",
+          "summary": "Στο μαγαζί διοργανωνόταν «σχολικό φεστιβάλ» με τη συμμετοχή γνωστού τράπερ."
+        },
+        {
+          "title": "Βραζιλία: Στις κάλπες 160 εκατ. ψηφοφόροι – Αριστερή παρακαταθήκη ή δεξιό κύμα;",
+          "url": "https://www.tovima.gr/2026/10/25/world/vrazilia-stis-kalpes-160-ekat-psifoforoi-aristeri-parakatathiki-i-deksio-kyma/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-25T07:22:46+00:00",
+          "summary": "Σε μια ιστορική εκλογική αναμέτρηση που κρίνει τον γεωπολιτικό προσανατολισμό ολόκληρης της Λατινικής Αμερικής, οι Βραζιλιάνοι αποφασίζουν σήμερα αν θα δώσουν μια τέταρτη θητεία στον Λούλα ή στον Φλάβιου Μπολσονάρο"
+        },
+        {
+          "title": "Μητσοτάκης: Ξεκινούν οι συνομιλίες με Αίγυπτο για την υπόλοιπη ΑΟΖ – «Μεγάλα ψάρια» σε Pizza Fan και σκάνδαλο μπάσκετ",
+          "url": "https://www.efsyn.gr/politiki/1496052/mitsotakis-gia-sina-antimetopizetai-mia-thesmiki-ekkremotita-1-500-eton-ti-anefere-gia-aoz-kai-skandalo-mpasket/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-25T08:43:19+00:00",
+          "summary": "Παράλληλα, ο Μητσοτάκης άσκησε κριτική στο ΠΑΣΟΚ για τη στάση του στο ηλικιακό όριο πρόσβασης των ανηλίκων στα social media."
+        },
+        {
+          "title": "Superbet: Πρόγραμμα εταιρικής υπευθυνότητας «Όλοι Super»",
+          "url": "https://www.naftemporiki.gr/business/2179691/superbet-programma-etairikis-ypeythynotitas-oloi-super/?utm_source=rss&utm_medium=rss&utm_campaign=superbet-programma-etairikis-ypeythynotitas-oloi-super",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-25T09:03:56+00:00",
+          "summary": "Στην έμπρακτη προσφορά προς το κοινωνικό σύνολο εστιάζει το πρόγραμμα Εταιρικής Υπευθυνότητας «Όλοι Super» της Superbet και περιλαμβάνει δράσεις που έχουν αποτύπωμα τόσο σε πανελλαδικό επίπεδο, όσο και ειδικά στις… Superbet: Πρόγραμμα εταιρικής υπευθυνότητας «Όλοι Super» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Νομική σύμβουλος της ΚΑΕ Παναθηναϊκός στο ΕΡΤnews: «Αδύνατον τα συγκεκριμένα πρόσωπα να συνεχίσουν να ορίζουν διαιτητές»",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/nomiki-symvoulos-tis-kae-panathinaikos-sto-ertnews-adynaton-ta-sygkekrimena-prosopa-na-synexisoun-na-orizoun-diaitites/",
+          "source": "ertnews.gr",
+          "published": "2026-10-25T09:04:19+00:00",
+          "summary": "Την ανάγκη αλλαγών στη διοίκηση του ελληνικού μπάσκετ, όσο βρίσκεται σε εξέλιξη η δικαστική έρευνα για καταγγελίες περί δωροδοκίας και χειραγώγησης αγώνων, υπογράμμισε η νομική σύμβουλος της ΚΑΕ Παναθηναϊκός, Μαργαρίτα Θάνου, μιλώντας στο ΕΡΤnews. Η κα Θάνου διευκρίνισε ότι δεν έχει ακόμη πλήρη εικόνα της δικογραφίας, καθώς, όπως είπε, δεν έχει παραστεί στη διαδικασία. «Όλα ... Περισσότερα…"
+        },
+        {
+          "title": "Ηβη Στάγκαλη: Η Ελληνίδα που εικονογράφησε την τουρκική Ιλιάδα",
+          "url": "https://www.kathimerini.gr/opinion/interviews/564537496/ivi-stagkali-i-ellinida-poy-eikonografise-tin-toyrkiki-iliada/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-25T08:11:18+00:00",
+          "summary": "Είχε ενεργή παρουσία στην καλλιτεχνική ζωή της Κωνσταντινούπολης, ώσπου απελάθηκε το 1964. Δεκάδες πίνακές της στάλθηκαν στην Αθήνα, αλλά δεν έφτασαν ποτέ. Η κόρη της και οι άνθρωποι που αναδεικνύουν σήμερα το έργο της μιλούν στην «Κ»."
+        },
+        {
+          "title": "Μαστογραφία: Όταν η έγκαιρη διάγνωση του καρκίνου του μαστού έγινε «επανάσταση»",
+          "url": "https://www.tovima.gr/2026/10/25/istoriko-arxeio/mastografia-otan-i-egkairi-diagnosi-tou-karkinou-tou-mastou-egine-epanastasi/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-25T07:00:44+00:00",
+          "summary": "Πώς η μαστογραφία καθιερώθηκε ως μέθοδος έγκαιρης διάγνωσης του καρκίνου του μαστού - Οι πρώτες επιστημονικές ανακοινώσεις, οι προβληματισμοί για την ασφάλειά της και η ανάγκη συστηματικού ελέγχου"
+        },
+        {
+          "title": "Στημένα παιχνίδια στο μπάσκετ: Στην Ευελπίδων Λιόλιος και Μαυραγάνης – Ξεκινούν οι απολογίες τους [βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1496041/stimena-paihnidia-sto-mpasket-stin-eyelpidon-liolios-kai-mayraganis-xekinoyn-oi-apologies-toys-vinteo/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-25T08:23:19+00:00",
+          "summary": "Οι απολογίες των δύο κατηγορουμένων εντάσσονται στη δικαστική διερεύνηση της υπόθεσης, ενώ τη Δευτέρα 26 Οκτωβρίου αναμένεται να ακολουθήσουν εκείνες της Βάσως Τσαρούχα, του Ηλία Κορομηλά και του Τάσου Πηλοΐδη."
+        },
+        {
+          "title": "Μέλισσια: Σύλληψη υπεύθυνης μπαρ για κατανάλωση αλκοόλ από ανήλικους",
+          "url": "https://www.naftemporiki.gr/society/2179687/melissia-syllipsi-ypeythynis-mpar-gia-katanalosi-alkool-apo-anilikoys/?utm_source=rss&utm_medium=rss&utm_campaign=melissia-syllipsi-ypeythynis-mpar-gia-katanalosi-alkool-apo-anilikoys",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-25T08:48:49+00:00",
+          "summary": "Μία υπεύθυνη μπαρ στην περιοχή των Μελισσίων συνελήφθη σε αστυνομικό έλεγχο, καθώς διαπιστώθηκε πως το κατάστημα στη διάρκεια σχολικού πάρτι σέρβιρε αλκοόλ σε τρεις ανήλικους. Ειδικότερα, αστυνομικοί του Τμήματος Δίωξης… Μέλισσια: Σύλληψη υπεύθυνης μπαρ για κατανάλωση αλκοόλ από ανήλικους - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Θεσσαλονίκη: Ορκίστηκαν οι πρωτοετείς σπουδαστές της Στρατιωτικής Σχολής Αξιωματικών Σωμάτων",
+          "url": "https://www.ertnews.gr/eidiseis/thessaloniki-orkistikan-oi-protoeteis-spoudastes-tis-stratiotikis-sxolis-aksiomatikon-somaton/",
+          "source": "ertnews.gr",
+          "published": "2026-10-25T08:52:30+00:00",
+          "summary": "Η τελετή ορκωμοσίας των πρωτοετών σπουδαστών και σπουδαστριών της Στρατιωτικής Σχολής Αξιωματικών Σωμάτων (ΣΣΑΣ) πραγματοποιήθηκε την Παρασκευή 23 Οκτωβρίου 2026, στη Θεσσαλονίκη. Στην εκδήλωση παρέστη ο Αρχηγός του Γενικού Επιτελείου Ναυτικού, Αντιναύαρχος Δημήτριος – Ελευθέριος Κατάρας, εκπροσωπώντας τον Αρχηγό ΓΕΕΘΑ, Στρατηγό Δημήτριο Χούπη. Η τελετή έλαβε χώρα στις εγκαταστάσεις της Σχολής…"
+        },
+        {
+          "title": "90 Χρόνια πριν… 25-10-1936",
+          "url": "https://www.kathimerini.gr/istoria/564544075/90-chronia-prin-25-10-1936/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-25T08:01:00+00:00",
+          "summary": "Σήμερον θα αρχίσωμεν εκθέτοντες τας οδηγίας εκείνας, αι οποίαι χρησιμεύουν διά την οργάνωσιν της αυτοπροστασίας κάθε πολίτου και κάθε οικογενείας, και η οποία καθώς είπαμεν αποτελεί την βάσιν της παθητικής αεραμύνης."
+        },
+        {
+          "title": "«Ο καρκίνος του μαστού μού χτύπησε την πόρτα και είπε “κοίτα τον εαυτό σου”»",
+          "url": "https://www.tovima.gr/2026/10/25/society/o-karkinos-tou-mastou-mou-xtypise-tin-porta-kai-eipe-koita-ton-eayto-sou/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-25T06:57:48+00:00",
+          "summary": "Η Όλγα Μπερτσά νόσησε από καρκίνο του μαστού το 2016, αφού είχε προηγηθεί η διάγνωση μελανώματος. Μιλά στο ΒΗΜΑ για τις θεραπείες, τις αλλαγές στο σώμα της, τον φόβο των εξετάσεων και όσα έμαθε για τον εαυτό της με τον δύσκολο τρόπο."
+        },
+        {
+          "title": "Κάθετος Διάδρομος: Το αμερικανικό LNG, τα επιχειρηματικά κέρδη και τα μεγάλα ρίσκα για την Ελλάδα",
+          "url": "https://www.efsyn.gr/oikonomia/1495684/kathetos-diadromos-to-amerikaniko-lng-ta-epiheirimatika-kerdi-kai-ta-megala-riska-gia-tin-ellada/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-25T08:17:56+00:00",
+          "summary": "Το κόστος, η ζήτηση και ο ανταγωνισμός θα κρίνουν τη βιωσιμότητα του εγχειρήματος αλλαγής προμηθευτή φυσικού αερίου για την ανατολική Ευρώπη"
+        },
+        {
+          "title": "Εξάρχεια: Σκηνικό έντασης τα ξημερώματα – Συλλήψεις",
+          "url": "https://www.naftemporiki.gr/society/2179686/exarcheia-skiniko-entasis-ta-ximeromata-syllipseis/?utm_source=rss&utm_medium=rss&utm_campaign=exarcheia-skiniko-entasis-ta-ximeromata-syllipseis",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-25T08:45:14+00:00",
+          "summary": "Επεισόδια έλαβαν χώρα στις 2 τα ξημερώματα στην περιοχή των Εξαρχείων, όπου περίπου 10 άτομα έβαλαν φωτιά σε δύο κάδους στη συμβολή των οδών Μπενάκη και Κωλέττη. Επιτόπου έφτασαν πυροσβεστικές… Εξάρχεια: Σκηνικό έντασης τα ξημερώματα – Συλλήψεις - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "ΕΟΚ: Βρισκόμαστε σε κατάσταση εγρήγορσης – Αναλόγως των εξελίξεων, θα προχωρήσουμε άμεσα στις ανάλογες θεσμικές ενέργειες",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/eok-vriskomaste-se-katastasi-egrigorsis-analogos-ton-ekselikseon-tha-proxorisoume-amesa-stis-analoges-thesmikes-energeies/",
+          "source": "ertnews.gr",
+          "published": "2026-10-25T08:52:03+00:00",
+          "summary": "Ανακοίνωση σχετικά με την υπόθεση χειραγώγησης αγώνων στο ελληνικό μπάσκετ, εξέδωσε η Ελληνική Ομοσπονδία Καλαθοσφαίριση (ΕΟΚ), ο πρόεδρος της οποίας, Βαγγέλης Λιόλιος απολογείται σήμερα, Κυριακή (25/10). Στην ανακοίνωση, η έκδοση της οποίας πραγματοποιήθηκε έπειτα από έκτακτη συνεδρίαση του διοικητικού συμβούλιου της ΕΟΚ τονίζεται ότι η Ομοσπονδία βρίσκεται «σε κατάσταση απόλυτης και συνεχούς…"
+        },
+        {
+          "title": "Χοιρινό με πορτοκάλι",
+          "url": "https://www.kathimerini.gr/k/gastronomos/564544192/choirino-me-portokali/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-25T08:00:00+00:00",
+          "summary": "Το πορτοκάλι ταιριάζει γάντι στο χοιρινό: η γλύκα, η οξύτητα και το άρωμά του ισορροπούν τη λιπαρότητα του κρέατος και προσθέτουν νοστιμιά σε κάθε μπουκιά."
+        },
+        {
+          "title": "Κατερίνα Χοτζόγλου: «Οι γυναίκες έχουν κάθε δικαίωμα να κλάψουν, να λυγίσουν, να απογοητευτούν»",
+          "url": "https://www.tovima.gr/grace/prosopa/i-katerina-chotzoglou-gia-ti-zoi-meta-ton-karkino-tou-mastou-oi-gynaikes-echoun-kathe-dikaioma-na-klapsoun-na-lygisoun-na-apogoiteftoun/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-25T06:57:40+00:00",
+          "summary": "Ως σχεσιακή αναλυτική ψυχοθεραπεύτρια αλλά και μέσα από την προσωπική της εμπειρία με την ασθένεια, η Κατερίνα Χοτζόγλου προσεγγίζει τη ζωή μετά τον καρκίνο του μαστού χωρίς φίλτρα."
+        },
+        {
+          "title": "Γαλλία: Πώς η Ακροδεξιά εργαλειοποιεί τις ταραχές και στοχοποιεί τους μετανάστες χωρίς αποδείξεις",
+          "url": "https://www.efsyn.gr/themata/1495675/gallia-pos-i-akrodexia-ergaleiopoiei-tis-tarahes-kai-stohopoiei-toys-metanastes-horis-apodeixeis/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-25T08:15:28+00:00",
+          "summary": "Συντονισμένη επιχείρηση από τον υπερσυντηρητικό χώρο στα μέσα κοινωνικής δικτύωσης παρουσίασε τα βίαια επεισόδια ως προερχόμενα από μετανάστες, ενισχύοντας το αφήγημα της «απειλής για την ευρωπαϊκή ταυτότητα»"
+        },
+        {
+          "title": "Κρίσιμη αναμέτρηση στη Σερβία: Στις κάλπες 6,5 εκατ. ψηφοφόροι",
+          "url": "https://www.naftemporiki.gr/kosmos/2179683/krisimi-anametrisi-sti-servia-stis-kalpes-65-ekat-psifoforoi/?utm_source=rss&utm_medium=rss&utm_campaign=krisimi-anametrisi-sti-servia-stis-kalpes-65-ekat-psifoforoi",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-25T08:35:54+00:00",
+          "summary": "Άνοιξαν στις 07:00 η ώρα το πρωί (08:00 ώρα Ελλάδας) οι κάλπες στη Σερβία για τις κρίσιμες βουλευτικές εκλογές. Σε 8392 εκλογικά τμήματα καλούνται να ψηφίσουν 6.451.292 πολίτες με δικαίωμα… Κρίσιμη αναμέτρηση στη Σερβία: Στις κάλπες 6,5 εκατ. ψηφοφόροι - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Πάνος Καμμένος στο ΕΡΤnews: Θα εμπλακώ στις εκλογές για να μπλοκάρω το κόμμα Σαμαρά – Μιλάω με τον Αλέξη Τσίπρα",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/panos-kammenos-sto-ertnews-tha-emplako-stis-ekloges-gia-na-mplokaro-to-komma-samara-milao-me-ton-aleksi-tsipra/",
+          "source": "ertnews.gr",
+          "published": "2026-10-25T08:35:47+00:00",
+          "summary": "Την επάνοδό του στην ενεργό πολιτική εφόσον ο πρώην πρωθυπουργός, Αντώνης Σαμαράς δημιουργήσει κόμμα, προανήγγειλε ο πρώην υπουργός Άμυνας και πρόεδρος των ΑΝΕΛ, Πάνος Καμμένος μιλώντας στο ΕΡΤnews και στην εκπομπή «Σαββατοκύριακο από τις 5». Ο κ. Καμμένος κατηγόρησε τον Αντώνη Σαμαρά ότι «τώρα ανακάλυψε ότι είναι ο μόνος που υπερασπίζεται την πατρίδα» και υποστήριξε ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Μικρασιάτες στην Αμερική: Οι ζωές πίσω από τα αρχεία της νήσου Ελις",
+          "url": "https://www.kathimerini.gr/visual/564522742/mikrasiates-stin-ameriki-oi-zoes-piso-apo-ta-archeia-tis-nisoy-elis/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-25T07:50:38+00:00",
+          "summary": "Ηχητικές μαρτυρίες, οικογενειακές φωτογραφίες και κλειδιά σπιτιών που οι πρόσφυγες πήραν μαζί τους ελπίζοντας να επιστρέψουν. Μέσα από ένα πολύτιμο ψηφιακό αρχείο, ο Γιώργος Τοπαλίδης φωτίζει τις προσωπικές ιστορίες των Ελλήνων της Οθωμανικής Αυτοκρατορίας που μετανάστευσαν στην Αμερική."
+        },
+        {
+          "title": "Η Γεννηματά πίσω από τη Φώφη",
+          "url": "https://www.tovima.gr/2026/10/25/opinions/i-gennimata-piso-apo-ti-fofi/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-25T06:35:13+00:00",
+          "summary": "Η πολιτικός που δεν πρέπει να μείνει στη σκιά της ανθρώπινης ιστορίας της."
+        },
+        {
+          "title": "Επιμένει στην αποπομπή Γεραπετρίτη ο Σαμαράς: «Δεν αξίζει στη χώρα η πολιτική των υποκλίσεων»",
+          "url": "https://www.efsyn.gr/politiki/1496038/epimenei-stin-apopompi-gerapetriti-o-samaras-den-axizei-sti-hora-i-politiki-ton-ypokliseon/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-25T08:09:30+00:00",
+          "summary": "Με άρθρο του στην Εστία ο πρώην πρωθυπουργός εξαπολύει μύδρους κατά Μητσοτάκη - Γεραπετρίτη με αφορμή το τουρκολυβικό μνημόνιο και το καλώδιο με την Κύπρο."
+        },
+        {
+          "title": "Ερευνητές επαναπρογραμμάτισαν κύτταρα του ανοσοποιητικού για να καταστρέφουν τον καρκίνο",
+          "url": "https://www.naftemporiki.gr/techscience/2179675/ereynites-epanaprogrammatisan-kyttara-toy-anosopoiitikoy-gia-na-katastrefoyn-ton-karkino/?utm_source=rss&utm_medium=rss&utm_campaign=ereynites-epanaprogrammatisan-kyttara-toy-anosopoiitikoy-gia-na-katastrefoyn-ton-karkino",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-25T08:34:50+00:00",
+          "summary": "Επιστήμονες του Ινστιτούτου Τεχνολογίας της Μασαχουσέτης κατάφεραν να επαναπρογραμματίσουν τα αποκαλούμενα κύτταρα «δολοφόνους» (NK) μέσα σε ποντίκια και εξάλειψαν όγκους λεμφώματος ενώ συνέβαλαν στην αποκατάσταση κατεστραμμένου ήπατος. Επόμενο βήμα η… Ερευνητές επαναπρογραμμάτισαν κύτταρα του ανοσοποιητικού για να καταστρέφουν τον καρκίνο - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Θεσσαλονίκη: Συνελήφθη 35χρονος για ληστείες σε καταστήματα ψιλικών – Πάνω από 2.000 ευρώ η λεία",
+          "url": "https://www.ertnews.gr/roi-idiseon/thessaloniki-synelifthi-35xronos-gia-listeies-se-katastimata-psilikon-pano-apo-2-000-eyro-i-leia/",
+          "source": "ertnews.gr",
+          "published": "2026-10-25T08:28:47+00:00",
+          "summary": "Στη σύλληψη ενός 35χρονου, ο οποίος φέρεται να εμπλέκεται σε ληστείες καταστημάτων ψιλικών στο κέντρο της Θεσσαλονίκης, προχώρησαν χθες, Σάββατο (24/10), αστυνομικοί της Διεύθυνσης Δίωξης και Εξιχνίασης Εγκλημάτων Θεσσαλονίκης. Ειδικότερα, μεσημβρινές ώρες χθες (24-10-2026) στο κέντρο της πόλης ο 35χρονος εντοπίστηκε έπειτα από αναζητήσεις και συνελήφθη, καθώς σύμφωνα με την Αστυνομία, την…"
+        },
+        {
+          "title": "ΗΠΑ: Εντεκα τραυματίες σε ανταλλαγή πυρών κοντά σε πανεπιστήμιο στη Φλόριντα",
+          "url": "https://www.kathimerini.gr/world/564546844/ipa-enteka-traymaties-se-antallagi-pyron-konta-se-panepistimio-sti-florinta/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-25T07:42:49+00:00",
+          "summary": "Μεταξύ των θυμάτων βρίσκονται και έξι ανήλικοι."
+        },
+        {
+          "title": "Φώφη Γεννηματά: Έδειξε τι σημαίνει ήθος και εντιμότητα",
+          "url": "https://www.tovima.gr/2026/10/25/opinions/fofi-gennimata-ithos-orama-enotita/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-25T06:19:40+00:00",
+          "summary": "Σε μια εποχή αναξιοπιστίας και απαξίωσης, απέδειξε ότι η εντιμότητα είναι πολιτικά αποδοτική. Οτι μπορούμε να σταθούμε όρθιοι, χωρίς να έχουμε εξάρτηση από τα κάθε λογής συμφέροντα."
+        },
+        {
+          "title": "Ακρίβεια: 7 στους 10 Έλληνες δυσκολεύονται να βγάλουν τον μήνα – Πού κάνουν περικοπές",
+          "url": "https://www.efsyn.gr/oikonomia/1496011/akriveia-7-stoys-10-ellines-dyskoleyontai-na-vgaloyn-ton-mina-poy-kanoyn-perikopes/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-25T08:08:40+00:00",
+          "summary": "Μόλις το 7% των καταναλωτών δήλωσε πως δεν έχει μειώσει καμία κατηγορία δαπάνης το τελευταίο εξάμηνο."
+        },
+        {
+          "title": "Μητσοτάκης: Απέναντι σε αναθεωρητικές διεκδικήσεις γειτόνων απαντάμε με ισχυρές συμμαχίες",
+          "url": "https://www.naftemporiki.gr/politics/2179682/mitsotakis-apenanti-se-anatheoritikes-diekdikiseis-geitonon-apantame-me-ischyres-symmachies-ston-araviko-kosmo/?utm_source=rss&utm_medium=rss&utm_campaign=mitsotakis-apenanti-se-anatheoritikes-diekdikiseis-geitonon-apantame-me-ischyres-symmachies-ston-araviko-kosmo",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-25T08:17:11+00:00",
+          "summary": "«Οι δύο εξελίξεις επιβεβαιώνουν το βάθος μιας σχέσης εμπιστοσύνης, με απτά αποτελέσματα για τη χώρα μας. Απέναντι σε αναθεωρητικές διεκδικήσεις γειτόνων μας που στερούνται ερείσματος στο διεθνές δίκαιο, απαντάμε με… Μητσοτάκης: Απέναντι σε αναθεωρητικές διεκδικήσεις γειτόνων απαντάμε με ισχυρές συμμαχίες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Basketgate: Στην Ευελπίδων Λιόλιος και Μαυραγάνης για να απολογηθούν – Σε συνεχείς συνεδριάσεις η ΕΟΚ",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/basketgate-stin-eyelpidon-liolios-kai-mayraganis-gia-na-apologithoun-se-synexeis-synedriaseis-i-eok/",
+          "source": "ertnews.gr",
+          "published": "2026-10-25T08:26:03+00:00",
+          "summary": "Στην Ευελπίδων μεταφέρθηκαν για να απολογηθούν σχετικά με την υπόθεση χειραγώγησης αγώνων στο ελληνικό μπάσκετ, ο πρόεδρος της Ελληνικής Ομοσπονδίας Καλαθοσφαίρισης (ΕΟΚ), Βαγγέλης Λιόλιος και ο στενός του συνεργάτης Γιώργος Μαυραγάνης, που κρατούνται προσωρινά στη ΓΑΔΑ. Ο Βαγγέλης Λιόλιος, αρνείται τις κατηγορίες περί δωροδοκίας και στημένων αγώνων και υπέβαλε αίτημα μέσω του δικηγόρου του να…"
+        },
+        {
+          "title": "Ενταση και επεισόδια στα Εξάρχεια – Δύο συλλήψεις",
+          "url": "https://www.kathimerini.gr/society/564546838/entasi-kai-epeisodia-sta-exarcheia-dyo-syllipseis/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-25T07:34:22+00:00",
+          "summary": "Επεισόδια σημειώθηκαν περίπου στις 2 τα ξημερώματα στην περιοχή των Εξαρχείων όταν περίπου 10 άτομα έβαλαν φωτιά σε δύο κάδους στη συμβολή των οδών Μπενάκη και Κωλέττη."
+        },
+        {
+          "title": "Σερβία: Η ώρα της κάλπης – Στα χαρακώματα Βούτσιτς και «Φοιτητική Λίστα»",
+          "url": "https://www.tovima.gr/2026/10/25/world/servia-i-ora-tis-kalpis-sta-xarakomata-voutsits-kai-foititiki-lista/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-25T06:09:33+00:00",
+          "summary": "Με 6,4 εκατομμύρια ψηφοφόρους να καλούνται στις κάλπες η Σερβία διεξάγει κρίσιμες βουλευτικές εκλογές σε περιβάλλον οξείας πόλωσης, με τη «Φοιτητική Λίστα» να απειλεί την πολιτική κυριαρχία του Αλεξάνταρ Βούτσιτς."
+        },
+        {
+          "title": "Πυροβολισμοί στη Φλόριντα: Παιδιά ανάμεσα στους 12 τραυματίες, 11 ετών ο νεότερος",
+          "url": "https://www.efsyn.gr/kosmos/1496026/pyrovolismoi-sti-florinta-paidia-anamesa-stoys-12-traymaties-11-eton-o-neoteros/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-25T08:06:31+00:00",
+          "summary": "O καυγάς ξέσπασε κατά τη διάρκεια γιορτής και κλιμακώθηκε σε ανταλλαγή πυρών ανάμεσα σε δύο ή τρία πρόσωπα στ"
+        },
+        {
+          "title": "Πόλεμος στην Ουκρανία: Οι τρεις μεσολαβητές σε Πούτιν – Ζελένσκι, το άγνωστο πυρηνικό θρίλερ του 2022 και η χαμένη ευκαιρία για ειρήνη",
+          "url": "https://www.naftemporiki.gr/kosmos/2179666/polemos-stin-oykrania-oi-treis-mesolavites-se-poytin-zelenski-to-agnosto-pyriniko-thriler-toy-2022-kai-i-chameni-eykairia-gia-eirini/?utm_source=rss&utm_medium=rss&utm_campaign=polemos-stin-oykrania-oi-treis-mesolavites-se-poytin-zelenski-to-agnosto-pyriniko-thriler-toy-2022-kai-i-chameni-eykairia-gia-eirini",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-25T07:53:20+00:00",
+          "summary": "Ενας υπόγειος δίαυλος επικοινωνίας μεταξύ Λευκού Οίκου και Βλαντιμίρ Πούτιν, προσπάθησε το φθινόπωρο του 2022 να αποτρέψει τον κίνδυνο πυρηνικής εκτροπής του πολέμου στην Ουκρανία. Το άγνωστο παρασκήνιο φέρνει στο… Πόλεμος στην Ουκρανία: Οι τρεις μεσολαβητές σε Πούτιν – Ζελένσκι, το άγνωστο πυρηνικό θρίλερ του 2022 και η χαμένη ευκαιρία για ειρήνη - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Κ. Μητσοτάκης για συνομιλίες με Αίγυπτο περί ΑΟΖ και την ιστορική συμφωνία για τη Μονή Σινά – «Ισχυρές συμμαχίες απέναντι σε αναθεωρητικές διεκδικήσεις»",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/k-mitsotakis-gia-synomilies-me-aigypto-peri-aoz-kai-tin-istoriki-symfonia-gia-ti-moni-sina-isxyres-symmaxies-apenanti-se-anatheoritikes-diekdikiseis/",
+          "source": "ertnews.gr",
+          "published": "2026-10-25T08:17:13+00:00",
+          "summary": "Ως εξέλιξη «ιστορικής σημασίας» χαρακτήρισε οΚυριάκος Μητσοτάκης τη συμφωνία μεταξύ της Ιεράς Μονής Αγίας Αικατερίνης του Σινά και της Αιγύπτου, στην εβδομαδιαία ανασκόπησή του. Όπως ανέφερε, με ειδικό νομικά δεσμευτικό κείμενο κατοχυρώνονται ο θρησκευτικός χαρακτήρας και ο μοναστικός τρόπος ζωής της Μονής, καθώς και η αποκλειστική χρήση και κατοχή των χώρων λατρείας από την αδελφότητα, ...…"
+        },
+        {
+          "title": "Η Αγκυρα προωθεί το νομοσχέδιο για τη «Γαλάζια Πατρίδα» – Στο Κοινοβούλιο έως το τέλος του έτους",
+          "url": "https://www.kathimerini.gr/politics/564546841/i-toyrkia-etoimazei-nomo-gia-ti-galazia-patrida/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-25T07:24:38+00:00",
+          "summary": "Σύμφωνα με το τηλεοπτικό δίκτυο Haberturk, η Τουρκία σχεδιάζει να θεσπίσει νομοθετικό πλαίσιο για όλες τις θάλασσες στις οποίες έχει ακτές, με επίκεντρο το Αιγαίο και την Ανατολική Μεσόγειο."
+        },
+        {
+          "title": "Γιορτάζουμε την Παγκόσμια Ημέρα Ζυμαρικών με τις καλύτερες μακαρονάδες της Αθήνας",
+          "url": "https://www.tovima.gr/2026/10/25/elliniki-kouzina/giortazoume-tin-pagkosmia-imera-zymarikon-me-tis-kalyteres-makaronades-tis-athinas/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-25T06:00:34+00:00",
+          "summary": "Κυριακή μεσημέρι, στο τραπέζι σερβίρεται η πιο απολαυστική μακαρονάδα. Ας τη φάμε όπως της αξίζει και ας γιορτάσουμε την Παγκόσμια Ημέρα Ζυμαρικών σε κάποιο από τα καλύτερα στέκια της πολης."
+        },
+        {
+          "title": "Μύδροι Ομπάμα κατά Τραμπ: «Δύο χρόνια χάους, διαφθοράς και ανικανότητας – Φτάνει πια» [βίντεο]",
+          "url": "https://www.efsyn.gr/kosmos/1496024/mydroi-ompama-kata-tramp-dyo-hronia-haoys-diafthoras-kai-anikanotitas-ftanei-pia-vinteo/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-25T07:55:42+00:00",
+          "summary": "Ο πρώην πρόεδρος Μπ. Ομπάμα παραμένει δημοφιλής στη βάση των Δημοκρατικών και ρίχνει το βάρος του για να στηρίξει τους υποψηφίους του κόμματος στις ενδιάμεσες εκλογές."
+        },
+        {
+          "title": "Πρωτοκαθεδρία της Κίνας στη ναυπηγική βιομηχανία",
+          "url": "https://www.naftemporiki.gr/maritime/2179677/protokathedria-tis-kinas-sti-naypigiki-viomichania/?utm_source=rss&utm_medium=rss&utm_campaign=protokathedria-tis-kinas-sti-naypigiki-viomichania",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-25T07:51:28+00:00",
+          "summary": "Την κυριαρχία τους στην παγκόσμια ναυπηγική βιομηχανία εδραιώνουν τα κινεζικά ναυπηγεία, τα οποία στο τελευταίο δωδεκάμηνο συγκέντρωναν το 64% του παγκόσμιου βιβλίου παραγγελιών, έναντι 19% της Νότιας Κορέας και μόλις… Πρωτοκαθεδρία της Κίνας στη ναυπηγική βιομηχανία - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Πυροβολισμοί κοντά σε πανεπιστήμιο στη Φλόριντα: 12 τραυματίες, ανάμεσά τους έξι ανήλικοι",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/pyrovolismoi-konta-se-panepistimio-sti-florinta-12-traymaties-anamesa-tous-eksi-anilikoi/",
+          "source": "ertnews.gr",
+          "published": "2026-10-25T08:11:34+00:00",
+          "summary": "Δώδεκα άνθρωποι τραυματίστηκαν από περιστατικό με πυροβολισμούς κοντά στην πανεπιστημιούπολη του Florida A&M University, στην Ταλαχάσι της Φλόριντα, το βράδυ του Σαββάτου. Οι έντεκα τραυματίστηκαν από σφαίρες και ένας ακόμη στην προσπάθειά του να διαφύγει, σύμφωνα με τις αρχές. Μεταξύ των τραυματιών είναι έξι ενήλικοι και έξι ανήλικοι. Τουλάχιστον τρεις από όσους χτυπήθηκαν από σφαίρες ...…"
+        },
+        {
+          "title": "Σερβία: Ανοιξαν οι κάλπες για τις κρίσιμες βουλευτικές εκλογές",
+          "url": "https://www.kathimerini.gr/world/564546829/servia-anoixan-oi-kalpes-gia-tis-krisimes-voyleytikes-ekloges/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-25T07:02:00+00:00",
+          "summary": "Σε 8392 εκλογικά τμήματα καλούνται να ψηφίσουν 6.451.292 πολίτες με δικαίωμα ψήφου."
+        },
+        {
+          "title": "Φώφη Γεννηματά: Η πολιτική του «νοιάζομαι»",
+          "url": "https://www.tovima.gr/2026/10/25/opinions/fofi-gennimata-i-politiki-tou-noiazomai/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-25T05:55:18+00:00",
+          "summary": "Θυμάμαι τις συζητήσεις στο σπίτι της, τους καφέδες που έφτιαχνε η ίδια, τα κεράσματα, τις κουβέντες για τα παιδιά μας. Mπορούσε να είναι αυστηρή και απαιτητική, αλλά παρέμενε προσιτή, ζεστή, ανθρώπινη."
+        },
+        {
+          "title": "Η διεθνής αμφισβήτηση του νεοφιλελευθερισμού",
+          "url": "https://www.efsyn.gr/stiles/1495662/i-diethnis-amfisvitisi-toy-neofileleytherismoy/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-25T07:45:26+00:00",
+          "summary": "Η νεοφιλελεύθερη πολιτική δεν περιορίζεται στη συμπίεση των μισθών και στην απορρύθμιση της εργασίας. Συρρικνώνει συστηματικά το πεδίο των δημόσιων αγαθών"
+        },
+        {
+          "title": "Χαλάνδρι: Χειροπέδες σε 78χρονο για κλοπές από σταθμευμένα οχήματα",
+          "url": "https://www.naftemporiki.gr/society/2179673/chalandri-cheiropedes-se-78chrono-gia-klopes-apo-stathmeymena-ochimata/?utm_source=rss&utm_medium=rss&utm_campaign=chalandri-cheiropedes-se-78chrono-gia-klopes-apo-stathmeymena-ochimata",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-25T07:35:30+00:00",
+          "summary": "Για διακεκριμένες κλοπές κατ’ εξακολούθηση και παράβαση του νόμου περί όπλων συνελήφθη 78χρονος στο Χαλάνδρι, μεσημβρινές ώρες της Πέμπτης, από αστυνομικούς του Τμήματος Δίωξης και Εξιχνίασης Εγκλημάτων Χαλανδρίου/Δ.Δ.Ε.Ε.Α./ΓΑΔΑ. Ειδικότερα, στο… Χαλάνδρι: Χειροπέδες σε 78χρονο για κλοπές από σταθμευμένα οχήματα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://www.ertnews.gr/feed/": {
+          "items": 35,
+          "status": "ok",
+          "secs": 0.7
+        },
+        "https://feeds.feedburner.com/kathimerini/DJpy": {
+          "items": 100,
+          "status": "ok",
+          "secs": 0.4
+        },
+        "https://www.tovima.gr/feed/": {
+          "items": 49,
+          "status": "ok",
+          "secs": 0.7
+        },
+        "https://www.efsyn.gr/feed.xml": {
+          "items": 84,
+          "status": "ok",
+          "secs": 1.0
+        },
+        "https://www.naftemporiki.gr/feed/": {
+          "items": 30,
+          "status": "ok",
+          "secs": 0.6
+        }
+      }
+    },
+    "bulgaria": {
+      "items": [
+        {
+          "title": "Избирателната активност в Бургаска област е 4,94% към 11:00 часа",
+          "url": "https://www.bta.bg/bg/news/1232153-izbiratelnata-aktivnost-v-burgaska-oblast-e-4-94-kam-11-00-chasa",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T09:22:48+00:00",
+          "summary": "Избирателната активност в Бургаска област е 4,94% към 11:00 часа, като правото си на глас са упражнили 17 967 души от общо 363 647 избиратели. Това показват данните на Районната избирателна комисия (РИК) – Бургас. Най-висока е активността в община Малко Търново, където са гласували 12,35% от избирателите. Следват общините Царево с 10,41% и Созопол с 8,41%. В община Приморско до урните са отишли…"
+        },
+        {
+          "title": "В Нова Зеландия гласуването вече приключи",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/10/25/4971086_v_nova_zelandiia_glasuvaneto_veche_prikljuchi/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T09:08:00+00:00",
+          "summary": "Навсякъде в Европа са открити изборните секции, до момента няма данни за проблеми в секционните избирателни комисии. Това каза постоянният секретар и председател на работна група \"Избори\" на Министерството на външните работи (МВнР) Ради Найденов на..."
+        },
+        {
+          "title": "Защо България все още няма летателна техника за гасене на пожари",
+          "url": "https://www.capital.bg/zelen-kapital/climate/2026/10/25/4971089_zashto_bulgariia_vse_oshte_niama_letatelna_tehnika_za/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-25T09:01:00+00:00",
+          "summary": "През втората половина на август 2026 г. сериозни горски пожари в непосредствена близост до границите на България - в Източна Сърбия и Северна Гърция, подложиха на изпитание готовността на нашите служби. Макар че пламъците не преминаха браздата, те нанесоха тежки екологични щети у нас: тежко задимяване затисна Софийска и Пернишка област, а българските лесовъди бяха принудени да дежурят денонощно…"
+        },
+        {
+          "title": "За какво гласуват част от кандидатите за президент (Обновява се)",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/za-kakvo-glasuvat-chast-ot-kandidatite-za-prezident-obnovyava-se/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-25T09:02:56+00:00",
+          "summary": "Радостин Василев: Гласувах за истината и за много дълго чакана промяна в България Гласувах за истината и за много дълго чакана промяна в България, която все не се случва, заяви кандидатът за президент и лидер на партия \"Морал, единство, чест\" (МЕЧ) Радостин Василев, след като упражни правото си на глас в 73-то СУ „Владислав Граматик“ в София, придружен от семейството си. Гласувах срещу…"
+        },
+        {
+          "title": "Three Suspects Arrested in Slavi Binev Killing, Third Businessman Murder in Bulgaria in 3 Months",
+          "url": "https://www.novinite.com/view_news.php?id=241233",
+          "source": "Novinite.com (Sofia News Agency)",
+          "published": "2026-10-24T12:01:22+00:00",
+          "summary": "Three men have been detained in connection with the fatal shooting of businessman and politician Slavi Binev at his home in Sofia’s Pavlovo district, with investigators suspecting an unresolved financial dispute rather than a contract killing, the Sofia Directorate of Internal Affairs (SDVR) said at a briefing. The SDVR and emergency medical services confirmed that a report about the shooting was…"
+        },
+        {
+          "title": "Световната федерация UWW узакони с официално писмо новоизбраното ръководство на БФ Борба",
+          "url": "https://www.bta.bg/bg/news/sport/1232157-svetovnata-federatsiya-uww-uzakoni-s-ofitsialno-pismo-novoizbranoto-rakovodstvo-",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T09:21:35+00:00",
+          "summary": "Карлос Рой, генералният секретар на Световната федерация по борба (UWW), узакони с официално писмо новоизбраното ръководство на родната централа с президент Тодор Ангелов. „UWW признава новоизбраните ръководни лица от извънредното изборно Общо събрание, проведено в съответствие с нашите правила и установена практика – обяви швейцарецът. - Информираме ви, че вече са нанесени промените в…"
+        },
+        {
+          "title": "Путин отново няма да произнесе годишна реч пред парламента",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/10/25/4971076_putin_otnovo_niama_da_proiznese_godishna_rech_pred/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T09:00:00+00:00",
+          "summary": "За пръв път Владимир Путин две години подред ще пропусне годишната си реч пред парламента. Посланието към Федералното събрание е записано в конституцията като задължение на държавния глава. Борис Елцин и Дмитрий Медведев не са го пропускали...."
+        },
+        {
+          "title": "Прокуратурата - на балотаж днес, няма избрани на първи тур за ВСС",
+          "url": "https://www.capital.bg/politika_i_ikonomika/pravo/2026/10/25/4970996_prokuraturata_-_na_balotaj_dnes_niama_izbrani_na_purvi/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-25T07:39:00+00:00",
+          "summary": "Нито един от 25-те номинирани прокурори не събра над 50% гласове на първия тур в събота за избор на членове на ВСС от професионалната квота Днес се провежда балотаж за 4 места във ВСС, който се очертава като непредсказуем Новото прокурорско сдружение, съставено от опоненти на порочните практики, успя да консолидира сериозен вот, но той може да се обърне заради административен натиск. Нито един от…"
+        },
+        {
+          "title": "FT: Черно море вече е най-опасният корабоплавателен маршрут в света",
+          "url": "https://www.mediapool.bg/svyat/ft-cherno-more-veche-e-nai-opasniyat-koraboplavatelen-marshrut-v-sveta/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-25T08:43:27+00:00",
+          "summary": "Eдин регион в света се е превърнал в най-опасното място за търговските моряци – и това не е Ормузкият проток. През тази година в Черно море са загинали повече моряци, отколкото във всеки друг воден басейн, надминавайки броя на жертвите в Персийския залив – район, който привлича много по-голямо световно внимание. Според корабособственици и организации на морските специалисти, Черно море – критично…"
+        },
+        {
+          "title": "Секционна избрателна комисия в Стара Загора не е снела данните на личната карта на 19 гласоподаватели",
+          "url": "https://www.bta.bg/bg/news/1232144-sektsionna-izbratelna-komisiya-v-stara-zagora-ne-e-snela-dannite-na-lichnata-kar",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T09:21:11+00:00",
+          "summary": "В 34-а избирателна секция в Стара Загора Секционната избирателна комисия не е снела в избирателните списъци данните от личните карти на 19 граждани, които са упражнили правото си на глас. Това съобщи председателят на Районната избирателна комисия (РИК) в област Стара Загора Яна Иванова. Тя допълни, че е извършена проверка и пропускът е бил отстранен, а на членовете на секционната комисия са…"
+        },
+        {
+          "title": "Радостин Василев гласувал срещу чуждопоклоничеството",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/10/25/4971079_radostin_vasilev_glasuval_sreshtu/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T08:54:00+00:00",
+          "summary": "Кандидатът за президент и лидер на партия МЕЧ Радостин Василев е гласувал за истината и за много дълго чакана промяна в България. Гласувах срещу покровителство на наркоразпространение и срещу чуждопоклоничество. Гласувах за българския..."
+        },
+        {
+          "title": "Videnie, което потапя посетителите в изкуството",
+          "url": "https://www.capital.bg/biznes/predpriemach/2026/10/25/4969157_videnie_koeto_potapia_posetitelite_v_izkustvoto/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-25T07:38:00+00:00",
+          "summary": "Предприемачите Михаил Илиев и Владислав Илиев създават специално място, което съчетава интерактивни инсталации, концерти и образователни събития. Пространството е с капацитет 100 - 120 души и се използва също за корпоративни събития и различни инициативи. Аудиторията е доста разнообразна, а около 40% от публиката са туристи. Нужда от собствено място за експерименти и срещи с публиката. Това стои…"
+        },
+        {
+          "title": "Андрей Гюров: Гласувах за България, която гледа напред, с мисъл за всички български граждани",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/andrei-gyurov-glasuvah-za-bulgaria-koyato-gleda-napred-s-misal-za-vsichki-balgarski-grazhdani/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-25T08:30:30+00:00",
+          "summary": "Кандидатът за президент Андрей Гюров гласува с машинна бюлетина в родния си град Благоевград. „Знам, че българите са смели, когато българските граждани поемат съдбата си в собствените си ръце, излизат и гласуват“, каза Гюров. Пред медиите той заяви, че е гласувал с „мисъл за бъдещето на децата ни“ и за „всички български граждани, които всеки ден отиват на работа, грижат се за семействата си,…"
+        },
+        {
+          "title": "Над 27 процента е избирателната активност към 11:00 часа на балотажа на местните избори за кмет на кметство в старозагорското село Яворово",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1232152-nad-27-protsenta-e-izbiratelnata-aktivnost-kam-11-00-chasa-na-balotazha-na-mestn",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T09:21:07+00:00",
+          "summary": "Над 27 процента е избирателната активност към 11:00 часа на балотажа на частични местни избори за кмет на кметство в старозагорското село Яворово. Това съобщават на сайта на Общинската избирателна комисия (ОИК). Подобна беше избирателната активност и миналата неделя. От имащите право на глас 292 жители на населеното място до момента до урната са отишли 80 души. До изборите се стигна след подадена…"
+        },
+        {
+          "title": "Мъск обясни ограниченията на Starlink в Украйна с нарушени условия за ползване",
+          "url": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/10/25/4971046_musk_obiasni_ogranicheniiata_na_starlink_v_ukraina_s/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T08:45:00+00:00",
+          "summary": "В събота Украйна заяви, че сателитната система Starlink и военната ѝ версия Starshield вече функционират пълноценно. За повече от седмица имаше ограничения, които възпрепятстваха военните операции и засилиха напрежението със САЩ. Часове..."
+        },
+        {
+          "title": "Петролът надхвърли 117 долара за първи път от април",
+          "url": "https://www.capital.bg/biznes/pazari/2026/10/25/4970969_petrolut_nadhvurli_117_dolara_za_purvi_put_ot_april/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-25T07:27:00+00:00",
+          "summary": "Цената на петрола надхвърли 117 долара за барел за първи път от април насам, което оказа натиск върху световните фондови пазари, които вече са засегнати от сериозната разпродажба на акциите на големите технологични компании на Уолстрийт. В петък сортът брент, който е международен бенчмарк за цената на петрола, поскъпна с над 3% и за кратко надхвърли 117 долара за барел по време на следобедната…"
+        },
+        {
+          "title": "Номерата на кандидатите за президентските избори",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/nomerata-na-kandidatite-za-prezidentskite-izbori/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-25T08:10:30+00:00",
+          "summary": "Общо 27 кандидат президентски двойки ще участват в изборите за президент и вицепрезидент на България на 25 октомври 2026 г. Централната избирателна комисия (ЦИК) определи чрез жребий поредността им в бюлетината. Само три от двойките са подкрепени от парламентарно представени политически сили…"
+        },
+        {
+          "title": "Баскетболният национал Йордан Минчев и Манреса отстъпиха пред Бургос в испанския шампионат",
+          "url": "https://www.bta.bg/bg/news/sport/1232150-basketbolniyat-natsional-yordan-minchev-i-manresa-otstapiha-pred-burgos-v-ispans",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T09:19:36+00:00",
+          "summary": "Националът Йордан Минчев реализира 4 точки и 3 борби за 15 минути на терена за своя испански тим Манреса, който отстъпи като домакин на Бургос с 81:99 в среща от петия кръг на местното баскетболно първенство при мъжете. Лошата серия на Манреса в шампионата продължи с тази пета поредна победа, като тимът все още няма победа. Сега за Минчев и съотборниците му предстои гостуване на българския Балкан…"
+        },
+        {
+          "title": "Малко избиратели са отишли до секциите",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/10/25/4971072_izbiratelnata_aktivnost_e_mnogo_niska/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T08:37:00+00:00",
+          "summary": "Избирателната активност е много ниска, отчитат социологическите агенции. По данни на \"Алфа Рисърч\" към 9 ч. едва 2.1% от имащите право на глас са отишли до урните. По данни на \"Маркет линкс\" към 8:30 ч. активността е 0.5%. По..."
+        },
+        {
+          "title": "\"Книжарница в куфар\": как културата се превръща в устойчив бизнес",
+          "url": "https://www.capital.bg/politika_i_ikonomika/gradove/2026/10/25/4946319_knijarnica_v_kufar_kak_kulturata_se_prevrushta_v/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-25T07:07:00+00:00",
+          "summary": "Надали сте си представяли, че цяла книжарница може да се побере в един куфар. Зад едноименната \"Книжарница в куфар\" в Стара Загора стои Райна Димитрова, която започва проекта като хоби. Книжарницата се появява на литературни срещи, филмови прожекции, концерти, фестивали и различни културни събития, а книгите са само една част от дейността. Самата Райна определя проекта по-скоро като мобилен…"
+        },
+        {
+          "title": "За какво гласуват днес политиците (Обновява се)",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/za-kakvo-glasuvat-dnes-polititsite-obnovyava-se/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-25T08:10:00+00:00",
+          "summary": "Лидерът на \"Да, България\" Ивайло Мирчев заяви, че е гласувал за България с ясна геополитическа ориентация към Европейския съюз и НАТО. Той посочи, че страната трябва да запази позициите си сред европейските партньори и да участва активно във вземането на стратегически решения. „Гласувах за президент, който няма да позволи страната да бъде поставена в изолация сред нашите европейски партньори…"
+        },
+        {
+          "title": "Недостатъчните средства са сред основните предизвикателства при организацията на изборите в община Трън",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1232140-nedostatachnite-sredstva-sa-sred-osnovnite-predizvikatelstva-pri-organizatsiyata",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T09:14:35+00:00",
+          "summary": "Финансирането, осигуряването на транспорт за членовете на секционните избирателни комисии и избирателите, както и проблемите с мобилното покритие са сред основните предизвикателства и при организацията на изборите за президент и вицепрезидент в община Трън. Това каза пред журналисти секретарят на общината Станислава Алексиева. За подготовката на вота в пограничната община от държавния бюджет са…"
+        },
+        {
+          "title": "Резултати от изборите за президент 2026 - ето как да следите през целия ден",
+          "url": "https://www.dnevnik.bg/izbori-2026/2026/10/25/4971066_rezultati_ot_izborite_za_prezident_2026_-_eto_kak_da/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T08:30:00+00:00",
+          "summary": "За над 82% от българските избиратели обявяването на предварителни данни за гласуването не влияе по никакъв начин върху решението дали да гласуват или не. Под 3% са тези, които могат да променят решението си кого да подкрепят. Данните са от..."
+        },
+        {
+          "title": "20 въпроса | Милко Лазаров, режисьор",
+          "url": "https://www.capital.bg/moiat_capital/lica/2026/10/25/4968214_20_vuprosa_milko_lazarov_rejisyor/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-25T06:58:00+00:00",
+          "summary": "Филмовият режисьор Милко Лазаров, който представи третия си филм - \"Стадото\", на миналогодишното издание на \"Киномания\", дебютира като театрален режисьор на сцената на Театрална работилница \"Сфумато\". Премиерата на пиесата \"Арабска нощ\" на популярния германски драматург Роланд Шимелпфенинг е предвидена за ноември. Според театралната критика текстовете на 59-годишния драматург са сериозно…"
+        },
+        {
+          "title": "ЦИК: Изборният ден започна нормално, 12 машини за гласуване са с технически проблеми",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/tsik-izborniyat-den-zapochna-normalno-12-mashini-za-glasuvane-sa-s-tehnicheski-problemi/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-25T07:31:31+00:00",
+          "summary": "Към момента изборният ден извън страната протича спокойно и нормално. Първи започнаха да гласуват сънародниците ни в Окланд, Нова Зеландия, а изборният процес зад граница ще приключи в 5:00 часа българско време в понеделник, 26 октомври, когато ще затворят последните секции в американските щати Калифорния и Невада. Това съобщи говорителят на ЦИК Стоянка Балова в първия брифинг за изборния ден,…"
+        },
+        {
+          "title": "Гласувах за свободна и независима България, за бъдеще, което сами за определяме, каза Костадин Костадинов",
+          "url": "https://www.bta.bg/bg/news/1232139-glasuvah-za-svobodna-i-nezavisima-balgariya-za-badeshte-koeto-sami-za-opredely",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T09:13:14+00:00",
+          "summary": "Гласувах за свободна и независима България, за бъдещето на нашата страна, което ние, българите, сами да определяме, каза кандидатът за президент и лидер на партия „Възраждане“ Костадин Костадинов, след като упражни правото си на глас в секция 313 в училище „Стоян Михайловски“ във Варна. Той изтъкна, че е гласувал „за български президент, а не за президент на българите“ и допълни, че е крайно…"
+        },
+        {
+          "title": "Андрей Гюров: Изборът е между две посоки и той е днес",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/10/25/4971058_andrei_gjurov_izborut_e_mejdu_dve_posoki_i_toi_e_dnes/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T08:29:00+00:00",
+          "summary": "Кандидатът за президент на България Андрей Гюров заяви след като гласува в Благоевград, че дал гласа си с мисъл за бъдещето на децата, за българските граждани, които всеки ден отиват на работа, грижат се за децата си и спазват правилата и въпреки..."
+        },
+        {
+          "title": "Започна първият тур на президентските избори при прогнози за балотаж",
+          "url": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/10/25/4970922_zapochna_purviiat_tur_na_prezidentskite_izbori_pri/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-25T06:00:00+00:00",
+          "summary": "В неделя се провежда първият тур на изборите за президент и вицепрезидент в България. В надпреварата участват общо 27 кандидатпрезидентски двойки, издигнати от 7 партии и 20 инициативни комитета. (Списък на кандидатите). Изборният ден обичайно започва спокойно. Началото му според Изборния кодекс е точно в 7:00 часа. Краят е 20 ч. вечерта. Ако в 20:00 ч. пред избирателната секция има граждани,…"
+        },
+        {
+          "title": "Добромир Живков: Ако президентският вот се превърне във вот на недоверие към управлението, можем да видим по-различен резултат",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/dobromir-zhivkov-ako-prezidentskiyat-vot-se-prevarne-vav-vot-na-nedoverie-kam-upravlenieto-mozhem-da-vidim-po-razlichen-rezult/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-25T07:08:12+00:00",
+          "summary": "Добромир Живков: Ако вотът днес се превърне във вот на недоверие към управлението, можем да видим доста по-различен резултат на изборите “Големият сюжет, който може да се случи на тези избори, ние още довечера ще го разберем, след 20:00 часа, е фактически дали президентският вот няма да се превърне във вот на недоверие към сегашното управление. Защото това ми е основната хипотеза. Ако натам се…"
+        },
+        {
+          "title": "Защитникът на Аугсбург Джума Ба е бил подложен на расистки обиди и заплахи за убийство в социалните мрежи",
+          "url": "https://www.bta.bg/bg/news/sport/1232113-zashtitnikat-na-augsburg-dzhuma-ba-e-bil-podlozhen-na-rasistki-obidi-i-zaplahi-z",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T09:10:20+00:00",
+          "summary": "Защитникът на Аугсбург Джума Ба е бил „подложен на изключително гнусни расистки обиди и заплахи за убийство“ в социалните мрежи, след като получи червен картон при равенството 1:1 срещу Унион Берлин в Бундеслигата, съобщиха от клуба в профила си в Instagram. Според Аугсбург е било заплашено и семейството на Ба. От германския отбор заявиха, че ще подадат сигнал в полицията и ще използват всички…"
+        },
+        {
+          "title": "Армения спечели \"Детската Евровизия\" с песента BOO!, а DARA беше гост на финала",
+          "url": "https://www.dnevnik.bg/razvlechenie/2026/10/25/4971055_armeniia_specheli_detskata_evroviziia_s_pesenta_boo_a/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T08:21:00+00:00",
+          "summary": "Армения спечели 24-тото издание на \"Детската Евровизия\" с песента BOO!, изпълнена от 13-годишната Наре. Преди това Армения е печелила конкурса през 2010 и 2021 г. Домакин на събитието, в което тази година се включиха изпълнители между 9..."
+        },
+        {
+          "title": "IКЕА ще инвестира 130 млн. евро в Румъния",
+          "url": "https://www.capital.bg/biznes/imoti/2026/10/25/4970435_ikea_shte_investira_130_mln_evro_v_rumuniia/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-25T05:53:00+00:00",
+          "summary": "Средствата ще отидат за нови обекти, обновяване на съществуващите магазини и по-ниски цени. Продажбите на веригата в северната съседка растат с 8.6% до малко над 300 млн. евро през 2025 г. при нетна печалба от едва около 1 млн. евро. В България шведската марка се управлява от гръцката Fourlis, чието местно дружество \"Хаус маркет България\" е с приходи от около 87 млн. евро през 2025 г. През…"
+        },
+        {
+          "title": "Виктория Ангелова стана първата българка, избрана за \"Изгряваща звезда на Европа\" в леката атлетика",
+          "url": "https://www.mediapool.bg/sport/viktoriya-angelova-stana-parvata-balgarka-izbrana-za-izgryavashta-zvezda-na-evropa-v-lekata-atletika/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-25T06:25:36+00:00",
+          "summary": "Виктория Ангелова записа нова златна страница в историята на българската лека атлетика! Само на 17 години световната и европейска шампионка на троен скок за девойки спечели престижното отличие „Изгряваща звезда на Европа“ за 2026 година. Наградата на Европейската атлетика беше връчена по време на традиционната церемония Golden Tracks в Лозана (Швейцария)…"
+        },
+        {
+          "title": "Иран заяви, че евентуално възобновяване на войната със САЩ не би променило политиката му",
+          "url": "https://www.bta.bg/bg/news/world/1232136-iran-zayavi-che-eventualno-vazobnovyavane-na-voynata-sas-sasht-ne-bi-promenilo-",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T09:03:10+00:00",
+          "summary": "Иранският външен министър Абас Арагчи заяви днес, че евентуалното подновяване на военните действия с Израел и САЩ няма да промени политиката на Техеран, предаде Франс прес. \"Напоследък се говори за нова война. Независимо дали ще има война, или не, нашата политика ще остане непроменена\", заяви Арагчи в реч, излъчена по държавната телевизия. Преди дни президентът на САЩ Доналд Тръмп намекна, че…"
+        },
+        {
+          "title": "Божанов гласува за президент-коректив на властта",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/10/25/4971063_bojanov_glasuva_za_prezident-korektiv_na_vlastta/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T08:18:00+00:00",
+          "summary": "Гласувах за президент, който ще бъде коректив на властта и няма да бъде безгласна буква, когато тя греши. Това каза съпредседателят на \"Да, България\" Божидар Божанов, който гласува във френската гимназия в София. Гласувах за президент,..."
+        },
+        {
+          "title": "Първи проблеми с машините в Бургас",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/parvi-problemi-s-mashinite-v-burgas/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-25T06:13:03+00:00",
+          "summary": "Появиха се и първите проблеми с машинното гласуване в Бургас. В 36-а секция една от машините вероятно ще бъде изведена от употреба заради неизправност в четеца. В момента се работи по отстраняването на технически проблеми и при още три устройства…"
+        },
+        {
+          "title": "Лекоатлетката Виктория Ангелова след отличието \"Изгряваща звезда на Европа\": \"Горда съм, че съм първата носителка на този трофей\"",
+          "url": "https://www.bta.bg/bg/news/sport/1232128-lekoatletkata-viktoriya-angelova-sled-otlichieto-izgryavashta-zvezda-na-evropa-",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T09:03:00+00:00",
+          "summary": "Виктория Ангелова, която спечели престижното отличие \"Изгряваща звезда на Европа\" в леката атлетика за 2026 година, заяви, че не е очаквала да получи отличието. Наградата на Европейската атлетика беше връчена на световната и европейска шампионка на троен скок за девойки по време на традиционната церемония Golden Tracks в Лозана (Швейцария). \"Чувствам се много добре - щастлива, доволна и горда, че…"
+        },
+        {
+          "title": "Сърбия на Вучич преди изборите: nобоища, кибератаки и заплахи",
+          "url": "https://www.dnevnik.bg/sviat/2026/10/25/4971032_surbiia_na_vuchich_predi_izborite_noboishta_kiberataki/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T08:14:00+00:00",
+          "summary": "Сръбският активист Марко Марянович се е прибирал от супермаркет в Белград, когато маскирани служители на реда го набутали в автомобил и го отвели в подземието на полицейско управление. Там е държан в единична килия два дни на непрекъснато включена..."
+        },
+        {
+          "title": "Тръмп: Audi ще построи завод за над 4 млрд. долара в щата Джорджия",
+          "url": "https://www.mediapool.bg/biznes/tramp-audi-shte-postroi-zavod-za-nad-4-mlrd-dolara-v-shtata-dzhordzhiya/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-25T06:05:13+00:00",
+          "summary": "Тръмп обяви, че „Ауди“ ще построи завод за над 4 млрд. дол Американският президент Доналд Тръмп обяви, че „Ауди“, луксозният бранд на германския концерн „Фолксваген“, ще построи завод в щата Джорджия, съобщи Асошиейтед прес. Изявлението на Тръмп идва в момент, в който той се опитва да изпълни обещанието си да даде тласък на американската индустрия в последните дни преди междинните избори за…"
+        },
+        {
+          "title": "Опрощаването на държавния дълг - от следвоенна Германия до днешния дебат по темата във Франция и уроците на историята",
+          "url": "https://www.bta.bg/bg/news/economy/1229571-oproshtavaneto-na-darzhavniya-dalg-ot-sledvoenna-germaniya-do-dneshniya-debat-",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T09:00:00+00:00",
+          "summary": "В навечерието на президентските избори във Франция през 2027 г. опрощаването на част от държавния дълг отново влиза в политическия дебат. В публикация по темата френският вестник „Монд“ проследява историческите примери за отписване на държавни задължения и поуките от тях. Идеята е застъпвана от лидера на радикалната левица „Непокорна Франция“ Жан-Люк Меланшон, който предлага да бъде заличен…"
+        },
+        {
+          "title": "В 3 секции в страната гласуването е преминало на хартия заради проблем с машините",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/10/25/4971030_v_3_sekcii_v_stranata_glasuvaneto_e_preminalo_na/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T07:32:00+00:00",
+          "summary": "Всички секционни избирателни комисии в страната са започнали работа, обяви говорителят на ЦИК Стоянка Балова. Има единични случаи на смяна на членове в някои комисии - в областите Бургас, Видин, Враца, Велико Търново, Габрово, Кюстендил,..."
+        },
+        {
+          "title": "Галерия „Куб“ в „Топлоцентрала“ обяви конкурс за изложбен проект, който ще бъде реализиран през 2027 г.",
+          "url": "https://www.bta.bg/bg/news/lik/1232120-galeriya-kub-v-toplotsentrala-obyavi-konkurs-za-izlozhben-proekt-koyto-shte",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T09:00:00+00:00",
+          "summary": "Галерия „Куб“ в Регионалния център за съвременни изкуства „Топлоцентрала“ обяви отворена покана за копродукция на изложбен проект, който ще бъде реализиран през 2027 г. Крайният срок за кандидатстване е 15 ноември, съобщават от Съюза на българските художници (СБХ). Поканата е насочена към художници, куратори, артистични колективи и интердисциплинарни екипи, независимо от тяхната националност и…"
+        },
+        {
+          "title": "Започнаха парламентарните избори в Сърбия, които ще тестват Вучич",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/10/25/4971026_zapochnaha_parlamentarnite_izbori_v_surbiia_koito_shte/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T07:25:00+00:00",
+          "summary": "В Сърбия започнаха предсрочните парламентарни избори. Гласуващите избират между управляващата Сръбска прогресивна партия, водена от Александър Вучич, и антикорупционната \"Студентска листа\", възникнала след трагедията на гарата в Нови Сад. ..."
+        },
+        {
+          "title": "Певицата Диа влиза под вода за снимките на нов сингъл",
+          "url": "https://www.bta.bg/bg/news/lik/1232135-pevitsata-dia-vliza-pod-voda-za-snimkite-na-nov-singal",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T08:58:44+00:00",
+          "summary": "Диа влиза под вода за снимките на нов сингъл от албума „Нишан“, информират от екипа на певицата. Специално изграден басейн се превръща в снимачна площадка за видеото към „Непокорна“. Представянето е на 24 ноември в Sofia Live Club. „Подводните кадри са сред основните акценти във видеото, което залага на необичайна снимачна среда, светлинни ефекти и въздействаща визия. Водата не е просто декор, а…"
+        },
+        {
+          "title": "Христанов гласува за ред, справедливост и бъдеще за България",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/10/25/4971023_hristanov_glasuva_za_red_spravedlivost_i_budeshte_za/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T07:11:00+00:00",
+          "summary": "Днес гласувах за ред, справедливост и бъдеще за България. Това заяви кандидатът за президент Иван Христанов, след като упражни правото си на глас в секция в София, съобщи БТА. Всеки глас е глас за България, каза Христанов. Призовавам..."
+        },
+        {
+          "title": "Две машини за гласуване не са сработили в Бургаска област",
+          "url": "https://www.bta.bg/bg/news/1232133-dve-mashini-za-glasuvane-ne-sa-srabotili-v-burgaska-oblast",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T08:57:19+00:00",
+          "summary": "Две машини за гласуване не са сработили в Бургаска област, поради което в съответните секции е преминато към гласуване с хартиени бюлетини. При едната машина проблемът е с принтера, а при другата – с четеца. Това каза за БТА председателят на Районната избирателна комисия – Бургас Георги Михов. Налични са 60 тактилни шаблона в секции, за да могат незрящите избиратели да гласуват самостоятелно.…"
+        },
+        {
+          "title": "Ивайло Мирчев: Гласувам за президент, който ще е коректив на властта",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/10/25/4971018_ivailo_mirchev_glasuvat_za_prezident_koito_shte_e/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T07:08:00+00:00",
+          "summary": "Гласувах за България, която знае къде принадлежи и няма никакви колебания за геополитическата си ориентация в ЕС и НАТО. Това обяви съпредседателят на \"Да, България\" Ивайло Мирчев. \"Гласувах за президент, който няма да позволи страната..."
+        },
+        {
+          "title": "Навсякъде в Европа са открити изборните секции, няма данни за проблеми в комисиите, каза Ради Найденов от МВнР",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1232130-navsyakade-v-evropa-sa-otkriti-izbornite-sektsii-nyama-danni-za-problemi-v-komi",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T08:55:57+00:00",
+          "summary": "Навсякъде в Европа са открити изборните секции, до момента няма данни за проблеми в секционните избирателни комисии. Това каза постоянният секретар и председател на работна група „Избори“ на Министерството на външните работи (МВнР) Ради Найденов на брифинг, на който беше представена актуална информация за провеждането на изборите за президент и вицепрезидент извън страната. Гласуването в чужбина…"
+        },
+        {
+          "title": "Започна вторият тур на изборите за прокурори във Висшия съдебен съвет",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/10/25/4971016_zapochna_vtoriiat_tur_na_izborite_za_prokurori_vuv/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T07:00:00+00:00",
+          "summary": "Днес се провежда повторно гласуване за избор на членове на Висшия съдебен съвет от квотата на прокурорите. Те избират четирима членове на ВСС от допуснатите до участие 25 кандидати. В проведеното в събота гласуване участваха 1363-ма..."
+        },
+        {
+          "title": "Аджерпрес: Румънският художник Константин Брънкуш е във фокуса на мащабна изложба в Музея за модерно изкуство в Ню Йорк",
+          "url": "https://www.bta.bg/bg/news/balkans/1231265-adzherpres-rumanskiyat-hudozhnik-konstantin-brankush-e-vav-fokusa-na-mashtabna-",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T08:55:00+00:00",
+          "summary": "Музеят за модерно изкуство (MoMA) в Ню Йорк представя ретроспективната изложба \"Брънкуш: Художникът и неговото ателие\" в периода от 25 октомври до 27 февруари 2027 г., предаде Аджерпрес специално за БТА. Експозицията е посветена на румънския художник Константин Брънкуш – един от най-влиятелните творци на XX век, посочва румънската агенция. Организирана с подкрепата на Румънския културен институт…"
+        },
+        {
+          "title": "Партията на Фараж ще създаде свой телевизионен канал в YouTube",
+          "url": "https://www.dnevnik.bg/sviat/2026/10/25/4970971_partiiata_na_faraj_shte_suzdade_svoi_televizionen/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T06:47:00+00:00",
+          "summary": "Разполагайки с изобилие от средства, осигурени от милиардери, партията на Найджъл Фараж \"Реформ\" започна да наема персонал за телевизионен канал в YouTube. Целта е да се заобиколят утвърдените медии и да се оползотвори финансиране, каквото няма..."
+        },
+        {
+          "title": "Ясна е програмата на българите на Младежките олимпийски игри в Дакар",
+          "url": "https://www.bta.bg/bg/news/sport/1232126-yasna-e-programata-na-balgarite-na-mladezhkite-olimpiyski-igri-v-dakar",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T08:53:00+00:00",
+          "summary": "Вече е ясна програмата за участието на българските представители на Младежките олимпийски игри в Дакар (Сенегал). Надпреварата ще се проведе от 31 октомври до 13 ноември. Програма на българското участие: 31 октомври (събота)18:30-20:00 ЦЕРЕМОНИЯ ПО ОТКРИВАНЕТО Abdoulaye Wade Stadium (SAW) Diamniadio 1 ноември (неделя)Ушу09:30-11:30 Предварителен кръг (60 мин) Калина Славчева жени Тайджишан Dakar…"
+        },
+        {
+          "title": "Георги Ненов: Сега е точният момент, в който не можем да бъдем мълчаливи",
+          "url": "https://www.dnevnik.bg/duma_na_sedmitsa/2026/10/25/4970881_georgi_nenov_sega_e_tochniiat_moment_v_koito_ne_mojem/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T06:46:00+00:00",
+          "summary": "Филмът \"Хроники за неудобната истина\" трябва да влезе във всеки един български дом Всеки, който си преследва мечтите, е свръхчовек Добрите хора са хора, които искат да остане нещо след тях Ние сме държавата, ние можем да направим по-хубав и..."
+        },
+        {
+          "title": "Гласувах с мисъл за бъдещето на децата ни и с мисъл за всички български граждани, каза кандидат-президентът Андрей Гюров",
+          "url": "https://www.bta.bg/bg/news/1232132-glasuvah-s-misal-za-badeshteto-na-detsata-ni-i-s-misal-za-vsichki-balgarski-graz",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T08:52:12+00:00",
+          "summary": "Днес гласувах с мисъл за бъдещето на децата ни, с мисъл за всички български граждани, които всеки ден отиват на работа, грижат се за семействата си, спазват правилата и въпреки това в края на деня се чудят дали доходите ще им стигнат до края на месеца, чудят се дали децата им ще имат бъдеще в България. Това каза пред журналисти кандидатът за президент Андрей Гюров, след като упражни правото си на…"
+        },
+        {
+          "title": "Десет от най-слушаните фентъзи аудиокниги през изминалата седмица",
+          "url": "https://www.dnevnik.bg/knigi/2026/10/25/4970451_deset_ot_nai-slushanite_fentuzi_audioknigi_prez/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T06:26:00+00:00",
+          "summary": "Романът \"Опашката\" на Захари Карабашлиев оглави списъка за най-слушаните аудиокниги през изминалата седмица в Storytel в категория \"Фентъзи\". Книгата е сред най-новите заглавия в платформата, прочетена от актьора Владимир Зомбори. Тя е представена..."
+        },
+        {
+          "title": "Двама 30-годишни мъже са задържани с метамфетамин в нощта срещу изборния ден в Разградско",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1232127-dvama-30-godishni-mazhe-sa-zadarzhani-s-metamfetamin-v-noshtta-sreshtu-izborniya",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T08:46:44+00:00",
+          "summary": "Двама 30-годишни мъже са задържани с метамфетамин в нощта срещу изборния ден в Разградско, съобщиха от Областната дирекция на МВР в Разград. При специализирана полицейска операция около 00:50 часа на 25 октомври са извършени претърсвания в автомобила, с който двамата се придвижвали. Открити и иззети са 11 грама бяло кристалообразно вещество, което при полеви тест е реагирало на метамфетамин.…"
+        },
+        {
+          "title": "Социолози: Външни за кампанията събития и участници влияят на вота",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/10/25/4971006_sociolozi_vunshni_za_kampaniiata_subitiia_i_uchastnici/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T06:09:00+00:00",
+          "summary": "Външни за кампанията за изборите участници и събития влияят на вота. Това коментираха пред Би Ти Ви социолозите Боряна Димитрова от \"Алфа Рисърч\" и Добромир Живков\" от \"Маркет линкс\". Димитрова отбеляза, че в края на предизборната..."
+        },
+        {
+          "title": "Кирил Милов се класира на полуфиналите на Световното първенство по борба в Астана",
+          "url": "https://www.bta.bg/bg/news/sport/1232125-kiril-milov-se-klasira-na-polufinalite-na-svetovnoto-parvenstvo-po-borba-v-astan",
+          "source": "BG RSS Free",
+          "published": "2026-10-25T08:37:00+00:00",
+          "summary": "Кирил Милов се класира на полуфиналите на Световното първенство по борба в Астана, след като записа три победи в категория до 97 кг класически стил. Днес България може да си осигури два медала на турнира в Казахстан, като първо Милов има шанс за финал, а след това Стоян Кубатов ще се бори за бронз. На старта на турнира Милов победи с 10:0 Владлен Козлюк (Украйна), след което се изправи срещу…"
+        },
+        {
+          "title": "Как се гласува на машина и с хартия",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/10/25/4970890_kak_se_glasuva_na_mashina_i_s_hartiia/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T04:35:00+00:00",
+          "summary": "С решение на Народното събрание за тези избори се възстанови машинното гласуване и отчитане на вота. Гласуването в големите секции - с 300 и повече избиратели в страната и чужбина, ще е само с машини. С хартиени бюлетини ще се гласува в..."
+        },
+        {
+          "title": "Фотогалерия: Как Сеул превръща нощните обиколки в хорър трилър",
+          "url": "https://www.dnevnik.bg/photos/2026/10/25/4970254_fotogaleriia_kak_seul_prevrushta_noshtnite_obikolki_v/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-25T04:30:00+00:00",
+          "summary": ""
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://www.bta.bg/bg/rss/free": {
+          "items": 20,
+          "status": "ok",
+          "secs": 1.1
+        },
+        "https://www.dnevnik.bg/rss/": {
+          "items": 30,
+          "status": "ok",
+          "secs": 0.4
+        },
+        "https://www.capital.bg/rss/": {
+          "items": 8,
+          "status": "ok",
+          "secs": 0.7
+        },
+        "https://www.mediapool.bg/rss": {
+          "items": 10,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.novinite.com/services/news_rdf.php": {
+          "items": 1,
+          "status": "ok",
+          "secs": 0.4
+        },
+        "https://sofiaglobe.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (30 παλιά, 0 ήδη)",
+          "secs": 1.0
+        }
+      }
+    }
+  }
+}

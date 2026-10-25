@@ -1,0 +1,638 @@
+{
+  "date": "2026-10-25",
+  "generated": "2026-10-25T09:28:53.061807+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "Καιρός: Με βροχές η παρέλαση στην Αθήνα – Τι προβλέπεται για τη Θεσσαλονίκη",
+      "Избирателната активност в Бургаска област е 4,94% към 11:00 часа"
+    ],
+    "en": [
+      "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "Καιρός: Με βροχές η παρέλαση στην Αθήνα – Τι προβλέπεται για τη Θεσσαλονίκη",
+      "Избирателната активност в Бургаска област е 4,94% към 11:00 часа"
+    ]
+  },
+  "meta": {
+    "el": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication; A 1,000-mile cloud on Mars may reveal physics never seen in nature; Καιρός:",
+    "en": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication; A 1,000-mile cloud on Mars may reveal physics never seen in nature; Καιρός:"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+            "en": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+            "en": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Week in review: PHP vulnerabilities patched, exploited Palo Alto GlobalProtect VPN flaw",
+            "en": "Week in review: PHP vulnerabilities patched, exploited Palo Alto GlobalProtect VPN flaw"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/10/25/week-in-review-php-vulnerabilities-patched-exploited-palo-alto-globalprotect-vpn-flaw/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
+            "en": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Pierluigi Paganini answers questions about the PHP2Shell flaws",
+            "en": "Pierluigi Paganini answers questions about the PHP2Shell flaws"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/201662/hacking/pierluigi-paganini-answers-questions-about-the-php2shell-flaws.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+            "en": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "U.S. CISA adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog",
+            "en": "U.S. CISA adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/201652/security/u-s-cisa-adds-collabora-online-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+            "en": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Usage Intelligence: The Monetization Signal Most AI Companies Are Ignoring",
+            "en": "Usage Intelligence: The Monetization Signal Most AI Companies Are Ignoring"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/201643/ai/usage-intelligence-the-monetization-signal-most-ai-companies-are-ignoring.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+            "en": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Capcom Data Breach Exposes 11.7 Million Email Addresses",
+            "en": "Capcom Data Breach Exposes 11.7 Million Email Addresses"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/201626/data-breach/capcom-data-breach-exposes-11-7-million-email-addresses.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+            "en": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+            "en": "A 1,000-mile cloud on Mars may reveal physics never seen in nature"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Reg readers land on 'Binface' as name for UK space cleanup mission",
+            "en": "Reg readers land on 'Binface' as name for UK space cleanup mission"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/offbeat/2026/10/25/reg-readers-land-on-binface-as-name-for-uk-space-cleanup-mission/5305144"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+            "en": "Ice sheet expansion may have started 2,000 years ago, but we canceled that"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Raspberry Pi Desktop proves old PCs aren't past it",
+            "en": "Raspberry Pi Desktop proves old PCs aren't past it"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Καιρός: Με βροχές η παρέλαση στην Αθήνα – Τι προβλέπεται για τη Θεσσαλονίκη",
+            "en": "Καιρός: Με βροχές η παρέλαση στην Αθήνα – Τι προβλέπεται για τη Θεσσαλονίκη"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/ellada/kairos-me-vroxes-i-parelasi-stin-athina-ti-provlepetai-gia-ti-thessaloniki/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Αλβανία: Επικοινωνιακή αντεπίθεση του Ράμα στα επεισόδια με… καρέκλες και τραπεζάκια",
+            "en": "Αλβανία: Επικοινωνιακή αντεπίθεση του Ράμα στα επεισόδια με… καρέκλες και τραπεζάκια"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/world/564546889/alvania-epikoinoniaki-antepithesi-toy-rama-sta-epeisodia-me-karekles-kai-trapezakia/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Λιόλιος: «Αποσύρομαι για να λειτουργήσει το μπάσκετ»",
+            "en": "Λιόλιος: «Αποσύρομαι για να λειτουργήσει το μπάσκετ»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/10/25/sports/liolios-aposyromai-gia-na-leitourgisei-to-mpasket/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Πάνος Καμμένος: Θα εμπλακώ στις εκλογές για να μπλοκάρω το κόμμα Σαμαρά – Μιλάω με Αλέξη Τσίπρα",
+            "en": "Πάνος Καμμένος: Θα εμπλακώ στις εκλογές για να μπλοκάρω το κόμμα Σαμαρά – Μιλάω με Αλέξη Τσίπρα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/politiki/1496066/panos-kammenos-tha-emplako-stis-ekloges-gia-na-mplokaro-to-komma-samara-milao-me-alexi-tsipra/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Μπορεί ο Καναδάς να γίνει «συνδεδεμένο μέλος» της ΕΕ; «Δεν έχει σημασία η ταμπέλα, αλλά το περιεχόμενο»",
+            "en": "Μπορεί ο Καναδάς να γίνει «συνδεδεμένο μέλος» της ΕΕ; «Δεν έχει σημασία η ταμπέλα, αλλά το περιεχόμενο»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/finance/world/2179690/mporei-o-kanadas-na-ginei-syndedemeno-melos-tis-ee-den-echei-simasia-i-tampela-alla-to-periechomeno/?utm_source=rss&utm_medium=rss&utm_campaign=mporei-o-kanadas-na-ginei-syndedemeno-melos-tis-ee-den-echei-simasia-i-tampela-alla-to-periechomeno"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Μετρό: Ποιοι σταθμοί θα κλείνουν στις 21:40, από σήμερα έως τις 29 Οκτωβρίου",
+            "en": "Μετρό: Ποιοι σταθμοί θα κλείνουν στις 21:40, από σήμερα έως τις 29 Οκτωβρίου"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/ellada/metro-poioi-stathmoi-tha-kleinoun-stis-21-40-apo-simera-eos-tis-29-oktovriou/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Βλέπουμε μόνο αυτό που θέλουμε να δούμε",
+            "en": "Βλέπουμε μόνο αυτό που θέλουμε να δούμε"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/politics/564546853/vlepoyme-mono-ayto-poy-theloyme-na-doyme/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Τι προτείνουν οι πρυτάνεις για εισακτέους, ΕΒΕ, εξεταστικό – «Αγκάθι» το ασφυκτικό πλαίσιο στα ΑΕΙ",
+            "en": "Τι προτείνουν οι πρυτάνεις για εισακτέους, ΕΒΕ, εξεταστικό – «Αγκάθι» το ασφυκτικό πλαίσιο στα ΑΕΙ"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/10/25/society/ti-proteinoun-oi-prytaneis-gia-eisakteous-eve-kai-eksetastiko-agkathi-to-asfyktiko-plaisio-sta-aei/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Στημένα στο μπάσκετ: Παραιτήθηκε από πρόεδρος της ΕΟΚ ο Βαγγέλης Λιόλιος – Απολογείται στην Ευελπίδων με Μαυραγάνη",
+            "en": "Στημένα στο μπάσκετ: Παραιτήθηκε από πρόεδρος της ΕΟΚ ο Βαγγέλης Λιόλιος – Απολογείται στην Ευελπίδων με Μαυραγάνη"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/athlitismos/1496062/paraitithike-apo-proedros-tis-eok-o-vaggelis-liolios/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Τίρανα: Νέα πορεία προγραμματίζουν οι φοιτητές, διάλογο ζητά ο Ράμα",
+            "en": "Τίρανα: Νέα πορεία προγραμματίζουν οι φοιτητές, διάλογο ζητά ο Ράμα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/kosmos/2179701/tirana-nea-poreia-programmatizoyn-oi-foitites-dialogo-zita-o-rama/?utm_source=rss&utm_medium=rss&utm_campaign=tirana-nea-poreia-programmatizoyn-oi-foitites-dialogo-zita-o-rama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Избирателната активност в Бургаска област е 4,94% към 11:00 часа",
+            "en": "Избирателната активност в Бургаска област е 4,94% към 11:00 часа"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/1232153-izbiratelnata-aktivnost-v-burgaska-oblast-e-4-94-kam-11-00-chasa"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "В Нова Зеландия гласуването вече приключи",
+            "en": "В Нова Зеландия гласуването вече приключи"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/bulgaria/2026/10/25/4971086_v_nova_zelandiia_glasuvaneto_veche_prikljuchi/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Защо България все още няма летателна техника за гасене на пожари",
+            "en": "Защо България все още няма летателна техника за гасене на пожари"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/zelen-kapital/climate/2026/10/25/4971089_zashto_bulgariia_vse_oshte_niama_letatelna_tehnika_za/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "За какво гласуват част от кандидатите за президент (Обновява се)",
+            "en": "За какво гласуват част от кандидатите за президент (Обновява се)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/prezidentski-izbori-2026/za-kakvo-glasuvat-chast-ot-kandidatite-za-prezident-obnovyava-se/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Three Suspects Arrested in Slavi Binev Killing, Third Businessman Murder in Bulgaria in 3 Months",
+            "en": "Three Suspects Arrested in Slavi Binev Killing, Third Businessman Murder in Bulgaria in 3 Months"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Novinite.com (Sofia News Agency)",
+              "url": "https://www.novinite.com/view_news.php?id=241233"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Световната федерация UWW узакони с официално писмо новоизбраното ръководство на БФ Борба",
+            "en": "Световната федерация UWW узакони с официално писмо новоизбраното ръководство на БФ Борба"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/sport/1232157-svetovnata-federatsiya-uww-uzakoni-s-ofitsialno-pismo-novoizbranoto-rakovodstvo-"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Путин отново няма да произнесе годишна реч пред парламента",
+            "en": "Путин отново няма да произнесе годишна реч пред парламента"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/25/4971076_putin_otnovo_niama_da_proiznese_godishna_rech_pred/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Прокуратурата - на балотаж днес, няма избрани на първи тур за ВСС",
+            "en": "Прокуратурата - на балотаж днес, няма избрани на първи тур за ВСС"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/pravo/2026/10/25/4970996_prokuraturata_-_na_balotaj_dnes_niama_izbrani_na_purvi/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "FT: Черно море вече е най-опасният корабоплавателен маршрут в света",
+            "en": "FT: Черно море вече е най-опасният корабоплавателен маршрут в света"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/svyat/ft-cherno-more-veche-e-nai-opasniyat-koraboplavatelen-marshrut-v-sveta/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Секционна избрателна комисия в Стара Загора не е снела данните на личната карта на 19 гласоподаватели",
+            "en": "Секционна избрателна комисия в Стара Загора не е снела данните на личната карта на 19 гласоподаватели"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/1232144-sektsionna-izbratelna-komisiya-v-stara-zagora-ne-e-snela-dannite-na-lichnata-kar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
