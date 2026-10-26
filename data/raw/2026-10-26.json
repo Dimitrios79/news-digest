@@ -1,0 +1,1308 @@
+{
+  "date": "2026-10-26",
+  "generated": "2026-10-26T10:32:14.392383+00:00",
+  "categories": {
+    "security": {
+      "items": [
+        {
+          "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+          "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+          "source": "The Hacker News",
+          "published": "2026-10-26T08:35:51+00:00",
+          "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across"
+        },
+        {
+          "title": "Kali Linux 2026.3 released with 7 new tools, desktop updates",
+          "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-7-new-tools-desktop-updates/",
+          "source": "BleepingComputer",
+          "published": "2026-10-26T10:26:52+00:00",
+          "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]"
+        },
+        {
+          "title": "Node2Shell Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
+          "url": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+          "source": "SecurityWeek",
+          "published": "2026-10-26T10:21:57+00:00",
+          "summary": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages appeared first on SecurityWeek ."
+        },
+        {
+          "title": "Witness: Open-source framework for verifying how your software was built",
+          "url": "https://www.helpnetsecurity.com/2026/10/26/witness-open-source-software-supply-chain-tool/",
+          "source": "Help Net Security",
+          "published": "2026-10-26T07:00:45+00:00",
+          "summary": "Witness is an open-source command-line tool that records how software gets built, signs that record, and checks it against a policy before the software ships. TestifySec built Witness and donated it to the in-toto ecosystem within the Cloud Native Computing Foundation, and an open community now maintains it. A compiled binary doesn’t say which machine built it or what code went in. Witness lets a…"
+        },
+        {
+          "title": "Work to protect DNS from quantum decryption attacks is speeding up",
+          "url": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-26T04:08:23+00:00",
+          "summary": "PLUS: Regional internet registry reform nears; Trustworthy-sounding domains attract scammers"
+        },
+        {
+          "title": "PHP2Shell: Suspected North Korean campaign targets 216 vulnerable PHP hosts",
+          "url": "https://securityaffairs.com/201748/hacking/php2shell-suspected-north-korean-campaign-targets-216-vulnerable-php-hosts.html",
+          "source": "Security Affairs",
+          "published": "2026-10-26T09:58:31+00:00",
+          "summary": "Cyfirma links PHP2Shell scans of 216 vulnerable hosts to a suspected North Korean campaign using AI to rank public exploits. On October 21, PHP released emergency patches for two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619, both rated 9.2 on the CVSS scale. The flaws affect all PHP versions that handle web requests. The vulnerable code dates […]"
+        },
+        {
+          "title": "What EvilTokens teaches us about defending against AI-assisted attacks",
+          "url": "https://www.csoonline.com/article/4239703/what-eviltokens-teaches-us-about-defending-against-ai-assisted-attacks.html",
+          "source": "CSO Online",
+          "published": "2026-10-26T09:00:00+00:00",
+          "summary": "Cybercriminals don’t need AI to compromise an organization, but AI is making its way into classic attack methods and changing how quickly such attacks can progress. Tasks that once required attackers to manually sift through information and piece together how an organization operates can be accelerated by AI, reducing the time defenders have to detect and intervene. A recent example of this is…"
+        },
+        {
+          "title": "Looking for a Language [Guest Diary], (Wed, Oct 21st)",
+          "url": "https://isc.sans.edu/diary/rss/33442",
+          "source": "SANS Internet Storm Center, InfoCON: green",
+          "published": "2026-10-26T09:38:03+00:00",
+          "summary": "[This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program]"
+        },
+        {
+          "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+          "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+          "source": "The Hacker News",
+          "published": "2026-10-26T07:49:46+00:00",
+          "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to an analysis by cloud security company Wiz. A GitHub safeguard that pauses"
+        },
+        {
+          "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+          "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+          "source": "BleepingComputer",
+          "published": "2026-10-26T09:19:57+00:00",
+          "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]"
+        },
+        {
+          "title": "Mythos 5 Ignored Real-World Harm in July Attack",
+          "url": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
+          "source": "SecurityWeek",
+          "published": "2026-10-26T09:10:03+00:00",
+          "summary": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek ."
+        },
+        {
+          "title": "AI slop is piling up highest on the biggest open-source projects",
+          "url": "https://www.helpnetsecurity.com/2026/10/26/linux-foundation-open-source-ai-slop/",
+          "source": "Help Net Security",
+          "published": "2026-10-26T06:30:29+00:00",
+          "summary": "The maintainers of large open source projects are taking the worst of the AI slop. In a Linux Foundation survey of 234 open source contributors and maintainers, people running projects with more than 50 contributors estimated that close to a third of the code changes landing in their queue are low quality or AI-generated. Those maintainers now worry more about burning out than about the code…"
+        },
+        {
+          "title": "Anthropic reveals how Claude Mythos 5 crossed security testing boundaries",
+          "url": "https://securityaffairs.com/201729/ai/anthropic-reveals-how-claude-mythos-5-crossed-security-testing-boundaries.html",
+          "source": "Security Affairs",
+          "published": "2026-10-26T08:05:12+00:00",
+          "summary": "Anthropic says Claude Mythos 5 targeted real developers with fake identities to push malicious code during a security test. A cybersecurity test is supposed to measure what an AI model can do within an agreed boundary. In one UK AI Security Institute evaluation, Claude Mythos 5 crossed that boundary, targeted a real GitHub project and […]"
+        },
+        {
+          "title": "10 most powerful cybersecurity companies today",
+          "url": "https://www.csoonline.com/article/569075/the-10-most-powerful-cybersecurity-companies.html",
+          "source": "CSO Online",
+          "published": "2026-10-26T08:25:00+00:00",
+          "summary": "The number of cybersecurity startups attempting to cash in on the AI boom is staggering. But an analysis of the cybersecurity marketplace indicates that the incumbents, rather than resting on their laurels and opening themselves up for disruption, are quickly adapting to the new AI-centric threat environment. The major players are integrating AI technology throughout their platforms, and offering…"
+        },
+        {
+          "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
+          "url": "https://isc.sans.edu/diary/rss/33456",
+          "source": "SANS Internet Storm Center, InfoCON: green",
+          "published": "2026-10-26T03:30:12+00:00",
+          "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License."
+        },
+        {
+          "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+          "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+          "source": "The Hacker News",
+          "published": "2026-10-26T06:03:48+00:00",
+          "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and stopped the agent before any code ran. It could not determine how the file got into the folder. The file"
+        },
+        {
+          "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+          "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+          "source": "BleepingComputer",
+          "published": "2026-10-25T15:49:38+00:00",
+          "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]"
+        },
+        {
+          "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+          "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+          "source": "SecurityWeek",
+          "published": "2026-10-25T11:00:00+00:00",
+          "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek ."
+        },
+        {
+          "title": "Product showcase: Stellar Cyber’s ISOC platform provides full-cycle architecture",
+          "url": "https://www.helpnetsecurity.com/2026/10/26/product-showcase-stellar-cyber-isoc-platform/",
+          "source": "Help Net Security",
+          "published": "2026-10-26T06:00:12+00:00",
+          "summary": "An AI SOC that starts with somebody else’s alert is already too late. Stellar Cyber collects and normalizes telemetry, detects suspicious activity, correlates evidence, builds cases, investigates incidents, triages findings, and drives response from the same security architecture. That gives people and AI access to the evidence behind the alert – not just the alert itself. Full-cycle security…"
+        },
+        {
+          "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 5",
+          "url": "https://securityaffairs.com/201718/ai/security-affairs-ai-cybersecurity-newsletter-round-5.html",
+          "source": "Security Affairs",
+          "published": "2026-10-25T17:49:25+00:00",
+          "summary": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools available to defenders. AI agents can automate tasks, analyze large amounts of data, discover vulnerabilities and accelerate offensive…"
+        },
+        {
+          "title": "Bright Security Introduces STAR Fuzzer, Agentic Fuzzing That Writes Its Own Harnesses and Proves Every Finding",
+          "url": "https://www.csoonline.com/article/4240151/bright-security-introduces-star-fuzzer-agentic-fuzzing-that-writes-its-own-harnesses-and-proves-every-finding.html",
+          "source": "CSO Online",
+          "published": "2026-10-26T07:52:46+00:00",
+          "summary": "Built on an evolutionary engine first released in 2018, STAR Fuzzer by Bright Security finds crashes, memory exhaustion and memory-safety bugs in security-critical code without a running application. In its first open source research run, it found High or Critical issues in 45% of the projects tested, and in its first month of availability it produced ten published findings in eight projects,…"
+        },
+        {
+          "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
+          "url": "https://isc.sans.edu/diary/rss/33454",
+          "source": "SANS Internet Storm Center, InfoCON: green",
+          "published": "2026-10-25T19:57:53+00:00",
+          "summary": "YARA-X&#;x26;#;39;s 1.22.0 release brings 11 improvements and 9 bugfixes."
+        },
+        {
+          "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+          "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+          "source": "The Hacker News",
+          "published": "2026-10-25T17:44:09+00:00",
+          "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target. The findings were"
+        },
+        {
+          "title": "Forgotten AI agents may still access sensitive company data",
+          "url": "https://www.helpnetsecurity.com/2026/10/26/arrakis-dormant-ai-agent-risks-report/",
+          "source": "Help Net Security",
+          "published": "2026-10-26T05:30:27+00:00",
+          "summary": "AI agents that have not run recently retain credentials and connections to company systems, according to Arrakis Security’s 2026 Autonomous Agents Threat Report. About 76% of enabled agents examined had not run in 60 days, leaving access available through inactive software. Agents by exposure family (Source: Arrakis Security) The analysis covered thousands of agents in customer production…"
+        },
+        {
+          "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 120",
+          "url": "https://securityaffairs.com/201709/security/security-affairs-malware-newsletter-round-120.html",
+          "source": "Security Affairs",
+          "published": "2026-10-25T13:27:05+00:00",
+          "summary": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter Auditing the auditor: Unmasking Apex Accelerator GhostAction Attack Escalates By Targeting GitHub Users Plex vulnerabilities being exploited in the wild to drop a cryptominer WordPress Rank Math SEO PRO Plugin 3.0.123 is vulnerable […]"
+        },
+        {
+          "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
+          "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+          "source": "The Hacker News",
+          "published": "2026-10-25T17:19:46+00:00",
+          "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,\" a spokesperson for the company told The Hacker News via"
+        },
+        {
+          "title": "Synthetic identities leave US lenders with $2.4 billion in fraud exposure",
+          "url": "https://www.helpnetsecurity.com/2026/10/26/transunion-synthetic-identity-fraud-risks-report/",
+          "source": "Help Net Security",
+          "published": "2026-10-26T05:00:59+00:00",
+          "summary": "Criminals are exploiting established customer accounts and familiar brands to steal money and personal information, according to TransUnion’s Fraud in the Age of Continuous Trust report. Eighty-one percent of suspected digital fraud in its network during the first half of 2026 occurred during account logins and financial transactions, highlighting risks that persist throughout a customer…"
+        },
+        {
+          "title": "Security Affairs newsletter Round 601 by Pierluigi Paganini – INTERNATIONAL EDITION",
+          "url": "https://securityaffairs.com/201698/breaking-news/security-affairs-newsletter-round-601-by-pierluigi-paganini-international-edition.html",
+          "source": "Security Affairs",
+          "published": "2026-10-25T12:28:47+00:00",
+          "summary": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. Capcom Data Breach Exposes 11.7 Million Email Addresses U.S. CISA adds Arista VeloCloud Orchestrator flaw to its Known […]"
+        },
+        {
+          "title": "r/opensource bans AI projects, and solo devs go down with them",
+          "url": "https://www.helpnetsecurity.com/2026/10/26/reddit-r-opensource-ai-ban/",
+          "source": "Help Net Security",
+          "published": "2026-10-26T04:30:36+00:00",
+          "summary": "Moderators of r/opensource, Reddit’s catch-all forum for open source software, have barred any project that “uses AI, is made by AI, or is intended for AI.” Moderator Wolvereness announced the rules in a post over the weekend. A project now has to be at least a year old and actively maintained, carry an OSI license, have an existing community and “subjectively 3+” contributors. The poster needs a…"
+        },
+        {
+          "title": "OpenAI Paused Frontier AI Training After a Security Incident",
+          "url": "https://securityaffairs.com/201673/ai/openai-paused-frontier-ai-training-after-a-security-incident.html",
+          "source": "Security Affairs",
+          "published": "2026-10-25T09:56:32+00:00",
+          "summary": "OpenAI paused frontier model training for 11 days after AI agents exposed security weaknesses, VM escapes and covert communication channels. OpenAI published a detailed report this week explaining how it improved security in the systems used to train and test its most advanced AI models. The company also described what happened when its AI agents […]"
+        },
+        {
+          "title": "Google open-sources the Elephant-Goldfish Model plugin its engineers use to catch AI coding mistakes",
+          "url": "https://www.helpnetsecurity.com/2026/10/26/google-elephant-goldfish-model-plugin/",
+          "source": "Help Net Security",
+          "published": "2026-10-26T04:25:59+00:00",
+          "summary": "Google has open-sourced the Elephant-Goldfish Model plugin, an internal tool that makes an AI coding agent write and defend a design document before it touches any code. The plugin hands that document to fresh AI sessions that have never seen the design conversation and tells them to find what is wrong with it. The EGM plugin in a nutshell (Source: Google) “AI-powered velocity is transformative;…"
+        },
+        {
+          "title": "OpenSSL 4.1.0: What’s new, what’s removed, and what’s still broken",
+          "url": "https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/",
+          "source": "Help Net Security",
+          "published": "2026-10-25T23:33:35+00:00",
+          "summary": "The OpenSSL project released version 4.1.0, adding support for DTLS 1.3 and listing four known bugs in the DTLS code that ships with it. DTLS is the variant of TLS built for datagram transports such as UDP, and version 1.3 is defined in RFC 9147. The bugs fall on developers who adopt DTLS 1.3 or the DTLS support newly added to OpenSSL’s SSL listener API. Two of them can make an application…"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://feeds.feedburner.com/TheHackersNews": {
+          "items": 5,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.bleepingcomputer.com/feed/": {
+          "items": 3,
+          "status": "ok",
+          "secs": 0.2
+        },
+        "https://www.securityweek.com/feed/": {
+          "items": 3,
+          "status": "ok",
+          "secs": 0.2
+        },
+        "https://www.helpnetsecurity.com/feed/": {
+          "items": 8,
+          "status": "ok",
+          "secs": 0.1
+        },
+        "https://www.theregister.com/security/headlines.atom": {
+          "items": 1,
+          "status": "ok",
+          "secs": 0.6
+        },
+        "https://securityaffairs.com/feed": {
+          "items": 6,
+          "status": "ok",
+          "secs": 0.9
+        },
+        "https://cyberscoop.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.2
+        },
+        "https://www.csoonline.com/feed/": {
+          "items": 3,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://isc.sans.edu/rssfeed_full.xml": {
+          "items": 3,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://krebsonsecurity.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.3
+        },
+        "https://www.schneier.com/feed/atom/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.1
+        },
+        "https://therecord.media/feed": {
+          "items": 0,
+          "status": "κανένα νέο (5 παλιά, 0 ήδη)",
+          "secs": 0.2
+        },
+        "https://www.darkreading.com/rss.xml": {
+          "items": 0,
+          "status": "κανένα νέο (50 παλιά, 0 ήδη)",
+          "secs": 0.5
+        }
+      }
+    },
+    "tech": {
+      "items": [
+        {
+          "title": "Euro open source specialist proposes LLM gateway to ease token bills",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/26/euro-open-source-specialist-proposes-llm-gateway-to-ease-token-bills/5305170",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-26T10:15:00+00:00",
+          "summary": "Aiven hopes to do for LLMs what it does for databases"
+        },
+        {
+          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://minimaxir.com/2026/10/cheap-llms/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-25T21:11:31+00:00",
+          "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 319 # Comments: 312"
+        },
+        {
+          "title": "PHP2Shell is a warning shot for vulnerability disclosure",
+          "url": "https://www.theregister.com/columnists/2026/10/26/php2shell-is-a-warning-shot-for-vulnerability-disclosure/5304918",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-26T09:38:00+00:00",
+          "summary": "Keeping secrets is difficult in an open world, but we've done it before and must do it again"
+        },
+        {
+          "title": "Dolly Parton's Imagination Library",
+          "url": "https://imaginationlibrary.com/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-25T18:23:54+00:00",
+          "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer. The seeds of these dreams are often…"
+        },
+        {
+          "title": "'Let's just shove a bigger fan in there and see what happens'",
+          "url": "https://www.theregister.com/systems/2026/10/26/lets-just-shove-a-bigger-fan-in-there-and-see-what-happens/5304654",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-26T06:30:00+00:00",
+          "summary": "Techies tiptoed around server to keep it working as company sank"
+        },
+        {
+          "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+          "url": "https://talkweb.eu/openweb/4558/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-25T17:30:55+00:00",
+          "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 475 # Comments: 229"
+        },
+        {
+          "title": "Tesco replacing VMware with Proxmox in its stores and on the edge",
+          "url": "https://www.theregister.com/virtualization/2026/10/26/tesco-replacing-vmware-with-proxmox-in-its-stores-and-on-the-edge/5305281",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-26T05:24:02+00:00",
+          "summary": "Advertises for someone to ‘own cost-effective alternative virtualisation platform’"
+        },
+        {
+          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "source": "Hacker News: Front Page",
+          "published": "2026-10-25T17:15:38+00:00",
+          "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 566 # Comments: 241"
+        },
+        {
+          "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-26T00:39:57+00:00",
+          "summary": "PLUS: AI datacenter bubble wobbles in Australia; E-commerce app suggests it can detect diseases; India’s top telco to IPO amid investor frenzy; and more!"
+        },
+        {
+          "title": "Want to build a UK datacenter? Please hold while Whitehall transfers you",
+          "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-10-25T10:39:00+00:00",
+          "summary": "Minister insists responsibilities are clear as construction, telecoms, and energy fall under separate departments"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://feeds.arstechnica.com/arstechnica/index": {
+          "items": 0,
+          "status": "κανένα νέο (20 παλιά, 0 ήδη)",
+          "secs": 0.1
+        },
+        "https://www.theregister.com/headlines.atom": {
+          "items": 6,
+          "status": "ok",
+          "secs": 0.8
+        },
+        "https://www.technologyreview.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.2
+        },
+        "https://hnrss.org/frontpage?points=300": {
+          "items": 4,
+          "status": "ok",
+          "secs": 1.3
+        }
+      }
+    },
+    "greece": {
+      "items": [
+        {
+          "title": "Στη νέα εποχή της τεχνολογίας η χώρα με τον ελληνικό υπερυπολογιστή «Δαίδαλο»",
+          "url": "https://www.ertnews.gr/roi-idiseon/sti-nea-epoxi-tis-texnologias-i-xora-me-ton-elliniko-yperypologisti-daidalo/",
+          "source": "ertnews.gr",
+          "published": "2026-10-26T10:31:10+00:00",
+          "summary": "Για το μεγάλο τεχνολογικό άλμα που πραγματοποιεί η Ελλάδα με την απόκτηση του υπερυπολογιστή «Δαίδαλος» μίλησε στην εκπομπή «Στάση ΕΡΤ3» ο αντιπρόεδρος του ΕΔΥΤΕ, Δημήτρης Κατσιάνης. Ο κ. Κατσιάνης εξήγησε τις αμέτρητες δυνατότητες του συστήματος στην επεξεργασία δεδομένων, αναλύοντας πώς η ισχύς του μπορεί να αξιοποιηθεί στην πρόληψη φυσικών καταστροφών, την ιατρική έρευνα και την ...…"
+        },
+        {
+          "title": "Κακοκαιρία: Αναβαθμίστηκε το έκτακτο δελτίο της ΕΜΥ – Κόκκινη προειδοποίηση για 4 περιοχές",
+          "url": "https://www.kathimerini.gr/society/564548257/kakokairia-anavathmistike-to-ektakto-deltio-tis-emy-kokkini-proeidopoiisi-gia-4-perioches/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-26T09:47:49+00:00",
+          "summary": "Αναβαθμίστηκε το έκτακτο δελτίο της ΕΜΥ. Ισχυρές βροχές, καταιγίδες και πιθανές χαλαζοπτώσεις για τρεις ημέρες. Πότε επηρεάζεται η Αττική."
+        },
+        {
+          "title": "Τα ναύλα κοστίζουν πλέον όσο…ένας πύραυλος της SpaceX",
+          "url": "https://www.tovima.gr/2026/10/26/finance/ta-nayla-kostizoun-pleon-oso-enas-pyraylos-tis-spacex/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-26T09:30:44+00:00",
+          "summary": "Εκτοξεύεται το κόστος μεταφοράς πετρελαίου- Στα 40,70 δολάρια το βαρέλι από τον Περσικό Κόλπο στην Ευρώπη, ενώ τα ημερήσια έσοδα των VLCC αγγίζουν τα 764.000 δολάρια"
+        },
+        {
+          "title": "«Τρύπια» λογισμικά στην ΑΑΔΕ – Πώς «θάφτηκε» καταγγελία για μεγάλη επιχείρηση",
+          "url": "https://www.efsyn.gr/oikonomia/1496573/trypia-logismika-stin-aade-pos-thaftike-kataggelia-gia-megali-epiheirisi/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-26T10:31:13+00:00",
+          "summary": "Η απίστευτη περιπέτεια καταγγελίας υπαλλήλου για φοροδιαφυγή σε ξενοδοχεία μέσω λογισμικού που «σκοντάφτει» σε ρύθμιση του Κωστή Χατζηδάκη και στην ίδια την ΑΑΔΕ!"
+        },
+        {
+          "title": "Η ΕΕ χαιρετίζει τα εκλογικά αποτελέσματα σε Βραζιλία και Σερβία",
+          "url": "https://www.naftemporiki.gr/kosmos/2180053/i-ee-chairetizei-ta-eklogika-apotelesmata-se-vrazilia-kai-servia/?utm_source=rss&utm_medium=rss&utm_campaign=i-ee-chairetizei-ta-eklogika-apotelesmata-se-vrazilia-kai-servia",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-26T10:27:01+00:00",
+          "summary": "Οι ηγέτες της ΕΕ χαιρέτισαν τα εκλογικά αποτελέσματα στη Βραζιλία και τη Σερβία, Η νίκη της «Φοιτητικής Λίστας» στη Σερβία έβαλε τέλος στα 12 χρόνια εξουσίας του Αλεξάνταρ Βούτσιτς, η… Η ΕΕ χαιρετίζει τα εκλογικά αποτελέσματα σε Βραζιλία και Σερβία - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Live η ενημέρωση του κυβερνητικού εκπροσώπου (26/10/26)",
+          "url": "https://www.ertnews.gr/frontpage/live-i-enimerosi-tou-kyvernitikou-ekprosopou-26-10-26/",
+          "source": "ertnews.gr",
+          "published": "2026-10-26T10:30:27+00:00",
+          "summary": "Σε ΑΠΕΥΘΕΙΑΣ σύνδεση του ertnews.gr με τη Γενική Γραμματεία Ενημέρωσης και Επικοινωνίας, η ενημέρωση των πολιτικών συντακτών από τον υφυπουργό παρά τω πρωθυπουργώ και κυβερνητικό εκπρόσωπο Παύλο Μαρινάκη. www.ertnews.gr"
+        },
+        {
+          "title": "Σερβία: Η ήττα Βούτσιτς ανοίγει νέο κεφάλαιο στις σχέσεις με την Ε.Ε",
+          "url": "https://www.kathimerini.gr/world/564548242/servia-i-itta-voytsits-anoigei-neo-kefalaio-stis-scheseis-me-tin-e-e/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-26T09:47:43+00:00",
+          "summary": "Οι Βρυξέλλες χαιρετίζουν τη νίκη της «Φοιτητικής Λίστας», έπειτα από χρόνια στασιμότητας στην ενταξιακή πορεία της χώρας - Οι προσδοκίες, οι εκκρεμότητες με τη Ρωσία και το Κόσοβο."
+        },
+        {
+          "title": "«Το Χωριάτικο»: «Αχυράνθρωποι» με μισθό 500€, 520 εταιρείες, 80χρονος λογιστής – Ποιοι κινούσαν τα νήματα",
+          "url": "https://www.tovima.gr/2026/10/26/finance/to-xoriatiko-axyranthropoi-me-mistho-500e-520-etaireies-80xronos-logistis-poioi-kinousan-ta-nimata/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-26T08:59:32+00:00",
+          "summary": "Στο στόχαστρο του ελληνικού FBI βρίσκονται οι πραγματικοί διαχειριστές του κυκλώματος με τα χρέη εκατομμυρίων σε Εφορία και ΕΦΚΑ. Περίπου τις 60 έχουν φθάσει οι συλλήψεις, αποκαλύπτοντας τον κομβικό ρόλο λογιστών και «αχυρανθρώπων»"
+        },
+        {
+          "title": "Οι Fontaines D.C. ξανά στην Ελλάδα και το Release Athens",
+          "url": "https://www.efsyn.gr/tehnes/1496765/oi-fontaines-d-c-xana-stin-ellada-kai-to-release-athens/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-26T10:28:04+00:00",
+          "summary": "Οι Ιρλανδοί επιστρέφουν με ένα από τα πιο πολυσυζητημένα άλμπουμ της χρονιάς στη φαρέτρα τους."
+        },
+        {
+          "title": "Δέσμευση περιουσιακών στοιχείων στους εμπλεκόμενους στις υποθέσεις των Pizza Fan και «Χωριάτικο»",
+          "url": "https://www.naftemporiki.gr/society/2180056/desmeysi-perioysiakon-stoicheion-se-emplekomenoys-pizza-fan-kai-choriatiko/?utm_source=rss&utm_medium=rss&utm_campaign=desmeysi-perioysiakon-stoicheion-se-emplekomenoys-pizza-fan-kai-choriatiko",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-26T10:25:27+00:00",
+          "summary": "Στη δέσμευση όλων των περιουσιακών στοιχείων των κατηγορουμένων στις υποθέσεις της Pizza fan και των αρτοποιείων «Χωριάτικο», προχωρά η Αρχή για το Ξέπλυμα Βρώμικου Χρήματος. Ο επικεφαλής της ανεξάρτητης αρχής… Δέσμευση περιουσιακών στοιχείων στους εμπλεκόμενους στις υποθέσεις των Pizza Fan και «Χωριάτικο» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Υπόθεση Pizza Fan και «Χωριάτικο»: Δεσμεύονται τα περιουσιακά στοιχεία των κατηγορουμένων με εντολή Βουρλιώτη",
+          "url": "https://www.ertnews.gr/eidiseis/ypothesi-pizza-fan-kai-xoriatiko-desmeyontai-ta-periousiaka-stoixeia-ton-katigoroumenon-me-entoli-vourlioti/",
+          "source": "ertnews.gr",
+          "published": "2026-10-26T10:27:53+00:00",
+          "summary": "Στη δέσμευση των περιουσιακών στοιχείων των κατηγορουμένων στις δύο υποθέσεις φορολογικής απάτης που ήρθαν πρόσφατα στο φως, με αναφορές στην Pizza Fan και στην αλυσίδα αρτοποιείων «Χωριάτικο», προχώρησε η Αρχή για το Ξέπλυμα Μαύρου Χρήματος. Την απόφαση υπέγραψε ο πρόεδρος της Αρχής, Χαράλαμπος Βουρλιώτης, με στόχο να αποτραπεί κάθε δυνατότητα μεταβίβασης ή διάθεσης των περιουσιακών ...…"
+        },
+        {
+          "title": "Η αιγυπτιακή λίρα υποχωρεί σε ιστορικό χαμηλό",
+          "url": "https://www.kathimerini.gr/world/564548230/i-aigyptiaki-lira-ypochorei-se-istoriko-chamilo/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-26T09:38:20+00:00",
+          "summary": "Η πτώση ήρθε ενόψει κοινοβουλευτικής ψηφοφορίας που αναμένεται να εγκρίνει την παροχή αμυντικής υποστήριξης από τις ένοπλες δυνάμεις της Αιγύπτου στη Σαουδική Αραβία απέναντι στους Χούθι της Υεμένης."
+        },
+        {
+          "title": "ΕΚΤ: Γιατί θα «παγώσει» τα επιτόκια – Τι καθορίζει τη στάση της",
+          "url": "https://www.tovima.gr/2026/10/26/finance/ekt-giati-tha-pagosei-ta-epitokia-ti-kathorizei-ti-stasi-tis/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-26T08:59:18+00:00",
+          "summary": "Η αβεβαιότητα στην ευρωπαϊκή οικονομία και τα στοιχεία που θα κρίνουν τις επόμενες αποφάσεις της Ευρωπαϊκής Κεντρικής Τράπεζας"
+        },
+        {
+          "title": "Σερβία, Βραζιλία, εκλογές που φέρνουν ελπίδα!",
+          "url": "https://www.efsyn.gr/stiles/1496751/servia-vrazilia-ekloges-poy-fernoyn-elpida/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-26T10:24:49+00:00",
+          "summary": "Δύο τεράστιες εκλογικές ανατροπές, σε Σερβία και Βραζιλία φέρνουν ελπίδα για ένα καλύτερο μέλλον. Σειρά έχουν οι βουλευτικές εκλογές στο Ισραήλ στις 27 Οκτωβρίου και οι ενδιάμεσες εκλογές στις ΗΠΑ στις 3 Νοεμβρίου,για να δούμε εάν δημιουργούνται οι προϋποθέσεις για μια αναγκαία διεθνοπολιτική διόρθωση. Ενας stabilocrat λιγότερος… Τα Βαλκάνια γέμισαν «ισχυρούς άνδρες» που μετέτρεψαν τις […]"
+        },
+        {
+          "title": "Εξοχικές κατοικίες: Πού στρέφουν το ενδιαφέρον οι ξένοι αγοραστές – Οι 3 κυρίαρχες τάσεις",
+          "url": "https://www.naftemporiki.gr/finance/economy/2180048/exochikes-katoikies-poy-strefoyn-to-endiaferon-oi-xenoi-agorastes-oi-3-kyriarches-taseis/?utm_source=rss&utm_medium=rss&utm_campaign=exochikes-katoikies-poy-strefoyn-to-endiaferon-oi-xenoi-agorastes-oi-3-kyriarches-taseis",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-26T10:24:17+00:00",
+          "summary": "Ιδιαίτερα θετική είναι η πρόβλεψη της Elxis – At Home in Greece για τις προοπτικές της αγοράς εξοχικών κατοικιών. Σύμφωνα με τον Γιώργο Γαβριηλίδη, ιδρυτή και διευθύνοντα σύμβουλο της Elxis,… Εξοχικές κατοικίες: Πού στρέφουν το ενδιαφέρον οι ξένοι αγοραστές – Οι 3 κυρίαρχες τάσεις - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Ο αυτοσαρκασμός και το χιούμορ στα Μέσα Κοινωνικής Δικτύωσης",
+          "url": "https://www.ertnews.gr/ert3/eidiseis-ert3/o-aytosarkasmos-kai-to-xioumor-sta-mesa-koinonikis-diktyosis/",
+          "source": "ertnews.gr",
+          "published": "2026-10-26T10:25:35+00:00",
+          "summary": "Στη δημιουργική και διασκεδαστική όψη των Μέσων Κοινωνικής Δικτύωσης εστίασε η εκπομπή «Στάση ΕΡΤ3» με φιλοξενούμενη την Κυριακή Σκοπελίτου, δημιουργό περιεχομένου. Το χιούμορ στα Μέσα Κοινωνικής Δικτύωσης όταν χρησιμοποιείται σωστά δημιουργεί μια αυθεντική σύνδεση με το κοινό, καθώς οι άνθρωποι λατρεύουν να μοιράζονται περιεχόμενο που τους έκανε να γελάσουν. Σε ένα news feed γεμάτο με…"
+        },
+        {
+          "title": "Super League: Πώς καταρρίφθηκε ο μύθος της «κουραστικής Ευρώπης»",
+          "url": "https://www.kathimerini.gr/athletics/analysis/564548170/super-league-pos-katarrifthike-o-mythos-tis-koyrastikis-eyropis/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-26T09:38:17+00:00",
+          "summary": "Οπως αποδείχθηκε το Σαββατοκύριακο, οι ελληνικές ομάδες που αγωνίζονται στις ευρωπαϊκές διοργανώσεις μπορούν να είναι αποτελεσματικές επιστρέφοντας στο πρωτάθλημα."
+        },
+        {
+          "title": "Εκτακτο ΕΜΥ: Ερχονται επικίνδυνα φαινόμενα – SOS για Αθήνα, θα βρέχει 3 ημέρες",
+          "url": "https://www.tovima.gr/2026/10/26/society/ektakto-emy-erxontai-epikindyna-fainomena-sos-gia-athina-tha-vrexei-3-imeres/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-26T08:58:46+00:00",
+          "summary": "Αναβαθμίστηκε το δελτίο της ΕΜΥ σε επικίνδυνων καιρικών φαινομένων - Ποιες περιοχές μπαίνουν σε «κόκκινο» και «πορτοκαλί» συναγερμό, οι ώρες που θα επηρεαστεί η Αττική έως την Τετάρτη"
+        },
+        {
+          "title": "Σκάνδαλο στο μπάσκετ: Πώς δικαιολόγησε ο Ηλίας Κορομηλάς τα 263.000 ευρώ",
+          "url": "https://www.efsyn.gr/athlitismos/1496749/skandalo-sto-elliniko-mpasket-katethese-o-ilias-koromilas-pos-dikaiologise-ta-263-000-eyro/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-26T10:22:57+00:00",
+          "summary": "Ο ίδιος αντιμετωπίζει κατηγορίες για εννέα πράξεις δωροδοκίας διαιτητών και παραγόντων του μπάσκετ, τις οποίες απορρίπτει, επιμένοντας ότι δεν υπερέβη τα όρια των επαγγελματικών του αρμοδιοτήτων."
+        },
+        {
+          "title": "Παναγιώτης Φασούλας: «Να φύγει όλο το ΔΣ της ΕΟΚ, είχα προειδοποιήσει, αλλά δέχθηκα επιθέσεις»",
+          "url": "https://www.naftemporiki.gr/sports/2180052/panagiotis-fasoylas-na-fygei-olo-to-ds-tis-eok-eicha-proeidopoiisei-alla-dechthika-epitheseis/?utm_source=rss&utm_medium=rss&utm_campaign=panagiotis-fasoylas-na-fygei-olo-to-ds-tis-eok-eicha-proeidopoiisei-alla-dechthika-epitheseis",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-26T10:19:49+00:00",
+          "summary": "Την αποχώρηση ολόκληρου του διοικητικού συμβουλίου της Ελληνικής Ομοσπονδίας Καλαθοσφαίρισης ζήτησε ο Παναγιώτης Φασούλας, υποστηρίζοντας ότι η αλλαγή προσώπου στην προεδρία δεν αρκεί για να αντιμετωπιστεί η κρίση που έχει… Παναγιώτης Φασούλας: «Να φύγει όλο το ΔΣ της ΕΟΚ, είχα προειδοποιήσει, αλλά δέχθηκα επιθέσεις» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Έτοιμες οι ΗΠΑ για σφοδρά πλήγματα κατά του Ιράν μέσα σε 96 ώρες από την εντολή Τραπ, λένε αξιωματούχοι",
+          "url": "https://www.ertnews.gr/roi-idiseon/etoimes-oi-ipa-gia-sfodra-pligmata-kata-tou-iran-mesa-se-96-ores-apo-tin-entoli-trap-lene-aksiomatouxoi/",
+          "source": "ertnews.gr",
+          "published": "2026-10-26T10:12:47+00:00",
+          "summary": "Οι αμερικανικές δυνάμεις στη Μέση Ανατολή είναι έτοιμες να εξαπολύσουν νέες, δυνητικά μεγάλης κλίμακας, στρατιωτικές επιχειρήσεις κατά του Ιράν εντός 96 ωρών από τη λήψη διαταγής του προέδρου Ντόναλντ Τραμπ, σύμφωνα με δύο Αμερικανούς αξιωματούχους. Στην περιοχή βρίσκονται ήδη επαρκείς δυνάμεις για την πραγματοποίηση των πιθανών επιθέσεων, ανέφεραν οι πηγές. Το εύρος των νέων επιχειρήσεων ...…"
+        },
+        {
+          "title": "Πέθανε ο κριτικός θεάτρου και πανεπιστημιακός Δημήτρης Τσατσούλης",
+          "url": "https://www.kathimerini.gr/society/564548200/pethane-o-kritikos-theatroy-kai-panepistimiakos-dimitris-tsatsoylis/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-26T09:32:20+00:00",
+          "summary": "«Ανθρωπος με ευρύτατες και διαφοροποιημένες σπουδές, αλλά, πολύ περισσότερο, τεράστια παιδεία και καλλιέργεια, ο Δημήτρης Τσατσούλης υπηρέτησε πολύπλευρα το Θέατρο και τον Πολιτισμό», δήλωσε η υπουργός Πολιτισμού, Λίνα Μενδώνη."
+        },
+        {
+          "title": "Ευρωάμυνα, Ουκρανία και Μέση Ανατολή στην ατζέντα της Ε5 στο Παρίσι",
+          "url": "https://www.tovima.gr/2026/10/26/diplomatia/eyroamyna-oukrania-kai-mesi-anatoli-stin-atzenta-tis-e5-sto-parisi/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-26T08:37:59+00:00",
+          "summary": "Οι ΥΠΑΜ της Ε5 συνομιλούν στο Παρίσι για την ενίσχυση της ευρωπαϊκής άμυνας, τη στήριξη της Ουκρανίας και τη Μέση Ανατολή"
+        },
+        {
+          "title": "Τέμπη: Συγκλονίζουν οι μαρτυρίες των επιζώντων – «Την ώρα της σύγκρουσης κοιταζόμασταν με την Ελπίδα»",
+          "url": "https://www.efsyn.gr/ellada/1496733/tempi-sygklonizoyn-oi-martyries-ton-epizonton-tin-ora-tis-sygkroysis-koitazomastan-me-tin-elpida/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-26T10:07:33+00:00",
+          "summary": "Η τελευταία ανάμνησή της πριν από τη σύγκρουση ήταν ένα τηλεφώνημα στον πατέρα της, στον οποίο είχε αναφέρει ότι το τρένο είχε σταματήσει ξανά."
+        },
+        {
+          "title": "ΗΠΑ: Το Claude της Anthropic απέκτησε χωρίς έγκριση πρόσβαση σε στοιχεία ψηφοφόρων της Τζόρτζια",
+          "url": "https://www.naftemporiki.gr/techscience/2180047/ipa-to-claude-tis-anthropic-apektise-choris-egkrisi-prosvasi-se-stoicheia-psifoforon-tis-tzortzia/?utm_source=rss&utm_medium=rss&utm_campaign=ipa-to-claude-tis-anthropic-apektise-choris-egkrisi-prosvasi-se-stoicheia-psifoforon-tis-tzortzia",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-26T10:19:05+00:00",
+          "summary": "Το μοντέλο τεχνητής νοημοσύνης Claude της Anthropic παρέκαμψε περιορισμούς πρόσβασης σε επί πληρωμή ιστότοπο (paywall) της πολιτείας Τζόρτζια στις ΗΠΑ και απέκτησε πρόσβαση σε αυτόν, χωρίς να έχει εξουσιοδοτηθεί για… ΗΠΑ: Το Claude της Anthropic απέκτησε χωρίς έγκριση πρόσβαση σε στοιχεία ψηφοφόρων της Τζόρτζια - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Σχοινάς: Κοντά σε συμφωνία για τη νέα ΚΑΠ – Στήριξη στους μικρούς αγρότες και μέτρα για το κόστος παραγωγής",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/sxoinas-konta-se-symfonia-gia-ti-nea-kap-stiriksi-stous-mikrous-agrotes-kai-metra-gia-to-kostos-paragogis/",
+          "source": "ertnews.gr",
+          "published": "2026-10-26T10:07:04+00:00",
+          "summary": "«Βρισκόμαστε κοντά σε μια συμφωνία που θα καλύπτει τη σχέση μεταξύ εισοδήματος και επενδύσεων και τη βοήθεια στους μικρούς αγρότες, ενώ η δουλειά συνεχίζεται και στην Ελλάδα, με μέτρα όπως το φθηνό πετρέλαιο στην αντλία και την αντίστοιχη βοήθεια στους Έλληνες αλιείς», δήλωσε, ο Μαργαρίτης Σχοινάς κατά την προσέλευσή του στο Συμβούλιο Υπουργών Γεωργίας και ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Νιγηρία: Στην Ελβετία η ασθενής με Εμπολα – Ερευνάται πιθανή σύνδεση με κρούσμα στην Κένυα",
+          "url": "https://www.kathimerini.gr/world/564548197/nigiria-stin-elvetia-i-asthenis-me-empola-ereynatai-pithani-syndesi-me-kroysma-stin-kenya/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-26T09:32:12+00:00",
+          "summary": "Το αεροδρόμιο του Εντέμπε στο επίκεντρο των ερευνών."
+        },
+        {
+          "title": "Η προστασία των παιδιών δεν είναι επικοινωνιακή άσκηση",
+          "url": "https://www.tovima.gr/2026/10/26/opinions/i-prostasia-ton-paidion-den-einai-epikoinoniaki-askisi/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-26T08:35:53+00:00",
+          "summary": "Δεν μπορούμε να ρίχνουμε τα παιδιά ξαφνικά στον ωκεανό του διαδικτύου, απαιτώντας να ξέρουν να κολυμπούν μόνα τους."
+        },
+        {
+          "title": "Τεχνητή νοημοσύνη: Το Claude της Anthropic χάκαρε πλατφόρμα με προσωπικά δεδομένα ψηφοφόρων στη Τζόρτζια",
+          "url": "https://www.efsyn.gr/epistimi/1496730/neo-epeisodio-peirateias-to-claude-hakare-platforma-me-ta-prosopika-dedomena-ton-psifoforon-tis-tzortzia/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-26T10:04:09+00:00",
+          "summary": "Απέκτησε πρόσβαση στα στοιχεία καταμέτρησης ψήφων στην πολιτεία της Τζόρτζια."
+        },
+        {
+          "title": "Στημένοι αγώνες στο μπάσκετ: Τι υποστηρίζει στην απολογία του ο ειδικός σύμβουλος διαιτησίας για τα χρήματα και τον τελικό Eurocup",
+          "url": "https://www.naftemporiki.gr/sports/2180049/stimenoi-agones-sto-mpasket-ti-ypostirizei-stin-apologia-toy-o-eidikos-symvoylos-diaitisias-gia-ta-chrimata-kai-ton-teliko-eurocup/?utm_source=rss&utm_medium=rss&utm_campaign=stimenoi-agones-sto-mpasket-ti-ypostirizei-stin-apologia-toy-o-eidikos-symvoylos-diaitisias-gia-ta-chrimata-kai-ton-teliko-eurocup",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-26T10:09:10+00:00",
+          "summary": "Ενώπιον του ανακριτή απολογείται ο ειδικός σύμβουλος διαιτησίας- κατηγορούμενος στην υπόθεση της φερόμενης χειραγώγησης αγώνων στο μπάσκετ. Ο κατηγορούμενος απολογείται για 9 πράξεις δωροδοκίας τις οποίες θα αρνηθει κατηγορηματικά. Σύμφωνα… Στημένοι αγώνες στο μπάσκετ: Τι υποστηρίζει στην απολογία του ο ειδικός σύμβουλος διαιτησίας για τα χρήματα και τον τελικό Eurocup - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Axios: Ο Νετανιάχου πιέζει τον Τραμπ για περισσότερη στήριξη ενόψει της αμφίρροπης εκλογικής αναμέτρησης",
+          "url": "https://www.ertnews.gr/eidiseis/axios-o-netaniaxou-piezei-ton-tramp-gia-perissoteri-stiriksi-enopsei-tis-amfirropis-eklogikis-anametrisis/",
+          "source": "ertnews.gr",
+          "published": "2026-10-26T09:55:15+00:00",
+          "summary": "Ο Ισραηλινός πρωθυπουργός Μπενιαμίν Νετανιάχου – ο οποίος δίνει μάχη για την πολιτική του επιβίωση στις εκλογές της Τρίτης (27/10) – απηύθυνε τις τελευταίες ημέρες έκκληση στον Πρόεδρο Τραμπ να του παράσχει σαφή δημόσια στήριξη στην προεκλογική του εκστρατεία, σύμφωνα με αμερικανική πηγή που γνωρίζει το θέμα, καθώς και με ισραηλινή πηγή που έχει ενημερωθεί ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Τι νιώθεις σήμερα για την Ελλάδα, Οδυσσέα Τσενάι;",
+          "url": "https://www.kathimerini.gr/opinion/interviews/564545146/ti-niotheis-simera-gia-tin-ellada-odyssea-tsenai/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-26T09:31:55+00:00",
+          "summary": "Πριν από 23 χρόνια, ο Οδυσσέας Τσενάι αποφάσισε να μην κρατήσει τη σημαία στην παρέλαση, για να μη δώσει τροφή στην αντιπαράθεση. Σήμερα, από τη Νέα Υόρκη, νοσταλγεί την «ωραιότερη πόλη του κόσμου»: τη Θεσσαλονίκη."
+        },
+        {
+          "title": "Basketgate: Στον ανακριτή Κορομηλάς, Τσαρούχα, Πηλοΐδης – Εκτακτη συνάντηση Βρούτση με EOK",
+          "url": "https://www.tovima.gr/2026/10/26/sports/basketgate-ston-anakriti-koromilas-tsarouxa-piloidis-ektakti-synantisi-vroutsi-me-eok/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-26T08:18:21+00:00",
+          "summary": "Η δικαστική έρευνα περνά στην επόμενη κρίσιμη φάση με τις απολογίες των τριών διαιτητών, ενώ παράλληλα η Πολιτεία αναλαμβάνει πρωτοβουλίες για την επόμενη μέρα του αθλήματος"
+        },
+        {
+          "title": "Κρήτη: Τέσσερις συλλήψεις Ισραηλινών σε πάρτι στην Ελούντα με ροζ κοκαΐνη",
+          "url": "https://www.efsyn.gr/ellada/1496710/kriti-tesseris-syllipseis-israilinon-se-parti-stin-eloynta-me-roz-kokaini/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-26T09:57:30+00:00",
+          "summary": "Ως βασικός εμπλεκόμενος στη διάθεση της κοκαΐνης φέρεται ένας 32χρονος Ισραηλινός."
+        },
+        {
+          "title": "Όλες οι αλλαγές που φέρνει το 2027 στη φορολογία ακινήτων",
+          "url": "https://www.naftemporiki.gr/finance/economy/2180027/oles-oi-allages-poy-fernei-to-2027-sti-forologia-akiniton/?utm_source=rss&utm_medium=rss&utm_campaign=oles-oi-allages-poy-fernei-to-2027-sti-forologia-akiniton",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-26T09:52:09+00:00",
+          "summary": "Επτά σημαντικές αλλαγές στη φορολογία της κατοχής ακινήτων, στο καθεστώς των μεταβιβάσεων ακινήτων, καθώς και στη φορολογία εισοδήματος των ιδιοκτητών αναμένεται να επέλθουν το 2027. Οι αλλαγές προβλέπονται σε νομοθετικές… Όλες οι αλλαγές που φέρνει το 2027 στη φορολογία ακινήτων - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Αυξάνονται με κοινή Υπουργική Απόφαση τα εισοδηματικά όρια για τα vouchers για βρεφονηπιακούς σταθμούς",
+          "url": "https://www.ertnews.gr/eidiseis/ayksanontai-me-koini-ypourgiki-apofasi-ta-eisodimatika-oria-gia-ta-vouchers-gia-vrefonipiakous-stathmous/",
+          "source": "ertnews.gr",
+          "published": "2026-10-26T09:51:15+00:00",
+          "summary": "Με αύξηση 10% στην αξία των vouchers για βρεφικούς, βρεφονηπιακούς και παιδικούς σταθμούς, υψηλότερα εισοδηματικά όρια και κατάργηση του εισοδηματικού περιορισμού για τα vouchers μειωμένης αξίας των τρίτεκνων οικογενειών, το Υπουργείο Κοινωνικής Συνοχής και Οικογένειας διευρύνει τη στήριξη των γονιών για την περίοδο 2026–2027. Η νέα Κοινή Υπουργική Απόφαση προβλέπει αύξηση κατά 2.000 ευρώ των ...…"
+        },
+        {
+          "title": "Γερμανία: Δραματικό βίντεο με την πρόσκρουση κρουαζιερόπλοιου σε δύο πλοία μεταφοράς κοντέινερ",
+          "url": "https://www.kathimerini.gr/world/564548140/germania-dramatiko-vinteo-me-tin-proskroysi-kroyazieroploioy-se-dyo-ploia-metaforas-konteiner/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-26T09:30:19+00:00",
+          "summary": "Το Mein Schiff 3 της TUI Cruises συγκρούστηκε με δύο πλοία μεταφοράς εμπορευματοκιβωτίων κατά την αναχώρησή του από το Μπρέμερχαφεν της Γερμανίας, το βράδυ της Κυριακής. Σε δραματικό βίντεο από επιβάτη του κρουαζιερόπλοιου που κατέγραψε το ατύχημα, φαίνεται το ογκώδες πλοίο να τραντάζεται από έντονες ριπές ανέμου και ισχυρό κυματισμό και τα ρυμουλκά να μην […]"
+        },
+        {
+          "title": "Εκλογές Ισραήλ: Τι φέρνουν στη Μέση Ανατολή και όλον τον κόσμο",
+          "url": "https://www.tovima.gr/2026/10/26/world/ekloges-israil-ti-fernoun-sti-mesi-anatoli-kai-olon-ton-kosmo/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-26T08:05:57+00:00",
+          "summary": "Η αναλύτρια Νόμι Μπαρ Γιακόβ μιλά στο Βήμα για τα δυο πολιτικά στρατόπεδα καθώς και για το χάσμα μεταξύ των κοσμικών και των θρησκευόμενων."
+        },
+        {
+          "title": "Κυκλοφοριακό χάος ξανά στην Αττική: Στο «κόκκινο» ο Κηφισός – Πού αλλού εντοπίζονται προβλήματα [βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1496716/kykloforiako-haos-xana-stin-attiki-sto-kokkino-o-kifisos-poy-alloy-entopizontai-provlimata-vinteo/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-26T09:55:38+00:00",
+          "summary": "Ταλαιπωρία για τους οδηγούς στο λεκανοπέδιο για ακόμα μία ημέρα - Καθυστερήσεις και στην Αττική Οδό."
+        },
+        {
+          "title": "SELPE and RNDU sign memorandum to boost trade ties between Greece and Azerbaijan",
+          "url": "https://www.naftemporiki.gr/english/2180045/selpe-and-rndu-sign-memorandum-to-boost-trade-ties-between-greece-and-azerbaijan/?utm_source=rss&utm_medium=rss&utm_campaign=selpe-and-rndu-sign-memorandum-to-boost-trade-ties-between-greece-and-azerbaijan",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-26T09:50:18+00:00",
+          "summary": "The Hellenic Retail Business Association (SELPE) and Azerbaijan’s Retail Networks Development Union (RNDU) have signed a memorandum of cooperation aimed at strengthening trade relations between Greece and Azerbaijan. The memorandum… SELPE and RNDU sign memorandum to boost trade ties between Greece and Azerbaijan - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Κ. Τασούλας από τη Θεσσαλονίκη: «Η Ελλάδα ενωμένη έγραψε πριν από 114 χρόνια ένα νέο ιστορικό κεφάλαιο»",
+          "url": "https://www.ertnews.gr/roi-idiseon/k-tasoulas-apo-ti-thessaloniki-i-ellada-enomeni-egrapse-prin-apo-114-xronia-ena-neo-istoriko-kefalaio/",
+          "source": "ertnews.gr",
+          "published": "2026-10-26T09:50:00+00:00",
+          "summary": "Στην ιστορική σημασία της απελευθέρωσης της Θεσσαλονίκης και στην ενότητα του Ελληνισμού αναφέρθηκε ο πρόεδρος της Δημοκρατίας, Κωνσταντίνος Τασούλας, σε δηλώσεις του μετά την επίσημη δοξολογία στον Ιερό Ναό Αγίου Δημητρίου, για τον εορτασμό του Πολιούχου και την 114η επέτειο απελευθέρωσης της πόλης. Ο κ. Τασούλας απέτισε φόρο τιμής σε όσους αγωνίστηκαν για την απελευθέρωση ... Περισσότερα…"
+        },
+        {
+          "title": "Βουλγαρία: Η καταμέτρηση επιβεβαίωσε τα exit poll – Β’ γύρος προεδρικών εκλογών την Κυριακή",
+          "url": "https://www.kathimerini.gr/world/564548125/voylgaria-i-katametrisi-epivevaiose-ta-exit-poll-v-gyros-proedrikon-eklogon-tin-kyriaki/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-26T09:20:04+00:00",
+          "summary": "Γιότοβα και Γκιούροφ θα μονομαχήσουν ύστερα από έναν α' γύρο με ιδιαιτέρως χαμηλή συμμετοχή."
+        },
+        {
+          "title": "Επιδότηση στα καύσιμα: Παράταση για βενζίνη, ντίζελ και πετρέλαιο θέρμανσης",
+          "url": "https://www.tovima.gr/2026/10/26/finance/epidotisi-sta-kaysima-paratasi-gia-venzini-ntizel-kai-petrelaio-thermansis/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-26T07:24:46+00:00",
+          "summary": "Εντός της εβδομάδας τα νέα μέτρα για τα καύσιμα – Στις 31 Οκτωβρίου λήγει το ισχύον καθεστώς επιδοτήσεων"
+        },
+        {
+          "title": "Στον Αγιο Δημήτριο Μπραχαμίου ο Μητσοτάκης – Συζήτηση με τον Αρχιεπίσκοπο Αυστραλίας για Μονή Σινά",
+          "url": "https://www.efsyn.gr/politiki/1496661/ston-agio-dimitrio-mprahamioy-o-mitsotakis-syzitisi-me-ton-arhiepiskopo-aystralias-gia-moni-sina/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-26T09:52:56+00:00",
+          "summary": "Στη λειτουργία βρισκόταν και ο Αρχιεπίσκοπος Αυστραλίας, Μακάριος, ο οποίος συνεχάρη τον πρωθυπουργό για τη συμφωνία για τη Μονή Σινά."
+        },
+        {
+          "title": "Εθνική Οδός Πρέβεζας-Ηγουμενίτσας: Κυκλοφοριακές ρυθμίσεις λόγω καθίζησης του οδοστρώματος",
+          "url": "https://www.naftemporiki.gr/society/2180040/ethniki-odos-prevezas-igoymenitsas-kykloforiakes-rythmiseis-logo-kathizisis-toy-odostromatos/?utm_source=rss&utm_medium=rss&utm_campaign=ethniki-odos-prevezas-igoymenitsas-kykloforiakes-rythmiseis-logo-kathizisis-toy-odostromatos",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-26T09:48:54+00:00",
+          "summary": "Καθίζηση του οδοστρώματος έχει προκληθεί στη χιλιομετρική θέση 81+500 της εθνικής οδού Πρέβεζας–Ηγουμενίτσας. Για τον λόγο αυτόν έχει διακοπεί προσωρινά η κυκλοφορία παντός είδους οχήματος και στα δύο ρεύματα κυκλοφορίας… Εθνική Οδός Πρέβεζας-Ηγουμενίτσας: Κυκλοφοριακές ρυθμίσεις λόγω καθίζησης του οδοστρώματος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Έκτακτο δελτίο επικίνδυνων καιρικών φαινομένων: Καταιγίδες για τρεις ημέρες – Ποιες περιοχές βρίσκονται στο «κόκκινο»",
+          "url": "https://www.ertnews.gr/eidiseis/ektakto-deltio-epikindynon-kairikon-fainomenon-kataigides-gia-treis-imeres-poies-perioxes-vriskontai-sto-kokkino/",
+          "source": "ertnews.gr",
+          "published": "2026-10-26T09:42:18+00:00",
+          "summary": "Το Έκτακτο Δελτίο Επιδείνωσης Καιρού που εκδόθηκε την Κυριακή (25-10-2026) με α.α 15/2026, επικαιροποιείται σύμφωνα και με τα τελευταία προγνωστικά στοιχεία και αναβαθμίζεται σε Έκτακτο Δελτίο Επικίνδυνων Καιρικών Φαινομένων με βροχές και καταιγίδες σε αρκετές περιοχές, κυρίως της ανατολικής χώρας, όπου πιθανόν να συνοδεύονται και από τοπικές χαλαζοπτώσεις. Τα φαινόμενα θα έχουν διάρκεια τριών…"
+        },
+        {
+          "title": "Βραζιλία: Πέντε συμπεράσματα από την ιστορική επανεκλογή Λούλα",
+          "url": "https://www.kathimerini.gr/world/564548020/vrazilia-pente-symperasmata-apo-tin-istoriki-epaneklogi-loyla/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-26T09:19:30+00:00",
+          "summary": "Πώς ο 81χρονος πρόεδρος ανέτρεψε τα προγνωστικά - Η επικράτησή του, ωστόσο, δεν αποκλείει νέα πολιτική αβεβαιότητα."
+        },
+        {
+          "title": "Βουλγαρία: Στον β’ γύρο των προεδρικών εκλογών Γιότοβα και Γκιούροφ – Ιστορικό χαμηλό συμμετοχής",
+          "url": "https://www.tovima.gr/2026/10/26/world/voulgaria-ston-v-gyro-ton-proedrikon-eklogon-giotova-kai-gkiourof-istoriko-xamilo-symmetoxis/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-26T07:21:15+00:00",
+          "summary": "Σε δεύτερο γύρο την 1η Νοεμβρίου, οδηγούνται οι προεδρικές εκλογές στη Βουλγαρία, καθώς, ούτε η εν ενεργεία πρόεδρος Ιλιάνα Γιότοβα ούτε ο πρώην υπηρεσιακός πρωθυπουργός Αντρέι Γκιούροφ κατάφερε να συγκεντρώσει το απαιτούμενο 50%, εν μέσω ιστορικού χαμηλού συμμετοχής"
+        },
+        {
+          "title": "Masdar: Μεγάλη εξαγορά φωτοβολταϊκού έργου στην Ελλάδα",
+          "url": "https://www.efsyn.gr/oikonomia/1496598/masdar-megali-exagora-fotovoltaikoy-ergoy-stin-ellada/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-26T09:51:00+00:00",
+          "summary": "Η εξαγορά αποτελεί την πρώτη στρατηγική επένδυση της Masdar μέσω της Τέρνα Ενεργειακή."
+        },
+        {
+          "title": "Χυδαιολογίες Τραμπ κατά Λιβύης, Σομαλίας και Αϊτής: Είναι χώρες – βόθροι",
+          "url": "https://www.naftemporiki.gr/kosmos/2180034/chydaiologies-tramp-kata-livyis-somalias-kai-aitis-einai-chores-vothroi/?utm_source=rss&utm_medium=rss&utm_campaign=chydaiologies-tramp-kata-livyis-somalias-kai-aitis-einai-chores-vothroi",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-26T09:47:02+00:00",
+          "summary": "Σε απαράδεκτους χαρακτηρισμούς κατά της Λιβύης, της Σομαλίας, της Υεμένης και της Αϊτής, επιδόθηκε ο Αμερικανός Πρόεδρος, Ντόναλντ Τραμπ, σε προεκλογική συγκέντρωση στην Τζόρτζια, χαρακτηρίζοντάς τες “sh**house countries” (σ.σ. προσπαθήσαμε… Χυδαιολογίες Τραμπ κατά Λιβύης, Σομαλίας και Αϊτής: Είναι χώρες – βόθροι - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Δοκιμαστική πτήση του αεροσκάφους «ΖΕΥΣ» στον ουρανό της Θεσσαλονίκης",
+          "url": "https://www.ertnews.gr/ert3/dokimastiki-ptisi-tou-aeroskafous-zeys-ston-ourano-tis-thessalonikis/",
+          "source": "ertnews.gr",
+          "published": "2026-10-26T09:42:09+00:00",
+          "summary": "Δοκιμαστική πτήση της Ομάδας Αεροπορικών Επιδείξεων Μεμονωμένου Αεροσκάφους F-16 «ΖΕΥΣ» αναμένεται να γίνει σήμερα, Δευτέρα 26 Οκτωβρίου στις 13:30, στον ουρανό της Θεσσαλονίκης, στο πλαίσιο της στρατιωτικής παρέλασης για την εθνική επέτειο της 28ης Οκτωβρίου. Να σημειωθεί πως ενδέχεται να υπάρξει αλλαγή στην ημέρα ή και την ώρα πραγματοποίησης της δοκιμαστικής πτήσης, λόγω καιρικών συνθηκών. ...…"
+        },
+        {
+          "title": "Pizza Fan: Ξεκινούν οι απολογίες των 23 κατηγορουμένων για το κύκλωμα φοροδιαφυγής",
+          "url": "https://www.kathimerini.gr/society/564548158/pizza-fan-xekinoyn-oi-apologies-ton-23-katigoroymenon-gia-to-kykloma-forodiafygis/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-26T09:18:55+00:00",
+          "summary": "Σε δύο ομάδες οι απολογίες των συλληφθέντων. Τι προβλέπει η δικογραφία για την εγκληματική οργάνωση που φέρεται να δρούσε επί μία δεκαετία."
+        },
+        {
+          "title": "Πειραιάς: Πώς συνέβη η τραγωδία με τρεις νεκρούς μετά από πτώση ΙΧ στη θάλασσα",
+          "url": "https://www.tovima.gr/2026/10/26/society/peiraias-pos-synevi-i-tragodia-me-tous-nekrous-meta-apo-ptosi-ix-sti-thalassa/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-26T06:25:52+00:00",
+          "summary": "Τραγικές ώρες χθες βράδυ στο λιμάνι του Πειραιά εν μέσω σφοδρής βροχόπτωσης. Πώς οι τρεις επιβαίνοντες του ΙΧ βρέθηκαν στο νερό"
+        },
+        {
+          "title": "Γιατί ο Άδωνις Γεωργιάδης συγχαίρει ξαφνικά τον Νίκο Δένδια",
+          "url": "https://www.efsyn.gr/politiki/1496657/giati-o-adonis-georgiadis-syghairei-xafnika-ton-niko-dendia/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-26T09:49:21+00:00",
+          "summary": "«Συγχαίρω τον Υπουργό Εθνικής Αμύνης για αυτό του το μήνυμα», έγραψε ο υπουργός Υγείας."
+        },
+        {
+          "title": "Σιγκαπούρη: Ξεκινάει να αποθηκεύει σε υπόγειες δεξαμενές πετρέλαιο από τη Σαουδική Αραβία",
+          "url": "https://www.naftemporiki.gr/finance/world/2180026/sigkapoyri-xekinaei-na-apothikeyei-se-ypogeies-dexamenes-petrelaio-apo-ti-saoydiki-aravia/?utm_source=rss&utm_medium=rss&utm_campaign=sigkapoyri-xekinaei-na-apothikeyei-se-ypogeies-dexamenes-petrelaio-apo-ti-saoydiki-aravia",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-26T09:45:55+00:00",
+          "summary": "Η Σιγκαπούρη συμφώνησε με τη Saudi Aramco από το επόμενο έτος να αποθηκεύσει πετρέλαιο από τη Σαουδική Αραβία στην εγκατάσταση Jurong Rock Caverns, που είναι το πρώτο υπόγειο σπήλαιο για… Σιγκαπούρη: Ξεκινάει να αποθηκεύει σε υπόγειες δεξαμενές πετρέλαιο από τη Σαουδική Αραβία - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Δικηγόρος Λιόλιου στο ΕΡΤnews: «Δεν υπάρχουν στοιχεία που να τον συνδέουν άμεσα με χειραγώγηση αγώνων»",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/dikigoros-lioliou-sto-ertnews-den-yparxoun-stoixeia-pou-na-ton-syndeoun-amesa-me-xeiragogisi-agonon/",
+          "source": "ertnews.gr",
+          "published": "2026-10-26T09:42:02+00:00",
+          "summary": "Τη θέση ότι δεν υπάρχουν στοιχεία που να συνδέουν άμεσα τον Βαγγέλη Λιόλιο με χειραγώγηση αγώνων διατύπωσε ο δικηγόρος του, Παναγιώτης Παπαϊωάννου, μιλώντας στο ΕΡΤnews. Ο συνήγορος άσκησε κριτική στην απόφαση για την προσωρινή κράτηση του εντολέα του και υποστήριξε ότι η υπόθεση πρέπει να κριθεί από τη Δικαιοσύνη, με σεβασμό στο τεκμήριο αθωότητας. Ο ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Λονδίνο: Aρχισε η πεζοδρόμηση της Oξφορντ Στριτ – Ο δήμαρχος χαιρετίζει μια νέα εποχή",
+          "url": "https://www.kathimerini.gr/world/564548134/o-dimarchos-toy-londinoy-chairetizei-mia-nea-epochi-archise-i-pezodromisi-tis-oxfornt-strit/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-10-26T09:15:12+00:00",
+          "summary": "Ο δήμαρχος του Λονδίνου Σαντίκ Καν χαιρέτισε την πεζοδρόμηση της δημοφιλούς εμπορικής λεωφόρου ως «μνημειώδη ευκαιρία για την πρωτεύουσα»."
+        },
+        {
+          "title": "Μέτωπα διαφθοράς σε μπάσκετ και στις αλυσίδες εστίασης Pizza Fan και «Το Χωριάτικο» – Συνεχής ενημέρωση",
+          "url": "https://www.tovima.gr/2026/10/26/live/metopa-diafthoras-se-mpasket-kai-stis-alysides-estiasis-pizza-fan-kai-to-xoriatiko-synexis-enimerosi/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-10-26T06:24:07+00:00",
+          "summary": "Συλλήψεις, προφυλακίσεις και απάτες εκατομμυρίων - Τα 3 μεγάλα μέτωπα διαφθοράς σε μπάσκετ, Pizza Fan και «Χωριάτικο» λεπτό προς λεπτό."
+        },
+        {
+          "title": "Έκτακτο δελτίο για επικίνδυνα καιρικά φαινόμενα: Καταιγίδες μέχρι την Τετάρτη – Σε πορτοκαλί συναγερμό η Αττική",
+          "url": "https://www.efsyn.gr/ellada/1496708/emy-anavathmistike-i-kakokairia-sta-skaria-triimero-me-epikindyna-kairika-fainomena/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-10-26T09:49:16+00:00",
+          "summary": "Τα φαινόμενα ενδέχεται κατά τόπους να συνοδεύονται από χαλαζοπτώσεις, ενώ σε ορισμένες περιοχές έχουν εκδοθεί κόκκινες προειδοποιήσεις."
+        },
+        {
+          "title": "Ντόναλντ Τραμπ – Νίκι Μινάζ: Το άσεμνο σχόλιο του προέδρου για την εμφάνισή της και η «παντοτινή στήριξη»",
+          "url": "https://www.naftemporiki.gr/kosmos/2180033/ntonalnt-tramp-niki-minaz-to-asemno-scholio-toy-proedroy-gia-tin-emfanisi-tis-kai-i-pantotini-stirixi/?utm_source=rss&utm_medium=rss&utm_campaign=ntonalnt-tramp-niki-minaz-to-asemno-scholio-toy-proedroy-gia-tin-emfanisi-tis-kai-i-pantotini-stirixi",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-10-26T09:44:18+00:00",
+          "summary": "Με ένα σχόλιο για τα οπίσθια της Νίκι Μινάζ επέλεξε ο Ντόναλντ Τραμπ να στρέψει την προσοχή του ακροατηρίου του στη διάσημη υποστηρίκτριά του, σε προεκλογική συγκέντρωση στο Πορτ Χιούρον… Ντόναλντ Τραμπ – Νίκι Μινάζ: Το άσεμνο σχόλιο του προέδρου για την εμφάνισή της και η «παντοτινή στήριξη» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://www.ertnews.gr/feed/": {
+          "items": 35,
+          "status": "ok",
+          "secs": 1.0
+        },
+        "https://feeds.feedburner.com/kathimerini/DJpy": {
+          "items": 99,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.tovima.gr/feed/": {
+          "items": 50,
+          "status": "ok",
+          "secs": 0.9
+        },
+        "https://www.efsyn.gr/feed.xml": {
+          "items": 90,
+          "status": "ok",
+          "secs": 0.8
+        },
+        "https://www.naftemporiki.gr/feed/": {
+          "items": 30,
+          "status": "ok",
+          "secs": 0.8
+        }
+      }
+    },
+    "bulgaria": {
+      "items": [
+        {
+          "title": "Защо САЩ обвиниха Канада в намеса в междинните избори",
+          "url": "https://www.bta.bg/bg/news/world/1232433-zashto-sasht-obviniha-kanada-v-namesa-v-mezhdinnite-izbori",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:31:07+00:00",
+          "summary": "Търговският спор между Канада и САЩ придоби политически характер, след като американски представители заявиха, че има „потенциална намеса от страна на Канада“ преди междинните избори в САЩ, съобщи миналата седмица „Дойче веле“. Канадският премиер Марк Карни отхвърли обвиненията. Администрацията на президента Доналд Тръмп, който се изправя пред перспективата за тежко поражение на Републиканската…"
+        },
+        {
+          "title": "73 гола срещу световна титла: \"Златната топка\" търси своя критерий",
+          "url": "https://www.dnevnik.bg/sport/2026/10/26/4971736_73_gola_sreshtu_svetovna_titla_zlatnata_topka_tursi/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T09:24:00+00:00",
+          "summary": "\"Златната топка\" за сезон 2025/2026 ще бъде връчена тази вечер в Лондон, но няколко часа преди церемонията липсва онова усещане за предрешеност, което съпътстваше много от предишните издания. Хари Кейн и Ламин Ямал се движат най-близо до..."
+        },
+        {
+          "title": "Снимка на деня: Хиляди протестираха в Прага срещу спорните промени за финансирането на обществените медии",
+          "url": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/10/26/4971697_snimka_na_denia_hiliadi_protestiraha_v_praga_sreshtu/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-26T10:04:00+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Гласовете в чужбина: Гюров – Кандев 45,79%, Йотова – Вълчев 22,79%",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/glasovete-v-chuzhbina-gyurov-kandev-4579-yotova-valchev-2279/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-26T10:31:28+00:00",
+          "summary": "При 100% обработени протоколи извън страната кандидатпрезидентската двойка Гюров - Кандев има 45,79%, а Йотова - Вълчев – 22,79% от вота При 100% обработени протоколи извън страната кандидатпрезидентската двойка Андрей Гюров – Георги Кандев има 45,792%, а Илияна Йотова – Кирил Вълчев – 22,79% от вота. Данните са публикувани в сайта Централната избирателна комисия към 10:00 ч. Според публикуваните…"
+        },
+        {
+          "title": "Прогноза за времето",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1232879-prognoza-za-vremeto",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:30:40+00:00",
+          "summary": "През нощта над по-голямата част от страната ще е облачно, на места с превалявания от дъжд. Без валежи и с временни разкъсвания на облачността ще е в западните райони. Вятърът ще е от запад-северозапад, слаб до умерен. Минималните температури ще бъдат между 3° и 8°, по-ниски във високите западни полета, където ще има слана, в София - около 3°, съобщиха от Националния институт по метеорология и…"
+        },
+        {
+          "title": "Радев се изтъкна на международен форум, че е извикал руския посланик, а Турция и Румъния - не",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/10/26/4971735_radev_se_iztukna_na_mejdunaroden_forum_che_e_izvikal/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T09:24:00+00:00",
+          "summary": "Премиерът Румен Радев се изтъкна на международен форум, че е извикал руския посланик, а Турция и Румъния - не. Това стана по време на изказването му пред Софийския икономически форум, на който присъстват политически лидери, дипломати, представители..."
+        },
+        {
+          "title": "Две компании за AI чипове формират 34% от ръста на корпоративните печалби в САЩ",
+          "url": "https://www.capital.bg/biznes/pazari/2026/10/26/4971709_dve_kompanii_za_ai_chipove_formirat_34_ot_rusta_na/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-26T09:27:00+00:00",
+          "summary": "Уолстрийт основава голяма част от оптимизма си за фондовия пазар на рязкото увеличение на корпоративните печалби. Има обаче една уловка: растежът се дължи на шепа гиганти в сферата на изкуствения интелект. Анализаторите очакват компаниите от индекса S&P 500 да отчетат увеличение на печалбите с 30% през третото тримесечие спрямо година по-рано, показват данни на FactSet. Това засилва увереността…"
+        },
+        {
+          "title": "Тръмп нарече Норвегия \"скапана държава\", защото не е получил Нобеловата награда за мир",
+          "url": "https://www.mediapool.bg/tramp-20/tramp-nareche-norvegiya-skapana-darzhava-zashtoto-ne-e-poluchil-nobelovata-nagrada-za-mir/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-26T09:52:10+00:00",
+          "summary": "Доналд Тръмп заяви, че Норвегия се е превърнала в „смотана държава“ и че САЩ „няма да приемат“ имигранти оттам.„Не съм особено възхитен от Норвегия. Честно казано, Норвегия е пълен провал. Норвегия изобщо се е превърнала в скапана държава“, заяви Тръмп по време на предизборната си реч в Порт Хюрън, щата Мичиган.Reuters отбелязва…"
+        },
+        {
+          "title": "Началникът на Генералния щаб на пакистанската армия замина на посещение в Иран, съобщи пресслужбата му",
+          "url": "https://www.bta.bg/bg/news/world/1232864-nachalnikat-na-generalniya-shtab-na-pakistanskata-armiya-zamina-na-poseshtenie-v",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:30:17+00:00",
+          "summary": "Влиятелният началник на Генералния щаб на пакистанската армия Асим Мунир днес отпътува за Техеран, съобщи пресслужбата му, след като Иран обяви, че в Ислямската република ще се проведе среща за регионалната сигурност, предаде Франс прес. “Маршал Сайед Асим Мунир е на официално посещение в Техеран”, заяви в изявление пресслужбата на пакистанската армия, без да уточни целта на посещението на Мунир.…"
+        },
+        {
+          "title": "The Chemical Brothers ще са вторият хедлайнер на фестивала Phillgood в Пловдив",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/10/26/4971734_the_chemical_brothers_shte_sa_vtoriiat_hedlainer_na/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T09:23:00+00:00",
+          "summary": "The Chemical Brothers ще са вторият хедлайнер на Phillgood в Пловдив през 2027 г. Британското дуо се завръща в България, за да даде финал на втората фестивална вечер на Гребната база - 17 юли, съобщиха организаторите от Fest Team. Те вече обявиха,..."
+        },
+        {
+          "title": "Нюзлетър \"Моят Капитал\" | Sofix пое към исторически връх; Рисковете пред частния капитал; Опция за 11% доходност",
+          "url": "https://www.capital.bg/moiat_capital/investments/2026/10/26/4971704_njuzletur_moiat_kapital_sofix_poe_kum_istoricheski/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-26T08:58:00+00:00",
+          "summary": "Един от символите на капитализма, който позволява на всеки обикновен човек да участва в бизнеса и икономиката, е фондовата борса. И макар в глобален и локален мащаб този идеал леко да се е поизкривил с годините, именно борсите са онова, което приковава вниманието все повече. И докато през изминалата седмица глобалните пазари се представяха доста несигурно, с натиск надолу, основният индекс на…"
+        },
+        {
+          "title": "Tръмп нарече Норвегия \"скапана държава\"",
+          "url": "https://www.mediapool.bg/svyat/tramp-nareche-norvegiya-skapana-darzhava/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-26T09:06:22+00:00",
+          "summary": "Президентът на САЩ Доналд Тръмп снощи ескалира нападките си срещу Норвегия, наричайки я „скапана страна“ и заявявайки, че норвежките имигранти не са добре дошли в САЩ, защото Нобеловият комитет, базиран в столицата Осло, не му е присъдила Нобеловата награда за мир, предаде Ройтерс, цитирана от БТА. Тръмп направи изказването по време на политически митинг в Мичиган преди междинните избори…"
+        },
+        {
+          "title": "Белга: Търговският дефицит на ЕС с Китай е на път да постави рекорд тази година, заяви еврокомисарят за търговията",
+          "url": "https://www.bta.bg/bg/news/world/1232878-belga-targovskiyat-defitsit-na-es-s-kitay-e-na-pat-da-postavi-rekord-tazi-godin",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:29:33+00:00",
+          "summary": "Търговският дефицит на ЕС с Китай е на път да достигне рекордно ниво през настоящата година, заяви еврокомисарят за търговията Марош Шефчович, цитиран от белгийската новинарска агенция Белга. „Дефицитът ни с Китай възлезе на близо 197 милиарда евро през първото полугодие на тази година и ако тази тенденция се запази, бихме могли да надхвърлим рекорда от 2022 г., който беше 397 милиарда евро“,…"
+        },
+        {
+          "title": "СДС преди балотажа: Непоискана подкрепа не се дава",
+          "url": "https://www.dnevnik.bg/izbori-2026/2026/10/26/4971730_sds_predi_balotaja_nepoiskana_podkrepa_ne_se_dava/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T09:17:00+00:00",
+          "summary": "Непоискана подкрепа не се дава. Това се казва в позиция на СДС преди втория тур на президентските избори. \"Ако някоя от кандидатпрезидентските двойки поиска подкрепа за втория тур, ще бъде поканена и изслушана от Националния съвет, който..."
+        },
+        {
+          "title": "Продължението на индустрията в Сливен: нови компании на територията на индустриалния парк",
+          "url": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/10/26/4964411_produljenieto_na_industriiata_v_sliven_novi_kompanii/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-26T08:39:00+00:00",
+          "summary": "Дълги години територията на бившето сливенско летище \"Бършен\" и прилежащите му площи пустееха. Отскоро това е най-големият по площ самостоятелен индустриален парк извън територията на София с близо 2800 декара, включващи летищна писта и съгласувано становище с НКЖИ за изграждане на жп терминал на територията му, твърдят от община Сливен. А индустриалният парк е един от първите проекти с…"
+        },
+        {
+          "title": "Радев: В неделя ще избираме между мира и войната",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/radev-v-nedelya-shte-izbirame-mezhdu-mira-i-voinata/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-26T09:01:14+00:00",
+          "summary": "Нека в неделя да пратим сглобката в небитието, заяви премиерът Румен Радев пред журналисти на Софийския икономически форум. Румен Радев, министър-председател: \"На тези избори залогът е ясен – в неделя ще избираме между мира и войната, между демокрацията и корупционния модел на сглобката, между спокойната истина и истерията на троловете. Това го разбира всеки здравомислещ човек, но трябва да го…"
+        },
+        {
+          "title": "Членът на ръководството на Байерн Мюнхен Макс Еберл: „Победата над Фрайбург донесе 3 точки, но тя означава много повече от това“",
+          "url": "https://www.bta.bg/bg/news/sport/1232869-chlenat-na-rakovodstvoto-na-bayern-myunhen-maks-eberl-pobedata-nad-frayburg-do",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:29:00+00:00",
+          "summary": "Членът на Борда на директорите на Байерн Мюнхен, отговарящ за спорта - Макс Еберл заяви, че според него хората в клуба „не осъзнават напълно какво постигнахме тази седмица“. Баварците успяха да преодолеят инцидента с прилошаването на старши треньора Венсан Компани, както и отсъствието на ключови футболисти, записвайки победа с 3:1 при гостуването на Фрайбург в неделя. „Не мисля, че напълно…"
+        },
+        {
+          "title": "Правителството на Радев ще представи бюджет 2027 след балотажа",
+          "url": "https://www.dnevnik.bg/biznes/2026/10/26/4971692_pravitelstvoto_na_radev_shte_predstavi_bjudjet_2027/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T08:25:00+00:00",
+          "summary": "Правителството на Румен Радев ще представи бюджета за 2027 г. след балотажа. Това съобщи премиерът по време на икономически форум, цитиран от БНТ. Според Закона за публичните финанси бюджетът трябва да е внесен в Народното събрание до 31 октомври,..."
+        },
+        {
+          "title": "Пречи ли политиката на туризма между България и Северна Македония",
+          "url": "https://www.capital.bg/biznes/turizum/2026/10/26/4963278_prechi_li_politikata_na_turizma_mejdu_bulgariia_i/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-26T08:22:00+00:00",
+          "summary": "Туристите от България, които някога бяха сред най-многобройните и най-честите гости на Северна Македония, особено по бреговете на Охридското езеро, стават все по-малко. С течение на годините българска реч все по-рядко може да се чуе в най-големия туристически център на страната - Охрид. Първите спадове се усещат след корабната трагедия на 5 септември 2009 г. във водите на Охридското езеро, когато…"
+        },
+        {
+          "title": "Радев: Само аз извиках руския посланик от трите държави в Черно море",
+          "url": "https://www.mediapool.bg/bulgaria/radev-samo-az-izvikah-ruskiya-poslanik-ot-trite-darzhavi-v-cherno-more/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-26T08:21:34+00:00",
+          "summary": "Аз бях единственият премиер, който извика руския посланик от трите държави в Черно море, но имам принцип: когато обвинявам, не може да е на базата на лозунги, коментира премиерът Румен Радев в понеделник. След поредицата атаки срещу търговски кораби в Черно море, Радев извика на разговор руския посланик у нас Елеонора Митрофанова, но засега България не посочва кой стои зад нападенията. Радев и…"
+        },
+        {
+          "title": "Приемната грижа е временен пристан, от който децата могат да продължат напред, разказва приемната майка Емилия Бошнакова от Девин",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1232875-priemnata-grizha-e-vremenen-pristan-ot-koyto-detsata-mogat-da-prodalzhat-napred",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:28:49+00:00",
+          "summary": "„Много се радваме, когато чуем от осиновителите: „Благодарим ви, че полагахте грижи за нашето дете“. Това споделя за БТА Емилия Башнакова от Девин, която заедно със съпруга си Велин вече 13 години се грижи за деца, нуждаещи се от семейна среда, сигурност и обич. През дома им са преминали шест деца, а най-трудният момент за семейството остава раздялата с всяко от тях. За своя избор,…"
+        },
+        {
+          "title": "Премиерът Радев: В неделя ще избираме между мира и войната",
+          "url": "https://www.dnevnik.bg/izbori-2026/2026/10/26/4971681_premierut_radev_v_nedelia_shte_izbirame_mejdu_mirut_i/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T08:13:00+00:00",
+          "summary": "В неделя ще избираме между мира и войната. Между демокрацията и корупционния модел на сглобката. Между спокойната истина и истерията на троловете. Аз мисля, че това го разбира всеки здравомислещ човек, но трябва да мине през урните. Това..."
+        },
+        {
+          "title": "Не става дума само за Commerzbank: италианците изкупуват германския бизнес",
+          "url": "https://www.capital.bg/biznes/finansi/2026/10/26/4968947_ne_stava_duma_samo_za_commerzbank_italiancite/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-26T07:37:00+00:00",
+          "summary": "\"Италианците идват\", гръмна заглавие през юни във Frankfurter Allgemeine Zeitung (FAZ), обикновено сдържан германски всекидневник. Италианците, за които става дума, не са шумни туристи, дошли да разглеждат забележителностите на Германия, нито работници, привлечени от нископлатени работни места. Напротив, въпреки \"по-ниския икономически престиж\" на Италия, както го определя FAZ, италианските банки…"
+        },
+        {
+          "title": "Тръмп готви кандидатура на Орбан за шеф на ООН",
+          "url": "https://www.mediapool.bg/svyat/tramp-gotvi-kandidatura-na-orban-za-shef-na-oon/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-26T07:28:34+00:00",
+          "summary": "Администрацията на американския президент Доналд Тръмп насърчава бившия унгарски премиер Виктор Орбан да стане следващият генерален секретар на ООН. Вашингтон проучва възможността за обща кандидатура, подкрепена от Русия и Китай. Предложението, за което The Wall Street Journal съобщи в неделя, 25 октомври, отива значително по-далеч от по-ранните предположения, че след поражението си на изборите…"
+        },
+        {
+          "title": "Русия заяви, че е заловила двама агенти на украинското разузнаване, подготвяли атака с дронове срещу противовъздушната отбрана на Москва",
+          "url": "https://www.bta.bg/bg/news/world/1232857-rusiya-zayavi-che-e-zalovila-dvama-agenti-na-ukrainskoto-razuznavane-podgotvya",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:28:40+00:00",
+          "summary": "Федералната служба за сигурност на Русия (ФСС) заяви, че е осуетила опит за украинска атака с дронове срещу ключов елемент от противовъздушната отбрана на Москва и срещу електроенергийно съоръжение, предаде Ройтерс. ФСС уточни, че при подготовката на атаката са били задържани двама мъже от региона на Южен Кавказ, които са действали по насоки на Службата за сигурност на Украйна (ССУ). Задържаните…"
+        },
+        {
+          "title": "При почти 100% обработени протоколи Йотова печели с малко над 2.8 пункта пред Гюров",
+          "url": "https://www.dnevnik.bg/izbori-2026/2026/10/26/4971666_pri_pochti_100_obraboteni_protokoli_iotova_pecheli_s/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T07:49:00+00:00",
+          "summary": "При почти 100% обработени протоколи Илияна Йотова печели с малко над 2.8 пункта пред Андрей Гюров. Това сочат данните на Централната избирателна комисия. Йотова получава 34.759% от гласовете, а Гюров - 31.953 на сто. В абсолютни..."
+        },
+        {
+          "title": "Коментар | Глобалното икономическо възстановяване лежи на нестабилни основи",
+          "url": "https://www.capital.bg/politika_i_ikonomika/redakcionni_komentari/2026/10/26/4971171_komentar_globalnoto_ikonomichesko_vuzstanoviavane_leji/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-26T07:29:00+00:00",
+          "summary": "[[img:4971170]]Есуар Прасад, професор по икономика в университета \"Корнел\", [[img:4971169]]и Томас Риверос, студент в университета \"Корнел\", в коментар за Project Syndicate. Въпреки засилената политическа и геополитическа нестабилност глобалният икономически растеж се стабилизира, а развиващите се икономики демонстрират положителна динамика. Октомврийското издание на индекса Brookings-FT TIGER…"
+        },
+        {
+          "title": "Първан Симеонов: Почти пълна е мобилизацията около Гюров – Кандев",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/parvan-simeonov-pochti-palna-e-mobilizatsiyata-okolo-gyurov-kandev/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-26T06:54:16+00:00",
+          "summary": "Има потенциал Гюров да изпревари Йотова на балотаж, но този потенциал е преди всичко психологически потенциал. Те се представиха доста добре така или иначе, не съм сигурен колко могат още да качват. Това коментира пред БНР Първан Симеонов от социологическа агенция \"Мяра\"…"
+        },
+        {
+          "title": "ЕС удължава санкциите срещу \"Ислямска държава\" и \"Ал Каида\"",
+          "url": "https://www.bta.bg/bg/news/world/1232868-es-udalzhava-sanktsiite-sreshtu-islyamska-darzhava-i-al-kaida-",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:27:45+00:00",
+          "summary": "Съветът на ЕС съобщи, че удължава с една година санкциите срещу терористичните организации \"Ислямска държава\" и \"Ал Каида\", както и срещу свързани с тях лица, групи, предприятия и организации. В списъка са включени 15 лица и 8 групи. За всички включени е наложен запор на имуществото, а за физическите лица - и забрана за пътуване до ЕС. Санкциите предвиждат забрана за лица и организации от ЕС да…"
+        },
+        {
+          "title": "Студентите изтрезняват след шеметното празненство, което Вучич разреши",
+          "url": "https://www.dnevnik.bg/sviat/2026/10/26/4971668_studentite_iztrezniavat_sled_praznenstvoto_koeto/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T07:49:00+00:00",
+          "summary": "\"Ето това е цивилизованост.\" Млад мъж с пожарогасител произнесе тези думи, когато запалена шатра в сърцето на Белград бе угасена с пожарогасител от демонстранти. Кога ще е насилието? Това питаха мнозина в Сърбия и региона в изборната..."
+        },
+        {
+          "title": "10 мита за Starlink или каква е реалността за телеком бизнеса на Мъск",
+          "url": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/10/26/4968233_10_mita_za_starlink_ili_kakva_e_realnostta_za_telekom/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-26T06:37:00+00:00",
+          "summary": "Сателитните съзвездия в ниска околоземна орбита (LEO), и в частност Starlink на SpaceX, привличат огромно внимание заради потенциала си да осигурят свързаност на места, до които наземните мрежи не могат да достигнат по икономически изгоден начин. И макар че актуалните горещи новини около спирането на Starlink за украинската армия и палежа на сателитни съоръжения в местността Плана край София…"
+        },
+        {
+          "title": "Боряна Димитрова очаква на втория тур познати \"феномени\" и мобилизация на различни мрежи",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/boryana-dimitrova-ochakva-na-vtoriya-tur-poznati-fenomeni-i-mobilizatsiya-na-razlichni-mrezhi/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-26T06:37:28+00:00",
+          "summary": "В петък преди изборите много ясно казахме, че има спад в подкрепата за водещата двойка Йотова - Вълчев и че има мобилизация на крилата на опонентите както при Гюров-Кандев, така и при Костадинов-Волгин. Видяхме тази тенденция, тя беше откроена, тя е и черно на бяло в нашия последен пресрелийз. Какво обаче не успяхме да уловим…"
+        },
+        {
+          "title": "Изложбата „Забранените книги: Секретният фонд на Университетската библиотека“ беше открита в Софийския университет",
+          "url": "https://www.bta.bg/bg/news/lik/1232865-izlozhbata-zabranenite-knigi-sekretniyat-fond-na-universitetskata-biblioteka-",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:25:51+00:00",
+          "summary": "Изложбата „Забранените книги: Секретният фонд на Университетската библиотека“ беше открита в Софийския университет „Св. Климент Охридски“, съобщи пресцентърът на висшето училище. „Политическите промени в България след септември 1944 г. стартират продължителен процес на изземване и унищожаване на идеологически неподходящи за властта книги, което се осъществява от различни държавни органи до…"
+        },
+        {
+          "title": "Тръмп готви Виктор Орбан начело на ООН",
+          "url": "https://www.dnevnik.bg/sviat/2026/10/26/4971648_trump_iska_viktor_orban_nachelo_na_oon/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T07:34:00+00:00",
+          "summary": "Звездата на бившия унгарски премиер Виктор Орбан може да изгрее отново, ако се потвърди, че САЩ ще го номинират за шеф на ООН. За това писа в неделя американският вестник \"Уолстрийт джърнъл\", като се позова на свои източници. ..."
+        },
+        {
+          "title": "С Vivacom Cloud и SD-WAN - към по-голяма ефективност, по-малко разходи и по-добра киберзащита",
+          "url": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/10/26/4961638_s_vivacom_cloud_i_sd-wan_-_kum_po-goliama_efektivnost/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-26T06:00:00+00:00",
+          "summary": "Повече усилия, разходи, време и ресурси за защита от киберзаплахи. Това е новата реалност за всяка организация от публичния или частния сектор, независимо от мащаба и дейността й. Законът за киберсигурност, който въведе у нас европейската директива NIS2, само регулира това, което идва като неизбежна задача не само за ИТ отделите, но и за висшите ръководители в компаниите и институциите.…"
+        },
+        {
+          "title": "Бойкот в Белица: Хората не отидоха до урните заради ареста на кмета",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/boikot-v-belitsa-horata-ne-otidoha-do-urnite-zaradi-aresta-na-kmeta/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-26T06:07:30+00:00",
+          "summary": "С изключително ниска избирателна активност и полупразни урни преминаха изборите в 17-те секции в Белица. А в село Лютово дори се стигна до прецедент…"
+        },
+        {
+          "title": "Вдовицата на Ози Озбърн каза, че посещава гроба му всеки ден",
+          "url": "https://www.bta.bg/bg/news/lik/1232801-vdovitsata-na-ozi-ozbarn-kaza-che-poseshtava-groba-mu-vseki-den",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:25:21+00:00",
+          "summary": "Вдовицата на легендарния хеви метъл певец Ози Озбърн – Шарън, каза, че посещава гроба на съпруга си всеки ден, откакто той почина преди 15 месеца, съобщи Би Би Си. Тя разказа това в интервю за британската медия по повод световната премиера на документалния концертен филм Ozzy & Black Sabbath: Back To The Beginning, който излиза по кината в целия свят на 28 октомври. Въпреки че от години страдаше…"
+        },
+        {
+          "title": "Андрей Гюров печели убедително и в трите столични избирателни района",
+          "url": "https://www.dnevnik.bg/izbori-2026/2026/10/26/4971661_andrei_gjurov_pecheli_ubeditelno_i_v_trite_stolichni/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T07:21:00+00:00",
+          "summary": "Андрей Гюров печели убедително и в трите столични избирателни района. Това сочат данните на ЦИК. При 100% обработени протоколи в 23 Многомандатен избирателен район (МИР) Гюров получава 88 681 гласа (54.38%). Илияна Йотова печели 21.93 на..."
+        },
+        {
+          "title": "Седмичен бюлетин за правни новини: Прокурорите избраха четирима за ВСС; Отново за тайното следене на магистратите",
+          "url": "https://www.capital.bg/politika_i_ikonomika/pravo/2026/10/26/4971512_sedmichen_bjuletin_za_pravni_novini_prokurorite/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-26T04:45:00+00:00",
+          "summary": "На балотаж в неделя прокуратурата избра новите четирима членове на Прокурорската колегия на Висшия съдебен съвет (ВСС), след като ден по-рано на първия тур никой от 25-имата кандидати не получи необходимите над 50% от действителните гласове. Изненадата е, че единственият прокурор на районно ниво сред кандидатите - Пламен Петков от Софийската районна прокуратура, получи най-много гласове - общо…"
+        },
+        {
+          "title": "Асен Василев: 900 000 показаха \"червен картон\" на Радев и ПБ",
+          "url": "https://www.mediapool.bg/prezidentski-izbori-2026/asen-vasilev-900-000-pokazaha-cherven-karton-na-radev-i-pb/",
+          "source": "Mediapool.bg",
+          "published": "2026-10-26T05:14:07+00:00",
+          "summary": "900 000 души показаха \"червен картон\" на управлението на премиера Румен Радев и \"Прогресивна България\", коментира лидерът на \"Продължаваме промяната\" Асен Василев пред бТВ. Той обясни, че с толкова са намалели гласоподавателите на \"Прогресивна България\" от парламентарните избори през април, когато са били 1.4 милиона души и допълни, че българите не искат президент, който да бъде \"гумен печат\" на…"
+        },
+        {
+          "title": "Полицията в Ловеч работи по случай на домашно насилие от жена",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1232873-politsiyata-v-lovech-raboti-po-sluchay-na-domashno-nasilie-ot-zhena",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:24:42+00:00",
+          "summary": "Полицията в Ловеч работи по случай на домашно насилие от жена, съобщават от Областната дирекция на МВР в Ловеч. В Районното управление в Ловеч е получен сигнал, че в къща в село Владиня 39-годишна жена, след употреба на алкохол, проявила агресия и е нанесла побой над свои по-възрастни роднини. Полицейски служители незабавно са посетили адреса, но жената не е установена. На двамата потърпевши е…"
+        },
+        {
+          "title": "Боряна Димитрова: Възможно е и увеличаване на разликата, и обръщане на резултата",
+          "url": "https://www.dnevnik.bg/izbori-2026/2026/10/26/4971652_boriana_dimitrova_vuzmojno_e_i_uvelichavane_na/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T06:55:00+00:00",
+          "summary": "На балотажа е възможно увеличаване на разликата, но и обръщане на резултата. Така Боряна Димитрова от \"Алфа рисърч\" коментира пред БНТ резултатите от първия тур на президентските избори. Тя допълни, че голям ефект върху крайния резултат..."
+        },
+        {
+          "title": "Бизнес закуска: 🥐 Гюров много близо до Йотова, отиват на балотаж; \"Капитал 100\" отчита 5% ръст на приходите; Има обвинен за смъртта на Слави Бинев",
+          "url": "https://www.capital.bg/biznes-zakuska/2026/10/26/4971333_biznes_zakuska_gjurov_mnogo_blizo_do_iotova_otivat_na/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-26T04:15:00+00:00",
+          "summary": "Това е нюзлетърът \"Бизнес закуска\", който абонатите на \"Капитал\" получават всяка сутрин в електронните си пощи. В него дежурният редактор събира всичко важно, така че с един поглед да сте наясно какво се случва. Може да се абонирате от тук. Бурен се оказа уикендът в България. Събота - денят за размисъл преди президентските избори, започна с убийството на бизнесмена и бивш политик Слави Бинев.Това…"
+        },
+        {
+          "title": "Ангел Русев и Дениз Данев ще дадат старт на българското участие на световното първенство по вдигане на тежести, Бояна Костадинова пропуска форума заради травма",
+          "url": "https://www.bta.bg/bg/news/sport/1232874-angel-rusev-i-deniz-danev-shte-dadat-start-na-balgarskoto-uchastie-na-svetovnoto",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:20:22+00:00",
+          "summary": "Ангел Русев и Дениз Данев ще дадат старт на българското участие на световното първенство по вдигане на тежести, което ще се проведе от 27 октомври до 8 ноември в китайския град Нинбо. Двамата ще вдигат в категория до 60 килограма при мъжете, която ще бъде и първата, в която ще определен шампион. Това ще стане още утре от 10:00 часа българско време, а състезанието ще бъде предавано пряко по…"
+        },
+        {
+          "title": "Божанов: Гласовете за Гюров са повече от гласовете на партиите, които го подкрепяме",
+          "url": "https://www.dnevnik.bg/izbori-2026/2026/10/26/4971647_bojanov_glasovete_za_gjurov_sa_poveche_ot_glasovete_na/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T06:40:00+00:00",
+          "summary": "Гласовете за Гюров са повече от гласовете на партиите, които го подкрепяме. Това каза пред БНТ заместник-председателят на парламентарната група на \"Демократична България\" Божидар Божанов. Според него това се дължи на кампанията, която е..."
+        },
+        {
+          "title": "Студентите в Сърбия свалиха Вучич от власт, той призна поражението си на изборите",
+          "url": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/10/26/4971480_studentite_v_surbiia_svaliha_vuchich_ot_vlast_toi/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-25T22:17:00+00:00",
+          "summary": "Студентите в Сърбия сложиха край на управлението на Александър Вучич, след като спечелиха предсрочните парламентарни избори, на които беше отчетена рекордно гласуване. По този начин националистическият лидер пада от властта, която държеше под една или друга форма през последните 14 години и, подобно на бившия унгарски премиер Виктор Орбан, изгради масивен държавен апарат, който му помогна да…"
+        },
+        {
+          "title": "Отличиха победителите в 12-ото издание на националния литературен конкурс „Горчиво вино“ в Петрич",
+          "url": "https://www.bta.bg/bg/news/lik/1232841-otlichiha-pobeditelite-v-12-oto-izdanie-na-natsionalniya-literaturen-konkurs-go",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:14:01+00:00",
+          "summary": "Над 100 автори са участвали в 12-ото издание на Националния литературен конкурс за поезия „Горчиво вино“ в Петрич, съобщи за БТА секретарят на читалище \"Братя Миладинови\" Гичка Тренева. Журито определи отличените автори на 21 октомври, като сред наградените са както млади творци до 18 години, така и утвърдени поети от страната. В първата възрастова група първа награда получава Илия Тачев от село…"
+        },
+        {
+          "title": "Йотова леко увеличи дистанцията с Гюров при 98.99% обработени протоколи",
+          "url": "https://www.dnevnik.bg/izbori-2026/2026/10/26/4971642_iotova_leko_uvelichi_distanciiata_s_gjurov_pri_9899/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T06:34:00+00:00",
+          "summary": "Илияна Йотова леко увеличи дистанцията с Андрей Гюров при 98.99% обработени протоколи. Това сочат данните на Централната избирателна комисия. Йотова получава 34.699% от гласовете, а Гюров - 31.984 на сто. Трети е Костадин Костадинов с..."
+        },
+        {
+          "title": "Рекордно ниска активност изравни позициите на Йотова и Гюров за балотажа",
+          "url": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/10/25/4971520_rekordno_niska_aktivnost_izravni_poziciite_na_iotova_i/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-25T21:52:00+00:00",
+          "summary": "Новият президент на България ще бъде избран на балотаж следващата седмица, но първия тур на изборите претърпя драматичен обрат. Сочената за безспорен фаворит на вота Илияна Йотова спечели, но с пренебрежимо малка преднина пред втория - Андрей Гюров. Разликата между тях е в рамките на между под 3% и 5% според три социологически агенции - \"Алфа рисърч\", \"Мяра\" и \"Тренд\", а една от тях - \"Маркет…"
+        },
+        {
+          "title": "Хвича Кварацхелия няма да присъства на церемонията за \"Златната топка\"",
+          "url": "https://www.bta.bg/bg/news/sport/1232863-hvicha-kvaratsheliya-nyama-da-prisastva-na-tseremoniyata-za-zlatnata-topka-",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:12:06+00:00",
+          "summary": "Нападателят на Пари Сен Жермен Хвича Кварацхелия, който наскоро скъса кръстни връзки, няма да присъства на церемонията за \"Златната топка\" в Лондон тази вечер, пише вестник \"Екип\". На грузинския национал му е насрочена операция в Доха в началото на тази седмица, която ще му попречи да присъства на връчването на наградата за най-добър футболист в света. Тази вечер Пари Сен Жермен играе срещу…"
+        },
+        {
+          "title": "\"Пада влада\": Студентите празнуват в Белград победата на изборите",
+          "url": "https://www.dnevnik.bg/video/2026/10/26/4971629_pada_vlada_studentite_praznuvat_v_belgrad_pobedata_na/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T06:12:00+00:00",
+          "summary": "Известната песен \"Пада влада\" (\"Пада властта\") звучеше по улиците на Белград в неделя срещу понеделник през нощта. \"Всички полудяха\", каза таксиметров шофьор, опитвайки се да заобиколи задръстване по пътя към центъра, предаде репортерът на..."
+        },
+        {
+          "title": "Снимка на деня: Рекордна избирателна активност на изборите в Сърбия",
+          "url": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/10/25/4971288_snimka_na_denia_rekordna_izbiratelna_aktivnost_na/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-25T15:51:00+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Първият заразен човек с ебола в Нигерия беше евакуиран със самолет от страната, съобщи местна медия",
+          "url": "https://www.bta.bg/bg/news/world/1232825-parviyat-zarazen-chovek-s-ebola-v-nigeriya-beshe-evakuiran-sas-samolet-ot-strana",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:11:02+00:00",
+          "summary": "Първият заразен човек с ебола в Нигерия беше евакуиран със самолет от страната, съобщи местният телевизионен канал \"Арайз Ти Ви\", цитиран от Ройтерс. Пациентката е съпруга на швейцарски дипломат в Абуджа, родена в Уганда. Това е първият случай на заразяване с ебола в Нигерия от повече от десетилетие, отбелязва още агенцията. \"Арайз Ти Ви\" съобщи, че жената е била качена на медицински самолет,…"
+        },
+        {
+          "title": "Гюров печели убедително вота от чужбина",
+          "url": "https://www.dnevnik.bg/izbori-2026/2026/10/26/4971634_gjurov_pecheli_ubeditelno_vota_ot_chujbina/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T06:08:00+00:00",
+          "summary": "Кандидатът за президент Андрей Гюров печели убедително вота в чужбина. При обработени почти 97% от гласовете ЦИК посочва, че той получава подкрепата на 45.23% от гласувалите. Илияна Йотова има 23.14 на сто. За Костадин Костадинов са..."
+        },
+        {
+          "title": "Седмични новини за енергетика: Ограничава ли Гърция преноса на ток за България; Унгария може да смени \"Росатом\" в АЕЦ \"Пакш\"",
+          "url": "https://www.capital.bg/biznes/energetika/2026/10/25/4969990_sedmichni_novini_za_energetika_ogranichava_li_gurciia/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-10-25T14:19:00+00:00",
+          "summary": "Пълна база данни за ВЕИ сектора, с включени топ 100 на работещите проекти за BESS и фотоволтаиците, топ 30 на вятърните паркове, както и 44-те най-големи очаквани нови проекти, информация за финансирането на активите, регионален профил и пазарни анализи може да намерите в първия по рода си Market Map & Intelligence Report 2026, подготвен от \"Капитал\". Дни преди ключовите избори от двете страни на…"
+        },
+        {
+          "title": "Държавата трябва да догони технологичния напредък в компаниите, заяви министърът на иновациите Иван Василев на Софийския икономически форум",
+          "url": "https://www.bta.bg/bg/news/economy/1232860-darzhavata-tryabva-da-dogoni-tehnologichniya-napredak-v-kompaniite-zayavi-minis",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:11:00+00:00",
+          "summary": "Министърът на иновациите и дигиталната трансформация Иван Василев смята, че държавните институции трябва да догонят технологичния напредък на компаниите и така да се ускори цифровизацията като процес в обществото и икономиката на страната. Върху това съществуващо днес различие той обърна внимание в своето изказване пред участниците в седмото издание на Софийския икономически форум, провеждащ се в…"
+        },
+        {
+          "title": "Русия атакува кораб и пристанище в Черно море",
+          "url": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/10/26/4971632_rusiia_atakuva_korab_i_pristanishte_v_cherno_more/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T06:07:00+00:00",
+          "summary": "Русия продължи атаките срещу търговски кораби в Черно море. В нощта срещу понеделник е ударен товарен кораб, пътуващ към украинското пристанище Одеса, съобщи руското Министерство на отбраната. Руските сили са поразили и инфраструктура на..."
+        },
+        {
+          "title": "„Есенен салон“ събира в ямболската арт-галерия „Кирил Кръстев“ различни творчески почерци",
+          "url": "https://www.bta.bg/bg/news/lik/1232855--esenen-salon-sabira-v-yambolskata-art-galeriya-kiril-krastev-razlichni-tvorc",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:09:42+00:00",
+          "summary": "Художници от Ямбол, Елхово и региона ще се включат със свои творби в традиционната изложба „Есенен салон“ в арт-галерия „Кирил Кръстев“. Експозицията ще бъде официално открита на 29 октомври, от 17:30 часа, съобщиха домакините от ямболската галерия. Различни творчески почерци, лични търсения и художествени светове се срещат в едно общо пространство, обединени от непрестанния стремеж към…"
+        },
+        {
+          "title": "В Пловдив Гюров побеждава Йотова с над 7 процентни пункта",
+          "url": "https://www.dnevnik.bg/izbori-2026/2026/10/26/4971630_v_plovdiv_gjurov_pobejdava_iotova_s_nad_7_procentni/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-10-26T06:06:00+00:00",
+          "summary": "При 100% обработени секционни протоколи в Пловдив-град Андрей Гюров и Георги Кандев получават 37.9% от гласовете. На второ място се нарежда двойката Илияна Йотова и Кирил Вълчев с 30.78%. Това показват резултатите от изборите, публикувани от..."
+        },
+        {
+          "title": "В Борусия Дортмунд все още не са започнали преговори за нов договор със защитника Рами Бенсебаини",
+          "url": "https://www.bta.bg/bg/news/sport/1232843-v-borusiya-dortmund-vse-oshte-ne-sa-zapochnali-pregovori-za-nov-dogovor-sas-zash",
+          "source": "BG RSS Free",
+          "published": "2026-10-26T10:08:00+00:00",
+          "summary": "Договорът на Рами Бенсебаини с Борусия Дортмунд изтича в края на настоящия сезон, а по информация на вестник Ruhr Nachrichten германският клуб на този етап не работи по удължаването на контракта на алжиреца. Не е ясно и дали самият Бенсебаини има желание за удължаване на споразумението. Старши треньорът на Борусия Нико Ковач залага на Нико Шлотербек, Валдемар Антон и Жоан Гаду като трио централни…"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://www.bta.bg/bg/rss/free": {
+          "items": 20,
+          "status": "ok",
+          "secs": 1.2
+        },
+        "https://www.dnevnik.bg/rss/": {
+          "items": 30,
+          "status": "ok",
+          "secs": 0.6
+        },
+        "https://www.capital.bg/rss/": {
+          "items": 15,
+          "status": "ok",
+          "secs": 1.0
+        },
+        "https://www.mediapool.bg/rss": {
+          "items": 10,
+          "status": "ok",
+          "secs": 0.4
+        },
+        "https://www.novinite.com/services/news_rdf.php": {
+          "items": 0,
+          "status": "κανένα νέο (11 παλιά, 17 ήδη)",
+          "secs": 0.8
+        },
+        "https://sofiaglobe.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (30 παλιά, 0 ήδη)",
+          "secs": 0.9
+        }
+      }
+    }
+  }
+}
