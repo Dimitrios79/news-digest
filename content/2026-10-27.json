@@ -1,0 +1,734 @@
+{
+  "date": "2026-10-27",
+  "generated": "2026-10-27T10:06:35.571767+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+      "Microsoft offers to buy out a quarter of its workforce",
+      "Καραγκούνης στο ΕΡΤnews: Παρακολουθούμε στενά τις εξελίξεις στην Pizza Fan και θα δούμε πώς μπορούμε να στηρίξουμε τους εργαζόμενους",
+      "Торнадо в Анталия повали фургони, кран и доведе до смъртта на четирима"
+    ],
+    "en": [
+      "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+      "Microsoft offers to buy out a quarter of its workforce",
+      "Καραγκούνης στο ΕΡΤnews: Παρακολουθούμε στενά τις εξελίξεις στην Pizza Fan και θα δούμε πώς μπορούμε να στηρίξουμε τους εργαζόμενους",
+      "Торнадо в Анталия повали фургони, кран и доведе до смъртта на четирима"
+    ]
+  },
+  "meta": {
+    "el": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers; Microsoft offers to buy out a quarter of its workforce; Καραγκού",
+    "en": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers; Microsoft offers to buy out a quarter of its workforce; Καραγκού"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+            "en": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Energy giant ENGIE discloses data breach affecting customers",
+            "en": "Energy giant ENGIE discloses data breach affecting customers"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover",
+            "en": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Several AI security market categories are headed for bigger platforms",
+            "en": "Several AI security market categories are headed for bigger platforms"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/10/27/jonathan-care-kuppingercole-analysts-ai-security-market/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Japanese virtual desktop cloud hacked so hard it asks to be banned",
+            "en": "Japanese virtual desktop cloud hacked so hard it asks to be banned"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Magento Campaign Infects 953 Online Stores Across Five Domains",
+            "en": "Magento Campaign Infects 953 Online Stores Across Five Domains"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/201795/malware/magento-campaign-infects-953-online-stores-across-five-domains.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "What happens when security tools go dark before the ransomware",
+            "en": "What happens when security tools go dark before the ransomware"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/warlock-ransomware-storm-2603-sharepoint-attacks-op-ed/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The days of assuming another company’s breach is someone else’s problem are over",
+            "en": "The days of assuming another company’s breach is someone else’s problem are over"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4240612/the-days-of-assuming-another-companys-breach-is-someone-elses-problem-are-over.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)",
+            "en": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33462"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Bias in Qwen3-Coder Model",
+            "en": "Bias in Qwen3-Coder Model"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Schneier on Security",
+              "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
+            "en": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/texas-sues-openai-deceiving-customers"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+            "en": "So Many AI Security Benchmarks, But None Tell the Whole Story"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "darkreading",
+              "url": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Microsoft offers to buy out a quarter of its workforce",
+            "en": "Microsoft offers to buy out a quarter of its workforce"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Year of Linux on the Beach confirmed",
+            "en": "Year of Linux on the Beach confirmed"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/offbeat/2026/10/27/year-of-linux-on-the-beach-confirmed/5305385"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "How solid-state transformers could help power the AI boom",
+            "en": "How solid-state transformers could help power the AI boom"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The Exponential Time Hypothesis Is False [pdf]",
+            "en": "The Exponential Time Hypothesis Is False [pdf]"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+            "en": "Worms mate in man's eyes, get plucked out right before larvae burst out"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "How everyday technology choices drive true workplace sustainability",
+            "en": "How everyday technology choices drive true workplace sustainability"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/on-prem/2026/10/27/sponsored-how-everyday-technology-choices-drive-true-workplace-sustainability/5296594"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Will the real Anthropic please stand up",
+            "en": "Will the real Anthropic please stand up"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Three new discoveries in mathematics, computer science, and physics",
+            "en": "Three new discoveries in mathematics, computer science, and physics"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+            "en": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel",
+            "en": "Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Καραγκούνης στο ΕΡΤnews: Παρακολουθούμε στενά τις εξελίξεις στην Pizza Fan και θα δούμε πώς μπορούμε να στηρίξουμε τους εργαζόμενους",
+            "en": "Καραγκούνης στο ΕΡΤnews: Παρακολουθούμε στενά τις εξελίξεις στην Pizza Fan και θα δούμε πώς μπορούμε να στηρίξουμε τους εργαζόμενους"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/karagkounis-sto-ertnews-parakolouthoume-stena-tis-ekselikseis-stin-pizza-fan-kai-tha-doume-pos-mporoume-na-stiriksoume-tous-ergazomenous/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Μαιευτική Κλινική Κρατικού Νίκαιας: Απειλείται από την υποστελέχωση",
+            "en": "Μαιευτική Κλινική Κρατικού Νίκαιας: Απειλείται από την υποστελέχωση"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/society/reportaz/564549577/maieytiki-kliniki-kratikoy-nikaias-apeileitai-apo-tin-ypostelechosi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Αυτή τη θέση καθηγητή ΑΕΙ ποιος θα την πάρει;",
+            "en": "Αυτή τη θέση καθηγητή ΑΕΙ ποιος θα την πάρει;"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/10/27/opinions/ayti-ti-thesi-kathigiti-aei-poios-tha-tin-parei/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κουφονικολάκου: «Ανάγκη για διαφάνεια και κοινωνική προστασία – Καμία απάντηση από την κυβέρνηση για τα σκάνδαλα»",
+            "en": "Κουφονικολάκου: «Ανάγκη για διαφάνεια και κοινωνική προστασία – Καμία απάντηση από την κυβέρνηση για τα σκάνδαλα»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/politiki/1497491/koyfonikolakoy-anagki-gia-diafaneia-kai-koinoniki-prostasia-kamia-apantisi-apo-tin-kyvernisi-gia-ta-skandala/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ΔΕΗ: Βραβεία σε 468 παιδιά εργαζομένων που αρίστευσαν στη Δευτεροβάθμια-Τριτοβάθμια εκπαίδευση",
+            "en": "ΔΕΗ: Βραβεία σε 468 παιδιά εργαζομένων που αρίστευσαν στη Δευτεροβάθμια-Τριτοβάθμια εκπαίδευση"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/business/2180739/dei-vraveia-se-468-paidia-ergazomenon-poy-aristeysan-sti-deyterovathmia-tritovathmia-ekpaideysi/?utm_source=rss&utm_medium=rss&utm_campaign=dei-vraveia-se-468-paidia-ergazomenon-poy-aristeysan-sti-deyterovathmia-tritovathmia-ekpaideysi"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Χούθι: «Κήρυξη πολέμου» η έγκριση της αιγυπτιακής στρατιωτικής υποστήριξης στη Σαουδική Αραβία",
+            "en": "Χούθι: «Κήρυξη πολέμου» η έγκριση της αιγυπτιακής στρατιωτικής υποστήριξης στη Σαουδική Αραβία"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/diethni/xouthi-kiryksi-polemou-i-egkrisi-tis-aigyptiakis-stratiotikis-ypostiriksis-sti-saoudiki-aravia/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Σε αδιέξοδο τα συνταξιοδοτικά συστήματα λόγω δημογραφικού",
+            "en": "Σε αδιέξοδο τα συνταξιοδοτικά συστήματα λόγω δημογραφικού"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/economy/syntaxeis/564550018/se-adiexodo-ta-syntaxiodotika-systimata-logo-dimografikoy/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Yoko Maejima: Τα ελληνικά της νέας αναπληρώτριας επικεφαλής της πρεσβείας της Ιαπωνίας",
+            "en": "Yoko Maejima: Τα ελληνικά της νέας αναπληρώτριας επικεφαλής της πρεσβείας της Ιαπωνίας"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/10/27/diplomatia/gioko-maetzima-ta-ellinika-tis-neas-anaplirotrias-epikefalis-tis-presveias-tis-iaponias/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ηλεία: Εξιχνιάστηκαν πέντε απάτες σε βάρος ηλικιωμένων – Απέσπασαν σχεδόν 100.000 ευρώ και κοσμήματα",
+            "en": "Ηλεία: Εξιχνιάστηκαν πέντε απάτες σε βάρος ηλικιωμένων – Απέσπασαν σχεδόν 100.000 ευρώ και κοσμήματα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/ellada/1497505/ileia-exihniastikan-pente-apates-se-varos-ilikiomenon-apespasan-shedon-100-000-eyro-kai-kosmimata/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Πούτιν: Επικοινωνία με τους ηγέτες της Φινλανδίας και της Νορβηγίας – «Η συζήτηση ήταν ειλικρινής και ουσιαστική»",
+            "en": "Πούτιν: Επικοινωνία με τους ηγέτες της Φινλανδίας και της Νορβηγίας – «Η συζήτηση ήταν ειλικρινής και ουσιαστική»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/kosmos/2180731/poytin-tilefoniki-epikoinonia-me-toys-igetes-tis-finlandias-kai-tis-norvigias/?utm_source=rss&utm_medium=rss&utm_campaign=poytin-tilefoniki-epikoinonia-me-toys-igetes-tis-finlandias-kai-tis-norvigias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Торнадо в Анталия повали фургони, кран и доведе до смъртта на четирима",
+            "en": "Торнадо в Анталия повали фургони, кран и доведе до смъртта на четирима"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/balkans/1233479-tornado-v-antaliya-povali-furgoni-kran-i-dovede-do-smartta-na-chetirima"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Словакия се предложи на Русия като място за преговори за Украйна",
+            "en": "Словакия се предложи на Русия като място за преговори за Украйна"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/27/4972252_slovakiia_se_predloji_na_rusiia_kato_miasto_za/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Организационният минимализъм не означава да имаш по-малко, а да имаш по-малко излишно",
+            "en": "Организационният минимализъм не означава да имаш по-малко, а да имаш по-малко излишно"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/pazar-na-truda/2026/10/27/4969223_organizacionniiat_minimalizum_ne_oznachava_da_imash/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Катастрофа с жертва затвори главния път Е79",
+            "en": "Катастрофа с жертва затвори главния път Е79"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/bulgaria/katastrofa-s-zhertva-zatvori-glavniya-pat-e79/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ИРНА: Иран се стреми към траен и достоен мир, който гарантира защитата на националните му интереси, заяви говорителка на иранското правителство",
+            "en": "ИРНА: Иран се стреми към траен и достоен мир, който гарантира защитата на националните му интереси, заяви говорителка на иранското правителство"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/world/1233501-irna-iran-se-stremi-kam-traen-i-dostoen-mir-koyto-garantira-zashtitata-na-nats"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Футболният съюз разреши на ЦСКА да играе на новия си стадион",
+            "en": "Футболният съюз разреши на ЦСКА да играе на новия си стадион"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/10/27/4972249_futbolniiat_sujuz_razreshi_na_cska_da_igrae_na_noviia/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Седмични новини за маркетинг и реклама (27 октомври)",
+            "en": "Седмични новини за маркетинг и реклама (27 октомври)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/biznes/media_i_reklama/2026/10/27/4971966_sedmichni_novini_za_marketing_i_reklama_27_oktomvri/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "За последните 24 часа: Вятърната енергия осигурила 30% от електричеството в Европа",
+            "en": "За последните 24 часа: Вятърната енергия осигурила 30% от електричеството в Европа"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/svyat/za-poslednite-24-chasa-vyatarnata-energiya-osigurila-30-ot-elektrichestvoto-v-evropa/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Прогноза за времето",
+            "en": "Прогноза за времето"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/bulgaria/1233523-prognoza-za-vremeto"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "\"Спортен Дневник с Павел Колев\": Милиони за \"Левски\" и ЦСКА от УЕФА, медали за България в борбата и нов мандат на хоризонта за Инфантино",
+            "en": "\"Спортен Дневник с Павел Колев\": Милиони за \"Левски\" и ЦСКА от УЕФА, медали за България в борбата и нов мандат на хоризонта за Инфантино"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/sport/2026/10/27/4972243_sporten_dnevnik_s_pavel_kolev_milioni_za_levski_i_cska/?ref=rss"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
