@@ -1,0 +1,734 @@
+{
+  "date": "2026-10-30",
+  "generated": "2026-10-30T11:05:07.753731+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+      "Reddit is moving to “a logged-in-only experience,” CEO says",
+      "Π. Σημανδηράκης: Η λύση για το Νοσοκομείο Χανίων ανήκει στο κεντρικό κράτος και στον πυρήνα της είναι το μισθολόγιο",
+      "Белгийският министър на правосъдието понася критики заради скъп самолетен билет"
+    ],
+    "en": [
+      "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+      "Reddit is moving to “a logged-in-only experience,” CEO says",
+      "Π. Σημανδηράκης: Η λύση για το Νοσοκομείο Χανίων ανήκει στο κεντρικό κράτος και στον πυρήνα της είναι το μισθολόγιο",
+      "Белгийският министър на правосъдието понася критики заради скъп самолетен билет"
+    ]
+  },
+  "meta": {
+    "el": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor; Reddit is moving to “a logged-in-only experience,” CEO says; Π. Σημα",
+    "en": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor; Reddit is moving to “a logged-in-only experience,” CEO says; Π. Σημα"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+            "en": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+            "en": "Drupal warns of critical Commerce Core flaw exploited in attacks"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
+            "en": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Open-weight AI model GLM-5.3 cheated its way to correct answers",
+            "en": "Open-weight AI model GLM-5.3 cheated its way to correct answers"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/10/30/irregular-glm-5-3-cyber-capabilities-evaluation/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "In the year AI re-wrote the infosec rulebook, it’s comforting to know crypto exchanges still have bad security",
+            "en": "In the year AI re-wrote the infosec rulebook, it’s comforting to know crypto exchanges still have bad security"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Hacker leaks data on more than 40,000 Homeland Security employees",
+            "en": "Hacker leaks data on more than 40,000 Homeland Security employees"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/202103/data-breach/hacker-leaks-data-on-more-than-40000-homeland-security-employees.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Leaked DHS employee archive, Icepick, faces challenges to stay online",
+            "en": "Leaked DHS employee archive, Icepick, faces challenges to stay online"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/dhs-employee-breach-icepick-database-takedown/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Mistral open-sources AI model despite warning it could aid cyberattacks",
+            "en": "Mistral open-sources AI model despite warning it could aid cyberattacks"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4242648/mistral-releases-large-4-weights-despite-warning-of-cyberattack-uplift.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
+            "en": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33472"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Binance hit by record $6.3 billion crypto hack, scrambles to freeze funds",
+            "en": "Binance hit by record $6.3 billion crypto hack, scrambles to freeze funds"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/binance-hit-by-record-6-billion-crypto-hack"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
+            "en": "As Russia's Cyberwar Evolves, Belarus Steps Forward"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "darkreading",
+              "url": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+            "en": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Reddit is moving to “a logged-in-only experience,” CEO says",
+            "en": "Reddit is moving to “a logged-in-only experience,” CEO says"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Accenture AI agents are sifting through applicants",
+            "en": "Accenture AI agents are sifting through applicants"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/ai-and-ml/2026/10/30/accenture-ai-agents-are-sifting-through-applicants/5306460"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Eating disorders are on the rise. GLP-1s could make things worse.",
+            "en": "Eating disorders are on the rise. GLP-1s could make things worse."
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Binance-hacker-1029 – $5.6B stolen from Binance",
+            "en": "Binance-hacker-1029 – $5.6B stolen from Binance"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+            "en": "Microsoft fixes a Windows 11 annoyance as PC revenue declines"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Domestic droid gone amok? Don't worry, you're covered",
+            "en": "Domestic droid gone amok? Don't worry, you're covered"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/ai-and-ml/2026/10/30/domestic-droid-gone-amok-dont-worry-youre-covered/5306396"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The Download: AI agent tracking and climate feedback loops",
+            "en": "The Download: AI agent tracking and climate feedback loops"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Patrick Stewart has died",
+            "en": "Patrick Stewart has died"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+            "en": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "UK Shelly reseller warns payment data stolen after malware found on website",
+            "en": "UK Shelly reseller warns payment data stolen after malware found on website"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/cyber-crime/2026/10/30/uk-shelly-reseller-warns-payment-data-stolen-after-malware-found-on-website/5306250"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Π. Σημανδηράκης: Η λύση για το Νοσοκομείο Χανίων ανήκει στο κεντρικό κράτος και στον πυρήνα της είναι το μισθολόγιο",
+            "en": "Π. Σημανδηράκης: Η λύση για το Νοσοκομείο Χανίων ανήκει στο κεντρικό κράτος και στον πυρήνα της είναι το μισθολόγιο"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/p-simandirakis-i-lysi-gia-to-nosokomeio-xanion-anikei-sto-kentriko-kratos-kai-ston-pyrina-tis-einai-to-misthologio/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Η Τουρκία είχε δεχτεί το 2010 την επέκταση των ελληνικών χωρικών υδάτων στα 12 ναυτικά μίλια στις ηπειρωτικές ακτές του Αιγαίου",
+            "en": "Η Τουρκία είχε δεχτεί το 2010 την επέκταση των ελληνικών χωρικών υδάτων στα 12 ναυτικά μίλια στις ηπειρωτικές ακτές του Αιγαίου"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/visual/podcasts/564554653/i-toyrkia-eiche-dechtei-to-2010-tin-epektasi-ton-ellinikon-chorikon-ydaton-sta-12-naytika-milia-stis-ipeirotikes-aktes-toy-aigaioy/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Σεισμός τώρα στη Χαλκιδική – 4,6 Ρίχτερ",
+            "en": "Σεισμός τώρα στη Χαλκιδική – 4,6 Ρίχτερ"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/10/30/society/seismos-tora-sti-xalkidiki-46-rixter/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Σεισμός 4,6 Ρίχτερ ανοιχτά της Χαλκιδικής",
+            "en": "Σεισμός 4,6 Ρίχτερ ανοιχτά της Χαλκιδικής"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/ellada/1499611/seismos-46-rihter-anoihta-tis-halkidikis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "«Χωριάτικο»: Πώς δρούσε το δαιδαλώδες κύκλωμα",
+            "en": "«Χωριάτικο»: Πώς δρούσε το δαιδαλώδες κύκλωμα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/society/2182221/choriatiko-pos-droyse-to-daidalodes-kykloma/?utm_source=rss&utm_medium=rss&utm_campaign=choriatiko-pos-droyse-to-daidalodes-kykloma"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κέρκυρα: Η Δρ Φιόρη Μεταλληνού στην ομάδα στήριξης του αστροναύτη Αδριανού Γολέμη",
+            "en": "Κέρκυρα: Η Δρ Φιόρη Μεταλληνού στην ομάδα στήριξης του αστροναύτη Αδριανού Γολέμη"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/kerkira/kerkyra-i-dr-fiori-metallinou-stin-omada-stiriksis-tou-astronayti-adrianou-golemi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Το κελάηδισμα των πουλιών έχει κοινά χαρακτηριστικά με την ανθρώπινη ομιλία και μουσική",
+            "en": "Το κελάηδισμα των πουλιών έχει κοινά χαρακτηριστικά με την ανθρώπινη ομιλία και μουσική"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/life/science/564556465/to-kelaidisma-ton-poylion-echei-koina-charaktiristika-me-tin-anthropini-omilia-kai-moysiki/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ΗΠΑ: Οι Δημοκρατικοί βάζουν φωτιά στη μάχη της Γερουσίας – «Σκληρά» παίζουν οι Ρεπουμπλικάνοι",
+            "en": "ΗΠΑ: Οι Δημοκρατικοί βάζουν φωτιά στη μάχη της Γερουσίας – «Σκληρά» παίζουν οι Ρεπουμπλικάνοι"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/10/30/world/ipa-oi-dimokratikoi-vazoun-fotia-sti-maxi-tis-gerousias-sklira-paizoun-oi-repoumplikanoi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ο «Mr Χωριάτικο» λέει τώρα ότι θα ρευστοποιήσει την περιουσία του για να εξοφλήσει το χρέος",
+            "en": "Ο «Mr Χωριάτικο» λέει τώρα ότι θα ρευστοποιήσει την περιουσία του για να εξοφλήσει το χρέος"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/ellada/1499606/horiatiko-tora-o-giannakopoylos-tha-reystopoiisei-tin-perioysia-toy-gia-na-exoflisei-to-hreos/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Pizza Fan και «Χωριάτικο»: Όταν η σύλληψη δεν αποδεικνύει ότι το σύστημα λειτουργεί",
+            "en": "Pizza Fan και «Χωριάτικο»: Όταν η σύλληψη δεν αποδεικνύει ότι το σύστημα λειτουργεί"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/opinion/2182214/pizza-fan-kai-choriatiko-otan-i-syllipsi-den-apodeiknyei-oti-to-systima-leitoyrgei/?utm_source=rss&utm_medium=rss&utm_campaign=pizza-fan-kai-choriatiko-otan-i-syllipsi-den-apodeiknyei-oti-to-systima-leitoyrgei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Белгийският министър на правосъдието понася критики заради скъп самолетен билет",
+            "en": "Белгийският министър на правосъдието понася критики заради скъп самолетен билет"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/world/1236283-belgiyskiyat-ministar-na-pravosadieto-ponasya-kritiki-zaradi-skap-samoleten-bile"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "\"Завинаги само ти\" на Клои Лизе (откъс)",
+            "en": "\"Завинаги само ти\" на Клои Лизе (откъс)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/knigi/2026/10/30/4972230_zavinagi_samo_ti_na_kloi_lize_otkus/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Класацията К100 | Най-големите работодатели: Пренареждане на картите на пазара на труда",
+            "en": "Класацията К100 | Най-големите работодатели: Пренареждане на картите на пазара на труда"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/pazar-na-truda/2026/10/30/4962680_klasaciiata_k100_nai-golemite_rabotodateli/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Д-р Жулиен Димитров: Недостиг на персонал и финансиране задълбочава проблема с резистентните инфекции в болниците",
+            "en": "Д-р Жулиен Димитров: Недостиг на персонал и финансиране задълбочава проблема с резистентните инфекции в болниците"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/zdrave/d-r-zhulien-dimitrov-nedostig-na-personal-i-finansirane-zadalbochava-problema-s-rezistentnite-infektsii-v-bolnitsite/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Сол Уилямс идва в София с новия си албум Leap Life",
+            "en": "Сол Уилямс идва в София с новия си албум Leap Life"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/lik/1236275-sol-uilyams-idva-v-sofiya-s-noviya-si-album-leap-life"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Дебатът между Йотова и Гюров е достигнал до над 1 млн. зрители, обяви БНТ",
+            "en": "Дебатът между Йотова и Гюров е достигнал до над 1 млн. зрители, обяви БНТ"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/izbori-2026/2026/10/30/4973911_debatut_mejdu_iotova_i_gjurov_e_dostignal_do_nad_1_mln/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Бързо кеш: Колко е важно да бъдеш ликвиден",
+            "en": "Бързо кеш: Колко е важно да бъдеш ликвиден"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/moiat_capital/investments/2026/10/30/4972247_burzo_kesh_kolko_e_vajno_da_budesh_likviden/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Има червени линии в предизборните кампании, които даже и милиционерите не трябва да прекрачват",
+            "en": "Има червени линии в предизборните кампании, които даже и милиционерите не трябва да прекрачват"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/analizi-i-komentari/ima-cherveni-linii-v-predizbornite-kampanii-koito-dazhe-i-militsionerite-ne-tryabva-da-prekrachvat/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Газът за домакинствата в ЕС е поевтинял през първата половина на 2026 г., спадът в България е най-голям, отчита Евростат",
+            "en": "Газът за домакинствата в ЕС е поевтинял през първата половина на 2026 г., спадът в България е най-голям, отчита Евростат"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/economy/1236280-gazat-za-domakinstvata-v-es-e-poevtinyal-prez-parvata-polovina-na-2026-g-spada"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Пентагонът призовал европейците да не \"дразнят\" Русия",
+            "en": "Пентагонът призовал европейците да не \"дразнят\" Русия"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/10/30/4973903_pentagonut_prizoval_evropeicite_da_ne_drazniat_rusiia/?ref=rss"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
