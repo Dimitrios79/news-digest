@@ -1,0 +1,734 @@
+{
+  "date": "2026-11-01",
+  "generated": "2026-11-01T11:33:35.685658+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "Seabirds racing home over the ocean can get jet-lagged",
+      "Θρίλερ στη Χαλάστρα Θεσσαλονίκης με νεκρή ηλικιωμένη: Φρουρούμενος νοσηλεύεται ο σύζυγός της",
+      "До половин милион души загиват от змийско ухапване годишно, според проучване"
+    ],
+    "en": [
+      "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "Seabirds racing home over the ocean can get jet-lagged",
+      "Θρίλερ στη Χαλάστρα Θεσσαλονίκης με νεκρή ηλικιωμένη: Φρουρούμενος νοσηλεύεται ο σύζυγός της",
+      "До половин милион души загиват от змийско ухапване годишно, според проучване"
+    ]
+  },
+  "meta": {
+    "el": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key; Seabirds racing home over the ocean can get jet-lagged; Θρ",
+    "en": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key; Seabirds racing home over the ocean can get jet-lagged; Θρ"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+            "en": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Northflank security breach leads to abuse of customers' AI API keys",
+            "en": "Northflank security breach leads to abuse of customers' AI API keys"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+            "en": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Week in review: Binance hit by $6.3 billion theft, impact of Brotli vulnerability",
+            "en": "Week in review: Binance hit by $6.3 billion theft, impact of Brotli vulnerability"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/11/01/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "U.S. CISA adds Ivanti Connect Secure flaws to its Known Exploited Vulnerabilities catalog",
+            "en": "U.S. CISA adds Ivanti Connect Secure flaws to its Known Exploited Vulnerabilities catalog"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/202175/security/u-s-cisa-adds-ivanti-connect-secure-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "OneNote File Extraction, (Sun, Nov 1st)",
+            "en": "OneNote File Extraction, (Sun, Nov 1st)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33478"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+            "en": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "New Android SMS of Death exploit can remotely crash unpatched phones",
+            "en": "New Android SMS of Death exploit can remotely crash unpatched phones"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
+            "en": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
+            "en": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33476"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+            "en": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Reddit to lock content behind logins to fight scrapers",
+            "en": "Reddit to lock content behind logins to fight scrapers"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Seabirds racing home over the ocean can get jet-lagged",
+            "en": "Seabirds racing home over the ocean can get jet-lagged"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Landline phones will switch off across Britland in 100 days, no extensions – Openreach",
+            "en": "Landline phones will switch off across Britland in 100 days, no extensions – Openreach"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "An Italian farmer found some unknown seeds in his attic and planted them",
+            "en": "An Italian farmer found some unknown seeds in his attic and planted them"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+            "en": "The FDA wants to pull its approval of a drug. It’s not so easy."
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Google's AI satellite sends a very expensive haiku to Earth",
+            "en": "Google's AI satellite sends a very expensive haiku to Earth"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "HackerTube: YouTube built from videos recommended by HN",
+            "en": "HackerTube: YouTube built from videos recommended by HN"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://karpathy.bearblog.dev/hacker-tube/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s",
+            "en": "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/offbeat/2026/10/31/goth-aesthetic-gone-wild-a-users-self-inflicted-black-screen-of-non-death-in-windows-31s/5306592"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Anthropic blocks users for anything touching training larger models",
+            "en": "Anthropic blocks users for anything touching training larger models"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Amazon sends chills through its workforce with mixed message memo about AI use",
+            "en": "Amazon sends chills through its workforce with mixed message memo about AI use"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+            "en": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Θρίλερ στη Χαλάστρα Θεσσαλονίκης με νεκρή ηλικιωμένη: Φρουρούμενος νοσηλεύεται ο σύζυγός της",
+            "en": "Θρίλερ στη Χαλάστρα Θεσσαλονίκης με νεκρή ηλικιωμένη: Φρουρούμενος νοσηλεύεται ο σύζυγός της"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/thriler-sti-xalastra-thessalonikis-me-nekri-ilikiomeni-frouroumenos-nosileyetai-o-syzygos-tis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Βουλγαρία: Στις κάλπες οι Βούλγαροι για τον δεύτερο γύρο των προεδρικών εκλογών",
+            "en": "Βουλγαρία: Στις κάλπες οι Βούλγαροι για τον δεύτερο γύρο των προεδρικών εκλογών"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/world/564560668/voylgaria-stis-kalpes-oi-voylgaroi-gia-ton-deytero-gyro-ton-proedrikon-eklogon/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Μηνύματα της Δίκης των Τεμπών",
+            "en": "Μηνύματα της Δίκης των Τεμπών"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/01/opinions/minymata-tis-dikis-ton-tempon/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Πάνε για κέρδη άνω των 5 δισ. ευρώ οι τέσσερις συστημικές τράπεζες το 2026 – Τα 2,3 δισ. ευρώ θα γίνουν μερίσματα",
+            "en": "Πάνε για κέρδη άνω των 5 δισ. ευρώ οι τέσσερις συστημικές τράπεζες το 2026 – Τα 2,3 δισ. ευρώ θα γίνουν μερίσματα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/oikonomia/1500336/pane-gia-kerdi-ano-ton-5-dis-eyro-oi-tesseris-systimikes-trapezes-to-2026-ta-23-dis-eyro-tha-ginoyn-merismata/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Σερβία: 2 χρόνια από την τραγωδία στο Νόβι Σαντ – Οδυνηρή επέτειος εν μέσω ριζικών πολιτικών αλλαγών",
+            "en": "Σερβία: 2 χρόνια από την τραγωδία στο Νόβι Σαντ – Οδυνηρή επέτειος εν μέσω ριζικών πολιτικών αλλαγών"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/kosmos/2182861/servia-2-chronia-apo-tin-tragodia-sto-novi-sant-odyniri-epeteios-en-meso-rizikon-politikon-allagon/?utm_source=rss&utm_medium=rss&utm_campaign=servia-2-chronia-apo-tin-tragodia-sto-novi-sant-odyniri-epeteios-en-meso-rizikon-politikon-allagon"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Πώς τα δακρυγόνα επηρεάζουν τον έμμηνο κύκλο των γυναικών",
+            "en": "Πώς τα δακρυγόνα επηρεάζουν τον έμμηνο κύκλο των γυναικών"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/pos-ta-dakrygona-epireazoun-ton-emmino-kyklo-ton-gynaikon/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κρήτη: Αφιξη 350 μεταναστών σε 24 ώρες – Αλλεπάλληλες επιχειρήσεις διάσωσης",
+            "en": "Κρήτη: Αφιξη 350 μεταναστών σε 24 ώρες – Αλλεπάλληλες επιχειρήσεις διάσωσης"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/society/564560662/kriti-afixi-350-metanaston-se-24-ores-allepalliles-epicheiriseis-diasosis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κοκτέιλ, μουσικές και πιάτα στη μέση στις θεατρικές πιάτσες της Αθήνας",
+            "en": "Κοκτέιλ, μουσικές και πιάτα στη μέση στις θεατρικές πιάτσες της Αθήνας"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/01/elliniki-kouzina/kokteil-mousikes-kai-piata-sti-mesi-stis-theatrikes-piatses-tis-athinas/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Εκδήλωση στο «Σήμα» για τις διώξεις στην εκπαίδευση",
+            "en": "Εκδήλωση στο «Σήμα» για τις διώξεις στην εκπαίδευση"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/ellada/1500629/ekdilosi-sto-sima-gia-tis-dioxeis-stin-ekpaideysi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Τη Δευτέρα η υπογραφή για την προμήθεια τριών αεροσκαφών KC 390 EMBRAER, παρουσία Νίκου Δένδια",
+            "en": "Τη Δευτέρα η υπογραφή για την προμήθεια τριών αεροσκαφών KC 390 EMBRAER, παρουσία Νίκου Δένδια"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/politics/2182863/ti-deytera-i-ypografi-gia-tin-promitheia-trion-aeroskafon-kc-390-embraer-paroysia-nikoy-dendia/?utm_source=rss&utm_medium=rss&utm_campaign=ti-deytera-i-ypografi-gia-tin-promitheia-trion-aeroskafon-kc-390-embraer-paroysia-nikoy-dendia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "До половин милион души загиват от змийско ухапване годишно, според проучване",
+            "en": "До половин милион души загиват от змийско ухапване годишно, според проучване"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/lik/1236785-do-polovin-milion-dushi-zagivat-ot-zmiysko-uhapvane-godishno-spored-prouchvane"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Лидерът на БСП обяви, че е гласувал за по-социалния кандидат",
+            "en": "Лидерът на БСП обяви, че е гласувал за по-социалния кандидат"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/izbori-2026/2026/11/01/4974554_liderut_na_bsp_obiavi_che_e_glasuval_za_po-socialniia/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Балотажът Илияна Йотова или Андрей Гюров (live блог): Избирателната активност към 11 часа е ниска",
+            "en": "Балотажът Илияна Йотова или Андрей Гюров (live блог): Избирателната активност към 11 часа е ниска"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/11/01/4974413_iliiana_iotova_ili_andrei_gjurov_vtoriiat_tur_na/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "За какво гласуваха политиците на балотажа",
+            "en": "За какво гласуваха политиците на балотажа"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/prezidentski-izbori-2026/za-kakvo-glasuvaha-polititsite-na-balotazha/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "В обедните часове леко се повиши активността в избирателните секции в Истанбул за президентските избори в България",
+            "en": "В обедните часове леко се повиши активността в избирателните секции в Истанбул за президентските избори в България"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/balkans/1237480-v-obednite-chasove-leko-se-povishi-aktivnostta-v-izbiratelnite-sektsii-v-istanbu"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Към 11 ч. активността е малко по-висока спрямо първия тур",
+            "en": "Към 11 ч. активността е малко по-висока спрямо първия тур"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/izbori-2026/2026/11/01/4974546_kum_11_ch_aktivnostta_e_malko_po-visoka_spriamo/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Regional Defence Summit 2026 | Европейската отбрана се нуждае и от креативност, и от работа в мащаб",
+            "en": "Regional Defence Summit 2026 | Европейската отбрана се нуждае и от креативност, и от работа в мащаб"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/otbrana/2026/11/01/4972960_regional_defence_summit_2026_evropeiskata_otbrana_se/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ЦИК: Избирателната активност към 11 ч. е 6.11% – малко над тази на първия тур",
+            "en": "ЦИК: Избирателната активност към 11 ч. е 6.11% – малко над тази на първия тур"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/prezidentski-izbori-2026/tsik-izbiratelnata-aktivnost-kam-11-ch-e-611-malko-nad-tazi-na-parviya-tur/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Естебан Окон отрича, че физическо насилие е довело до отстраняването му от отбора на Хаас за Гран при на Мексико",
+            "en": "Естебан Окон отрича, че физическо насилие е довело до отстраняването му от отбора на Хаас за Гран при на Мексико"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/sport/1237484-esteban-okon-otricha-che-fizichesko-nasilie-e-dovelo-do-otstranyavaneto-mu-ot-o"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "\"Дълголетие в добро здраве. Новата наука и остаряването\" на Ерик Топол (откъс)",
+            "en": "\"Дълголетие в добро здраве. Новата наука и остаряването\" на Ерик Топол (откъс)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/knigi/2026/11/01/4974239_dulgoletie_v_dobro_zdrave_novata_nauka_i_ostariavaneto/?ref=rss"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
