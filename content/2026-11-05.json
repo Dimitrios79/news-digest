@@ -1,0 +1,734 @@
+{
+  "date": "2026-11-05",
+  "generated": "2026-11-05T12:48:32.712122+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+      "Χωρίς ενημέρωση από τις 11:30 έως τις 15:30 – Στάση εργασίας στα ΜΜΕ για τη συνέλευση του ΕΔΟΕΑΠ",
+      "ГЕРБ подкрепя започването на процедура за концесия на „Топлофикация София“, каза общинският съветник Димитър Вучев"
+    ],
+    "en": [
+      "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+      "Χωρίς ενημέρωση από τις 11:30 έως τις 15:30 – Στάση εργασίας στα ΜΜΕ για τη συνέλευση του ΕΔΟΕΑΠ",
+      "ГЕРБ подкрепя започването на процедура за концесия на „Топлофикация София“, каза общинският съветник Димитър Вучев"
+    ]
+  },
+  "meta": {
+    "el": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run; Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide; Χωρίς",
+    "en": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run; Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide; Χωρίς"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+            "en": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+            "en": "GhostMap Android flaw lets malicious app trigger persistent boot loop"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
+            "en": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Patched Zyxel GS1900 switches remained open to in-the-wild exploit (CVE-2026-107441)",
+            "en": "Patched Zyxel GS1900 switches remained open to in-the-wild exploit (CVE-2026-107441)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/11/05/zyxel-cve-2026-107441-exploit/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
+            "en": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Russian APT29 Targets Mobile Users with Watering Hole Attacks",
+            "en": "Russian APT29 Targets Mobile Users with Watering Hole Attacks"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/202473/apt/russian-apt29-targets-mobile-users-with-watering-hole-attacks.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "What Democratic control of Congress means for cybersecurity",
+            "en": "What Democratic control of Congress means for cybersecurity"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/democrats-congress-cybersecurity-cisa-ai-priorities/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Debian, Ubuntu patch APT flaw that could hand attackers root",
+            "en": "Debian, Ubuntu patch APT flaw that could hand attackers root"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4245109/debian-ubuntu-patch-apt-flaw-that-could-hand-attackers-root.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
+            "en": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33490"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Want to Rent an Internet Address at the White House?",
+            "en": "Want to Rent an Internet Address at the White House?"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Krebs on Security",
+              "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
+            "en": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+            "en": "Critical Rails Bug Threatens to Derail Vulnerable Servers"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "darkreading",
+              "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+            "en": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "SAP promises to open out data flows in both directions",
+            "en": "SAP promises to open out data flows in both directions"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/software/2026/11/05/sap-promises-to-open-out-data-flows-in-both-directions/5307495"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "A new bill could change how the US builds energy infrastructure",
+            "en": "A new bill could change how the US builds energy infrastructure"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Images 2.6",
+            "en": "Images 2.6"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://openai.com/index/introducing-images-2-6/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+            "en": "Nintendo's biggest ROM chip supplier is bowing out of the business"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Royal London plans IT outsourcing shake-up as staff brace for redundancies",
+            "en": "Royal London plans IT outsourcing shake-up as staff brace for redundancies"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/on-prem/2026/11/05/royal-london-plans-it-outsourcing-shake-up-as-staff-brace-for-redundancies/5307481"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+            "en": "Texas was the new epicenter of the AI data center buildout. That might be kaput."
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "A thousand fewer paths to root",
+            "en": "A thousand fewer paths to root"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Hackers exploited iOS and Android flaws to infect phones",
+            "en": "Hackers exploited iOS and Android flaws to infect phones"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "When datacenters lose power, generators should kick in. That didn’t happen for Google in London",
+            "en": "When datacenters lose power, generators should kick in. That didn’t happen for Google in London"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/off-prem/2026/11/05/when-datacenters-lose-power-generators-should-kick-in-that-didnt-happen-for-google-in-london/5307739"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Χωρίς ενημέρωση από τις 11:30 έως τις 15:30 – Στάση εργασίας στα ΜΜΕ για τη συνέλευση του ΕΔΟΕΑΠ",
+            "en": "Χωρίς ενημέρωση από τις 11:30 έως τις 15:30 – Στάση εργασίας στα ΜΜΕ για τη συνέλευση του ΕΔΟΕΑΠ"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/ellada/xoris-enimerosi-apo-tis-11-30-eos-tis-15-30-stasi-ergasias-sta-mme-gia-ti-syneleysi-tou-edoeap/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Η μάχη για τη διαδοχή του Τραμπ άρχισε – Οι Δημοκρατικοί που κοιτούν προς τον Λευκό Οίκο",
+            "en": "Η μάχη για τη διαδοχή του Τραμπ άρχισε – Οι Δημοκρατικοί που κοιτούν προς τον Λευκό Οίκο"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/world/564569401/i-machi-gia-ti-diadochi-toy-tramp-archise-oi-dimokratikoi-poy-koitoyn-pros-ton-leyko-oiko/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Σουβλάκι με ροκ ψυχή στην Πρωτογένους",
+            "en": "Σουβλάκι με ροκ ψυχή στην Πρωτογένους"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/05/elliniki-kouzina/souvlaki-me-rok-psyxi-stin-protogenous/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Αρβανίτης: «Η κυβέρνηση οφείλει απαντήσεις για όσα καταγγέλλονται στον Οργανισμό Αντιμετώπισης Εξαρτήσεων»",
+            "en": "Αρβανίτης: «Η κυβέρνηση οφείλει απαντήσεις για όσα καταγγέλλονται στον Οργανισμό Αντιμετώπισης Εξαρτήσεων»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/politiki/1503714/arvanitis-i-kyvernisi-ofeilei-apantiseis-gia-osa-kataggellontai-ston-organismo-antimetopisis-exartiseon/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Washington Sun: Ο Μάρκο Ρούμπιο ενδέχεται να παραιτηθεί για να διεκδικήσει την προεδρία",
+            "en": "Washington Sun: Ο Μάρκο Ρούμπιο ενδέχεται να παραιτηθεί για να διεκδικήσει την προεδρία"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/kosmos/2184958/washington-sun-o-marko-roympio-endechetai-na-paraitithei-gia-na-diekdikisei-tin-proedria/?utm_source=rss&utm_medium=rss&utm_campaign=washington-sun-o-marko-roympio-endechetai-na-paraitithei-gia-na-diekdikisei-tin-proedria"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ευρεία συντονιστική σύσκεψη στην Περιφέρεια Κεντρικής Μακεδονίας υπό τον Υπουργό Κλιματικής Κρίσης και Πολιτικής Προστασίας Ε. Τουρνά",
+            "en": "Ευρεία συντονιστική σύσκεψη στην Περιφέρεια Κεντρικής Μακεδονίας υπό τον Υπουργό Κλιματικής Κρίσης και Πολιτικής Προστασίας Ε. Τουρνά"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/ert3/eyreia-syntonistiki-syskepsi-stin-perifereia-kentrikis-makedonias-ypo-ton-ypourgo-klimatikis-krisis-kai-politikis-prostasias-e-tourna/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Μπέρναμ: Ο Πούτιν δεν θα προσκληθεί στη σύνοδο της G20 στη Βρετανία",
+            "en": "Μπέρναμ: Ο Πούτιν δεν θα προσκληθεί στη σύνοδο της G20 στη Βρετανία"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/world/564569344/mpernam-o-poytin-den-tha-prosklithei-sti-synodo-tis-g20-sti-vretania/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ολοκληρώθηκε το πανεκπαιδευτικό συλλαλητήριο: Ανοιξαν οι δρόμοι και ο σταθμός «Πανεπιστήμιο»",
+            "en": "Ολοκληρώθηκε το πανεκπαιδευτικό συλλαλητήριο: Ανοιξαν οι δρόμοι και ο σταθμός «Πανεπιστήμιο»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/05/society/panekpaideytiko-syllalitirio-se-ekseliksi-i-poreia-sto-kentro-tis-athinas-kleisti-i-panepistimiou/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Aegean για απειλητικά τηλεφωνήματα σε δύο πτήσεις της: «Εφαρμόστηκαν τα πρωτόκολλα ασφαλείας»",
+            "en": "Aegean για απειλητικά τηλεφωνήματα σε δύο πτήσεις της: «Εφαρμόστηκαν τα πρωτόκολλα ασφαλείας»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/ellada/1503738/aegean-gia-apeilitika-tilefonimata-se-dyo-ptiseis-tis-avasimi-i-apeili-efarmostikan-ta-protokolla-asfaleias/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Navios Maritime: 5 δισ. δολάρια συμβασιοποιημένα έσοδα έως το 2037",
+            "en": "Navios Maritime: 5 δισ. δολάρια συμβασιοποιημένα έσοδα έως το 2037"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/maritime/2184950/navios-maritime-5-dis-dolaria-symvasiopoiimena-esoda-eos-to-2037/?utm_source=rss&utm_medium=rss&utm_campaign=navios-maritime-5-dis-dolaria-symvasiopoiimena-esoda-eos-to-2037"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "ГЕРБ подкрепя започването на процедура за концесия на „Топлофикация София“, каза общинският съветник Димитър Вучев",
+            "en": "ГЕРБ подкрепя започването на процедура за концесия на „Топлофикация София“, каза общинският съветник Димитър Вучев"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/bulgaria/1240730-gerb-podkrepya-zapochvaneto-na-protsedura-za-kontsesiya-na-toplofikatsiya-sofiy"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "\"Гранична полиция\" задържа четирима души за трафик на мигранти в Момчилград",
+            "en": "\"Гранична полиция\" задържа четирима души за трафик на мигранти в Момчилград"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/bulgaria/2026/11/05/4976639_granichna_policiia_zadurja_chetirima_dushi_za_trafik/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Властта използва лидера на ДПС като плашило, без да работи за напредък по проверките, свързани с него",
+            "en": "Властта използва лидера на ДПС като плашило, без да работи за напредък по проверките, свързани с него"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/11/05/4976604_vlastta_izpolzva_lidera_na_dps_kato_plashilo_bez_da/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Бомбени заплахи срещу 3 самолета, изпълняващи полети до София. Нова вълна от заплахи в цяла Европа",
+            "en": "Бомбени заплахи срещу 3 самолета, изпълняващи полети до София. Нова вълна от заплахи в цяла Европа"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/evropa/bombeni-zaplahi-sreshtu-3-samoleta-izpalnyavashti-poleti-do-sofiya-nova-valna-ot-zaplahi-v-tsyala-evropa/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Пристанищни оператори в ЕС настояват за промяна в правилата за въглеродните квоти в морския транспорт",
+            "en": "Пристанищни оператори в ЕС настояват за промяна в правилата за въглеродните квоти в морския транспорт"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/economy/1240720-pristanishtni-operatori-v-es-nastoyavat-za-promyana-v-pravilata-za-vaglerodnite-"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Какво става след изборите: Разговор с Ивайло Мирчев, съпредседател на \"Да, България\"",
+            "en": "Какво става след изборите: Разговор с Ивайло Мирчев, съпредседател на \"Да, България\""
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/izbori-2026/2026/11/05/4976630_kakvo_stava_sled_izborite_razgovor_s_ivailo_mirchev/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Бизнес глобус: Танкери с руски дизел са пренасочени от САЩ към Бразилия и Средиземно море; AstraZeneca предлага 10 млрд. долара за Rhythm Pharmaceuticals",
+            "en": "Бизнес глобус: Танкери с руски дизел са пренасочени от САЩ към Бразилия и Средиземно море; AstraZeneca предлага 10 млрд. долара за Rhythm Pharmaceuticals"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/sviat/biznes-globus/2026/11/05/4976591_biznes_globus_tankeri_s_ruski_dizel_sa_prenasocheni_ot/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Четиресет и две са вече жертвите на руския удар по пункт за раздаване на хуманитарна помощ в Украйна",
+            "en": "Четиресет и две са вече жертвите на руския удар по пункт за раздаване на хуманитарна помощ в Украйна"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/voina-v-ukraina/chetireset-i-dve-sa-veche-zhertvite-na-ruskiya-udar-po-punkt-za-razdavane-na-humanitarna-pomosht-v-ukraina/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Временна организация на движението ще бъде въведена утре в участък от пътя Кресна – Кулата край Сандански",
+            "en": "Временна организация на движението ще бъде въведена утре в участък от пътя Кресна – Кулата край Сандански"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/bulgaria/1240728-vremenna-organizatsiya-na-dvizhenieto-shte-bade-vavedena-utre-v-uchastak-ot-paty"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Отглеждащите крави и овце подозират властта, че ги настройва срещу козевъдите и биволовъдите",
+            "en": "Отглеждащите крави и овце подозират властта, че ги настройва срещу козевъдите и биволовъдите"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/11/05/4976634_otglejdashtite_kravi_i_ovce_podozirat_vlastta_che_gi/?ref=rss"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
