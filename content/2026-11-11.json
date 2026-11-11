@@ -1,0 +1,734 @@
+{
+  "date": "2026-11-11",
+  "generated": "2026-11-11T12:14:33.441295+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "Seagate's new hybrid drive raises some old questions",
+      "Ένας κρυμμένος κόσμος στη «Νυχτερινή Περίπολο» του Ρέμπραντ – Μικρόβια ακόμη και από την Ιαπωνία πάνω στον διάσημο πίνακα",
+      "„Подвигът на мъчениците е най-яркото свидетелство на вярата“, каза Неврокопският митрополит Серафим в църквата „Св. Мина“ в Старчево"
+    ],
+    "en": [
+      "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "Seagate's new hybrid drive raises some old questions",
+      "Ένας κρυμμένος κόσμος στη «Νυχτερινή Περίπολο» του Ρέμπραντ – Μικρόβια ακόμη και από την Ιαπωνία πάνω στον διάσημο πίνακα",
+      "„Подвигът на мъчениците е най-яркото свидетелство на вярата“, каза Неврокопският митрополит Серафим в църквата „Св. Мина“ в Старчево"
+    ]
+  },
+  "meta": {
+    "el": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.; Seagate's new hybrid drive raises some old questions; Ένας κρυμμένος κόσμο",
+    "en": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.; Seagate's new hybrid drive raises some old questions; Ένας κρυμμένος κόσμο"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+            "en": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned."
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Microsoft fixes audio issues caused by September security updates",
+            "en": "Microsoft fixes audio issues caused by September security updates"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do",
+            "en": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Rubrik enhances DevOps Protection to preserve legitimate work during recovery",
+            "en": "Rubrik enhances DevOps Protection to preserve legitimate work during recovery"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/11/11/rubrik-devops-protection/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Shipping giant Maersk probes 'IT security incident,' data theft",
+            "en": "Shipping giant Maersk probes 'IT security incident,' data theft"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Hackers Advertise a $1,000 Gmail Tool That Allegedly Survives Password Resets",
+            "en": "Hackers Advertise a $1,000 Gmail Tool That Allegedly Survives Password Resets"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/202853/malware/hackers-advertise-a-1000-gmail-tool-that-allegedly-survives-password-resets.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "CISA director pick already drawing concern from Hill Dems over Palantir connection",
+            "en": "CISA director pick already drawing concern from Hill Dems over Palantir connection"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/michael-losapio-cisa-director-nomination-palantir-scrutiny/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Claude Code’s ‘don’t ask again’ button has a secrets-spilling problem",
+            "en": "Claude Code’s ‘don’t ask again’ button has a secrets-spilling problem"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4247336/claude-codes-dont-ask-again-button-has-a-secrets-spilling-problem.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
+            "en": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33510"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+            "en": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Krebs on Security",
+              "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Three People Arrested for AI-Enhanced Impersonation Fraud",
+            "en": "Three People Arrested for AI-Enhanced Impersonation Fraud"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Schneier on Security",
+              "url": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "US Army member arrested in UK over allegations of spying for Russia",
+            "en": "US Army member arrested in UK over allegations of spying for Russia"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Seagate's new hybrid drive raises some old questions",
+            "en": "Seagate's new hybrid drive raises some old questions"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Google gooses Python AI performance by... removing Python",
+            "en": "Google gooses Python AI performance by... removing Python"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+            "en": "The Download: Pelosi’s successor targets AI and data centers face power woes"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Tracking Anthropic-discovered vulnerabilities",
+            "en": "Tracking Anthropic-discovered vulnerabilities"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The US military seems to be getting nervous about the launch supply crunch",
+            "en": "The US military seems to be getting nervous about the launch supply crunch"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Linux joins Heathrow's grounded fleet of information screens",
+            "en": "Linux joins Heathrow's grounded fleet of information screens"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/offbeat/2026/11/11/linux-joins-heathrows-grounded-fleet-of-information-screens/5308738"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Evolving metal extraction processes",
+            "en": "Evolving metal extraction processes"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Scion is back and is going to sell a kei truck in America",
+            "en": "Scion is back and is going to sell a kei truck in America"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+            "en": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica - All content",
+              "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "AMD: Where we're going we don't need (as much) DRAM",
+            "en": "AMD: Where we're going we don't need (as much) DRAM"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Ένας κρυμμένος κόσμος στη «Νυχτερινή Περίπολο» του Ρέμπραντ – Μικρόβια ακόμη και από την Ιαπωνία πάνω στον διάσημο πίνακα",
+            "en": "Ένας κρυμμένος κόσμος στη «Νυχτερινή Περίπολο» του Ρέμπραντ – Μικρόβια ακόμη και από την Ιαπωνία πάνω στον διάσημο πίνακα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/epistimi/epistimi/enas-krymmenos-kosmos-sti-nyxterini-peripolo-tou-remprant-mikrovia-akomi-kai-apo-tin-iaponia-pano-ston-diasimo-pinaka/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "COP31: Αγώνας δρόμου για το κλίμα στη σκιά του πολέμου και της ενεργειακής κρίσης",
+            "en": "COP31: Αγώνας δρόμου για το κλίμα στη σκιά του πολέμου και της ενεργειακής κρίσης"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/world/564581719/cop31-agonas-dromoy-gia-to-klima-sti-skia-toy-polemoy-kai-tis-energeiakis-krisis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Άμπου Ντάμπι: Συμφωνία για ανταλλαγή αιχμαλώτων – Σκληρές δηλώσεις κατά της Ευρώπης",
+            "en": "Άμπου Ντάμπι: Συμφωνία για ανταλλαγή αιχμαλώτων – Σκληρές δηλώσεις κατά της Ευρώπης"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/11/world/ampou-ntampi-symfonia-gia-antallagi-aixmaloton-sklires-diloseis-kata-tis-eyropis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "«Φρένο» στην κερδοσκοπία με τα ακίνητα ζητούν και οι Αθηναίοι",
+            "en": "«Φρένο» στην κερδοσκοπία με τα ακίνητα ζητούν και οι Αθηναίοι"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/oikonomia/1507475/freno-stin-kerdoskopia-me-ta-akinita-zitoyn-kai-oi-athinaioi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ο μυστήριος θάνατος ενός γαλαζοαίματου σε ένα από τα ασφαλέστερα μέρη στον κόσμο",
+            "en": "Ο μυστήριος θάνατος ενός γαλαζοαίματου σε ένα από τα ασφαλέστερα μέρη στον κόσμο"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/kosmos/2187471/o-mystirios-thanatos-enos-galazoaimatoy-se-ena-apo-ta-asfalestera-meri-ston-kosmo/?utm_source=rss&utm_medium=rss&utm_campaign=o-mystirios-thanatos-enos-galazoaimatoy-se-ena-apo-ta-asfalestera-meri-ston-kosmo"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Συναγερμός σε εκπαιδευτήριο της Αττικής: 13 μαθητές και 7 ενήλικες στο νοσοκομείο με αναπνευστικά προβλήματα",
+            "en": "Συναγερμός σε εκπαιδευτήριο της Αττικής: 13 μαθητές και 7 ενήλικες στο νοσοκομείο με αναπνευστικά προβλήματα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/synagermos-se-ekpaideytirio-tis-attikis-13-mathites-kai-7-enilikes-sto-nosokomeio-me-anapneystika-provlimata/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Καλώδιο: Σύγκληση συμβουλίου πολιτικών αρχηγών ζητεί η Ρένα Δούρου",
+            "en": "Καλώδιο: Σύγκληση συμβουλίου πολιτικών αρχηγών ζητεί η Ρένα Δούρου"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/politics/parliament/564581725/kalodio-sygklisi-symvoylioy-politikon-archigon-zitei-i-rena-doyroy/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Φοροδιαφυγή: Ελεύθεροι δύο του κυκλώματος – Πώς μία καθαρίστρια «διοικούσε» 12 εταιρείες",
+            "en": "Φοροδιαφυγή: Ελεύθεροι δύο του κυκλώματος – Πώς μία καθαρίστρια «διοικούσε» 12 εταιρείες"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/11/society/forodiafygi-eleytheroi-dyo-tou-kyklomatos-pos-mia-katharistria-dioikouse-12-etaireies/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Συναγερμός σε σχολείο της Αττικής: Στο νοσοκομείο 13 μαθητές και 7 ενήλικες λόγω εισπνοής χημικών σε πισίνα",
+            "en": "Συναγερμός σε σχολείο της Αττικής: Στο νοσοκομείο 13 μαθητές και 7 ενήλικες λόγω εισπνοής χημικών σε πισίνα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/ellada/1507668/synagermos-se-sholeio-tis-attikis-sto-nosokomeio-13-mathites-kai-7-enilikes-logo-eispnois-himikon-se-pisina/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ολοκληρώθηκε η πολυεθνική άσκηση «AEGEAN SEAL 26-IΙ» του Πολεμικού Ναυτικού (φωτογραφίες)",
+            "en": "Ολοκληρώθηκε η πολυεθνική άσκηση «AEGEAN SEAL 26-IΙ» του Πολεμικού Ναυτικού (φωτογραφίες)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/politics/2187497/oloklirothike-i-polyethniki-askisi-aegean-seal-26-ii-toy-polemikoy-naytikoy-fotografies/?utm_source=rss&utm_medium=rss&utm_campaign=oloklirothike-i-polyethniki-askisi-aegean-seal-26-ii-toy-polemikoy-naytikoy-fotografies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "„Подвигът на мъчениците е най-яркото свидетелство на вярата“, каза Неврокопският митрополит Серафим в църквата „Св. Мина“ в Старчево",
+            "en": "„Подвигът на мъчениците е най-яркото свидетелство на вярата“, каза Неврокопският митрополит Серафим в църквата „Св. Мина“ в Старчево"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/lik/1244606--podvigat-na-machenitsite-e-nay-yarkoto-svidetelstvo-na-vyarata-kaza-nevrokops"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Механизмът за изчисляването на свръхпечалбата ще се променя",
+            "en": "Механизмът за изчисляването на свръхпечалбата ще се променя"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/biznes/2026/11/11/4978499_mehanizmut_za_izchisliavaneto_na_svruhpechalbata_shte/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Михаил Екимджиев: Съдебната система се е капсулирала и не може да се прочисти отвътре",
+            "en": "Михаил Екимджиев: Съдебната система се е капсулирала и не може да се прочисти отвътре"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/pravo/2026/11/11/4978473_mihail_ekimdjiev_sudebnata_sistema_se_e_kapsulirala_i/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Започна вторият ден на преговори между Киев и Москва с посредничеството на САЩ в Абу Даби",
+            "en": "Започна вторият ден на преговори между Киев и Москва с посредничеството на САЩ в Абу Даби"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/voina-v-ukraina/zapochna-vtoriyat-den-na-pregovori-mezhdu-kiev-i-moskva-s-posrednichestvoto-na-sasht-v-abu-dabi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending",
+            "en": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Sofia Globe",
+              "url": "https://sofiaglobe.com/2026/11/10/death-toll-in-chain-crash-on-bulgarias-trakia-motorway-is-12-with-final-figure-pending/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Албум с арии и филм за Валери Попова ще бъдат представени в Софийската опера на 12 ноември",
+            "en": "Албум с арии и филм за Валери Попова ще бъдат представени в Софийската опера на 12 ноември"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/lik/1244596-album-s-arii-i-film-za-valeri-popova-shte-badat-predstaveni-v-sofiyskata-opera-n"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Край на заплахите \"Последна бройка\", онлайн търговците ще показват цената с такси",
+            "en": "Край на заплахите \"Последна бройка\", онлайн търговците ще показват цената с такси"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/evropa/2026/11/11/4978493_krai_na_zaplahite_posledna_broika_onlain_turgovcite/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Новият индустриален парк: \"Перла\"-та на Нова Загора",
+            "en": "Новият индустриален парк: \"Перла\"-та на Нова Загора"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/gradove/2026/11/11/4954655_noviiat_industrialen_park_perla-ta_na_nova_zagora/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Държавата ще подкрепи с 8000 евро семействата на загиналите при трагедията на магистрала \"Тракия\"",
+            "en": "Държавата ще подкрепи с 8000 евро семействата на загиналите при трагедията на магистрала \"Тракия\""
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/bulgaria/darzhavata-shte-podkrepi-s-8000-evro-semeistvata-na-zaginalite-pri-tragediyata-na-magistrala-trakiya/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "VDL: EC proposes dedicated funding of 50 million euro for Black Sea maritime security hub",
+            "en": "VDL: EC proposes dedicated funding of 50 million euro for Black Sea maritime security hub"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Sofia Globe",
+              "url": "https://sofiaglobe.com/2026/11/10/vdl-ec-proposes-dedicated-funding-of-50-million-euro-for-black-sea-maritime-security-hub/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
