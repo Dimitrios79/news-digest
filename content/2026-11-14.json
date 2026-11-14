@@ -1,0 +1,734 @@
+{
+  "date": "2026-11-14",
+  "generated": "2026-11-14T11:48:57.975482+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "Κουτσούμπας: Έχει στηθεί ένα μεγάλο παζάρι γύρω από τα κυριαρχικά δικαιώματα του λαού και της χώρας μας",
+      "Още четири къщи, отпечатани на 3D-принтер, ще бъдат построени в Айндховен"
+    ],
+    "en": [
+      "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "Κουτσούμπας: Έχει στηθεί ένα μεγάλο παζάρι γύρω από τα κυριαρχικά δικαιώματα του λαού και της χώρας μας",
+      "Още четири къщи, отпечатани на 3D-принтер, ще бъдат построени в Айндховен"
+    ]
+  },
+  "meta": {
+    "el": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE; Starship flight 15 powers to orbit—setting up a possible catch on Saturd",
+    "en": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE; Starship flight 15 powers to orbit—setting up a possible catch on Saturd"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+            "en": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+            "en": "Trezor confirms crypto-stealing implants in three wallets, releases fix"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+            "en": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ChatGPT Wallet lets agents pay without seeing your card number",
+            "en": "ChatGPT Wallet lets agents pay without seeing your card number"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/11/13/openai-chatgpt-wallet/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
+            "en": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "U.S. CISA adds Check Point and UnrealIRCd flaws to its Known Exploited Vulnerabilities catalog",
+            "en": "U.S. CISA adds Check Point and UnrealIRCd flaws to its Known Exploited Vulnerabilities catalog"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/203040/hacking/u-s-cisa-adds-check-point-and-unrealircd-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Researchers continue to find serious vulnerabilities in internet connected refrigerators",
+            "en": "Researchers continue to find serious vulnerabilities in internet connected refrigerators"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/copeland-dixell-refrigeration-vulnerabilities/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The firewall becomes the foothold: Attackers turn Check Point gateways against customers",
+            "en": "The firewall becomes the foothold: Attackers turn Check Point gateways against customers"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4248693/the-firewall-becomes-the-foothold-attackers-turn-check-point-gateways-against-customers.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
+            "en": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Schneier on Security",
+              "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’",
+            "en": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/artex-ai-tool-fbi-flash-alert"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+            "en": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "darkreading",
+              "url": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+            "en": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+            "en": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Microsoft's school email bill gives rivals something to smile about",
+            "en": "Microsoft's school email bill gives rivals something to smile about"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+            "en": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+            "en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "FAA has lifted its third-ever nationwide ground stop",
+            "en": "FAA has lifted its third-ever nationwide ground stop"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "FAA lifts ground stop after hours-long delays snag travelers",
+            "en": "FAA lifts ground stop after hours-long delays snag travelers"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/offbeat/2026/11/13/faa-lifts-ground-stop-after-hours-long-delays-snag-travelers/5309912"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "FAA issues national ground stop – lifted 4.5 hours later",
+            "en": "FAA issues national ground stop – lifted 4.5 hours later"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+            "en": "Millions of Americans are not taking their GLP-1 drugs as prescribed"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer",
+            "en": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+            "en": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Κουτσούμπας: Έχει στηθεί ένα μεγάλο παζάρι γύρω από τα κυριαρχικά δικαιώματα του λαού και της χώρας μας",
+            "en": "Κουτσούμπας: Έχει στηθεί ένα μεγάλο παζάρι γύρω από τα κυριαρχικά δικαιώματα του λαού και της χώρας μας"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/koutsoumpas-exei-stithei-ena-megalo-pazari-gyro-apo-ta-kyriarxika-dikaiomata-tou-laou-kai-tis-xoras-mas/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Διαφανής διπλωματία",
+            "en": "Διαφανής διπλωματία"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/opinion/564587812/diafanis-diplomatia/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Φωτιά σε εγκαταλελειμμένο κτίριο στο Ζεφύρι – Υποχώρησε τμήμα, διακοπή κυκλοφορίας",
+            "en": "Φωτιά σε εγκαταλελειμμένο κτίριο στο Ζεφύρι – Υποχώρησε τμήμα, διακοπή κυκλοφορίας"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/14/society/fotia-se-egkataleleimmeno-ktirio-sto-zefyri-ypoxorise-tmima-diakopi-kykloforias/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Το βίντεο Τσίπρα για Τσαβδαρίδη με την ταινία «Μάθε παιδί μου γράμματα»: «Για τα δικά τους παιδιά πάντα θα υπάρχει μια θέση»",
+            "en": "Το βίντεο Τσίπρα για Τσαβδαρίδη με την ταινία «Μάθε παιδί μου γράμματα»: «Για τα δικά τους παιδιά πάντα θα υπάρχει μια θέση»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/politiki/1510071/to-vinteo-tsipra-gia-tsavdaridi-me-tin-tainia-mathe-paidi-moy-grammata-gia-ta-dika-toys-paidia-panta-tha-yparhei-mia-thesi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Καματερό: Σοκάρει το βίντεο από την παράσυρση της 36χρονης – Η ανεξέλεγκτη πορεία του ΙΧ και οι σφοδρές συγκρούσεις",
+            "en": "Καματερό: Σοκάρει το βίντεο από την παράσυρση της 36χρονης – Η ανεξέλεγκτη πορεία του ΙΧ και οι σφοδρές συγκρούσεις"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/society/2189048/kamatero-sokarei-to-vinteo-apo-tin-parasyrsi-tis-36chronis-i-anexelegkti-poreia-toy-ich-kai-oi-sfodres-sygkroyseis/?utm_source=rss&utm_medium=rss&utm_campaign=kamatero-sokarei-to-vinteo-apo-tin-parasyrsi-tis-36chronis-i-anexelegkti-poreia-toy-ich-kai-oi-sfodres-sygkroyseis"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Γαλλία: Νέο κύμα διαδηλώσεων με πολλαπλές κοινωνικές διεκδικήσεις",
+            "en": "Γαλλία: Νέο κύμα διαδηλώσεων με πολλαπλές κοινωνικές διεκδικήσεις"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/gallia-neo-kyma-diadiloseon-me-pollaples-koinonikes-diekdikiseis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Μια κωμωδία για τη μέση ηλικία",
+            "en": "Μια κωμωδία για τη μέση ηλικία"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/k/k-magazine/564584878/mia-komodia-gia-ti-mesi-ilikia/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Καλώδιο: «Εξετελέσθη» η πρώτη αποστολή για τον GSI – Στο Ηράκλειο το Abeille Marengo",
+            "en": "Καλώδιο: «Εξετελέσθη» η πρώτη αποστολή για τον GSI – Στο Ηράκλειο το Abeille Marengo"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/14/diplomatia/kalodio-eksetelesthi-i-proti-apostoli-gia-ton-gsi-sto-irakleio-to-abeille-marengo/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Πυρκαγιά στο Ζεφύρι: Κατέρρευσε τμήμα κτιρίου – Πληροφορίες για τραυματίες, έρευνες για αγνοούμενους",
+            "en": "Πυρκαγιά στο Ζεφύρι: Κατέρρευσε τμήμα κτιρίου – Πληροφορίες για τραυματίες, έρευνες για αγνοούμενους"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/ellada/1510072/pyrkagia-sto-zefyri-katerreyse-tmima-tis-stegis-plirofories-gia-traymaties-ereynes-sto-esoteriko-toy-ktirioy/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "RESICONx 2026: Η ψηφιακή ανθεκτικότητα στο επίκεντρο της στρατηγικής των σύγχρονων επιχειρήσεων και οργανισμών",
+            "en": "RESICONx 2026: Η ψηφιακή ανθεκτικότητα στο επίκεντρο της στρατηγικής των σύγχρονων επιχειρήσεων και οργανισμών"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/techscience/2189009/resiconx-2026-i-psifiaki-anthektikotita-sto-epikentro-tis-stratigikis-ton-sygchronon-epicheiriseon-kai-organismon/?utm_source=rss&utm_medium=rss&utm_campaign=resiconx-2026-i-psifiaki-anthektikotita-sto-epikentro-tis-stratigikis-ton-sygchronon-epicheiriseon-kai-organismon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Още четири къщи, отпечатани на 3D-принтер, ще бъдат построени в Айндховен",
+            "en": "Още четири къщи, отпечатани на 3D-принтер, ще бъдат построени в Айндховен"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/economy/1246929-oshte-chetiri-kashti-otpechatani-na-3d-printer-shte-badat-postroeni-v-ayndhove"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Тунелът \"Топли дол\" временно ще бъде отворен през декември",
+            "en": "Тунелът \"Топли дол\" временно ще бъде отворен през декември"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/11/14/4979970_tunelut_topli_dol_vremenno_shte_bude_otvoren_prez/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Бира и пак бира: Къде да пием в Стара Загора",
+            "en": "Бира и пак бира: Къде да пием в Стара Загора"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/light/mesta/2026/11/14/4954862_bira_i_pak_bira_kude_da_piem_v_stara_zagora/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Зеленски: САЩ предложиха Украйна да отстъпи Донбас в замяна на членство в НАТО",
+            "en": "Зеленски: САЩ предложиха Украйна да отстъпи Донбас в замяна на членство в НАТО"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/voina-v-ukraina/zelenski-sasht-predlozhiha-ukraina-da-otstapi-donbas-v-zamyana-na-chlenstvo-v-nato/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "GLOBSEC report: In Bulgaria, more people name Russia a strategic partner than a security threat",
+            "en": "GLOBSEC report: In Bulgaria, more people name Russia a strategic partner than a security threat"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Sofia Globe",
+              "url": "https://sofiaglobe.com/2026/11/14/globsec-report-in-bulgaria-more-people-name-russia-a-strategic-partner-than-a-security-threat/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Валентин Антов бе извикан в националния отбор на България на мястото на контузения Теодор Иванов",
+            "en": "Валентин Антов бе извикан в националния отбор на България на мястото на контузения Теодор Иванов"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/sport/1246944-valentin-antov-be-izvikan-v-natsionalniya-otbor-na-balgariya-na-myastoto-na-kont"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "\"Отечество\" на Павел Павликовски получи най-много номинации за Европейските филмови награди",
+            "en": "\"Отечество\" на Павел Павликовски получи най-много номинации за Европейските филмови награди"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/kultura/2026/11/14/4979966_otechestvo_na_pavel_pavlikovski_poluchi_nai-mnogo/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Седмични новини за енергетика: Топлофикация-София с рекордни загуби от 426 млн. лв.; 2 млрд. евро компенсации за тока",
+            "en": "Седмични новини за енергетика: Топлофикация-София с рекордни загуби от 426 млн. лв.; 2 млрд. евро компенсации за тока"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/biznes/energetika/2026/11/14/4979355_sedmichni_novini_za_energetika_toplofikaciia-sofiia_s/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Най-малко петима убити и над 60 ранени при руски удари в Украйна",
+            "en": "Най-малко петима убити и над 60 ранени при руски удари в Украйна"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/voina-v-ukraina/nai-malko-petima-ubiti-i-nad-60-raneni-pri-ruski-udari-v-ukraina/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "EU to mobilise billions of euro for AI Gigafactories, Europe’s tech sovereignty",
+            "en": "EU to mobilise billions of euro for AI Gigafactories, Europe’s tech sovereignty"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Sofia Globe",
+              "url": "https://sofiaglobe.com/2026/11/14/eu-to-mobilise-billions-of-euro-for-ai-gigafactories-europes-tech-sovereignty/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
