@@ -1,0 +1,734 @@
+{
+  "date": "2026-11-17",
+  "generated": "2026-11-17T13:55:04.161968+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "Artist brings old Space Shuttle tank back to life",
+      "Από φέτος η Ελλάδα δεν θα είναι η χώρα με το υψηλότερο χρέος στην Ε.Ε.",
+      "Тенорът Марио Николов ще гостува на концерта на „Мери Бойс Бенд“ по повод 25 години от „Непознати улици“"
+    ],
+    "en": [
+      "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "Artist brings old Space Shuttle tank back to life",
+      "Από φέτος η Ελλάδα δεν θα είναι η χώρα με το υψηλότερο χρέος στην Ε.Ε.",
+      "Тенорът Марио Николов ще гостува на концерта на „Мери Бойс Бенд“ по повод 25 години от „Непознати улици“"
+    ]
+  },
+  "meta": {
+    "el": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap; Artist brings old Space Shuttle tank back to life; Από φέτος η Ε",
+    "en": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap; Artist brings old Space Shuttle tank back to life; Από φέτος η Ε"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+            "en": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+            "en": "Microsoft testing Remote Lock for lost or stolen Windows devices"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
+            "en": "MSP ScreenConnect Servers Targeted in Month-Long Campaign"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ConnectSecure brings adaptive AI testing to vulnerability management",
+            "en": "ConnectSecure brings adaptive AI testing to vulnerability management"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/11/17/connectsecure-agentic-ai-penetration-testing/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour",
+            "en": "'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Infoblox Confirms Supply Chain Breach After Attackers Access Sensitive Data",
+            "en": "Infoblox Confirms Supply Chain Breach After Attackers Access Sensitive Data"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/203309/data-breach/infoblox-confirms-supply-chain-breach-after-attackers-access-sensitive-data.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Alleged ransomware group member extradited from Italy to face US charges in hospital, school extortion case",
+            "en": "Alleged ransomware group member extradited from Italy to face US charges in hospital, school extortion case"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/roman-khlynovskiy-ransomware-extradition/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "California sues OpenAI, alleges 80-plus agent escapes hidden from public",
+            "en": "California sues OpenAI, alleges 80-plus agent escapes hidden from public"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4249653/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public-2.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "A phishing page interested in MX records, (Tue, Nov 17th)",
+            "en": "A phishing page interested in MX records, (Tue, Nov 17th)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33526"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Formal Verification of the Signal Protocol Using AI",
+            "en": "Formal Verification of the Signal Protocol Using AI"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Schneier on Security",
+              "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Uber says nearly 150,000 impacted by third-party breach",
+            "en": "Uber says nearly 150,000 impacted by third-party breach"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/uber-says-150000-impacted-third-party-breach"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
+            "en": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "darkreading",
+              "url": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Artist brings old Space Shuttle tank back to life",
+            "en": "Artist brings old Space Shuttle tank back to life"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "AI toys are on the naughty list again this year",
+            "en": "AI toys are on the naughty list again this year"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/offbeat/2026/11/17/ai-toys-are-on-the-naughty-list-again-this-year/5310261"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+            "en": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Optimizely compromised, served malware on Zoom, GitLab",
+            "en": "Optimizely compromised, served malware on Zoom, GitLab"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+            "en": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "REIT move? Blackstone joint venture buys AWS campuses to lease back to the cloud giant",
+            "en": "REIT move? Blackstone joint venture buys AWS campuses to lease back to the cloud giant"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The open-source movement wants Jensen Huang back",
+            "en": "The open-source movement wants Jensen Huang back"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "BugMeNot has closed",
+            "en": "BugMeNot has closed"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.bugmenot.com/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Three small failures combined to take down Microsoft 365",
+            "en": "Three small failures combined to take down Microsoft 365"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Up to 99% of UK civil servants rely on Microsoft for comms, minister admits",
+            "en": "Up to 99% of UK civil servants rely on Microsoft for comms, minister admits"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/software/2026/11/17/up-to-99-of-uk-civil-servants-rely-on-microsoft-for-comms-minister-admits/5310385"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Από φέτος η Ελλάδα δεν θα είναι η χώρα με το υψηλότερο χρέος στην Ε.Ε.",
+            "en": "Από φέτος η Ελλάδα δεν θα είναι η χώρα με το υψηλότερο χρέος στην Ε.Ε."
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/oikonomia/apo-fetos-i-ellada-den-tha-einai-i-xora-me-to-ypsilotero-xreos-stin-e-e/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ράδιο «Κ»: Γιατί το καλώδιο προκάλεσε τόση αναταραχή;",
+            "en": "Ράδιο «Κ»: Γιατί το καλώδιο προκάλεσε τόση αναταραχή;"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/visual/podcasts/564594484/radio-k-giati-to-kalodio-prokalese-tosi-anatarachi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ανδρουλάκης: «Από το δεν υπήρξαν νεκροί» στο «δεν υπήρξαν νεκροί μέσα στο Πολυτεχνείο» ο στόχος μένει ίδιος",
+            "en": "Ανδρουλάκης: «Από το δεν υπήρξαν νεκροί» στο «δεν υπήρξαν νεκροί μέσα στο Πολυτεχνείο» ο στόχος μένει ίδιος"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/17/politics/androulakis-apo-to-den-ypirksan-nekroi-sto-den-ypirksan-nekroi-mesa-sto-polytexneio-o-stoxos-menei-idios/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Το ενεργειακό παράδοξο και η «βόμβα» στα φωτοβολταϊκά",
+            "en": "Το ενεργειακό παράδοξο και η «βόμβα» στα φωτοβολταϊκά"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/oikonomia/1511832/to-energeiako-paradoxo-kai-i-vomva-sta-fotovoltaika/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ποντιακό αντάρτικο: Πώς οι 47 του Αγιού Τεπέ έβγαλαν 2.500 αμάχους από τον κλοιό",
+            "en": "Ποντιακό αντάρτικο: Πώς οι 47 του Αγιού Τεπέ έβγαλαν 2.500 αμάχους από τον κλοιό"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/society/2190373/pontiako-antartiko-pos-oi-47-toy-agioy-tepe-evgalan-2-500-amachoys-apo-ton-kloio/?utm_source=rss&utm_medium=rss&utm_campaign=pontiako-antartiko-pos-oi-47-toy-agioy-tepe-evgalan-2-500-amachoys-apo-ton-kloio"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κατερίνη: Ο Λευτέρης Λαζάρου μαγείρεψε με νέους με αυτισμό για 50 οικογένειες",
+            "en": "Κατερίνη: Ο Λευτέρης Λαζάρου μαγείρεψε με νέους με αυτισμό για 50 οικογένειες"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/ert3/katerini-o-leyteris-lazarou-mageirepse-me-neous-me-aytismo-gia-50-oikogeneies/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Στον Αρειο Πάγο η υπόθεση Τοπαλούδη",
+            "en": "Στον Αρειο Πάγο η υπόθεση Τοπαλούδη"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/society/dikastiko/564594475/ston-areio-pago-i-ypothesi-topaloydi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Τρία αεροπλανοφόρα των ΗΠΑ στο Ιράν: Μπλόφα ή κλιμάκωση Τραμπ πριν τη σύνοδο με Ρωσία-Κίνα",
+            "en": "Τρία αεροπλανοφόρα των ΗΠΑ στο Ιράν: Μπλόφα ή κλιμάκωση Τραμπ πριν τη σύνοδο με Ρωσία-Κίνα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/17/world/tria-aeroplanofora-ton-ipa-sto-iran-mplofa-i-klimakosi-tramp-prin-ti-synodo-me-rosia-kina/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Άγρια κόντρα Κωνσταντοπούλου-Καιρίδη για το Πολυτεχνείο: «Δεν κατέρρευσε η δημοκρατία, έγινε πραξικόπημα»",
+            "en": "Άγρια κόντρα Κωνσταντοπούλου-Καιρίδη για το Πολυτεχνείο: «Δεν κατέρρευσε η δημοκρατία, έγινε πραξικόπημα»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/politiki/1512016/agria-kontra-konstantopoyloy-me-kairidi-gia-to-polytehneio-den-katerreyse-i-dimokratia-egine-praxikopima/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Σι-Πούτιν-Τραμπ: Για το Κρεμλίνο, στόχος είναι να διατηρηθεί στην αυλή των ισχυρών",
+            "en": "Σι-Πούτιν-Τραμπ: Για το Κρεμλίνο, στόχος είναι να διατηρηθεί στην αυλή των ισχυρών"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/society/2190372/si-poytin-tramp-gia-to-kremlino-stochos-einai-na-diatirithei-stin-ayli-ton-ischyron/?utm_source=rss&utm_medium=rss&utm_campaign=si-poytin-tramp-gia-to-kremlino-stochos-einai-na-diatirithei-stin-ayli-ton-ischyron"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Тенорът Марио Николов ще гостува на концерта на „Мери Бойс Бенд“ по повод 25 години от „Непознати улици“",
+            "en": "Тенорът Марио Николов ще гостува на концерта на „Мери Бойс Бенд“ по повод 25 години от „Непознати улици“"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/lik/1248612-tenorat-mario-nikolov-shte-gostuva-na-kontserta-na-meri-boys-bend-po-povod-25-"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Според Шишков увеличението от 1 млрд. евро за регионалното министерство даже е малко",
+            "en": "Според Шишков увеличението от 1 млрд. евро за регионалното министерство даже е малко"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/biznes/2026/11/17/4980969_spored_shishkov_uvelichenieto_ot_1_mlrd_evro_za/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Дигиталната агенция Interactive Share става OPEN за пълно рекламно обслужване",
+            "en": "Дигиталната агенция Interactive Share става OPEN за пълно рекламно обслужване"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/biznes/media_i_reklama/2026/11/17/4980378_digitalnata_agenciia_interactive_share_stava_open_za/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Освирквания и йогурт. Опозиционерът Вучич \"целият се тресе от страх\"",
+            "en": "Освирквания и йогурт. Опозиционерът Вучич \"целият се тресе от страх\""
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/svyat/osvirkvaniya-i-yogurt-opozitsionerat-vuchich-tseliyat-se-trese-ot-strah/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Bulgaria Will Not Continue Military Aid to Ukraine",
+            "en": "Bulgaria Will Not Continue Military Aid to Ukraine"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Novinite.com (Sofia News Agency)",
+              "url": "https://www.novinite.com/view_news.php?id=241634"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Second merchant ship in two days sinks off Bulgaria’s coast after being hit by drones",
+            "en": "Second merchant ship in two days sinks off Bulgaria’s coast after being hit by drones"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Sofia Globe",
+              "url": "https://sofiaglobe.com/2026/11/17/second-merchant-ship-in-two-days-sinks-off-bulgarias-coast/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Откраднатата мощехранителница е била пусната за продажба в естонски сайт с начална цена за 15 000 евро, разказаха от прокуратурата в Пловдив",
+            "en": "Откраднатата мощехранителница е била пусната за продажба в естонски сайт с начална цена за 15 000 евро, разказаха от прокуратурата в Пловдив"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/bulgaria/1248572-otkradnatata-moshtehranitelnitsa-e-bila-pusnata-za-prodazhba-v-estonski-sayt-s-n"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Според Гълъб Донев се дава нова посока за възстановяване на публичните финанси",
+            "en": "Според Гълъб Донев се дава нова посока за възстановяване на публичните финанси"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/biznes/2026/11/17/4980965_spored_gulub_donev_se_dava_nova_posoka_za/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Българската Bronia, която цели да опази критичната инфраструктура на Европа",
+            "en": "Българската Bronia, която цели да опази критичната инфраструктура на Европа"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/biznes/startup/2026/11/17/4980782_bulgarskata_bronia_koiato_celi_da_opazi_kritichnata/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Мащабна иранска прокси мрежа е разбита в Северна Македония",
+            "en": "Мащабна иранска прокси мрежа е разбита в Северна Македония"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/svyat/mashtabna-iranska-proksi-mrezha-e-razbita-v-severna-makedoniya/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
