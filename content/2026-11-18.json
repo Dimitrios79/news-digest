@@ -1,0 +1,734 @@
+{
+  "date": "2026-11-18",
+  "generated": "2026-11-18T13:30:38.734234+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+      "Πρωτοβουλία του Δημάρχου Θεσσαλονίκης Στέλιου Αγγελούδη για τη διάσωση των διατηρητέων κτιρίων της πόλης",
+      "В четвъртък ще има временни промени в организацията на движение в участък на автомагистрала „Тракия“ в Старозагорско"
+    ],
+    "en": [
+      "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+      "Πρωτοβουλία του Δημάρχου Θεσσαλονίκης Στέλιου Αγγελούδη για τη διάσωση των διατηρητέων κτιρίων της πόλης",
+      "В четвъртък ще има временни промени в организацията на движение в участък на автомагистрала „Тракия“ в Старозагорско"
+    ]
+  },
+  "meta": {
+    "el": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years; Voyager 1 at one light-day: Historian revisits Golden Record'",
+    "en": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years; Voyager 1 at one light-day: Historian revisits Golden Record'"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+            "en": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+            "en": "Dizigom illegal streaming service with 21M monthly visits shuts down"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
+            "en": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Java4Shell OpenJDK flaw: Exploitation is tricky and hinges on specific CPUs (CVE-2026-114938)",
+            "en": "Java4Shell OpenJDK flaw: Exploitation is tricky and hinges on specific CPUs (CVE-2026-114938)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/11/18/java4shell-openjdk-vulnerability-cve-2026-114938/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "UK MPs want AI watchdog with power to pull the plug on dangerous models",
+            "en": "UK MPs want AI watchdog with power to pull the plug on dangerous models"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Norwegian Gas Giant Equinor Says It’s Under Cyberattack. Production Keeps Running",
+            "en": "Norwegian Gas Giant Equinor Says It’s Under Cyberattack. Production Keeps Running"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/203394/hacking/norwegian-gas-giant-equinor-says-its-under-cyberattack-production-keeps-running.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Government tech debt is a national security risk",
+            "en": "Government tech debt is a national security risk"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/government-tech-debt-national-security-risk-op-ed/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Attackers hijack Microsoft’s agent-framework package to steal Azure and CI credentials",
+            "en": "Attackers hijack Microsoft’s agent-framework package to steal Azure and CI credentials"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4250156/attackers-hijack-microsofts-agent-framework-package-to-steal-azure-and-ci-credentials.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
+            "en": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33528"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+            "en": "Attackers Used Optimizely to A/B Test Malware on Top Websites"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Krebs on Security",
+              "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "France Is Blaming Iran for the Fridge Cyberattack",
+            "en": "France Is Blaming Iran for the Fridge Cyberattack"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Schneier on Security",
+              "url": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500",
+            "en": "CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/cisa-issues-java4shell-alert"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+            "en": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Police arrest 15 over £1.5M 'we'll recover your losses' scam targeting elderly",
+            "en": "Police arrest 15 over £1.5M 'we'll recover your losses' scam targeting elderly"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/cyber-crime/2026/11/18/police-arrest-15-over-15m-well-recover-your-losses-scam-targeting-elderly/5310745"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The Download: AI learns to smell and hydropower struggles",
+            "en": "The Download: AI learns to smell and hydropower struggles"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "AI is killing All About Berlin",
+            "en": "AI is killing All About Berlin"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://nicolasbouliane.com/blog/death-by-ai"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Grand Theft Auto VI: The Ars Technica review",
+            "en": "Grand Theft Auto VI: The Ars Technica review"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ULA says Vulcan lacked the oomph to get Amazon satellites to orbit",
+            "en": "ULA says Vulcan lacked the oomph to get Amazon satellites to orbit"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/science/2026/11/18/ula-says-vulcan-lacked-the-oomph-to-get-amazon-satellites-to-orbit/5310712"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "This smell startup says its AI nose is as good as a human’s",
+            "en": "This smell startup says its AI nose is as good as a human’s"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ID.me terms required for IRS sign-in",
+            "en": "ID.me terms required for IRS sign-in"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+            "en": "Copilot is \"the new OS for work,\" and now Office runs inside of it"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "UK.gov JV gets £178M Home Office hosting deal. Without competition",
+            "en": "UK.gov JV gets £178M Home Office hosting deal. Without competition"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/public-sector/2026/11/18/ukgov-jv-gets-178m-home-office-hosting-deal-without-competition/5310433"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Πρωτοβουλία του Δημάρχου Θεσσαλονίκης Στέλιου Αγγελούδη για τη διάσωση των διατηρητέων κτιρίων της πόλης",
+            "en": "Πρωτοβουλία του Δημάρχου Θεσσαλονίκης Στέλιου Αγγελούδη για τη διάσωση των διατηρητέων κτιρίων της πόλης"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/ert3/protovoulia-tou-dimarxou-thessalonikis-steliou-aggeloudi-gia-ti-diasosi-ton-diatiriteon-ktirion-tis-polis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Μπολόνια όπως… Παλέ για τους «αιώνιους» και η αφέλεια-δώρο στον Ολυμπιακό",
+            "en": "Μπολόνια όπως… Παλέ για τους «αιώνιους» και η αφέλεια-δώρο στον Ολυμπιακό"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/columns/564596785/mpolonia-opos-pale-gia-toys-aionioys-kai-i-afeleia-doro-ston-olympiako/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Στοά του Αττάλου: Εργασίες αποκατάστασης με δωρεά της Αμερικανικής Σχολής Κλασικών Σπουδών",
+            "en": "Στοά του Αττάλου: Εργασίες αποκατάστασης με δωρεά της Αμερικανικής Σχολής Κλασικών Σπουδών"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/18/culture/stoa-tou-attalou-ergasies-apokatastasis-me-dorea-tis-amerikanikis-sxolis-klasikon-spoudon/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ΣΥΡΙΖΑ: Στη ΝΔ το 13ωρο βαφτίζεται μείωση του χρόνου εργασίας – Η κοροϊδία έχει ξεπεράσει κάθε όριο",
+            "en": "ΣΥΡΙΖΑ: Στη ΝΔ το 13ωρο βαφτίζεται μείωση του χρόνου εργασίας – Η κοροϊδία έχει ξεπεράσει κάθε όριο"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/politiki/1512951/syriza-sti-nd-to-13oro-vaftizetai-meiosi-toy-hronoy-ergasias/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κ. Τσουκαλάς: Πέτυχαν στην αλαζονεία, σκόραραν στη διαφθορά και τα σκάνδαλα και έκαναν hat-trick στις ανισότητες».",
+            "en": "Κ. Τσουκαλάς: Πέτυχαν στην αλαζονεία, σκόραραν στη διαφθορά και τα σκάνδαλα και έκαναν hat-trick στις ανισότητες»."
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/culture/2190879/k-tsoykalas-petychan-stin-alazoneia-skoraran-sti-diafthora-kai-ta-skandala-kai-ekanan-hat-trick-stis-anisotites/?utm_source=rss&utm_medium=rss&utm_campaign=k-tsoykalas-petychan-stin-alazoneia-skoraran-sti-diafthora-kai-ta-skandala-kai-ekanan-hat-trick-stis-anisotites"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Προς σύσταση Εξεταστικής Επιτροπής για τα «κόκκινα» δάνεια οδεύει η Βουλή",
+            "en": "Προς σύσταση Εξεταστικής Επιτροπής για τα «κόκκινα» δάνεια οδεύει η Βουλή"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/pros-systasi-eksetastikis-epitropis-gia-ta-kokkina-daneia-odeyei-i-vouli/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "«Σελίδες Ιστορίας»: Θρυλικά πλοία του Ελληνικού Ναυτικού — Την Κυριακή 22/11 με την «Καθημερινή»",
+            "en": "«Σελίδες Ιστορίας»: Θρυλικά πλοία του Ελληνικού Ναυτικού — Την Κυριακή 22/11 με την «Καθημερινή»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/k/sunday-edition/564591412/selides-istorias-thrylika-ploia-toy-ellinikoy-naytikoy-tin-kyriaki-22-11-me-tin-kathimerini/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Morningstar DBRS: Τι προβλέπει για τις τράπεζες το 2027 – Γιατί ξεχωρίζει η Ελλάδα",
+            "en": "Morningstar DBRS: Τι προβλέπει για τις τράπεζες το 2027 – Γιατί ξεχωρίζει η Ελλάδα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/18/finance/morningstar-dbrs-ti-provlepei-gia-tis-trapezes-to-2027-giati-ksexorizei-i-ellada/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Live η ομιλία Τσίπρα στο 5ο Οικονομικό Συνέδριο της «Ν»: Το υφιστάμενο μοντέλο παράγει μόνο διαφθορά και ανισότητες",
+            "en": "Live η ομιλία Τσίπρα στο 5ο Οικονομικό Συνέδριο της «Ν»: Το υφιστάμενο μοντέλο παράγει μόνο διαφθορά και ανισότητες"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/oikonomia/1512888/live-i-omilia-tsipra-sto-5o-oikonomiko-synedrio-tis-naytemporikis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ισραήλ: Πάνω από 2 ώρες η συνάντηση Νετανιάχου-Μπένετ – Σφοδρή κριτική στον επικεφαλής του «Μπεγιαχάντ»",
+            "en": "Ισραήλ: Πάνω από 2 ώρες η συνάντηση Νετανιάχου-Μπένετ – Σφοδρή κριτική στον επικεφαλής του «Μπεγιαχάντ»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/kosmos/2190882/israil-pano-apo-2-ores-i-synantisi-netaniachoy-mpenet-sfodri-kritiki-ston-epikefalis-toy-mpegiachant/?utm_source=rss&utm_medium=rss&utm_campaign=israil-pano-apo-2-ores-i-synantisi-netaniachoy-mpenet-sfodri-kritiki-ston-epikefalis-toy-mpegiachant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "В четвъртък ще има временни промени в организацията на движение в участък на автомагистрала „Тракия“ в Старозагорско",
+            "en": "В четвъртък ще има временни промени в организацията на движение в участък на автомагистрала „Тракия“ в Старозагорско"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/bulgaria/1249451-v-chetvartak-shte-ima-vremenni-promeni-v-organizatsiyata-na-dvizhenie-v-uchastak"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Кабинетът отпуска още 49 млн. евро за допълнителен трансфер по бюджета на касата",
+            "en": "Кабинетът отпуска още 49 млн. евро за допълнителен трансфер по бюджета на касата"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/11/18/4981355_kabinetut_otpuska_oshte_49_mln_evro_za_dopulnitelen/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ритейл новини: 🛒Топ 60 ритейл компании в България; Рекордна сделка за ритейл парковете XOPark",
+            "en": "Ритейл новини: 🛒Топ 60 ритейл компании в България; Рекордна сделка за ритейл парковете XOPark"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/biznes/stoki_i_prodajbi/2026/11/18/4981198_riteil_novini_top_60_riteil_kompanii_v_bulgariia/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Димитър Стоянов: Няма абсолютно никакво значение чии са дроновете",
+            "en": "Димитър Стоянов: Няма абсолютно никакво значение чии са дроновете"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/bulgaria/dimitar-stoyanov-nyama-absolyutno-nikakvo-znachenie-chii-sa-dronovete/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Bulgaria’s Parliament approves amendments to the Foreigners Act",
+            "en": "Bulgaria’s Parliament approves amendments to the Foreigners Act"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Sofia Globe",
+              "url": "https://sofiaglobe.com/2026/11/18/bulgarias-parliament-approves-amendments-to-the-foreigners-act-2/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Сключени са 49 договора за близо 1,6 млрд. евро по Програма „Транспортна свързаност“ към края на октомври, съобщиха от ресорното министерство",
+            "en": "Сключени са 49 договора за близо 1,6 млрд. евро по Програма „Транспортна свързаност“ към края на октомври, съобщиха от ресорното министерство"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/economy/1249429-sklyucheni-sa-49-dogovora-za-blizo-1-6-mlrd-evro-po-programa-transportna-svarz"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Израелски танкове навлязоха в Централна Газа отвъд \"жълтата линия\"",
+            "en": "Израелски танкове навлязоха в Централна Газа отвъд \"жълтата линия\""
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/11/18/4981357_izraelski_tankove_navliazoha_v_centralna_gaza_otvud/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Интервю | Ан Метлър: Само единният пазар може да накара компаниите в ЕС да растат",
+            "en": "Интервю | Ан Метлър: Само единният пазар може да накара компаниите в ЕС да растат"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/11/18/4980991_intervju_an_metlur_samo_edinniiat_pazar_moje_da_nakara/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "\"Human\" (\"човек\") е думата на 2026 г. според речника \"Кеймбридж\"",
+            "en": "\"Human\" (\"човек\") е думата на 2026 г. според речника \"Кеймбридж\""
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/kultura/human-chovek-e-dumata-na-2026-g-spored-rechnika-keimbridzh/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "EC proposes 45 billion euro in additional financial support for Ukraine in 2027",
+            "en": "EC proposes 45 billion euro in additional financial support for Ukraine in 2027"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Sofia Globe",
+              "url": "https://sofiaglobe.com/2026/11/18/ec-proposes-45-billion-euro-in-additional-financial-support-for-ukraine-in-2027/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
