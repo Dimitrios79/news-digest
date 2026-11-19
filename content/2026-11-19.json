@@ -1,0 +1,734 @@
+{
+  "date": "2026-11-19",
+  "generated": "2026-11-19T13:58:03.491718+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "Everything Is a Web Application, Including Your Firewall",
+      "To make Moon landings easier, NASA is making life harder for Orion",
+      "Νικήτη Χαλκιδικής: Βίντεο ντοκουμέντο καταγράφει λύκο που έφτασε στην αυλή σπιτιού",
+      "Янаки Милев и Анас Маздрашки отпаднаха на сингъл и на двойки на турнир по тенис в Гърция"
+    ],
+    "en": [
+      "Everything Is a Web Application, Including Your Firewall",
+      "To make Moon landings easier, NASA is making life harder for Orion",
+      "Νικήτη Χαλκιδικής: Βίντεο ντοκουμέντο καταγράφει λύκο που έφτασε στην αυλή σπιτιού",
+      "Янаки Милев и Анас Маздрашки отпаднаха на сингъл и на двойки на турнир по тенис в Гърция"
+    ]
+  },
+  "meta": {
+    "el": "Everything Is a Web Application, Including Your Firewall; To make Moon landings easier, NASA is making life harder for Orion; Νικήτη Χαλκιδικής: Βίντεο ντο",
+    "en": "Everything Is a Web Application, Including Your Firewall; To make Moon landings easier, NASA is making life harder for Orion; Νικήτη Χαλκιδικής: Βίντεο ντο"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Everything Is a Web Application, Including Your Firewall",
+            "en": "Everything Is a Web Application, Including Your Firewall"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+            "en": "Drupal patches critical RCE flaw, warns exploits may surface quickly"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
+            "en": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Exploited Puppet flaw puts the server that configures your endpoint fleet at risk (CVE-2026-115731)",
+            "en": "Exploited Puppet flaw puts the server that configures your endpoint fleet at risk (CVE-2026-115731)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Cyberattack on service provider exposes payee data at 40 Irish credit unions",
+            "en": "Cyberattack on service provider exposes payee data at 40 Irish credit unions"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "PHP Warns of Critical Flaws Ahead of November Security Release",
+            "en": "PHP Warns of Critical Flaws Ahead of November Security Release"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/203472/security/php-warns-of-critical-flaws-ahead-of-november-security-release.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Consensus mounts that tech outages were fueled by patching of AI-discovered vulnerabilities",
+            "en": "Consensus mounts that tech outages were fueled by patching of AI-discovered vulnerabilities"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/tech-outages-ai-vulnerability-patching/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Palo Alto Networks bets $4.5B on enterprise AI with Applied Compute acquisition",
+            "en": "Palo Alto Networks bets $4.5B on enterprise AI with Applied Compute acquisition"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4250669/palo-alto-networks-bets-4-5b-on-enterprise-ai-with-applied-compute-acquisition.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
+            "en": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33536"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ukraine exposes ransomware network extorting US oil, healthcare firms",
+            "en": "Ukraine exposes ransomware network extorting US oil, healthcare firms"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/ukraine-ransomware-arrests-cyber"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
+            "en": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "darkreading",
+              "url": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+            "en": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "To make Moon landings easier, NASA is making life harder for Orion",
+            "en": "To make Moon landings easier, NASA is making life harder for Orion"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Voyager 1 celebrates one light-day with a nice lie-down",
+            "en": "Voyager 1 celebrates one light-day with a nice lie-down"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/science/2026/11/19/voyager-1-celebrates-one-light-day-with-a-nice-lie-down/5310991"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+            "en": "The Download: a living liver, a billion-dollar battery deal, and AI hype"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Multiple vulnerabilities in Regexp and String case conversion",
+            "en": "Multiple vulnerabilities in Regexp and String case conversion"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "How to tell a cyberattack from a plain old outage",
+            "en": "How to tell a cyberattack from a plain old outage"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Microsoft To Do will soon become Microsoft Done",
+            "en": "Microsoft To Do will soon become Microsoft Done"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/personal-tech/2026/11/19/microsoft-to-do-will-soon-become-microsoft-done/5310973"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "A human liver has been kept alive outside the body for a record seven weeks",
+            "en": "A human liver has been kept alive outside the body for a record seven weeks"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Anthropic prices initial public offering",
+            "en": "Anthropic prices initial public offering"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+            "en": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Uncensored AI models are thriving on code hosting platforms",
+            "en": "Uncensored AI models are thriving on code hosting platforms"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/ai-and-ml/2026/11/19/uncensored-ai-models-are-thriving-on-code-hosting-platforms/5310891"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Νικήτη Χαλκιδικής: Βίντεο ντοκουμέντο καταγράφει λύκο που έφτασε στην αυλή σπιτιού",
+            "en": "Νικήτη Χαλκιδικής: Βίντεο ντοκουμέντο καταγράφει λύκο που έφτασε στην αυλή σπιτιού"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/ert3/nikiti-xalkidikis-vinteo-ntokoumento-katagrafei-lyko-pou-eftase-stin-ayli-spitiou/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Σεζάν: 111 εκατ. δολάρια για τον «Αρλεκίνο» που βγήκε από το σκοτάδι μετά από μισό αιώνα",
+            "en": "Σεζάν: 111 εκατ. δολάρια για τον «Αρλεκίνο» που βγήκε από το σκοτάδι μετά από μισό αιώνα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/life/564599767/sezan-111-ekat-dolaria-gia-ton-arlekino-poy-vgike-apo-to-skotadi-meta-apo-miso-aiona/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "«Μεγάλη Εικόνα» με τη Νίκη Λυμπεράκη, απόψε στις 00:30, στο MEGA",
+            "en": "«Μεγάλη Εικόνα» με τη Νίκη Λυμπεράκη, απόψε στις 00:30, στο MEGA"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/19/media/megali-eikona-me-ti-niki-lymperaki-apopse-stis-0030-sto-mega-2/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ελενα Ακρίτα για γυναικοκτονία στο Θησείο: Ως πότε θα μετράμε δολοφονημένες γυναίκες;",
+            "en": "Ελενα Ακρίτα για γυναικοκτονία στο Θησείο: Ως πότε θα μετράμε δολοφονημένες γυναίκες;"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/politiki/1513739/elena-akrita-gia-gynaikoktonia-sto-thiseio-os-pote-tha-metrame-dolofonimenes-gynaikes/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Το Ιράκ ανακοίνωσε ότι την Παρασκευή θα καταλάβει προπύργιο της «Καταέμπ Χεζμπολάχ» που συνδέεται με το Ιράν",
+            "en": "Το Ιράκ ανακοίνωσε ότι την Παρασκευή θα καταλάβει προπύργιο της «Καταέμπ Χεζμπολάχ» που συνδέεται με το Ιράν"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/kosmos/2191517/to-irak-anakoinose-oti-tin-paraskeyi-tha-katalavei-propyrgio-tis-kataemp-chezmpolach-poy-syndeetai-me-to-iran/?utm_source=rss&utm_medium=rss&utm_campaign=to-irak-anakoinose-oti-tin-paraskeyi-tha-katalavei-propyrgio-tis-kataemp-chezmpolach-poy-syndeetai-me-to-iran"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ανδρουλάκης από την Καρδίτσα: «Ο δρόμος των ελίτ είναι αδιέξοδος» – Προτεραιότητα του ΠΑΣΟΚ ο πρωτογενής τομέας",
+            "en": "Ανδρουλάκης από την Καρδίτσα: «Ο δρόμος των ελίτ είναι αδιέξοδος» – Προτεραιότητα του ΠΑΣΟΚ ο πρωτογενής τομέας"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/androulakis-apo-tin-karditsa-o-dromos-ton-elit-einai-adieksodos-proteraiotita-tou-pasok-o-protogenis-tomeas/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κομισιόν: Παραπομπή της Ελλάδας στο Ευρωπαϊκό Δικαστήριο για ελλείψεις στα συστήματα αναγνώρισης αεροσκαφών",
+            "en": "Κομισιόν: Παραπομπή της Ελλάδας στο Ευρωπαϊκό Δικαστήριο για ελλείψεις στα συστήματα αναγνώρισης αεροσκαφών"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/world/564599758/komision-parapompi-tis-elladas-sto-eyropaiko-dikastirio-gia-elleipseis-sta-systimata-anagnorisis-aeroskafon/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κόντρα Μαρκόπουλου – Μάντζου για την παραίτηση Πάνα: «Καφενείο σε απευθείας μετάδοση»",
+            "en": "Κόντρα Μαρκόπουλου – Μάντζου για την παραίτηση Πάνα: «Καφενείο σε απευθείας μετάδοση»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/19/politics/kontra-markopoulou-mantzou-gia-tin-paraitisi-pana-kafeneio-se-apeytheias-metadosi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κομισιόν: Πέταξαν στάχτες κατά του επιτρόπου Υγείας – Αιφνιδιαστική διαμαρτυρία ακτιβιστών για τα φυτοφάρμακα [βίντεο]",
+            "en": "Κομισιόν: Πέταξαν στάχτες κατά του επιτρόπου Υγείας – Αιφνιδιαστική διαμαρτυρία ακτιβιστών για τα φυτοφάρμακα [βίντεο]"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/kosmos/1513749/komision-petaxan-stahtes-kata-toy-epitropoy-ygeias-aifnidiastiki-diamartyria-aktiviston-gia-ta-fytofarmaka-vinteo/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ηράκλειο: Τέσσερις συλλήψεις για όπλα και παραμέληση εποπτείας ανηλίκου – Κατασχέθηκαν δύο πολεμικά τυφέκια και τρεις χειροβομβίδες",
+            "en": "Ηράκλειο: Τέσσερις συλλήψεις για όπλα και παραμέληση εποπτείας ανηλίκου – Κατασχέθηκαν δύο πολεμικά τυφέκια και τρεις χειροβομβίδες"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/society/2191522/irakleio-tesseris-syllipseis-gia-opla-kai-paramelisi-epopteias-anilikoy-kataschethikan-dyo-polemika-tyfekia-kai-treis-cheirovomvides/?utm_source=rss&utm_medium=rss&utm_campaign=irakleio-tesseris-syllipseis-gia-opla-kai-paramelisi-epopteias-anilikoy-kataschethikan-dyo-polemika-tyfekia-kai-treis-cheirovomvides"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Янаки Милев и Анас Маздрашки отпаднаха на сингъл и на двойки на турнир по тенис в Гърция",
+            "en": "Янаки Милев и Анас Маздрашки отпаднаха на сингъл и на двойки на турнир по тенис в Гърция"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/sport/1250347-yanaki-milev-i-anas-mazdrashki-otpadnaha-na-singal-i-na-dvoyki-na-turnir-po-teni"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Играта GTA VI стана по-популярна онлайн от Световното първенство по футбол",
+            "en": "Играта GTA VI стана по-популярна онлайн от Световното първенство по футбол"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/sviat/2026/11/19/4981890_igrata_gta_vi_stana_po-populiarna_onlain_ot_svetovnoto/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Строител на капитализма: Дарио Амодей, главен изпълнителен директор на Anthropic",
+            "en": "Строител на капитализма: Дарио Амодей, главен изпълнителен директор на Anthropic"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/imena/2026/11/19/4981379_stroitel_na_kapitalizma_dario_amodei_glaven/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Министър Милошев: Трябва да има промяна на модела на управление на културата",
+            "en": "Министър Милошев: Трябва да има промяна на модела на управление на културата"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/kultura/ministar-miloshev-tryabva-da-ima-promyana-na-modela-na-upravlenie-na-kulturata/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Bulgarian prosecutors charge 11 over participation in Ku Klux Klan’US Senate foreign relations committee approves Holder’ far-right racist organisation in Plovdiv",
+            "en": "Bulgarian prosecutors charge 11 over participation in Ku Klux Klan’US Senate foreign relations committee approves Holder’ far-right racist organisation in Plovdiv"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Sofia Globe",
+              "url": "https://sofiaglobe.com/2026/11/19/us-senate-foreign-relations-committee-approves-holders-appointment-as-ambassador-to-bulgaria/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Окръжният съд в Търговище потвърди мярка „задържане под стража“ на обвиняем за съучастие при палеж на два автомобила",
+            "en": "Окръжният съд в Търговище потвърди мярка „задържане под стража“ на обвиняем за съучастие при палеж на два автомобила"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/bulgaria/1250330-okrazhniyat-sad-v-targovishte-potvardi-myarka-zadarzhane-pod-strazha-na-obviny"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Путин изключи примирие в Черно море, но покани европейците в Москва",
+            "en": "Путин изключи примирие в Черно море, но покани европейците в Москва"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/11/19/4981888_putin_pokani_evropeicite_v_moskva_poiska_smiana_na/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Коментар | Невероятно смаляващият се Доналд Тръмп*",
+            "en": "Коментар | Невероятно смаляващият се Доналд Тръмп*"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/redakcionni_komentari/2026/11/19/4981851_komentar_neveroiatno_smaliavashtiiat_se_donald_trump/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Стрийминг платформата SkyShowtime затваря в края на 2027-а година",
+            "en": "Стрийминг платформата SkyShowtime затваря в края на 2027-а година"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/biznes/striyming-platformata-skyshowtime-zatvarya-v-kraya-na-2027-a-godina/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Eric Rubin, former US ambassador to Bulgaria and former American Foreign Service Association president, dies at 65",
+            "en": "Eric Rubin, former US ambassador to Bulgaria and former American Foreign Service Association president, dies at 65"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Sofia Globe",
+              "url": "https://sofiaglobe.com/2026/11/19/eric-rubin-former-us-ambassador-to-bulgaria-and-former-american-foreign-service-association-president-dies-at-65/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
