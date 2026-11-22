@@ -1,0 +1,722 @@
+{
+  "date": "2026-11-22",
+  "generated": "2026-11-22T13:02:10.574184+00:00",
+  "ai": "OpenRouter",
+  "ai_sections": 1,
+  "glance": {
+    "el": [
+      "Έρευνα του FBI για την πιθανή παραβίαση εθνικής βάσης δεδομένων εγκληματιών",
+      "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "Θεσσαλονίκη: Χιλιάδες αθλητές από όλο τον κόσμο έδωσαν ραντεβού για το 9o Olympic Day Run Greece",
+      "Администрации и кметове в област Ловеч изразяват почитта си към Ловчанския митрополит Гавриил"
+    ],
+    "en": [
+      "Έρευνα του FBI για την πιθανή παραβίαση εθνικής βάσης δεδομένων εγκληματιών",
+      "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "Θεσσαλονίκη: Χιλιάδες αθλητές από όλο τον κόσμο έδωσαν ραντεβού για το 9o Olympic Day Run Greece",
+      "Администрации и кметове в област Ловеч изразяват почитта си към Ловчанския митрополит Гавриил"
+    ]
+  },
+  "meta": {
+    "el": "Έρευνα του FBI για την πιθανή παραβίαση εθνικής βάσης δεδομένων εγκληματιών; GLP-1 drugs could have a surprisingly large environmental payoff; Θεσσαλονίκη:",
+    "en": "Έρευνα του FBI για την πιθανή παραβίαση εθνικής βάσης δεδομένων εγκληματιών; GLP-1 drugs could have a surprisingly large environmental payoff; Θεσσαλονίκη:"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Έρευνα του FBI για την πιθανή παραβίαση εθνικής βάσης δεδομένων εγκληματιών",
+            "en": "FBI investigates suspected breach of national criminal database"
+          },
+          "summary": {
+            "el": "Το FBI διεξάγει έρευνα για την πιθανή παραβίαση του National Crime Information Center. Η βάση δεδομένων αυτή χρησιμοποιείται για την ανταλλαγή πληροφοριών μεταξύ τοπικών, πολιτειακών και ομοσπονδιακών αρχών.",
+            "en": "The FBI is investigating a suspected breach of the National Crime Information Center. This database is used for sharing information between local, state, and federal law enforcement agencies."
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"
+            },
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Απομάκρυνση τριών παρόχων από το OpenRouter λόγω κλοπής δεδομένων",
+            "en": "OpenRouter removes three providers following data theft"
+          },
+          "summary": {
+            "el": "Ο οργανισμός OpenRouter διέκοψε τη συνεργασία με τρεις παρόχους AI μετά από έρευνα της Dragos. Η έρευνα αποκάλυψε κλοπή δεδομένων, συμπεριλαμβανομένων αιτημάτων με ρύθμιση μη αποθήκευσης.",
+            "en": "OpenRouter ceased collaboration with three AI providers following a Dragos investigation. The research revealed data theft, including requests configured for zero data retention."
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Παραβίαση της πλατφόρμας Rackspace Spot μέσω κλεμμένων διαπιστευτηρίων",
+            "en": "Rackspace Spot breach via compromised credentials"
+          },
+          "summary": {
+            "el": "Η Rackspace ενημέρωσε τους πελάτες της ότι τρίτοι απέκτησαν πρόσβαση σε μυστικά Kubernetes στην πλατφόρμα Rackspace Spot. Η παραβίαση πραγματοποιήθηκε μέσω κλεμμένων διαπιστευτηρίων, επιτρέποντας την ανάπτυξη μη εξουσιοδοτημένων φόρτων εργασίας.",
+            "en": "Rackspace notified customers that unauthorized actors accessed Kubernetes secrets on the Rackspace Spot platform. The breach occurred via compromised credentials, allowing the deployment of unauthorized workloads."
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Μόλυνση 178 οργανισμών μέσω της πλατφόρμας Optimizely",
+            "en": "Optimizely platform vulnerability affects 178 organizations"
+          },
+          "summary": {
+            "el": "Η εταιρεία Optimizely επιβεβαίωσε ότι μια κενότητα στην πλατφόρμα της επέτρεψε την τοποθέτηση κακόβουλου κώδικα JavaScript σε ιστοσελίδες πελατών. Η επίθεση επηρέασε 178 οργανισμούς, μεταξύ των οποίων το BBC, το CNN και την Zoom.",
+            "en": "Optimizely confirmed that a platform vulnerability allowed the placement of malicious JavaScript on customer websites. The attack affected 178 organizations, including the BBC, CNN, and Zoom."
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Διαρροή στοιχείων προσωπικού του υπουργείου εξωτερικών της Αυστρίας",
+            "en": "Austrian Foreign Ministry data leak exposes staff details"
+          },
+          "summary": {
+            "el": "Το υπουργείο εξωτερικών της Αυστρίας επιβεβαίωσε κυβερνοεπίθεση στον ιστότοπό του. Η επίθεση οδήγησε στην έκθεση στοιχείων επικοινωνίας υπαλλήλων, συμπεριλαμβανομένων μελών διπλωματικών αποστολών στο εξωτερικό.",
+            "en": "The Austrian Foreign Ministry confirmed a cyberattack on its website. The incident exposed contact information for staff, including employees at diplomatic missions abroad."
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/203680/hacking/cyberattack-on-austrian-foreign-ministry-exposes-diplomatic-staff-data.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Διόρθωση κενότητας ασφαλείας στο Ghostscript που επέτρεπε απομακρυσμένη εκτέλεση κώδικα",
+            "en": "Patched Ghostscript flaw allowed remote code execution"
+          },
+          "summary": {
+            "el": "Μια κενότητα ασφαλείας στο Ghostscript, η οποία έχει πλέον διορθωθεί, επέτρεπε την υπέρβαση του sandbox μέσω της μεταφόρτωσης αρχείων. Η εταιρεία pwn.ai απέδειξε ότι αυτό επιτρέπει την εκτέλεση εντολών σε διακομιστές Linux που επεξεργάζονται αρχεία PDF και εικόνες.",
+            "en": "A now-patched vulnerability in Ghostscript allowed sandbox escape via file uploads. The firm pwn.ai demonstrated that this enables command execution on Linux servers processing PDF files and images."
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κλοπή δεδομένων από την υπηρεσία Microsoft Entra Connect Health",
+            "en": "Microsoft Entra Connect Health flaw leads to data theft"
+          },
+          "summary": {
+            "el": "Η Microsoft προειδοποίησε για παραβίαση της υπηρεσίας Entra Connect Health λόγω εκμετάλλευσης μιας κενότητας ασφαλείας. Η επίθεση οδήγησε σε μη εξουσιοδοτημένη πρόσβαση σε διευθύνσεις email διαχειριστών και πληροφορίες ρυθμίσεων ενοικιαστών.",
+            "en": "Microsoft warned of a breach in its Entra Connect Health service due to a vulnerability. The attack led to unauthorized access to administrator email addresses and tenant configuration data."
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ορισμός της Kirsten Davies ως εθνικού διευθυντή κυβερνοασφάλειας των ΗΠΑ",
+            "en": "Kirsten Davies appointed as U.S. National Cyber Director"
+          },
+          "summary": {
+            "el": "Ο πρόεδρος Trump ορίσε την Kirsten Davies στη θέση του εθνικού διευθυντή κυβερνοασφάλειας. Σύμφωνα με τον Λευκό Οίκο, η Davies θα ηγηθεί της στρατηγικής κυβερνοασφάλειας των ΗΠΑ.",
+            "en": "President Trump appointed Kirsten Davies as the National Cyber Director. According to the White House, Davies will lead the U.S. cyber strategy."
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Χρήση του πλαισίου Cairn AI για αυτόνομη εκμετάλλευση κενών ασφαλείας",
+            "en": "Cairn AI framework used for autonomous zero-day exploitation"
+          },
+          "summary": {
+            "el": "Η Amazon εντόπισε επιθέσεις σε πανεπιστήμια από αυτόνομους πράκτορες που χρησιμοποιούσαν το πλαίσιο Cairn. Οι επιθέσεις, που αποδίδονται σε ομάδα με συνάφεια με την Κίνα, απέκτησαν πρόσβαση root χωρίς ανθρώπινη παρέμβαση.",
+            "en": "Amazon identified attacks on universities using autonomous agents powered by the Cairn framework. The Chinese-nexus actor used these agents to gain root access without human guidance."
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/203664/ai/cairn-ai-framework-used-in-autonomous-zero-day-exploitation.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Επικαινοποίηση του botnet BADBOX με δισεκατομμύρια αιτήματα διαφημίσεων",
+            "en": "BADBOX botnet resumes large-scale ad-fraud operations"
+          },
+          "summary": {
+            "el": "Το botnet BADBOX, το οποίο εντοπίζεται σε Android TV boxes, επανήλθε σε λειτουργία απάτης διαφημίσεων. Καταγράφονται πλέον 40 δισεκατομμύρια καθημερινά αιτήματα διαφημίσεων.",
+            "en": "The BADBOX botnet, found in Android TV boxes, has resumed ad-fraud operations. It is currently generating 40 billion daily ad requests."
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Προσθήκη νέων κενών ασφαλείας στον κατάλογο της CISA",
+            "en": "CISA adds new flaws to Known Exploited Vulnerabilities catalog"
+          },
+          "summary": {
+            "el": "Η CISA συμπεριέλαβε στον κατάλογο γνωστών εκμεταλλεύσεων κενότητες ασφαλείας της Cisco Expressway, της SAP NetWeaver, της Broadcom VMware vCenter και της Apache Roller.",
+            "en": "CISA added vulnerabilities from Cisco Expressway, SAP NetWeaver, Broadcom VMware vCenter, and Apache Roller to its Known Exploited Vulnerabilities catalog."
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/203639/security/u-s-cisa-adds-cisco-expressway-sap-netweaver-broadcom-vmware-vcenter-and-apache-roller-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "GLP-1 drugs could have a surprisingly large environmental payoff",
+            "en": "GLP-1 drugs could have a surprisingly large environmental payoff"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Passive 'ghost' radar can detect airborne threats without revealing its own position",
+            "en": "Passive 'ghost' radar can detect airborne threats without revealing its own position"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+            "en": "Toyota, Nissan, and Honda to standardize parts to lower costs"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+            "en": "Review: Godzilla Minus Zero joins the list of truly stellar sequels"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Come for the science, stay for the big iron: Supercomputer admin on why he loves the job",
+            "en": "Come for the science, stay for the big iron: Supercomputer admin on why he loves the job"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/hpc/2026/11/22/come-for-the-science-stay-for-the-big-iron-supercomputer-admin-on-why-he-loves-the-job/5311247"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Sandwich Simulator",
+            "en": "Sandwich Simulator"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://stulle.app/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "AWS got hit by an outage too. Here's why you didn't hear about it",
+            "en": "AWS got hit by an outage too. Here's why you didn't hear about it"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Inkling-2-Mini in 5.4 GB Memory",
+            "en": "Inkling-2-Mini in 5.4 GB Memory"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Lean verification of the Riemann Hypothesis",
+            "en": "Lean verification of the Riemann Hypothesis"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Detonating a pile of lead azide",
+            "en": "Detonating a pile of lead azide"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Θεσσαλονίκη: Χιλιάδες αθλητές από όλο τον κόσμο έδωσαν ραντεβού για το 9o Olympic Day Run Greece",
+            "en": "Θεσσαλονίκη: Χιλιάδες αθλητές από όλο τον κόσμο έδωσαν ραντεβού για το 9o Olympic Day Run Greece"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/video/thessaloniki-xiliades-athlites-apo-olo-ton-kosmo-edosan-rantevou-gia-to-9o-olympic-day-run-greece/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Συνελήφθη γυναίκα για εμπορία ανθρώπων με θύμα 45χρονη ΑμεΑ",
+            "en": "Συνελήφθη γυναίκα για εμπορία ανθρώπων με θύμα 45χρονη ΑμεΑ"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/society/astynomiko/564606451/synelifthi-gynaika-gia-emporia-anthropon-me-thyma-45chroni-amea/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "COP31: Καταρρέουν οι συνομιλίες για το κλίμα – «Όχι» Ε.Ε. στο σχέδιο συμφωνίας",
+            "en": "COP31: Καταρρέουν οι συνομιλίες για το κλίμα – «Όχι» Ε.Ε. στο σχέδιο συμφωνίας"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/22/green/cop31-katerreysan-oi-synomilies-gia-to-klima-oxi-e-e-sto-sxedio-symfonias/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Σε αδιέξοδο η Σύνοδος για το Κλίμα: Δεν εγκρίνεται το σχέδιο συμφωνίας – Αντιδράσεις για τα ορυκτά καύσιμα",
+            "en": "Σε αδιέξοδο η Σύνοδος για το Κλίμα: Δεν εγκρίνεται το σχέδιο συμφωνίας – Αντιδράσεις για τα ορυκτά καύσιμα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/periballon/1515392/se-adiexodo-i-synodos-gia-to-klima-den-egkrinetai-to-shedio-symfonias-antidraseis-gia-ta-orykta-kaysima/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "«Στείλετε να με πάρουν» – Η βία κατά των γυναικών στη Γενοκτονία των Ποντίων",
+            "en": "«Στείλετε να με πάρουν» – Η βία κατά των γυναικών στη Γενοκτονία των Ποντίων"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/society/2192614/steilete-na-me-paroyn-i-via-kata-ton-gynaikon-sti-genoktonia-ton-pontion/?utm_source=rss&utm_medium=rss&utm_campaign=steilete-na-me-paroyn-i-via-kata-ton-gynaikon-sti-genoktonia-ton-pontion"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "COP31: Η ΕΕ «δεν εγκρίνει» το προσχέδιο συμφωνίας για το κλίμα – Χαοτική η τελευταία συνεδρίαση",
+            "en": "COP31: Η ΕΕ «δεν εγκρίνει» το προσχέδιο συμφωνίας για το κλίμα – Χαοτική η τελευταία συνεδρίαση"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/diethni/cop31-i-ee-den-egkrinei-to-prosxedio-symfonias-gia-to-klima-xaotiki-i-teleytaia-synedriasi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Πρίγκιπας Ουίλιαμ: Σχέδιο για αφαίρεση των βασιλικών τίτλων από τον Χάρι και τα παιδιά του",
+            "en": "Πρίγκιπας Ουίλιαμ: Σχέδιο για αφαίρεση των βασιλικών τίτλων από τον Χάρι και τα παιδιά του"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/world/564606448/prigkipas-oyiliam-schedio-gia-afairesi-ton-vasilikon-titlon-apo-ton-chari-kai-ta-paidia-toy/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κάλπες στην ΕΕ: Η ακροδεξιά δοκιμάζει τις ισορροπίες της Ένωσης",
+            "en": "Κάλπες στην ΕΕ: Η ακροδεξιά δοκιμάζει τις ισορροπίες της Ένωσης"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/22/world/kalpes-stin-ee-i-akrodeksia-dokimazei-tis-isorropies-tis-enosis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ουκρανικό: Η Γερμανία βλέπει παντού πόλεμο – Πόσο «πρόθυμοι» είναι οι Ευρωπαίοι για ειρήνη;",
+            "en": "Ουκρανικό: Η Γερμανία βλέπει παντού πόλεμο – Πόσο «πρόθυμοι» είναι οι Ευρωπαίοι για ειρήνη;"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/themata/1515068/oykraniko-i-germania-vlepei-pantoy-polemo-poso-prothymoi-einai-oi-eyropaioi-gia-eirini/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Σύλληψη 55χρονης για γενετήσια εκμετάλλευση ανάπηρης",
+            "en": "Σύλληψη 55χρονης για γενετήσια εκμετάλλευση ανάπηρης"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/society/2192605/syllipsi-55chronis-gia-genetisia-ekmetalleysi-anapiris/?utm_source=rss&utm_medium=rss&utm_campaign=syllipsi-55chronis-gia-genetisia-ekmetalleysi-anapiris"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Администрации и кметове в област Ловеч изразяват почитта си към Ловчанския митрополит Гавриил",
+            "en": "Администрации и кметове в област Ловеч изразяват почитта си към Ловчанския митрополит Гавриил"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/lik/1251962-administratsii-i-kmetove-v-oblast-lovech-izrazyavat-pochitta-si-kam-lovchanskiya"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ловеч обяви тридневен траур заради смъртта на митрополит Гавриил",
+            "en": "Ловеч обяви тридневен траур заради смъртта на митрополит Гавриил"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/bulgaria/2026/11/22/4983049_lovech_obiavi_tridneven_traur_zaradi_smurtta_na/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "От билета към сделката: как се променя бизнесът със събития",
+            "en": "От билета към сделката: как се променя бизнесът със събития"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/11/22/4955244_ot_bileta_kum_sdelkata_kak_se_promenia_biznesut_sus/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Надежда Йорданова: Новият главен прокурор не трябва да е действащ политик",
+            "en": "Надежда Йорданова: Новият главен прокурор не трябва да е действащ политик"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/bulgaria/nadezhda-yordanova-noviyat-glaven-prokuror-ne-tryabva-da-e-deistvasht-politik/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Bulgaria issues warning of dangerous weather for November 23 over forecast strong winds",
+            "en": "Bulgaria issues warning of dangerous weather for November 23 over forecast strong winds"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Sofia Globe",
+              "url": "https://sofiaglobe.com/2026/11/22/bulgaria-issues-warning-of-dangerous-weather-for-november-23-over-forecast-strong-winds/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Гражданското участие е ключово за демократичната устойчивост, заяви Габриела Караджонова-Малчева в Брюксел",
+            "en": "Гражданското участие е ключово за демократичната устойчивост, заяви Габриела Караджонова-Малчева в Брюксел"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/world/1251940-grazhdanskoto-uchastie-e-klyuchovo-za-demokratichnata-ustoychivost-zayavi-gabri"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Излизането на GTA VI привлече вълна от туристи в Маями",
+            "en": "Излизането на GTA VI привлече вълна от туристи в Маями"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/11/22/4983030_izlizaneto_na_gta_vi_privleche_vulna_ot_turisti_v/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Интервю | Васил Живков: Потреблението на мебели расте с 12%, но износът се свива с 3% през 2025 г.",
+            "en": "Интервю | Васил Живков: Потреблението на мебели расте с 12%, но износът се свива с 3% през 2025 г."
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/biznes/kompanii/2026/11/22/4981252_intervju_vasil_jivkov_potreblenieto_na_mebeli_raste_s/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "14 души са в неизвестност след руска атака с дронове в Киев",
+            "en": "14 души са в неизвестност след руска атака с дронове в Киев"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/voina-v-ukraina/14-dushi-sa-v-neizvestnost-sled-ruska-ataka-s-dronove-v-kiev/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Gavriil, Bulgarian Orthodox Church Metropolitan of Lovech, dies at 76",
+            "en": "Gavriil, Bulgarian Orthodox Church Metropolitan of Lovech, dies at 76"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Sofia Globe",
+              "url": "https://sofiaglobe.com/2026/11/22/gavriil-bulgarian-orthodox-church-metropolitan-of-lovech-dies-at-76/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

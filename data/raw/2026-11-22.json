@@ -1,0 +1,1168 @@
+{
+  "date": "2026-11-22",
+  "generated": "2026-11-22T12:52:56.180117+00:00",
+  "categories": {
+    "security": {
+      "items": [
+        {
+          "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+          "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+          "source": "The Hacker News",
+          "published": "2026-11-22T05:06:55+00:00",
+          "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. OpenRouter, a gateway that routes customers' AI requests to a pool of"
+        },
+        {
+          "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+          "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+          "source": "BleepingComputer",
+          "published": "2026-11-21T22:59:58+00:00",
+          "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]"
+        },
+        {
+          "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+          "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+          "source": "SecurityWeek",
+          "published": "2026-11-22T00:53:02+00:00",
+          "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek ."
+        },
+        {
+          "title": "Week in review: Java4Shell proves tricky to exploit, malware planted via Optimizely hits 178 orgs",
+          "url": "https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/",
+          "source": "Help Net Security",
+          "published": "2026-11-22T09:00:25+00:00",
+          "summary": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Malware spread through Optimizely hits 178 organizations, including BBC, CNN and Zoom An attacker exploited a vulnerability in Optimizely’s web experimentation platform to plant malicious JavaScript on its customers’ websites, the company has confirmed. Java4Shell OpenJDK flaw: Exploitation is tricky…"
+        },
+        {
+          "title": "Cyberattack on Austrian Foreign Ministry Exposes Diplomatic Staff Data",
+          "url": "https://securityaffairs.com/203680/hacking/cyberattack-on-austrian-foreign-ministry-exposes-diplomatic-staff-data.html",
+          "source": "Security Affairs",
+          "published": "2026-11-21T18:22:52+00:00",
+          "summary": "Austrian Foreign Ministry Hacked, Staff Contact Details Accessed Hackers accessed Austrian Foreign Ministry records containing staff contact details, including employees at diplomatic missions abroad. Austrian Foreign Ministry confirmed a cyberattack against its website that exposed staff contact information, including details of employees working at diplomatic missions abroad. The security…"
+        },
+        {
+          "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+          "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+          "source": "The Hacker News",
+          "published": "2026-11-22T05:03:41+00:00",
+          "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly. Security firm pwn.ai showed this week that ordinary upload,"
+        },
+        {
+          "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+          "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+          "source": "BleepingComputer",
+          "published": "2026-11-21T18:01:58+00:00",
+          "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]"
+        },
+        {
+          "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+          "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+          "source": "SecurityWeek",
+          "published": "2026-11-21T13:00:00+00:00",
+          "summary": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek ."
+        },
+        {
+          "title": "Cairn AI Framework Used in Autonomous Zero-Day Exploitation",
+          "url": "https://securityaffairs.com/203664/ai/cairn-ai-framework-used-in-autonomous-zero-day-exploitation.html",
+          "source": "Security Affairs",
+          "published": "2026-11-21T16:50:49+00:00",
+          "summary": "Amazon uncovered AI-powered attacks on universities, where autonomous agents found a zero-day and gained root access without human guidance. Amazon’s threat intelligence team found a Chinese-nexus actor running Cairn, an open-source AI pentesting framework, with one instruction for the agents: obtain shell access. No human chose the next step after that. The agents planned, executed, […]"
+        },
+        {
+          "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+          "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+          "source": "BleepingComputer",
+          "published": "2026-11-21T15:17:27+00:00",
+          "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]"
+        },
+        {
+          "title": "U.S. CISA adds Cisco Expressway, SAP NetWeaver, Broadcom VMware vCenter, and Apache Roller flaws to its Known Exploited Vulnerabilities catalog",
+          "url": "https://securityaffairs.com/203639/security/u-s-cisa-adds-cisco-expressway-sap-netweaver-broadcom-vmware-vcenter-and-apache-roller-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+          "source": "Security Affairs",
+          "published": "2026-11-21T16:09:38+00:00",
+          "summary": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Cisco Expressway, SAP NetWeaver, Broadcom VMware vCenter, and Apache Roller flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Cisco Expressway, SAP NetWeaver, Broadcom VMware vCenter, and Apache Roller vulnerabilities to its Known Exploited Vulnerabilities…"
+        },
+        {
+          "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+          "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+          "source": "BleepingComputer",
+          "published": "2026-11-21T14:26:04+00:00",
+          "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://feeds.feedburner.com/TheHackersNews": {
+          "items": 2,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.bleepingcomputer.com/feed/": {
+          "items": 4,
+          "status": "ok",
+          "secs": 0.1
+        },
+        "https://www.securityweek.com/feed/": {
+          "items": 2,
+          "status": "ok",
+          "secs": 0.1
+        },
+        "https://www.helpnetsecurity.com/feed/": {
+          "items": 1,
+          "status": "ok",
+          "secs": 0.1
+        },
+        "https://www.theregister.com/security/headlines.atom": {
+          "items": 0,
+          "status": "κανένα νέο (50 παλιά, 0 ήδη)",
+          "secs": 0.7
+        },
+        "https://securityaffairs.com/feed": {
+          "items": 3,
+          "status": "ok",
+          "secs": 0.7
+        },
+        "https://cyberscoop.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.1
+        },
+        "https://www.csoonline.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (20 παλιά, 0 ήδη)",
+          "secs": 0.1
+        },
+        "https://isc.sans.edu/rssfeed_full.xml": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.3
+        },
+        "https://krebsonsecurity.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.2
+        },
+        "https://www.schneier.com/feed/atom/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.1
+        },
+        "https://therecord.media/feed": {
+          "items": 0,
+          "status": "κανένα νέο (5 παλιά, 0 ήδη)",
+          "secs": 0.2
+        },
+        "https://www.darkreading.com/rss.xml": {
+          "items": 0,
+          "status": "κανένα νέο (50 παλιά, 0 ήδη)",
+          "secs": 0.4
+        }
+      }
+    },
+    "tech": {
+      "items": [
+        {
+          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "source": "Ars Technica",
+          "published": "2026-11-22T12:07:41+00:00",
+          "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy."
+        },
+        {
+          "title": "Passive 'ghost' radar can detect airborne threats without revealing its own position",
+          "url": "https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-11-22T09:15:00+00:00",
+          "summary": "Kit piggybacks off TV and mobile signals and can be neatly stuffed into an SUV"
+        },
+        {
+          "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+          "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-11-22T04:04:56+00:00",
+          "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 628 # Comments: 384"
+        },
+        {
+          "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+          "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+          "source": "Ars Technica",
+          "published": "2026-11-21T22:12:41+00:00",
+          "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes"
+        },
+        {
+          "title": "Come for the science, stay for the big iron: Supercomputer admin on why he loves the job",
+          "url": "https://www.theregister.com/hpc/2026/11/22/come-for-the-science-stay-for-the-big-iron-supercomputer-admin-on-why-he-loves-the-job/5311247",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-11-22T08:48:00+00:00",
+          "summary": "From the dotcom bubble to 200,00 cores of raw power"
+        },
+        {
+          "title": "Sandwich Simulator",
+          "url": "https://stulle.app/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-11-22T00:07:59+00:00",
+          "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 317 # Comments: 109"
+        },
+        {
+          "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
+          "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-11-21T14:35:00+00:00",
+          "summary": "If a service falls in the forest and nobody hears it..."
+        },
+        {
+          "title": "Inkling-2-Mini in 5.4 GB Memory",
+          "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+          "source": "Hacker News: Front Page",
+          "published": "2026-11-21T18:02:19+00:00",
+          "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 483 # Comments: 121"
+        },
+        {
+          "title": "Lean verification of the Riemann Hypothesis",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-11-21T14:36:45+00:00",
+          "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1077 # Comments: 894"
+        },
+        {
+          "title": "Detonating a pile of lead azide",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+          "source": "Hacker News: Front Page",
+          "published": "2026-11-21T13:23:14+00:00",
+          "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 628 # Comments: 396"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://feeds.arstechnica.com/arstechnica/index": {
+          "items": 2,
+          "status": "ok",
+          "secs": 0.1
+        },
+        "https://www.theregister.com/headlines.atom": {
+          "items": 3,
+          "status": "ok",
+          "secs": 0.8
+        },
+        "https://www.technologyreview.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.1
+        },
+        "https://hnrss.org/frontpage?points=300": {
+          "items": 5,
+          "status": "ok",
+          "secs": 2.5
+        }
+      }
+    },
+    "greece": {
+      "items": [
+        {
+          "title": "Θεσσαλονίκη: Χιλιάδες αθλητές από όλο τον κόσμο έδωσαν ραντεβού για το 9o Olympic Day Run Greece",
+          "url": "https://www.ertnews.gr/video/thessaloniki-xiliades-athlites-apo-olo-ton-kosmo-edosan-rantevou-gia-to-9o-olympic-day-run-greece/",
+          "source": "ertnews.gr",
+          "published": "2026-11-22T12:45:07+00:00",
+          "summary": "Δρομείς κάθε ηλικίας συμμετείχαν στο 9o Olympic Day Run Greece 2026 που πραγματοποιήθηκε σήμερα στη Θεσσαλονίκη σε μια μεγάλη γιορτή αφιερωμένη στις Ολυμπιακές αξίες. Πέντε οι αγώνες δρόμου που πραγματοποιήθηκαν με την «καρδιά» της παγκόσμιας Ολυμπιακής οικογένειας να χτυπά στην πόλη. Πρώτος στον ημιμαραθώνιο τερμάτισε ο Γιώργος Ζύμπιλος στους άνδρες και η Ερμιόνη Χασκη, στις ... Περισσότερα…"
+        },
+        {
+          "title": "Συνελήφθη γυναίκα για εμπορία ανθρώπων με θύμα 45χρονη ΑμεΑ",
+          "url": "https://www.kathimerini.gr/society/astynomiko/564606451/synelifthi-gynaika-gia-emporia-anthropon-me-thyma-45chroni-amea/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-22T11:48:25+00:00",
+          "summary": "Μια 55χρονη φέρεται να την εξέδιδε επί περίπου έναν χρόνο, εκμεταλλευόμενη την αναπηρία της."
+        },
+        {
+          "title": "COP31: Καταρρέουν οι συνομιλίες για το κλίμα – «Όχι» Ε.Ε. στο σχέδιο συμφωνίας",
+          "url": "https://www.tovima.gr/2026/11/22/green/cop31-katerreysan-oi-synomilies-gia-to-klima-oxi-e-e-sto-sxedio-symfonias/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-22T12:50:41+00:00",
+          "summary": "Η Σύνοδος για το κλίμα βρίσκεται ήδη σε παράταση δύο ημερών, με τις χώρες να κινδυνεύουν με αδιέξοδο και αναστολή των εργασιών."
+        },
+        {
+          "title": "Σε αδιέξοδο η Σύνοδος για το Κλίμα: Δεν εγκρίνεται το σχέδιο συμφωνίας – Αντιδράσεις για τα ορυκτά καύσιμα",
+          "url": "https://www.efsyn.gr/periballon/1515392/se-adiexodo-i-synodos-gia-to-klima-den-egkrinetai-to-shedio-symfonias-antidraseis-gia-ta-orykta-kaysima/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-22T12:43:10+00:00",
+          "summary": "Το νέο προσχέδιο τελικής απόφασης εξακολουθεί να μην περιλαμβάνει ρητή έκκληση για απομάκρυνση από τα ορυκτά καύσιμα, η χρήση των οποίων θεωρείται η κύρια αιτία της κλιματικής αλλαγής."
+        },
+        {
+          "title": "«Στείλετε να με πάρουν» – Η βία κατά των γυναικών στη Γενοκτονία των Ποντίων",
+          "url": "https://www.naftemporiki.gr/society/2192614/steilete-na-me-paroyn-i-via-kata-ton-gynaikon-sti-genoktonia-ton-pontion/?utm_source=rss&utm_medium=rss&utm_campaign=steilete-na-me-paroyn-i-via-kata-ton-gynaikon-sti-genoktonia-ton-pontion",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-22T12:41:43+00:00",
+          "summary": "«Εγώ δεν θέλω. Στείλετε να με πάρουν». Αυτά τα λόγια θυμόταν η Κυριακή Τσάπα από το γράμμα που έστειλε στη Μητρόπολη μια φίλη της αδελφής της, στην Τοκάτη. Ένας άνδρας… «Στείλετε να με πάρουν» – Η βία κατά των γυναικών στη Γενοκτονία των Ποντίων - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "COP31: Η ΕΕ «δεν εγκρίνει» το προσχέδιο συμφωνίας για το κλίμα – Χαοτική η τελευταία συνεδρίαση",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/cop31-i-ee-den-egkrinei-to-prosxedio-symfonias-gia-to-klima-xaotiki-i-teleytaia-synedriasi/",
+          "source": "ertnews.gr",
+          "published": "2026-11-22T12:42:54+00:00",
+          "summary": "Η μεγαλύτερη σε διάρκεια παγκόσμια διάσκεψη για το κλίμα δεν κατέληξε σε κοινή διακήρυξη καθώς το προσχέδιο συμφωνίας απορρίφτηκε, ανακοίνωσε ο Τούρκος συμπροεδρεύων COP31, 44 ώρες μετά την έναρξη των εργασιών και δύο εβδομάδες αό την έναρξη προκαταρκτικών διαπραγματεύσεων στην Αττάλεια. Οι τελευταίες ώρες περιγράφονται ως χαοτικές ενώ καταλυτική χαρακτηρίζεται η άρνηση της Ευρωπαϊκής Ένωσης ...…"
+        },
+        {
+          "title": "Πρίγκιπας Ουίλιαμ: Σχέδιο για αφαίρεση των βασιλικών τίτλων από τον Χάρι και τα παιδιά του",
+          "url": "https://www.kathimerini.gr/world/564606448/prigkipas-oyiliam-schedio-gia-afairesi-ton-vasilikon-titlon-apo-ton-chari-kai-ta-paidia-toy/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-22T11:39:43+00:00",
+          "summary": "Το σχέδιο που φέρνει ριζικές αλλαγές στη βρετανική μοναρχία και θα μπορούσε να στερήσει από τον Χάρι, τη Μέγκαν και τα παιδιά τους τα βασιλικά προνόμια."
+        },
+        {
+          "title": "Κάλπες στην ΕΕ: Η ακροδεξιά δοκιμάζει τις ισορροπίες της Ένωσης",
+          "url": "https://www.tovima.gr/2026/11/22/world/kalpes-stin-ee-i-akrodeksia-dokimazei-tis-isorropies-tis-enosis/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-22T12:17:48+00:00",
+          "summary": "Η εθνικιστική ακροδεξιά κερδίζει έδαφος στην Ευρώπη ακριβώς τη στιγμή που ανοίγει ένας κύκλος εκλογών σε μεγάλες χώρες της ΕΕ. Θα αντέξει η ΕΕ;"
+        },
+        {
+          "title": "Ουκρανικό: Η Γερμανία βλέπει παντού πόλεμο – Πόσο «πρόθυμοι» είναι οι Ευρωπαίοι για ειρήνη;",
+          "url": "https://www.efsyn.gr/themata/1515068/oykraniko-i-germania-vlepei-pantoy-polemo-poso-prothymoi-einai-oi-eyropaioi-gia-eirini/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-22T12:30:25+00:00",
+          "summary": "Ενα περιστατικό με drone στη Λιψία γίνεται αφορμή για αντιρωσική ρητορική, αυξημένες αμυντικές δαπάνες και φόβους για περαιτέρω κλιμάκωση"
+        },
+        {
+          "title": "Σύλληψη 55χρονης για γενετήσια εκμετάλλευση ανάπηρης",
+          "url": "https://www.naftemporiki.gr/society/2192605/syllipsi-55chronis-gia-genetisia-ekmetalleysi-anapiris/?utm_source=rss&utm_medium=rss&utm_campaign=syllipsi-55chronis-gia-genetisia-ekmetalleysi-anapiris",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-22T12:24:24+00:00",
+          "summary": "Για εμπορία ανθρώπων με σκοπό τη γενετήσια εκμετάλλευση συνελήφθη απογευματινές ώρες της Παρασκευής στην Αθήνα 55χρονη, από αστυνομικούς της Υποδιεύθυνσης Καταπολέμησης Διακίνησης και Εμπορίας Ανθρώπων και Αγαθών της Διεύθυνσης Αντιμετώπισης… Σύλληψη 55χρονης για γενετήσια εκμετάλλευση ανάπηρης - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Βρετανία: Νέα πολιτική θύελλα μετά τη συμφωνία Μπέρναμ με τις Βρυξέλλες",
+          "url": "https://www.ertnews.gr/eidiseis/vretania-nea-politiki-thyella-meta-ti-symfonia-mpernam-me-tis-vrykselles/",
+          "source": "ertnews.gr",
+          "published": "2026-11-22T12:30:23+00:00",
+          "summary": "Νέα πολιτική σύγκρουση προκαλεί στη Βρετανία η προοπτική μελλοντικής επιστροφής στην Ευρωπαϊκή Ένωση, μετά τη συμφωνία του πρωθυπουργού Άντι Μπέρναμ με τις Βρυξέλλες. Η πρώην πρωθυπουργός των Συντηρητικών Τερέζα Μέι ζητά να κλείσει οριστικά το κεφάλαιο του Brexit, ενώ η αντιπολίτευση απειλεί να ανατρέψει τη νέα συμφωνία. Ανταπόκριση, Λονδίνο: Αναστασία Καντζάβελου Η αντιπαράθεση ξέσπασε μετά ...…"
+        },
+        {
+          "title": "Αρχιμανδρίτης στις ΗΠΑ στο επίκεντρο έρευνας για κύκλωμα πλαστών έργων τέχνης",
+          "url": "https://www.kathimerini.gr/society/astynomiko/564606433/archimandritis-stis-ipa-sto-epikentro-ereynas-gia-kykloma-plaston-ergon-technis/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-22T11:39:43+00:00",
+          "summary": "Σύλληψη ενός 44χρονου στην Αθήνα, ενώ αναζητείται 49χρονος που ιερουργεί σε αμερικανική πολιτεία."
+        },
+        {
+          "title": "Φαγητό σε πακέτο – Αυτά είναι τα καλύτερα spots στην Αθήνα",
+          "url": "https://www.tovima.gr/2026/11/22/elliniki-kouzina/fagito-se-paketo-ayta-einai-ta-kalytera-spots-stin-athina/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-22T12:00:40+00:00",
+          "summary": "Δεν έχουμε πάντα όρεξη ή χρόνο για μαγείρεμα. Ευτυχώς, όμως, έχουμε πάντα κάποια αγαπημένα σημεία στην πόλη που φτιάχνουν τα φαγητά που θέλουμε έτσι ακριβώς όπως τα θέλουμε και μας τα δίνουν σε πακέτο."
+        },
+        {
+          "title": "14χρονος έψαχνε όπλο στο διαδίκτυο για να «εκδικηθεί» το μπούλινγκ – Κινητοποιήθηκε η Αντιτρομοκρατική",
+          "url": "https://www.efsyn.gr/ellada/1515386/14hronos-epsahne-oplo-sto-diadiktyo-gia-na-ekdikithei-to-mpoylingk-kinitopoiithike-i-antitromokratiki/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-22T12:15:59+00:00",
+          "summary": "Εψαχνε μέσω «Telegram» να βρει όπλο προκειμένου να εκδικηθεί, καθώς είχε πέσει θύμα συστηματικού μπούλινγκ από συμμαθητές του στο σχολείο για την καταγωγή και την προφορά του."
+        },
+        {
+          "title": "Φλώρινα: Έσπασαν παιχνιδομηχανήματα, έκλεψαν τα χρήματα – Πέντε συλλήψεις ανηλίκων",
+          "url": "https://www.naftemporiki.gr/society/2192600/florina-espasan-paichnidomichanimata-eklepsan-ta-chrimata-pente-syllipseis-anilikon/?utm_source=rss&utm_medium=rss&utm_campaign=florina-espasan-paichnidomichanimata-eklepsan-ta-chrimata-pente-syllipseis-anilikon",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-22T12:06:21+00:00",
+          "summary": "Για τα αδικήματα της κλοπής και της φθοράς ξένης ιδιοκτησίας, πράξεις που έγιναν εντός καταστήματος υγειονομικού ενδιαφέροντος, συνελήφθησαν 5 ανήλικοι στη Φλώρινα, βραδινές ώρες του Σαββάτου, από αστυνομικούς του Τμήματος… Φλώρινα: Έσπασαν παιχνιδομηχανήματα, έκλεψαν τα χρήματα – Πέντε συλλήψεις ανηλίκων - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Live streaming: Δείτε τον αγώνα ποδοσφαίρου Ελλάδα-Παναμάς για το Παγκόσμιο Κύπελλο U17 (14:30, ΕΡΤ2 ΣΠΟΡ)",
+          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-podosfairou-ellada-panamas-gia-to-pagkosmio-kypello-u17-14-30-ert2-spor/",
+          "source": "ertnews.gr",
+          "published": "2026-11-22T12:10:00+00:00",
+          "summary": "Δείτε σε απ΄ ευθείας μετάδοση σήμερα στις 14:30 από το Κατάρ τον αγώνα ποδοσφαίρου ανάμεσα στην Ελλάδα και τον Παναμά για το Παγκόσμιο Κύπελλο U17. Ο αγώνας μεταδίδεται διαδικτυακά από την ΕΡΤ2 ΣΠΟΡ μέσα από το ERTFLIX. www.ertnews.gr"
+        },
+        {
+          "title": "Υπάρχει μέλλον για τα Ξενία;",
+          "url": "https://www.kathimerini.gr/culture/564603481/yparchei-mellon-gia-ta-xenia/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-22T11:22:04+00:00",
+          "summary": "Ο διεθνής διαγωνισμός για το ξενοδοχείο στη Βυτίνα ανοίγει εκ νέου τον διάλογο για την αξιοποίησή τους."
+        },
+        {
+          "title": "Μάργκαρετ Θάτσερ: Η πτώση της «Σιδηράς Κυρίας»",
+          "url": "https://www.tovima.gr/2026/11/22/istoriko-arxeio/margkaret-thatser-i-ptosi-tis-sidiras-kyrias/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-22T12:00:18+00:00",
+          "summary": "Η παραίτηση της Μάργκαρετ Θάτσερ, οι πολιτικές που δίχασαν τη χώρα και η εσωκομματική ανταρσία που έβαλε τέλος στην κυριαρχία της"
+        },
+        {
+          "title": "«Τρέχουν» οι πωλήσεις στα οnline σούπερ μάρκετ – Τι αγοράζουν οι καταναλωτές",
+          "url": "https://www.efsyn.gr/oikonomia/1515368/trehoyn-oi-poliseis-sta-online-soyper-market-ayximenos-tziros-perissoteres-paraggelies/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-22T11:44:51+00:00",
+          "summary": "Αυξημένος τζίρος, περισσότερες παραγγελίες."
+        },
+        {
+          "title": "Πωλούσαν πλαστούς πίνακες ζωγραφικής μέσω e-πλατφόρμας",
+          "url": "https://www.naftemporiki.gr/society/2192598/poloysan-plastoys-pinakes-zografikis-meso-platformas-agorapolision/?utm_source=rss&utm_medium=rss&utm_campaign=poloysan-plastoys-pinakes-zografikis-meso-platformas-agorapolision",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-22T11:52:16+00:00",
+          "summary": "Για διακίνηση πλαστών έργων τέχνης και διακεκριμένη απάτη, καθώς και για παράβαση της νομοθεσίας περί πνευματικής ιδιοκτησίας, κατηγορείται 44χρονος, που συνελήφθη μεσημβρινές ώρες του Σαββάτου στην Αθήνα, από αστυνομικούς της… Πωλούσαν πλαστούς πίνακες ζωγραφικής μέσω e-πλατφόρμας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Χειμερινό «φρένο» στις αεροπορικές θέσεις με αντίβαρο τον Μάρτιο",
+          "url": "https://www.ertnews.gr/eidiseis/xeimerino-freno-stis-aeroporikes-theseis-me-antivaro-ton-martio/",
+          "source": "ertnews.gr",
+          "published": "2026-11-22T12:09:48+00:00",
+          "summary": "Στους γνώριμους φθινοπωρινούς ρυθμούς κινείται η τουριστική αγορά, καταγράφοντας την αναμενόμενη εποχική κάμψη μετά το κλείσιμο της θερινής αυλαίας. Η προσωρινή αυτή «νηνεμία» στις αφίξεις αποτελεί ωστόσο το καθιερωμένο μεταβατικό στάδιο πριν από την εορταστική επανεκκίνηση, με τους επαγγελματίες του κλάδου να στρέφουν πλέον το βλέμμα τους στην αυξημένη κίνηση των Χριστουγέννων, τόσο από το ...…"
+        },
+        {
+          "title": "COP31: Εντονες αντιδράσεις για το σχέδιο απόφασης που παρουσίασε η προεδρία",
+          "url": "https://www.kathimerini.gr/world/564606409/cop31-entones-antidraseis-gia-to-schedio-apofasis-poy-paroysiase-i-proedria-tis-cop31/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-22T11:07:05+00:00",
+          "summary": "Το κείμενο τελικής απόφασης της COP31 «μάς γυρίζει πίσω», καταγγέλλει η Γαλλία."
+        },
+        {
+          "title": "Πόσο θωρακισμένη είναι η Ελλάδα στις κυβερνοεπιθέσεις;",
+          "url": "https://www.tovima.gr/2026/11/22/texnologia/poso-thorakismeni-einai-i-ellada-stis-kyvernoepitheseis/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-22T11:35:15+00:00",
+          "summary": "Απόλυτη ψηφιακή ασφάλεια δεν υπάρχει, ενώ η Tεχνητή Νοημοσύνη δίνει πλέον στους επιτιθέμενους τη δυνατότητα να εντοπίζουν ευπάθειες και να χτυπούν ταχύτερα."
+        },
+        {
+          "title": "Εστησαν «φάμπρικα» πλαστών έργων τέχνης – Συνελήφθη 44χρονος στην Αθήνα",
+          "url": "https://www.efsyn.gr/ellada/1515380/estisan-famprika-plaston-ergon-tehnis-synelifthi-44hronos-stin-athina/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-22T11:43:22+00:00",
+          "summary": "H συνολική αξία των έργων τέχνης που σκόπευαν να πουλήσουν, εφόσον ήταν γνήσια, θα ανερχόταν περίπου στο ποσό του 1.700.000 ευρώ."
+        },
+        {
+          "title": "PosoKanei: 432 προϊόντα δείχνουν τις διαφορές των ελληνικών τιμών με άλλες ευρωπαϊκές χώρες",
+          "url": "https://www.naftemporiki.gr/finance/economy/2192595/posokanei-432-proionta-deichnoyn-tis-diafores-ton-ellinikon-timon-me-alles-eyropaikes-chores/?utm_source=rss&utm_medium=rss&utm_campaign=posokanei-432-proionta-deichnoyn-tis-diafores-ton-ellinikon-timon-me-alles-eyropaikes-chores",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-22T11:37:55+00:00",
+          "summary": "Το ίδιο προϊόν μπορεί να έχει αισθητά διαφορετική τιμή στην Ελλάδα και σε άλλες ευρωπαϊκές αγορές. Πόσο συχνά όμως επαναλαμβάνεται αυτή η διαφορά μέσα σε μια κατηγορία; Και πόσο αλλάζει… PosoKanei: 432 προϊόντα δείχνουν τις διαφορές των ελληνικών τιμών με άλλες ευρωπαϊκές χώρες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Επέτειος Μάχης της Αράχωβας – ΠτΔ: Είμαστε αποφασισμένοι να προστατεύουμε την ελευθερία με ισχυρή και ενωμένη πατρίδα",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/epeteios-maxis-tis-araxovas-ptd-eimaste-apofasismenoi-na-prostateyoume-tin-eleytheria-me-isxyri-kai-enomeni-patrida/",
+          "source": "ertnews.gr",
+          "published": "2026-11-22T12:08:19+00:00",
+          "summary": "Παρουσία του Προέδρου της Δημοκρατίας, Κωνσταντίνου Τασούλα, πραγματοποιούνται οι εκδηλώσεις για τον εορτασμό της 200ής επετείου από τη Μάχη της Αράχωβας. Ο κ. Τασούλας, μετά από τη δοξολογία στον Ιερό Ναό Αγίου Γεωργίου Αραχώβης, προεξάρχοντος του μητροπολίτη Θηβών, Λεβαδείας και Αυλίδος Γεωργίου, κατέθεσε στεφάνι στο Ηρώο της Μάχης και αμέσως μετά προέβη σε δήλωση, τονίζοντας ... Περισσότερα…"
+        },
+        {
+          "title": "Κίεβο: Ενας νεκρός και 14 αγνοούμενοι κατόπιν επίθεσης ρωσικού drone σε πολυκατοικία",
+          "url": "https://www.kathimerini.gr/world/564606400/kievo-enas-nekros-kai-14-agnooymenoi-katopin-epithesis-rosikoy-drone-se-polykatoikia/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-22T10:51:07+00:00",
+          "summary": "Ηδη ανασύρθηκε μία σορός από τα συντρίμμια στο Ντίμιρ, στην περιφέρεια του Κιέβου."
+        },
+        {
+          "title": "Η επιστήμη στη βιτρίνα της ισχύος",
+          "url": "https://www.tovima.gr/2026/11/22/science/i-epistimi-sti-vitrina-tis-isxyos/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-22T11:02:37+00:00",
+          "summary": "Από τις γιγαντοαφίσες των Κινέζων επιστημόνων και τη συνάντηση Σι–Τραμπ–Πούτιν έως τον Σοβιετικό φυσικό που αρνήθηκε να παραδώσει τα παράσημά του. Η επιστήμη ως σύμβολο εθνικής ισχύος και γιατί η δημοσιογραφία οφείλει να εξετάζει ποιος κατασκευάζει το κύρος της;"
+        },
+        {
+          "title": "Πέραμα: Μετ’ εμποδίων η κυκλοφορία λόγω του σπασμένου αγωγού αποχέτευσης [εικόνες]",
+          "url": "https://www.efsyn.gr/ellada/1515372/perama-met-empodion-i-kykloforia-logo-toy-spasmenoy-agogoy-apoheteysis-eikones/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-22T11:22:01+00:00",
+          "summary": "Ο δήμαρχος Περάματος απευθύνει έκκληση στους πολίτες να αποφεύγουν τις μετακινήσεις προς και από τη Σαλαμίνα."
+        },
+        {
+          "title": "Ναυαγεί η διάσκεψη για το κλίμα στην Αττάλεια: Δεν έγινε δεκτό το τελικό σχέδιο απόφασης",
+          "url": "https://www.naftemporiki.gr/green/2192591/pros-nayagio-i-diaskepsi-gia-to-klima-i-ee-aperripse-to-teliko-schedio-apofasis/?utm_source=rss&utm_medium=rss&utm_campaign=pros-nayagio-i-diaskepsi-gia-to-klima-i-ee-aperripse-to-teliko-schedio-apofasis",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-22T11:16:32+00:00",
+          "summary": "Σε ναυάγιο οδηγούνται οι διαπραγματεύσεις για το κλίμα (COP 31) που διεξάγονται στην Αττάλεια. Ο πρόεδρος της διάσκεψης, Μουράτ Κουρούμ, ανακοίνωσε το μεσημέρι της Κυριακής ότι δεν υπάρχει συμφωνία: «Πρέπει… Ναυαγεί η διάσκεψη για το κλίμα στην Αττάλεια: Δεν έγινε δεκτό το τελικό σχέδιο απόφασης - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Συγκροτείται νομοπαρασκευαστική επιτροπή για αντιγήρανση και μακροζωία – Ποιο πλαίσιο ετοιμάζεται για ενέσεις αδυνατίσματος, βότανα και «εναλλακτικές θεραπείες»",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/sygkroteitai-nomoparaskeyastiki-epitropi-gia-antigiransi-kai-makrozoia-poio-plaisio-etoimazetai-gia-eneseis-adynatismatos-votana-kai-enallaktikes-therapeies/",
+          "source": "ertnews.gr",
+          "published": "2026-11-22T11:58:53+00:00",
+          "summary": "«Δεν υπάρχουν μαγικοί τρόποι για να έχουμε μακροζωία. Ευζωία και μακροζωία είναι η προληπτική ιατρική», τόνισε η Αναστασία Κοτανίδου, πρόεδρος του Κεντρικού Συμβουλίου Υγείας και μέλος της Επιτροπής για τις υπηρεσίες Αντιγήρανσης και Μακροζωίας, μιλώντας στην εκπομπή «10 με τόνο» του ΕΡΤnews. Η κα Κοτανίδου εξήγησε ότι η επιτροπή, που συστάθηκε από τον υπουργό Υγείας, ... Περισσότερα…"
+        },
+        {
+          "title": "Βόλος: Σφοδρά επεισόδια μεταξύ δεκάδων νεαρών – Δύο άτομα στο νοσοκομείο",
+          "url": "https://www.kathimerini.gr/society/564606397/volos-sfodra-epeisodia-metaxy-dekadon-nearon-dyo-atoma-sto-noskomeio/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-22T10:29:30+00:00",
+          "summary": "Στόχος της επίθεσης φέρεται να ήταν ένας 20χρονος που βρισκόταν στο πάρκο με τους φίλους του."
+        },
+        {
+          "title": "Ποιος έχει δικαίωμα να πουλά τη Φρίντα Κάλο; Ένα έργο εκατομμυρίων έγινε μήλον της έριδος",
+          "url": "https://www.tovima.gr/2026/11/22/culture/poios-exei-dikaioma-na-poula-ti-frinta-kalo-ena-ergo-ekatommyrion-egine-milon-tis-eridos/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-22T11:00:20+00:00",
+          "summary": "Μόλις λίγα λεπτά πριν τη δημοπρασία, ένας πίνακας της Φρίντα Κάλο αποσύρθηκε έπειτα από παρέμβαση της μεξικανικής κυβέρνησης. Το έργο, αφιερωμένο στην ειρήνη των λαών, είχε ήδη βγει στο σφυρί με εκτίμηση εκατομμυρίων. Το ερώτημα είναι πώς βρέθηκε εκεί."
+        },
+        {
+          "title": "Ευρωπαϊκή Εισαγγελία: Στα χέρια του Γερμανού Αντρές Ρίτερ ο φάκελος με τις 175 ελληνικές υποθέσεις",
+          "url": "https://www.efsyn.gr/ellada/1515012/eyropaiki-eisaggelia-sta-heria-toy-germanoy-antres-riter-o-fakelos-me-tis-175-ellinikes-ypotheseis/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-22T11:05:32+00:00",
+          "summary": "Στα χέρια του Γερμανού Αντρές Ρίτερ το εκρηκτικό χαρτοφυλάκιο των 175 ενεργών ελληνικών υποθέσεων από τη Λάουρα Κοβέσι, με τη συνολική εκτιμώμενη ζημιά της Ε.Ε. να ανέρχεται στο ποσόν των 2,68 δισ.!"
+        },
+        {
+          "title": "ΚΤΕΛ Λιοσίων: Ανήλικοι οι δράστες ληστείας σε βάρος 83χρονης",
+          "url": "https://www.naftemporiki.gr/society/2192592/ktel-liosion-anilikoi-oi-drastes-listeias-se-varos-83chronis/?utm_source=rss&utm_medium=rss&utm_campaign=ktel-liosion-anilikoi-oi-drastes-listeias-se-varos-83chronis",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-22T11:13:20+00:00",
+          "summary": "Δύο ανήλικοι, ηλικίας 16 και 13 ετών, που αφαίρεσαν βίαια αλυσίδα λαιμού από 83χρονη συνελήφθησαν από αστυνομικούς της Ομάδας ΔΙ.ΑΣ./ΓΑΔΑ. Σε βάρος τους σχηματίστηκε δικογραφία από το Τμήμα Δίωξης και… ΚΤΕΛ Λιοσίων: Ανήλικοι οι δράστες ληστείας σε βάρος 83χρονης - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Εκπαιδευτικές ημερίδες από τη Γενική Περιφερειακή Αστυνομική Διεύθυνση Κεντρικής Μακεδονίας",
+          "url": "https://www.ertnews.gr/ert3/ekpaideytikes-imerides-apo-ti-geniki-perifereiaki-astynomiki-dieythynsi-kentrikis-makedonias/",
+          "source": "ertnews.gr",
+          "published": "2026-11-22T11:31:41+00:00",
+          "summary": "Με επιτυχία πραγματοποιήθηκαν δύο εκπαιδευτικές ημερίδες για την αντιμετώπιση περιστατικών ανήλικης παραβατικότητας και ενδοοικογενειακής βίας, οι οποίες διοργανώθηκαν από το Τμήμα Διοικητικής Υποστήριξης και Εκπαίδευσης της Γενικής Περιφερειακής Αστυνομικής Διεύθυνσης Κεντρικής Μακεδονίας. Οι ημερίδες διεξήχθησαν στις 19 και 20 Νοεμβρίου 2026 στο αμφιθέατρο του Αστυνομικού Μεγάρου Θεσσαλονίκης…"
+        },
+        {
+          "title": "Νότια Κορέα: Παραίτηση του υπουργού Παιδείας μετά τα ΑΙ σκονάκια σε εξετάσεις",
+          "url": "https://www.kathimerini.gr/world/564606391/notia-korea-paraitisi-toy-ypoyrgoy-paideias-meta-ta-ai-skonakia-se-exetaseis/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-22T10:15:12+00:00",
+          "summary": "Δεκτή η παραίτηση από τον Νοτιοκορεάτη πρόεδρο, που είναι σε αναζήτηση αντικαταστάτη."
+        },
+        {
+          "title": "Το έργο GSI προχωράει – Η ώρα του ταμείου έφτασε",
+          "url": "https://www.tovima.gr/2026/11/22/finance/to-ergo-gsi-proxoraei-i-ora-tou-tameiou-eftase/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-22T10:47:39+00:00",
+          "summary": "Σε «ήρεμα νερά» οι βυθομετρήσεις για το καλώδιο GSI - Η ώρα της απόφασης του υπουργού Οικονομικών της Κύπρου Μάκη Κεραυνού για την πληρωμή των 25 εκατ. ευρώ"
+        },
+        {
+          "title": "Βόλος: Αγρια συμπλοκή 50 ατόμων με καδρόνια και στυλιάρια – Στο νοσοκομείο δύο νεαροί",
+          "url": "https://www.efsyn.gr/ellada/1515366/volos-agria-symploki-50-atomon-me-kadronia-kai-styliaria-sto-nosokomeio-dyo-nearoi/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-22T10:58:37+00:00",
+          "summary": "Στόχος της επίθεσης φέρεται να ήταν ένας 20χρονος που βρισκόταν στο πάρκο με τους φίλους του."
+        },
+        {
+          "title": "Εορταστικό ωράριο: Τι ώρα ανοίγουν και κλείνουν τα καταστήματα – Ποιες Κυριακές είναι ανοιχτά, τι ισχύει για σούπερ μάρκετ",
+          "url": "https://www.naftemporiki.gr/society/2192586/eortastiko-orario-ti-ora-anoigoyn-kai-kleinoyn-ta-katastimata-poies-kyriakes-einai-anoichta-ti-ischyei-gia-soyper-market/?utm_source=rss&utm_medium=rss&utm_campaign=eortastiko-orario-ti-ora-anoigoyn-kai-kleinoyn-ta-katastimata-poies-kyriakes-einai-anoichta-ti-ischyei-gia-soyper-market",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-22T11:00:14+00:00",
+          "summary": "Αντίστροφα μετρά ο χρόνος για την έναρξη του εορταστικού ωραρίου των Χριστουγέννων 2026, με τα εμπορικά καταστήματα να προετοιμάζονται για την αυξημένη κίνηση της εορταστικής περιόδου. Σύμφωνα με το πρόγραμμα… Εορταστικό ωράριο: Τι ώρα ανοίγουν και κλείνουν τα καταστήματα – Ποιες Κυριακές είναι ανοιχτά, τι ισχύει για σούπερ μάρκετ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Αθήνα: Συνελήφθη 55χρονη που φέρεται να εξέδιδε 45χρονη γυναίκα με αναπηρία σε οίκους ανοχής",
+          "url": "https://www.ertnews.gr/roi-idiseon/athina-synelifthi-55xroni-pou-feretai-na-eksedide-45xroni-gynaika-me-anapiria-se-oikous-anoxis/",
+          "source": "ertnews.gr",
+          "published": "2026-11-22T11:26:15+00:00",
+          "summary": "Στη σύλληψη 55χρονης, με την κατηγορία της εμπορίας ανθρώπων με σκοπό τη γενετήσια εκμετάλλευση, προχώρησαν αστυνομικοί της Υποδιεύθυνσης Καταπολέμησης Διακίνησης και Εμπορίας Ανθρώπων και Αγαθών της Διεύθυνσης Αντιμετώπισης Οργανωμένου Εγκλήματος. Η σύλληψη έγινε τις απογευματινές ώρες της Παρασκευής 20 Νοεμβρίου 2026, στην Αθήνα. Σύμφωνα με την έρευνα, η κατηγορούμενη φέρεται να εκμεταλλευόταν,…"
+        },
+        {
+          "title": "Ο Τσέχος που έστειλε τον Ομηρο στο Διάστημα",
+          "url": "https://www.kathimerini.gr/life/people/564599545/o-tsechos-poy-esteile-ton-omiro-sto-diastima/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-22T10:03:10+00:00",
+          "summary": "Ενα πρόβατο από το οποίο εξαρτάται η ύπαρξη του Σύμπαντος, διαστημόπλοια και εξωγήινοι σε ομηρικούς στίχους. Η απίθανη ιστορία του Γιαν Κρεσάντλο, ενός Τσέχου ψυχολόγου που αφιέρωσε τα τελευταία χρόνια της ζωής του σε ένα λογοτεχνικό όνειρο, έρχεται ξανά στο προσκήνιο. Ο γιος του και ο Γερμανός φιλόλογος που μελετά το έργο του μιλούν στην «Κ»."
+        },
+        {
+          "title": "Μεξικό: 11 νεκροί στην επιχείρηση σύλληψης του βαρόνου Ελ Τσάπο Ισίδρο",
+          "url": "https://www.tovima.gr/2026/11/22/world/meksiko-11-nekroi-stin-epixeirisi-syllipsis-tou-varonou-el-tsapo-isidro/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-22T10:33:42+00:00",
+          "summary": "Ο εντοπισμός του Ισίδρο επιτεύχθηκε με τη συνδρομή αμερικανικών πληροφοριών, σε μια περίοδο που η κυβέρνηση της Κλαούντια Σέινμπαουμ δέχεται έντονες πιέσεις από τον Ντόναλντ Τραμπ για την εξάρθρωση του οργανωμένου εγκλήματος."
+        },
+        {
+          "title": "Τραγωδία στην Κύπρο: Νεκρή 17χρονη σε δωμάτιο ξενοδοχείου ενώ ήταν σε σχολική εκδρομή",
+          "url": "https://www.efsyn.gr/kosmos/1515361/tragodia-stin-kypro-nekri-17hroni-se-domatio-xenodoheioy-eno-itan-se-sholiki-ekdromi/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-22T10:31:54+00:00",
+          "summary": "Aύριο αναμένεται να διενεργηθεί νεκροτομή ώστε να διαπιστωθούν τα ακριβή αίτια θανάτου."
+        },
+        {
+          "title": "ΚΚΕ: Προκλητικές θριαμβολογίες Μητσοτάκη, τα επιδόματα κοροϊδίας έχουν εξανεμιστεί πριν καν δοθούν",
+          "url": "https://www.naftemporiki.gr/politics/2192585/kke-proklitikes-thriamvologies-mitsotaki-ta-epidomata-koroidias-echoyn-exanemistei-prin-kan-dothoyn/?utm_source=rss&utm_medium=rss&utm_campaign=kke-proklitikes-thriamvologies-mitsotaki-ta-epidomata-koroidias-echoyn-exanemistei-prin-kan-dothoyn",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-22T10:56:16+00:00",
+          "summary": "«Σε αντίθεση με τις προκλητικές θριαμβολογίες Μητσοτάκη, αυτό που αποδεικνύει ο νέος κρατικός προϋπολογισμός είναι ότι, όσο συνεχίζεται αυτή η πολιτική, ο λαός θα συνεχίσει να ματώνει για τα πλεονάσματα,… ΚΚΕ: Προκλητικές θριαμβολογίες Μητσοτάκη, τα επιδόματα κοροϊδίας έχουν εξανεμιστεί πριν καν δοθούν - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Ανήλικος που είχε πέσει θύμα «bullying» στο σχολείο έψαχνε να αγοράσει όπλο στο διαδίκτυο",
+          "url": "https://www.ertnews.gr/roi-idiseon/anilikos-pou-eixe-pesei-thyma-bullying-sto-sxoleio-epsaxne-na-agorasei-oplo-sto-diadiktyo/",
+          "source": "ertnews.gr",
+          "published": "2026-11-22T11:14:46+00:00",
+          "summary": "Αναζητήσεις στο διαδίκτυο και συγκεκριμένα στο «Telegram» για την αγορά όπλου με σκοπό την εκδίκηση πραγματοποιούσε ένας 14χρονος σε πόλη της περιφέρειας, που είχε πέσει θύμα συστηματικού «bullying» από συμμαθητές του στο σχολείο για την καταγωγή του και την προφορά του. Συγκεκριμένα, η μητέρα του παιδιού είναι από χώρα της ανατολικής Ευρώπης και ο πατριός ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Ο κώδικας της ελληνικής γεύσης, ένα σημαντικό κείμενο της Εύης Βουτσινά",
+          "url": "https://www.kathimerini.gr/k/gastronomos/564602374/o-kodikas-tis-ellinikis-geysis-ena-simantiko-keimeno-tis-eyis-voytsina/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-22T10:00:00+00:00",
+          "summary": "Η Εύη Βουτσινά ταξίδεψε σε όλη την Ελλάδα καταγράφοντας συνταγές και συνήθειες και, μέσα από τα βιβλία και τα άρθρα της, βοήθησε να διασωθούν γεύσεις και φαγητά που είχαν ξεχαστεί. Ο Γαστρονόμος πατάει στα βήματά της."
+        },
+        {
+          "title": "Ο δάσκαλος και ο Φαμπρ: Μια αναγκαία διευκρίνιση",
+          "url": "https://www.tovima.gr/2026/11/22/opinions/o-daskalos-kai-o-fampr-mia-anagkaia-dieykrinisi/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-22T10:15:15+00:00",
+          "summary": "Ενοχλητική ή άβολη, η αλήθεια παραμένει κρίσιμο μέγεθος."
+        },
+        {
+          "title": "Η «ρωγμή» των επιχειρήσεων: Ρεκόρ κερδοφορίας για τις εισηγμένες, ζημιές για τις μικρομεσαίες",
+          "url": "https://www.efsyn.gr/oikonomia/1515007/i-rogmi-ton-epiheiriseon-rekor-kerdoforias-gia-tis-eisigmenes-zimies-gia-tis-mikromesaies/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-22T10:10:36+00:00",
+          "summary": "Mεγάλες επιχειρήσεις εμφανίζονται περισσότερο αισιόδοξες και επενδυτικά προσανατολισμένες, ενώ οι μικρομεσαίες αντιμετωπίζουν αυξημένο λειτουργικό κόστος, δυσκολότερη πρόσβαση σε χρηματοδότηση και δεν βρίσκουν ανθρώπινο δυναμικό"
+        },
+        {
+          "title": "Ανήλικοι και αλκοόλ",
+          "url": "https://www.naftemporiki.gr/health/2192582/anilikoi-kai-alkool/?utm_source=rss&utm_medium=rss&utm_campaign=anilikoi-kai-alkool",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-22T10:44:10+00:00",
+          "summary": "Άγγελος Χρονάς, ιατρός χειρουργός, υποδιοικητής της 5ης ΥΠΕ Θεσσαλίας και Στερεάς Ελλάδας Διάβασα τις αναφορές της ΠΟΕΔΗΝ για τις εκατοντάδες προσελεύσεις παιδιών έως 16 ετών στα νοσοκομεία μετά από κατανάλωση… Ανήλικοι και αλκοόλ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Αττική: Εξαρθρώθηκε κύκλωμα με πλαστά έργα τέχνης, στα 1,7 εκατ. ευρώ η αξία τους εάν ήταν γνήσια – Μία σύλληψη, κατασχέθηκαν χρυσές λίρες και πολύτιμοι λίθοι",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/attiki-eksarthrothike-kykloma-me-plasta-erga-texnis-sta-1-7-ekat-eyro-i-aksia-tous-ean-itan-gnisia-mia-syllipsi-katasxethikan-xryses-lires-kai-polytimoi-lithoi/",
+          "source": "ertnews.gr",
+          "published": "2026-11-22T11:10:26+00:00",
+          "summary": "Στην αποκάλυψη υπόθεσης διακίνησης πλαστών έργων τέχνης στην Αττική προχώρησε η Διεύθυνση Αντιμετώπισης Οργανωμένου Εγκλήματος, συλλαμβάνοντας έναν 44χρονο, ενώ αναζητείται ένας ακόμη άνδρας, ηλικίας 49 ετών. Οι αστυνομικοί εντόπισαν 35 έργα τέχνης που αποδίδονταν σε γνωστούς Έλληνες και ξένους καλλιτέχνες, καθώς και δεκάδες χρυσές λίρες και πολύτιμους λίθους. Εάν τα έργα ήταν αυθεντικά, η…"
+        },
+        {
+          "title": "Βαλτική: Φλέγεται ρωσικό πλοίο ύστερα από πλήγμα drone",
+          "url": "https://www.kathimerini.gr/world/564606388/valtiki-flegetai-rosiko-ploio-ystera-apo-pligma-drone/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-22T09:54:30+00:00",
+          "summary": "Το πλοίο, το οποίο κατευθυνόταν προς τον ρωσικό θύλακο του Καλίνινγκραντ, υπέστη ζημιές σε διεθνή ύδατα."
+        },
+        {
+          "title": "Όλο και περισσότεροι ενήλικες διακόπτουν κάθε επικοινωνία με τους γονείς τους; Αυξάνονται οι ρήξεις ή απλώς σπάει το ταμπού;",
+          "url": "https://www.tovima.gr/2026/11/22/society/olo-kai-perissoteroi-enilikes-diakoptoun-kathe-epikoinonia-me-tous-goneis-tous-ayksanontai-oi-rikseis-i-aplos-spaei-to-tampou/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-22T10:00:30+00:00",
+          "summary": "Τι κρύβεται πίσω από τη ρήξη ενηλίκων με τους γονείς τους; Τρεις ψυχολόγοι και ψυχοθεραπευτές μιλούν στο ΒΗΜΑ για τα αίτια, τα όρια, τα τραύματα και την αναζήτηση μιας υγιούς ισορροπίας."
+        },
+        {
+          "title": "Πυρκαγιά σε εργοστάσιο στην Ινδονησία: Τουλάχιστον τρεις νεκροί και 36 αγνοούμενοι [βίντεο]",
+          "url": "https://www.efsyn.gr/kosmos/1515356/pyrkagia-se-ergostasio-stin-indonisia-toylahiston-treis-nekroi-kai-36-agnooymenoi-vinteo/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-22T10:06:06+00:00",
+          "summary": "Σε εξέλιξη έρευνα για τα αίτια της πυρκαγιάς που ξέσπασε σε εργοστάσιο παραγωγής γλυκισμάτων στην πρωτεύουσα της Ινδονησίας."
+        },
+        {
+          "title": "ΣΥΡΙΖΑ για Μητσοτάκη: Μονόπρακτο διαστρέβλωσης και παραλόγου, μακριά από την κοινωνική πραγματικότητα",
+          "url": "https://www.naftemporiki.gr/politics/2192578/syriza-gia-mitsotaki-monoprakto-diastrevlosis-kai-paralogoy-makria-apo-tin-koinoniki-pragmatikotita/?utm_source=rss&utm_medium=rss&utm_campaign=syriza-gia-mitsotaki-monoprakto-diastrevlosis-kai-paralogoy-makria-apo-tin-koinoniki-pragmatikotita",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-22T10:33:14+00:00",
+          "summary": "«Ατυχώς ξεκίνησε με τον προϋπολογισμό του 2027 ο κ. Μητσοτάκης τον κυριακάτικο, θεατρικού χαρακτήρα, μονόλογό του στα μέσα κοινωνικής δικτύωσης, “ξεχνώντας” την πρωτοβουλία του ΣΥΡΙΖΑ-ΠΣ για την εξεταστική επιτροπή για… ΣΥΡΙΖΑ για Μητσοτάκη: Μονόπρακτο διαστρέβλωσης και παραλόγου, μακριά από την κοινωνική πραγματικότητα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Φιντάν: Ελληνικό και ισραηλινό λόμπι στις ΗΠΑ μπλοκάρουν την άρση των κυρώσεων CAATSA",
+          "url": "https://www.ertnews.gr/eidiseis/diethni/fintan-elliniko-kai-israilino-lompi-stis-ipa-mplokaroun-tin-arsi-ton-kyroseon-caatsa/",
+          "source": "ertnews.gr",
+          "published": "2026-11-22T11:08:50+00:00",
+          "summary": "Το «ισραηλινό και ελληνικό λόμπι» των Ηνωμένων Πολιτειών κατηγόρησε ο Χακάν Φιντάν υποστηρίζοντας ότι μπλοκάρουν την άρση των αμερικανικών κυρώσεων CAATSA κατά της Τουρκίας, σχετικά με την προμήθεια των F -35. Ο Τούρκος Υπουργός Εξωτερικών μιλώντας σε τηλεοπτική του συνέντευξη, ανέφερε ότι «η αμερικανική διοίκηση θέλει να προχωρήσει στην άρση των κυρώσεων αλλά η Άγκυρα ... Περισσότερα…"
+        },
+        {
+          "title": "Μπαχρέιν: «Το Ιράν έπληξε βιομηχανική εγκατάστασή μας»",
+          "url": "https://www.kathimerini.gr/world/564606373/mpachrein-to-iran-eplixe-viomichaniki-egkatastasi-mas/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-22T09:35:11+00:00",
+          "summary": "Η Τεχεράνη αντέτεινε πως ανταπέδωσε αμερικανικά πλήγματα."
+        },
+        {
+          "title": "«Θεέ μου, είναι η Τεχεράνη»: Η 37ωρη επιδρομή των ΗΠΑ που διέλυσε τα πυρηνικά του Ιράν",
+          "url": "https://www.tovima.gr/2026/11/22/world/thee-mou-einai-i-texerani-i-37ori-epidromi-ton-ipa-pou-dielyse-ta-pyrinika-tou-iran/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-22T09:42:39+00:00",
+          "summary": "Μετά από 15 χρόνια μυστικών προετοιμασιών και 37 ώρες αδιάκοπης πτήσης, 14 Αμερικανοί πιλότοι στα χειριστήρια επτά stealth βομβαρδιστικών B-2 πραγματοποίησαν ένα πρωτοφανές χτύπημα τον Ιούνιο του 2025."
+        },
+        {
+          "title": "Αιγάλεω: Επίθεση με γκαζάκια σε σπίτι",
+          "url": "https://www.efsyn.gr/ellada/1515353/aigaleo-epithesi-me-gkazakia-se-spiti/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-22T09:52:20+00:00",
+          "summary": "Αγνωστοι τοποθέτησαν σε περβάζι δύο φιαλίδια προπανίου, τα οποία εξερράγησαν."
+        },
+        {
+          "title": "Υπόθεση Μαντλίν: Ο βασικός ύποπτος φέρεται να ομολόγησε σε συγκρατούμενό του ότι «σκότωσε ένα μικρό ξανθό κορίτσι»",
+          "url": "https://www.naftemporiki.gr/kosmos/2192573/ypothesi-mantlin-o-vasikos-ypoptos-feretai-na-omologise-se-sygkratoymeno-toy-oti-skotose-ena-mikro-xantho-koritsi/?utm_source=rss&utm_medium=rss&utm_campaign=ypothesi-mantlin-o-vasikos-ypoptos-feretai-na-omologise-se-sygkratoymeno-toy-oti-skotose-ena-mikro-xantho-koritsi",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-22T10:22:35+00:00",
+          "summary": "Ενας πρώην συγκρατούμενος του Κρίστιαν Μπρίκνερ, του βασικού υπόπτου για την εξαφάνιση της Μάντλιν Μακάν, δηλώνει ανοιχτά ότι ο Μπρίκνερ τού είχε εκμυστηρεευθεί μέσα στη φυλακή ότι είχε απαγάγει, κακοποιήσει… Υπόθεση Μαντλίν: Ο βασικός ύποπτος φέρεται να ομολόγησε σε συγκρατούμενό του ότι «σκότωσε ένα μικρό ξανθό κορίτσι» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://www.ertnews.gr/feed/": {
+          "items": 35,
+          "status": "ok",
+          "secs": 1.0
+        },
+        "https://feeds.feedburner.com/kathimerini/DJpy": {
+          "items": 88,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.tovima.gr/feed/": {
+          "items": 34,
+          "status": "ok",
+          "secs": 0.1
+        },
+        "https://www.efsyn.gr/feed.xml": {
+          "items": 85,
+          "status": "ok",
+          "secs": 1.0
+        },
+        "https://www.naftemporiki.gr/feed/": {
+          "items": 30,
+          "status": "ok",
+          "secs": 0.4
+        }
+      }
+    },
+    "bulgaria": {
+      "items": [
+        {
+          "title": "Администрации и кметове в област Ловеч изразяват почитта си към Ловчанския митрополит Гавриил",
+          "url": "https://www.bta.bg/bg/news/lik/1251962-administratsii-i-kmetove-v-oblast-lovech-izrazyavat-pochitta-si-kam-lovchanskiya",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:45:22+00:00",
+          "summary": "Областната администрация в Ловеч, общини и кметове в региона изразиха съболезнования по повод кончината на Ловчанския митрополит Гавриил, като отбелязаха приноса му за духовния и обществения живот в областта. От Областната администрация посочват, че десетилетия наред митрополитът е работил за утвърждаването на православната вяра, просветата и възпитанието на младите поколения. Сред делата му са…"
+        },
+        {
+          "title": "Ловеч обяви тридневен траур заради смъртта на митрополит Гавриил",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/11/22/4983049_lovech_obiavi_tridneven_traur_zaradi_smurtta_na/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T12:34:00+00:00",
+          "summary": "Тридневен траур е обявен от днес в община Ловеч със заповед на кмета Страцимир Петков. Повод е смъртта на Ловчанския митрополит Гавриил, съобщиха от местната администрация, цитирана от БТА. Оттам отбелязват, че \"от избирането му през..."
+        },
+        {
+          "title": "От билета към сделката: как се променя бизнесът със събития",
+          "url": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/11/22/4955244_ot_bileta_kum_sdelkata_kak_se_promenia_biznesut_sus/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T10:07:00+00:00",
+          "summary": "Глобалната индустрия на бизнес събитията вече е много по-голяма, отколкото подсказва репутацията ѝ от залите в хотелите и бизнес центровете. Тя расте, но се променя: от продажба на присъствие към продажба на достъп, доверие и бизнес отношения. През 2021 г. глобалният пазар на събитийната индустрия е оценен на 736.8 млрд. долара, а до 2035 г. се очаква да достигне 2.5 трлн. долара. Това…"
+        },
+        {
+          "title": "Надежда Йорданова: Новият главен прокурор не трябва да е действащ политик",
+          "url": "https://www.mediapool.bg/bulgaria/nadezhda-yordanova-noviyat-glaven-prokuror-ne-tryabva-da-e-deistvasht-politik/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-22T12:29:44+00:00",
+          "summary": "Новият главен прокурор не трябва да е действащ политик, който директно от кабинета си да влезе в ролята на главен прокурор. Вече имахме един такъв в лицето на Филчев, който от заместник-министър на правосъдието стана главен прокурор. Правосъдието пострада много, обществото все още не може да се справи с раните, които нанесе той…"
+        },
+        {
+          "title": "Bulgaria issues warning of dangerous weather for November 23 over forecast strong winds",
+          "url": "https://sofiaglobe.com/2026/11/22/bulgaria-issues-warning-of-dangerous-weather-for-november-23-over-forecast-strong-winds/",
+          "source": "The Sofia Globe",
+          "published": "2026-11-22T10:16:47+00:00",
+          "summary": "Bulgaria’s national meteorological bureau has issued the Code Orange warning of dangerous weather for numerous districts for November 23 because"
+        },
+        {
+          "title": "Гражданското участие е ключово за демократичната устойчивост, заяви Габриела Караджонова-Малчева в Брюксел",
+          "url": "https://www.bta.bg/bg/news/world/1251940-grazhdanskoto-uchastie-e-klyuchovo-za-demokratichnata-ustoychivost-zayavi-gabri",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:42:00+00:00",
+          "summary": "Демокрацията не е просто политическа система, а начин на мислене, възприятие и отношение към обществото. Тя се проявява както чрез възможностите, които имаме като граждани, така и чрез отговорностите, които носим. Това каза Габриела Караджонова-Малчева, участник в Европейския граждански панел, посветен на демократичната устойчивост. По думите ѝ Европа е изправена пред множество предизвикателства,…"
+        },
+        {
+          "title": "Излизането на GTA VI привлече вълна от туристи в Маями",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/11/22/4983030_izlizaneto_na_gta_vi_privleche_vulna_ot_turisti_v/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T12:21:00+00:00",
+          "summary": "Играта GTA VI предизвика вълна от туристически интерес към Маями. Американският прототип на града от играта посрещна вълна от туристи с тематични събития като баскетболен мач преди премиерата ѝ, пише Business Insider, позовавайки се на eSky..."
+        },
+        {
+          "title": "Интервю | Васил Живков: Потреблението на мебели расте с 12%, но износът се свива с 3% през 2025 г.",
+          "url": "https://www.capital.bg/biznes/kompanii/2026/11/22/4981252_intervju_vasil_jivkov_potreblenieto_na_mebeli_raste_s/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T08:33:00+00:00",
+          "summary": "Визитка Проф. д-р Васил Живков е председател на управителния съвет на Браншова камара на дървообработващата и мебелната промишленост. Член е на управителния съвет на Българската стопанска камара, а също и на борда на директорите на Европейската конфедерация на мебелната индустрия (EFIC). Ръководител е на катедра \"Интериор и дизайн за мебели\" в Лесотехническия универститет, преподавател е и в…"
+        },
+        {
+          "title": "14 души са в неизвестност след руска атака с дронове в Киев",
+          "url": "https://www.mediapool.bg/voina-v-ukraina/14-dushi-sa-v-neizvestnost-sled-ruska-ataka-s-dronove-v-kiev/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-22T11:46:37+00:00",
+          "summary": "Най-малко 14 души може би все още са блокирани под отломките на жилищна сграда, поразена тази сутрин в района на Киев. Това заяви украинският президент Володимир Зеленски. \"Част от пететажен жилищен блок се срути след руска атака с дронове…"
+        },
+        {
+          "title": "Gavriil, Bulgarian Orthodox Church Metropolitan of Lovech, dies at 76",
+          "url": "https://sofiaglobe.com/2026/11/22/gavriil-bulgarian-orthodox-church-metropolitan-of-lovech-dies-at-76/",
+          "source": "The Sofia Globe",
+          "published": "2026-11-22T10:15:13+00:00",
+          "summary": "Bulgarian Orthodox Church Metropolitan of Lovech Gavriil died on November 22 after a short illness, the church’s governing body the"
+        },
+        {
+          "title": "Михаела Колева представи българските предложения за укрепване на демокрацията в ЕС",
+          "url": "https://www.bta.bg/bg/news/world/1251932-mihaela-koleva-predstavi-balgarskite-predlozheniya-za-ukrepvane-na-demokratsiyat",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:37:12+00:00",
+          "summary": "Създаването на европейски изкуствен интелект, борбата с дезинформацията в социалните мрежи и развитието на гражданското и медийното образование са сред основните мерки за укрепване на демократичната устойчивост в Европейския съюз. Това заяви Михаела Колева, участник в Европейския граждански панел по темата за демократичната устойчивост, в който се включиха общо 150 граждани на ЕС. В рамките на…"
+        },
+        {
+          "title": "Снимка на деня: Георги Господинов получи наградата \"Жан Моне\"",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/11/22/4983045_snimka_na_denia_georgi_gospodinov_poluchi_nagradata/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T11:32:00+00:00",
+          "summary": "Георги Господинов получи за книгата си \"Градинарят и смъртта\" наградата \"Жан Моне\" за европейска литература. Церемонията се състоя във френския град Коняк. Произведението е преведено на френски език от Мари Врина-Николов...."
+        },
+        {
+          "title": "Novo и Eli Lilly отвръщат на критиките за страничните ефекти на лекарствата си за отслабване",
+          "url": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/11/22/4982557_novo_i_eli_lilly_otvrushtat_na_kritikite_za/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T07:37:00+00:00",
+          "summary": "Фармацевтичните компании Novo и Eli Lilly защитиха цялостното въздействие върху здравето на своите водещи лекарства срещу затлъстяване, след като нови критики от британски предприемач в областта на храненето засилиха опасенията относно страничните ефекти на тези изключително успешни медикаменти. По време на фармацевтичната среща на върха на Financial Times миналата седмица Тим Спектър,…"
+        },
+        {
+          "title": "Велислав Величков, ПП: Изборът на парламентарната квота във ВСС беше най-прозрачната процедура в историята",
+          "url": "https://www.mediapool.bg/bulgaria/velislav-velichkov-pp-izborat-na-parlamentarnata-kvota-vav-vss-beshe-nai-prozrachnata-protsedura-v-istoriyata/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-22T09:30:46+00:00",
+          "summary": "„Това беше най-прозрачната процедура, провеждана някога в новата ни демократична история след 90-те години, за който и да е избиран от Народното събрание орган“. Това каза депутатът от “Продължаваме промяната” и съосновател на инициативата “Правосъдие за всеки” Велислав Величков за избора на новия Висш съдебен съвет (ВСС) в интервю за бТВ. Съставът му беше окончателно попълнен, след като в събота…"
+        },
+        {
+          "title": "Елизара Янева спечели титлата на сингъл на турнир по тенис в Търнава",
+          "url": "https://www.bta.bg/bg/news/sport/1251920-elizara-yaneva-specheli-titlata-na-singal-na-turnir-po-tenis-v-tarnava",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:36:56+00:00",
+          "summary": "Първата ракета на България при жените Елизара Янева спечели най-голямата титла в кариерата си, триумфирайки на турнира по тенис на твърди кортове в Търнава (Словакия) с награден фонд 60 хиляди долара. Поставената под номер 1 в схемата българка победи на финала Мика Стойсавлевич (Великобритания) със 7:6(1), 6:3 след час и 44 минути игра. Националката на България за „Били Джийн Кинг Къп“ изоставаше…"
+        },
+        {
+          "title": "След 10 години преговори ЕС и Индонезия сключиха търговска сделка",
+          "url": "https://www.dnevnik.bg/evropa/2026/11/22/4983026_sled_10_godini_pregovori_es_i_indoneziia_skljuchiha/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T11:07:00+00:00",
+          "summary": "Ново търговско споразумение отваря нова глава между ЕС и Индонезия. След десетилетие на преговори споразумението премахва търговските бариери, за да отвори вратата за инвестиции в ключови индустрии като електромобилите, електрониката и..."
+        },
+        {
+          "title": "Възрожденската Генова къща дочака ремонта",
+          "url": "https://www.capital.bg/biznes/imoti/2026/11/22/4964431_vuzrojdenskata_genova_kushta_dochaka_remonta/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T07:30:00+00:00",
+          "summary": "Две възрожденски къщи в Пазарджик делят обща стена, но съдбите им се разминават значително през годините. В едната е роден писателят, художник и общественик Константин Величков. Тя е реставрирана през 2019 г. и в момента функционира като къща музей. Долепена до нея е Геновата къща, също със статут на недвижима културна ценност и част от възрожденския ансамбъл на града, но от почти двадесет години…"
+        },
+        {
+          "title": "Задава се застудяване, АПИ предупреждава шофьорите за заледявания",
+          "url": "https://www.mediapool.bg/bulgaria/zadava-se-zastudyavane-api-preduprezhdava-shofyorite-za-zaledyavaniya/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-22T07:28:42+00:00",
+          "summary": "Сериозно застудяване, валежи от дъжд и отрицателни температури в сутрешните часове може да предизвикат заледявания по пътищата в страната в понеделник, 23 ноември. За това предупредиха от Агенция пътна инфраструктура в неделя и призоваха шофьорите да тръгват на път само с подходящи гуми, да карат със съобразена скорост и да спазват дистанция, за да не блокират движението и работата на…"
+        },
+        {
+          "title": "Мъж, забелязан да носи газов пистолет във влак в Германия, стана причина за мащабна полицейска операция",
+          "url": "https://www.bta.bg/bg/news/world/1251955-mazh-zabelyazan-da-nosi-gazov-pistolet-vav-vlak-v-germaniya-stana-prichina-za-",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:36:27+00:00",
+          "summary": "Мащабна полицейска операция беше предприета вчера на гара \"Хамбург-Харбург\" в Германия, след като пътници забелязали 23-годишен мъж с газов пистолет, предаде ДПА. Пътник, пътуващ от Хановер за Хамбург, е подал в полицията сигнал за спешна ситуация, след като е забелязал, че мъжът носи предмет, приличащ на огнестрелно оръжие. Говорител на местната полиция каза, че полицаи с шлемове и автомати са…"
+        },
+        {
+          "title": "\"Дни в книжарница \"Морисаки\" на Сатоши Ягисава (откъс)",
+          "url": "https://www.dnevnik.bg/knigi/2026/11/22/4977511_dni_v_knijarnica_morisaki_na_satoshi_iagisava_otkus/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T10:35:00+00:00",
+          "summary": "В рубриката \"Четиво\" Дневник публикува откъс от \"Дни в книжарница \"Морисаки\", с автор Сатоши Ягисава, предоставен от Издателство \"Колибри\" Излезе от печат \"Дни в книжарница \"Морисаки\" - силен дебютен роман, който неусетно се превръща в..."
+        },
+        {
+          "title": "Паоло Канали: Луксът в модата не се определя от цената, а от качеството и материите",
+          "url": "https://www.capital.bg/biznes/kompanii/2026/11/22/4976306_paolo_kanali_luksut_v_modata_ne_se_opredelia_ot_cenata/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T07:19:00+00:00",
+          "summary": "Паоло Канали е трето поколение от фамилията Канали, която стои зад едноименния италиански бранд за мъжка мода Canali. Той управлява компанията заедно с брат си Стефано Канали, който е главен изпълнителен директор. Canali е основана от братята Джовани и Джакомо през 1934 г. в Триуджо, Северна Италия, и започва дейността си като шивашко ателие за производство на мъжко облекло. Сега централата е…"
+        },
+        {
+          "title": "След всяка катастрофа – обещание и координационен център",
+          "url": "https://www.mediapool.bg/bulgaria/sled-vsyaka-katastrofa-obeshtanie-i-koordinatsionen-tsentar/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-22T07:11:06+00:00",
+          "summary": "Минали са почти десет години, та може би мнозина вече не помнят, но през 2018 г. в България стана ужасна катастрофа – по пътя за Своге автобус падна в дере и 20 души загинаха. Скандалът беше огромен не само заради трагедията, а и защото инцидентът се случи на прясно ремонтиран път…"
+        },
+        {
+          "title": "Община Тунджа обяви конкурс за сценични изяви на деца „Заблестява звезда“",
+          "url": "https://www.bta.bg/bg/news/lik/1251957-obshtina-tundzha-obyavi-konkurs-za-stsenichni-izyavi-na-detsa-zablestyava-zvezd",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:32:27+00:00",
+          "summary": "Община Тунджа, област Ямбол, набира участници за конкурса „Заблестява звезда“, насочен към сценична изява на деца от предучилищна възраст до 18 години. Заявки се приемат до 30 ноември, а самото представяне на участниците ще бъде на 3 декември в Народно читалище „Светлина 1929“ в село Роза, обявиха организаторите. Децата и учениците могат да покажат своите таланти в три направления - „Музикален…"
+        },
+        {
+          "title": "Величков за новия съдебен съвет: Седнахме с управляващите и тръгнахме човек по човек",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/11/22/4983028_velichkov_za_noviia_sudeben_suvet_sednahme_s/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T10:31:00+00:00",
+          "summary": "\"Седнахме на няколко срещи и тръгнахме човек по човек.\" С тези думи депутатът от \"Продължаваме промяната\" и съосновател на инициативата \"Правосъдие за всеки\" Велислав Величков описа пред Би Ти Ви процеса по избор на нов Висш съдебен съвет (ВСС). Той..."
+        },
+        {
+          "title": "Най-мощният Ел Ниньо за последните 150 години ще носи горещи вълни и високи цени",
+          "url": "https://www.capital.bg/zelen-kapital/2026/11/22/4982830_nai-moshtniiat_el_ninyo_za_poslednite_150_godini_shte/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T06:40:00+00:00",
+          "summary": "Очаква се рекордно повишаване на глобалните температури и тежки климатични аномалии през 2027 г. Това ще предизвика сериозни икономически щети, спад в селскостопанската продукция и глобален ръст на цените на храните и енергията. В България основните рискове са свързани с опасни горещини и инфлация, поради което експертите препоръчват превенция и готовност за кризисни ситуации. Явлението Ел Ниньо…"
+        },
+        {
+          "title": "Унгарските власти запорираха 24.4 млн. евро на бивш министър на Орбан",
+          "url": "https://www.mediapool.bg/svyat/ungarskite-vlasti-zaporiraha-244-mln-evro-na-bivsh-ministar-na-orban/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-22T06:46:09+00:00",
+          "summary": "Унгария запорира активи на стойност 9 милиарда форинта (24.4 милиона евро) от бившия министър на националното развитие Миклош Шестак, който беше арестуван по обвинения в корупция. Това съобщи унгарският премиер Петер Мадяр във Facebook. Според съобщението са запорирани и “къщата и автосалонът” на Шестак, който беше министър в бившето правителство на Виктор Орбан…"
+        },
+        {
+          "title": "Китайските технологични акции загубиха 1,7 трилиона долара пазарна стойност, S&P 500 е в корекция",
+          "url": "https://www.bta.bg/bg/news/economy/1251959-kitayskite-tehnologichni-aktsii-zagubiha-1-7-triliona-dolara-pazarna-stoynost-s",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:29:22+00:00",
+          "summary": "Акциите, включени в три технологично ориентирани индекса в Китай, са загубили общо 1,7 трилиона долара пазарна стойност от края на юни, сочат данни, обобщени от „Блумбърг“. В САЩ индексът S&P 500 е с 11,6 на сто под рекордното си равнище от 6 октомври и вече е в корекция, а Nasdaq Composite е на минус 2,7 на сто от началото на 2026 г., предаде „Ройтерс“. След силното поскъпване през първата…"
+        },
+        {
+          "title": "Великобритания намери решение за хакерските атаки срещу хладилници",
+          "url": "https://www.dnevnik.bg/sviat/2026/11/22/4983017_velikobritaniia_nameri_reshenie_za_hakerskite_ataki/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T10:22:00+00:00",
+          "summary": "Британска операция в сферата на киберсигурността отстрани уязвимост в операционните системи на търговски хладилници и фризери, използвани от супермаркети, складове и ресторанти. Това ще помогне за защитата им от хакерски атаки, засегнали няколко..."
+        },
+        {
+          "title": "20 въпроса | Адрияна Михайлова от #soSofia",
+          "url": "https://www.capital.bg/moiat_capital/lica/2026/11/22/4980306_20_vuprosa_adriiana_mihailova_ot_sosofia/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T06:00:00+00:00",
+          "summary": "През 2016 г. жълтото паве и софийският трамвай се появяват върху първите сувенири на #soSofia - независима платформа за градски маркетинг, която разказва истории за софийските квартали и забележителности, препоръчва места и организира инициативи като \"Символът на квартала\". Десет години по-късно платформата пита софиянци кое място най-добре разказва историята на техния квартал и така набелязала…"
+        },
+        {
+          "title": "Microsoft превръща Copilot в \"операционна система за работа\"",
+          "url": "https://www.mediapool.bg/tehnologii/microsoft-prevrashta-copilot-v-operatsionna-sistema-za-rabota/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-22T06:17:00+00:00",
+          "summary": "Надпреварата за превръщането на изкуствения интелект в наистина полезен инструмент на работното място навлиза в нов етап. През последните няколко години вниманието в сектора беше насочено главно към създаването на все по-способни модели, генерирането на по-качествени отговори на подадени заявки и разработването на AI асистенти, които могат да изпълняват отделни задачи. Сега обаче пред компаниите…"
+        },
+        {
+          "title": "Гьозтепе на Станимир Стоилов постигна пета победа в турската Супер лига",
+          "url": "https://www.bta.bg/bg/news/sport/1251958-gyoztepe-na-stanimir-stoilov-postigna-peta-pobeda-v-turskata-super-liga",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:29:18+00:00",
+          "summary": "Отборът на Станимир Стоилов Гьозтепе се наложи над Ерзурумстор с 1:0 при гостуването си от 12-ия кръг на турската Супер лига. Победното попадение за тима от Измир отбеляза резервата Ефкан Бекироглу в 70-ата минута на мача. Интересно е, че той се появи в игра една минути по-рано и вкара с първото си докосването на топката. В добавеното време на първата част бившият защитник на Левски и Лудогорец…"
+        },
+        {
+          "title": "Над 4 хил. нови дървета ще бъдат засадени в София до края на 2026 г.",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/11/22/4983021_nad_4_hil_novi_durveta_shte_budat_zasadeni_v_sofiia_do/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T09:43:00+00:00",
+          "summary": "Есенното засаждане в София започна, а до края на 2026 г. новите дървета в града ще надхвърлят 4500. Това съобщи пресцентърът на Столична община, цитирайки кмета Васил Терзиев. Отделно в \"Новата гора на София\" край Банкя са засадени над..."
+        },
+        {
+          "title": "Медикъл & СПА хотел \"Петте елемента\": Едно с природата",
+          "url": "https://www.capital.bg/biznes/turizum/2026/11/22/4972976_medikul_spa_hotel_pette_elementa_edno_s_prirodata/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T06:00:00+00:00",
+          "summary": "Ключови предимства Природа и възстановяване само на час от София - разположен в Сапарева баня, в подножието на Рила, хотелът съчетава планинска среда, минерална вода и възможности за пълноценна почивка. Пространство за работа и общуване - предлага възможност за провеждане на бизнес срещи, корпоративни събития и тиймбилдинги в среда, която излиза извън рамките на традиционния бизнес формат.…"
+        },
+        {
+          "title": "Роман за чистото сърце",
+          "url": "https://www.mediapool.bg/procheti-tova/roman-za-chistoto-sartse/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-22T05:42:00+00:00",
+          "summary": "„Моята кралица“, Жан-Батист Андреа, превод Валентина Бояджиева, издателство „Orange books” Героят на тази книга е дете, но книгата не е предназначена за детска аудитория. Екзалтацията, безпомощността, невъзможността да дефинира себе си, неопределеността на човека в един неразбираем свят, в който времето се мери на педи – всичко това прави текста твърде особен. Специален…"
+        },
+        {
+          "title": "Германският колекционер на произведения на изкуството Фридрих Кристиан „Мик\" Флик почина на 82-годишна възраст",
+          "url": "https://www.bta.bg/bg/news/lik/1251947-germanskiyat-kolektsioner-na-proizvedeniya-na-izkustvoto-fridrih-kristian-mik-",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:29:08+00:00",
+          "summary": "Колекционерът на произведения на изкуството, инвеститор и мултимилионер Фридрих Кристиан „Мик“ Флик почина на 82-годишна възраст в Южна Германия след падане, което е претърпял няколко дни по-рано, предаде ДПА, като цитира съобщение на семейството му. Флик, който живееше в луксозния швейцарски курорт Гщаад, е от една от най-богатите бизнес династии в Германия. Дядо му Фридрих Флик изгражда империя…"
+        },
+        {
+          "title": "Ирански удар в Бахрейн предизвика пожар в цивилен индустриален обект",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/11/22/4983013_iranski_udar_v_bahrein_predizvika_pojar_v_civilen/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T09:19:00+00:00",
+          "summary": "Иранска атака в Бахрейн е поразила граждански промишлен обект. Това е поредната ескалация на регионалните враждебни действия, започнали след атаките на САЩ и Израел срещу Иран, пише \"Ройтерс\". Бахрейн потвърди пожар без..."
+        },
+        {
+          "title": "Аплодисментите са само началото",
+          "url": "https://www.capital.bg/biznes/kompanii/2026/11/22/4977692_aplodismentite_sa_samo_nachaloto/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T06:00:00+00:00",
+          "summary": "Как юбилейният концерт \"25 години БГ Радио\" отразява мисията на медията да подкрепя българската музика и събира на една сцена различни поколения артисти? Нашата история \"25 години БГ Радио\" са 25 години последователна подкрепа за българската музика. Юбилейният концерт събра легендите на българската поп и рок музика и новото поколение артисти на една сцена: Б.Т.Р., Братя Аргирови, Васил Найденов,…"
+        },
+        {
+          "title": "Следователите избраха Петко Петков да запълни новия ВСС",
+          "url": "https://www.mediapool.bg/bulgaria/sledovatelite-izbraha-petko-petkov-da-zapalni-noviya-vss/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-21T20:15:00+00:00",
+          "summary": "453 следователи гласуват за един свой представител в новия Висш съдебен съвет в събота. Кандидатите са двама - Бойко Атанасов от следствения отдел на Софийската градска прокуратура и Петко Петков от Националната следствена служба. Гласуването, което ще се проведе с хартиени бюлетини в общо пет секции в страната, започна в 8:00 и ще приключи в 18:00 часа…"
+        },
+        {
+          "title": "Правим всичко възможно общините да не бъдат рекетирани, ще победим на местните избори, заяви Бойко Борисов",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1251950-pravim-vsichko-vazmozhno-obshtinite-da-ne-badat-reketirani-shte-pobedim-na-mest",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:23:15+00:00",
+          "summary": "Ще направим всичко възможно общините и кметовете да не бъдат рекетирани, заяви лидерът на ГЕРБ Бойко Борисов в Монтана, където се срещна с млади симпатизанти на партията в рамките на инициативата „Новите умове“. Борисов беше придружен от лидерите на “Синя България“ и СДС и от кмета на Монтана Златко Живков. На журналистически въпрос за ставащото в общините и слухове, че кметове от ГЕРБ ще…"
+        },
+        {
+          "title": "Служителите в МВР излизат на мълчалив протест на 28 ноември",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/11/22/4983014_slujitelite_v_mvr_izlizat_na_mulchaliv_protest_na_28/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T08:32:00+00:00",
+          "summary": "Синдикалната федерация на служителите в МВР излиза на мълчалив протест на 28 ноември. Това съобщиха от организацията за БНР. Демонстрацията ще се проведе от 12:00 часа в градинката на Министерството на вътрешните работи. Причината за..."
+        },
+        {
+          "title": "Planet Schwarz Tech Theater: Дом на най-смелите и иновативни идеи",
+          "url": "https://www.capital.bg/biznes/kompanii/2026/11/22/4978723_planet_schwarz_tech_theater_dom_na_nai-smelite_i/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T06:00:00+00:00",
+          "summary": "Planet Schwarz съчетава съвременните технологии с изискан дизайн и отличителна атмосфера. Пространството е оборудвано с най-новите мултимедийни решения и удобства, гарантиращи успеха на всяко събитие. [[img:4978726]] Стратегическа локация Planet Schwarz се намира в квартал \"Лозенец\" в столицата, в непосредствена близост до метростанция \"Витоша\" и ключови линии на градския транспорт. Залата е част…"
+        },
+        {
+          "title": "Любителски театър „Будиловци“ в село Раковица ще отбележи 120-годишнината на читалището с премиера на „Протоколи и измислици“",
+          "url": "https://www.bta.bg/bg/news/lik/1251952-lyubitelski-teatar-budilovtsi-v-selo-rakovitsa-shte-otbelezhi-120-godishninata",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:22:15+00:00",
+          "summary": "С премиера на театралната постановка „Протоколи и измислици“ по Дончо Цончев Любителски театър „Будиловци“ ще отбележи 120-годишнината на Народно читалище (НЧ) „Надежда-1906“ в село Раковица, община Макреш. Спектакълът е под режисурата на Ирина Флорова, съобщи за БТА библиотекарката към читалището Ина Игнатова. Тя разказа, че културната институция е основана на 1 август 1906 г., но юбилейното…"
+        },
+        {
+          "title": "Почина Ловчанският митрополит Гавриил",
+          "url": "https://www.dnevnik.bg/v_pamet/2026/11/22/4983011_pochina_lovchanskiiat_mitropolit_gavriil/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T08:15:00+00:00",
+          "summary": "Почина Ловчанският митрополит Гавриил след кратко боледуване. Тъжната вест беше съобщена официално от Българската патриаршия. В съобщението си Светият Синод го описва като \"изряден архиерей, ревностен монах, горещ молитвеник, духовник с..."
+        },
+        {
+          "title": "Централни хали: Сърцето на София, където вкусът среща културата",
+          "url": "https://www.capital.bg/biznes/kompanii/2026/11/22/4978542_centralni_hali_surceto_na_sofiia_kudeto_vkusut_sreshta/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T06:00:00+00:00",
+          "summary": "След мащабно възстановяване емблематичната сграда на Централни хали се завърна на картата на столицата не просто като търговски обект на Kaufland, а като най-динамичния център за социални контакти, кулинарни открития и културни преживявания. В контекста на съвременния събитиен бизнес, който търси пресечната точка между икономика, контакти и изграждане на общности, Халите предлагат напълно нова…"
+        },
+        {
+          "title": "Драматично-поетичният спектакъл „Ботевата любов“ ще бъде представен в Радомир",
+          "url": "https://www.bta.bg/bg/news/lik/1251948-dramatichno-poetichniyat-spektakal-botevata-lyubov-shte-bade-predstaven-v-rado",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:16:11+00:00",
+          "summary": "Спектакълът „Ботевата любов“ на Драматично-кукления театър (ДКТ) във Враца ще бъде представен на 1 декември от 18:00 часа в Народно читалище „Напредък 1895“ в Радомир, съобщиха домакините. В анотацията си създателите на спектакъла определят „Ботевата любов“ като драматично-поетична композиция по произведения на Христо Ботев и Захарий Стоянов, която разкрива по-малко позната страна от живота на…"
+        },
+        {
+          "title": "Протест на хиляди в Хърватия заради смърт в психиатрична болница",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/11/22/4982991_protest_na_hiliadi_v_hurvatiia_zaradi_smurt_v/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T08:11:00+00:00",
+          "summary": "Хиляди хървати протестираха заради смърт в психиатрична болница. Кристиан Йосип Перис, бивш спортист и треньор на 32 г., починал на 21 октомври след прием в клиниката, съобщи \"Ройтерс\". Общественото възмущение е предизвикано..."
+        },
+        {
+          "title": "ATMOSPHERE BALNEO AND SPA HOTEL: Бизнес срещи в нова \"Атмосфера\"",
+          "url": "https://www.capital.bg/biznes/kompanii/2026/11/22/4969226_atmosphere_balneo_and_spa_hotel_biznes_sreshti_v_nova/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T06:00:00+00:00",
+          "summary": "Три ключови предимства на ATMOSPHERE BALNEO AND SPA HOTEL Професионална бизнес среда - три оборудвани конферентни зали с различен капацитет, подходящи за срещи, обучения, конференции и корпоративни събития. Всичко на едно място - настаняване, конференции, ресторанти, кафе паузи, СПА и балнео услуги, без необходимост от допълнителна логистика между различни локации. Бизнес среща с добавена…"
+        },
+        {
+          "title": "Игор Додик, синът на бившия президент на Република Сръбска Милорад Додик, получи мандат за съставяне на правителство в Република Сръбска",
+          "url": "https://www.bta.bg/bg/news/balkans/1251945-igor-dodik-sinat-na-bivshiya-prezident-na-republika-srabska-milorad-dodik-polu",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:16:00+00:00",
+          "summary": "Игор Додик, синът на бившия президент на босненската съставна част Република Сръбска Милорад Додик, получи мандат за съставяне на правителство в Република Сръбска, съобщи босненската редакция на регионалната телевизия Ен 1. Президентът на Република Сръбска Саво Минич проведе консултации днес с парламентарно представените партии и връчи мандат на Игор Додик, който е генерален секретар на партията…"
+        },
+        {
+          "title": "Антимафиотите обискираха дома на автоексперта Станимир Карапетков заради сигнал за натиск",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/11/22/4983008_antimafiotite_obiskiraha_doma_na_avtoeksperta_stanimir/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T07:57:00+00:00",
+          "summary": "Домът на автоексперта проф. Станимир Карапетков в Сливен е бил обискиран по разпореждане на прокурор. Обискът е извършен от служители на Главна дирекция \"Борба с организираната престъпност\" (ГДБОП). Председателят на Съюза на независимите..."
+        },
+        {
+          "title": "Grand Hotel & SPA Primoretz: Там, където традицията оживява...",
+          "url": "https://www.capital.bg/biznes/kompanii/2026/11/22/4977045_grand_hotel_spa_primoretz_tam_kudeto_tradiciiata/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T06:00:00+00:00",
+          "summary": "Три ключови предимства на Grand Hotel & SPA Primoretz Локация: в сърцето на Морската градина, на крачки от морето/ ул. \"Княз Александър Батенберг\" 2, Бургас. 6th SENSE SPA: СПА центърът осигурява спокойствие след работен ден или активна почивка. Бизнес и събития: конферентни зали и професионален екип за срещи, обучения и фирмени събития. [[img:4977060]] Разположен в сърцето на Морската градина на…"
+        },
+        {
+          "title": "Светият синод ще се събере утре на извънредно заседание",
+          "url": "https://www.bta.bg/bg/news/lik/1251943-svetiyat-sinod-shte-se-sabere-utre-na-izvanredno-zasedanie",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:13:00+00:00",
+          "summary": "Светият синод ще се събере утре, 23 ноември, на извънредно заседание, за да се уточни кога ще бъде опелото на Ловчанския митрополит Гавриил, каза пред медии българският патриарх Даниил. По думите му най-вероятно то ще е във вторник в Ловеч. Светият синод ще бъде избран и наместник на „овдовелия Ловчански митрополитски престол, който трябва да поеме временно дейността“, добави той. „Да се…"
+        },
+        {
+          "title": "Все още няма споразумение на климатичната среща в Турция",
+          "url": "https://www.dnevnik.bg/sviat/2026/11/22/4982977_vse_oshte_niama_sporazumenie_na_klimatichnata_sreshta/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T07:32:00+00:00",
+          "summary": "Климатичната среща на върха COP31 ще завърши или с добро споразумение, или изобщо няма да има такова, заяви в събота висш представител на ЕС по въпросите на климата, докато преговорите продължаваха далеч след предвидения краен срок. ..."
+        },
+        {
+          "title": "Capital Fort: Бизнес събития в най-високата сграда на София",
+          "url": "https://www.capital.bg/biznes/kompanii/2026/11/22/4968210_capital_fort_biznes_subitiia_v_nai-visokata_sgrada_na/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T06:00:00+00:00",
+          "summary": "Впечатляваща архитектурна композиция на входа на София, издигащ се на 126 метра небостъргач, с най-съвременни като разположение и оборудване вътрешни пространства. Това е краткото \"портфолио\", с което oфиc зданието Capital Fort се утвърди като една от най-новите забележителности на София. Във функционалния микс от офиси и търговски площи в сградата се откроява нейният Конферентен център -…"
+        },
+        {
+          "title": "Очаквам този Висш съдебен съвет да бъде по-добър и отговорен от предишния, коментира народният представител Владислав Панев",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1251937-ochakvam-tozi-vissh-sadeben-savet-da-bade-po-dobar-i-otgovoren-ot-predishniya-k",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:10:40+00:00",
+          "summary": "Очаквам този Висш съдебен съвет (ВСС) да бъде по-добър и отговорен от предишния. Това коментира на пресконференция в Националния пресклуб на БТА в Пловдив народният представител Владислав Панев от ПГ на „Демократична България“. Той подчерта, че е нормално да има взаимодействие между политическите сили в Народното събрание, когато се вземат решения, изискващи по Конституция мнозинство от две…"
+        },
+        {
+          "title": "Художникът Кирил Цонев ще бъде почетен с две изложби в София",
+          "url": "https://www.dnevnik.bg/kultura/2026/11/22/4982705_kiril_conev_i_negoviiat_artistichen_krug_shte_budat/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T07:17:00+00:00",
+          "summary": "Живописец, изследовател, критик, пътешественик и реставратор - това са само част от многобройните роли, които Кирил Цонев съчетава през своя живот. По повод 130 години от рождението на художника Софийска градска художествена галерия открива голяма..."
+        },
+        {
+          "title": "Crowne Plaza® Sofia - новото измерение на гостоприемство и събития от висок клас",
+          "url": "https://www.capital.bg/biznes/kompanii/2026/11/22/4976162_crowne_plaza_sofia_-_novoto_izmerenie_na/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-22T06:00:00+00:00",
+          "summary": "Сияещ като истинско бижу, Crowne Plaza Sofia е проектиран с внимание към най-малкия детайл. Създаден за любопитните, изпълнените с енергия и тези, които умеят да вдъхновяват с идеална хармония между работа и забавление. Именно тази модерна перспектива стои в основата на концепцията на Crowne Plaza Sofia - пространство, в което технологиите, елегантният дизайн и вниманието към детайла се преплитат…"
+        },
+        {
+          "title": "ЕС отхвърли проект на заключителната декларация за COP31 заради липса на споменаване на изкопаемите горива",
+          "url": "https://www.bta.bg/bg/news/world/1251949-es-othvarli-proekt-na-zaklyuchitelnata-deklaratsiya-za-cop31-zaradi-lipsa-na-spo",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:06:21+00:00",
+          "summary": "Европейският съюз отхвърли последния проект за заключителна декларация на климатичната среща на ООН COP31 в Турция, съобщи днес ирландският министър по въпросите на климата Дара О'Брайън. Като причина той посочи факта, че в документа не се споменават изрично изкопаемите горива, предаде ДПА. Това изявление от страна на Ирландия, която в момента е ротационен председател на ЕС, засилва съмненията,…"
+        },
+        {
+          "title": "Българите са в топ 3 в Европейския съюз по туристически пътувания по суша (графики)",
+          "url": "https://www.dnevnik.bg/biznes/2026/11/22/4982483_bulgarite_sa_v_top_3_v_evropeiskiia_sujuz_po/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T06:07:00+00:00",
+          "summary": "Жителите на Европейския съюз са направили 1.2 млрд. туристически пътувания през 2025 г. От тях 81.4% са осъществени по суша, 17.2% по въздух и 1.4% по вода. Това показват данни на европейската статистическа служба \"Евростат\" за туристически..."
+        },
+        {
+          "title": "Движението по Софийския околовръстен път в участъка при „Симеоновско шосе“ е възстановено",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1251936-dvizhenieto-po-sofiyskiya-okolovrasten-pat-v-uchastaka-pri-simeonovsko-shose-e",
+          "source": "BG RSS Free",
+          "published": "2026-11-22T12:02:27+00:00",
+          "summary": "Движението по Софийския околовръстен път в участъка от бул. „Александър Малинов“ към бул. „Черни връх“ вече е възстановено, съобщиха от пресцентъра на Министерството на вътрешните работи. Ограничението беше въведено заради установени повреди по дилатационните фуги на мостовото съоръжение над бул. „Симеоновско шосе“, уточняват от МВР. Необходимите ремонтни дейности бяха извършени днес в периода от…"
+        },
+        {
+          "title": "\"Дума на седмицата\": Режисьорът Виктор Божинов за мъглата, в която всички са потънали",
+          "url": "https://www.dnevnik.bg/duma_na_sedmitsa/2026/11/22/4982933_duma_na_sedmicata_rejisyorut_viktor_bojinov_za_muglata/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-22T05:55:00+00:00",
+          "summary": "Третият сезон на подкаста \"Дума на седмицата\" с Ива Дойчинова започна и всяка седмица до края на сезона \"Дневник\" ще споделя със своите читатели посланието, което е оставил гостът от изминалата седмица, и как художникът Дамян Дамянов..."
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://www.bta.bg/bg/rss/free": {
+          "items": 20,
+          "status": "ok",
+          "secs": 1.2
+        },
+        "https://www.dnevnik.bg/rss/": {
+          "items": 30,
+          "status": "ok",
+          "secs": 0.4
+        },
+        "https://www.capital.bg/rss/": {
+          "items": 15,
+          "status": "ok",
+          "secs": 1.4
+        },
+        "https://www.mediapool.bg/rss": {
+          "items": 9,
+          "status": "ok",
+          "secs": 0.4
+        },
+        "https://www.novinite.com/services/news_rdf.php": {
+          "items": 0,
+          "status": "κανένα νέο (24 παλιά, 0 ήδη)",
+          "secs": 0.8
+        },
+        "https://sofiaglobe.com/feed/": {
+          "items": 2,
+          "status": "ok",
+          "secs": 0.9
+        }
+      }
+    }
+  }
+}
