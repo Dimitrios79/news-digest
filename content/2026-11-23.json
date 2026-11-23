@@ -1,0 +1,734 @@
+{
+  "date": "2026-11-23",
+  "generated": "2026-11-23T15:27:02.846333+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+      "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "«Όχι» στη μεταφορά συντελεστή δόμησης λένε οι δήμαρχοι Κεντρικής Μακεδονίας",
+      "\"Завръщаме се в нашия изключителен дом за първия ни европейски мач на „Българска армия“ от 3 години насам\", заявиха от ЦСКА"
+    ],
+    "en": [
+      "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+      "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "«Όχι» στη μεταφορά συντελεστή δόμησης λένε οι δήμαρχοι Κεντρικής Μακεδονίας",
+      "\"Завръщаме се в нашия изключителен дом за първия ни европейски мач на „Българска армия“ от 3 години насам\", заявиха от ЦСКА"
+    ]
+  },
+  "meta": {
+    "el": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions; Jensen Huang reinstated as Nvidia CEO, board chair; «Όχι» στη με",
+    "en": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions; Jensen Huang reinstated as Nvidia CEO, board chair; «Όχι» στη με"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+            "en": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "AI Agents Are Creating a Shared Responsibility Gap",
+            "en": "AI Agents Are Creating a Shared Responsibility Gap"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+            "en": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "GL.iNet cloud compromise hits routers and KVMs, older backdoors also found",
+            "en": "GL.iNet cloud compromise hits routers and KVMs, older backdoors also found"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/11/23/gl-inet-cloud-compromise-malware-backdoors/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Microsoft Entra Connect Health Breach Exposes Tenant Metadata and Admin Details",
+            "en": "Microsoft Entra Connect Health Breach Exposes Tenant Metadata and Admin Details"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/203820/data-breach/microsoft-entra-connect-health-breach-exposes-tenant-metadata-and-admin-details.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "I’ve never hunted for a software vulnerability before. AI helped me find one in six hours.",
+            "en": "I’ve never hunted for a software vulnerability before. AI helped me find one in six hours."
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/finding-software-vulnerability-with-ai-wordpress-patchstack/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "CrowdStrike buys missing network security piece in $43.9B Zscaler deal",
+            "en": "CrowdStrike buys missing network security piece in $43.9B Zscaler deal"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4252013/crowdstrike-buys-missing-network-security-piece-in-43-9b-zscaler-deal.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
+            "en": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33548"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Humans Have Rights. Machines Do Not.",
+            "en": "Humans Have Rights. Machines Do Not."
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Schneier on Security",
+              "url": "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
+            "en": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+            "en": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
+            "en": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Jensen Huang reinstated as Nvidia CEO, board chair",
+            "en": "Jensen Huang reinstated as Nvidia CEO, board chair"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+            "en": "The Download: AI’s judgment problem and carbon removal’s crop threat"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Jensen Huang Reinstated as Nvidia CEO",
+            "en": "Jensen Huang Reinstated as Nvidia CEO"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "F1 in Las Vegas: You've never seen an F1 race like this before",
+            "en": "F1 in Las Vegas: You've never seen an F1 race like this before"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Why using rocks for carbon removal could eventually reduce crop growth",
+            "en": "Why using rocks for carbon removal could eventually reduce crop growth"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+            "en": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://z.ai/blog/glm-5.4"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Tri-screen portable monitors aren’t for the faint of heart",
+            "en": "Tri-screen portable monitors aren’t for the faint of heart"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "XNU Linux: Full OS X GUI Userspace on Linux",
+            "en": "XNU Linux: Full OS X GUI Userspace on Linux"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://github.com/AFK-surf/xnulinux"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+            "en": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Free alternative TV network built from the Internet Archive's forgotten videos",
+            "en": "Free alternative TV network built from the Internet Archive's forgotten videos"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://spelunkr.tv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "«Όχι» στη μεταφορά συντελεστή δόμησης λένε οι δήμαρχοι Κεντρικής Μακεδονίας",
+            "en": "«Όχι» στη μεταφορά συντελεστή δόμησης λένε οι δήμαρχοι Κεντρικής Μακεδονίας"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/ert3/oxi-sti-metafora-syntelesti-domisis-lene-oi-dimarxoi-kentrikis-makedonias/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Η αποκάλυψη της Τζένιφερ Λόπεζ για την ταινία «Monster-in-Law»",
+            "en": "Η αποκάλυψη της Τζένιφερ Λόπεζ για την ταινία «Monster-in-Law»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/world/564607909/i-apokalypsi-tis-tzenifer-lopez-gia-tin-tainia-monster-in-law/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Εμμανουέλ Μακρόν: Ο «χρυσός κανόνας» για να μπει φρένο στο έλλειμμα της Γαλλίας",
+            "en": "Εμμανουέλ Μακρόν: Ο «χρυσός κανόνας» για να μπει φρένο στο έλλειμμα της Γαλλίας"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/23/the-wall-street-journal/emmanouel-makron-o-xrysos-kanonas-gia-na-mpei-freno-sto-elleimma-tis-gallias/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κυβερνοεπίθεση στην Ε.Ε: Επιβεβαιώνει διαρροή προσωπικών δεδομένων η Κομισιόν",
+            "en": "Κυβερνοεπίθεση στην Ε.Ε: Επιβεβαιώνει διαρροή προσωπικών δεδομένων η Κομισιόν"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/kosmos/1516054/kyvernoepithesi-stin-e-e-i-komision-epivevaionei-tora-ti-diarroi-prosopikon-dedomenon/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Χρηματιστήριο: Η Nvidia άλλαξε το πρόσημο της Αθήνας – Κέρδη έως 3% στις Τράπεζες",
+            "en": "Χρηματιστήριο: Η Nvidia άλλαξε το πρόσημο της Αθήνας – Κέρδη έως 3% στις Τράπεζες"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/finance/markets/2193087/chrimatistirio-i-nvidia-allaxe-to-prosimo-tis-athinas-kerdi-eos-3-stis-trapezes/?utm_source=rss&utm_medium=rss&utm_campaign=chrimatistirio-i-nvidia-allaxe-to-prosimo-tis-athinas-kerdi-eos-3-stis-trapezes"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Πώς το Λονδίνο επιχειρεί να θέσει όρια στους κινδύνους της Τεχνητής Νοημοσύνης",
+            "en": "Πώς το Λονδίνο επιχειρεί να θέσει όρια στους κινδύνους της Τεχνητής Νοημοσύνης"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/pos-to-londino-epixeirei-na-thesei-oria-stous-kindynous-tis-texnitis-noimosynis-nbsp/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "«Είμαστε όλοι στόχος»: Ο Ρούτε προβλέπει κλιμάκωση του υβριδικού πολέμου",
+            "en": "«Είμαστε όλοι στόχος»: Ο Ρούτε προβλέπει κλιμάκωση του υβριδικού πολέμου"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/world/564607882/eimaste-oloi-stochos-o-royte-provlepei-klimakosi-toy-yvridikoy-polemoy/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Κενά στα σχολεία: «Κοροϊδία οι 2.800 προσλήψεις για 16.000 κενά» – Στους δρόμους εκπαιδευτικοί και γονείς",
+            "en": "Κενά στα σχολεία: «Κοροϊδία οι 2.800 προσλήψεις για 16.000 κενά» – Στους δρόμους εκπαιδευτικοί και γονείς"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/23/society/kena-sta-sxoleia-koroidia-oi-2-800-proslipseis-gia-16-000-kena-stous-dromous-ekpaideytikoi-kai-goneis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ΕΛΑΣ κατά Μαρινάκη: Αυτό δεν είναι briefing, είναι επιλογή μεταξύ ένοχης σιωπής και ψεμάτων",
+            "en": "ΕΛΑΣ κατά Μαρινάκη: Αυτό δεν είναι briefing, είναι επιλογή μεταξύ ένοχης σιωπής και ψεμάτων"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/politiki/1516038/elas-kata-marinaki-ayto-den-einai-briefing-einai-epilogi-metaxy-enohis-siopis-kai-psematon/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Τουρκία: Το φιλοκουρδικό DEM επιβεβαίωσε τη βελτίωση των συνθηκών κράτησης του Οτσαλάν στο Ιμραλί",
+            "en": "Τουρκία: Το φιλοκουρδικό DEM επιβεβαίωσε τη βελτίωση των συνθηκών κράτησης του Οτσαλάν στο Ιμραλί"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/kosmos/2193091/toyrkia-to-filokoyrdiko-dem-epivevaiose-ti-veltiosi-ton-synthikon-kratisis-toy-otsalan-sto-imrali/?utm_source=rss&utm_medium=rss&utm_campaign=toyrkia-to-filokoyrdiko-dem-epivevaiose-ti-veltiosi-ton-synthikon-kratisis-toy-otsalan-sto-imrali"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "\"Завръщаме се в нашия изключителен дом за първия ни европейски мач на „Българска армия“ от 3 години насам\", заявиха от ЦСКА",
+            "en": "\"Завръщаме се в нашия изключителен дом за първия ни европейски мач на „Българска армия“ от 3 години насам\", заявиха от ЦСКА"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/sport/1252686--zavrashtame-se-v-nashiya-izklyuchitelen-dom-za-parviya-ni-evropeyski-mach-na-b"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Назначен е нов главен държавен здравен инспектор",
+            "en": "Назначен е нов главен държавен здравен инспектор"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/zdrave/2026/11/23/4983450_naznachen_e_nov_glaven_durjaven_zdraven_inspektor/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "12% ръст на фалитите в България тази година прогнозира Allianz Trade",
+            "en": "12% ръст на фалитите в България тази година прогнозира Allianz Trade"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/11/23/4983360_12_rust_na_falitite_v_bulgariia_tazi_godina_prognozira/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "БНТ е предоватила продажба на фалиши билети за \"Евровизия\"",
+            "en": "БНТ е предоватила продажба на фалиши билети за \"Евровизия\""
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/kultura/bnt-e-predovatila-prodazhba-na-falishi-bileti-za-evroviziya/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Сребърен супник, принадлежал на финансиста Джей Пи Морган, може да достигне цена осем милиона долара на търг",
+            "en": "Сребърен супник, принадлежал на финансиста Джей Пи Морган, може да достигне цена осем милиона долара на търг"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/lik/1252632-srebaren-supnik-prinadlezhal-na-finansista-dzhey-pi-morgan-mozhe-da-dostigne-t"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Прокуратурата разследва кмета на Дулово от ДПС за натиск върху главния архитект на общината",
+            "en": "Прокуратурата разследва кмета на Дулово от ДПС за натиск върху главния архитект на общината"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/11/23/4983452_prokuraturata_razsledva_kmeta_na_dulovo_ot_dps_za/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Пазарът на взаимни фондове в България стигна рекордните 8.7 млрд. евро",
+            "en": "Пазарът на взаимни фондове в България стигна рекордните 8.7 млрд. евро"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/moiat_capital/investments/2026/11/23/4983396_pazarut_na_vzaimni_fondove_v_bulgariia_stigna/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Самоков, сълзи и шопска салата: Дакота Дичева в България",
+            "en": "Самоков, сълзи и шопска салата: Дакота Дичева в България"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/sport/samokov-salzi-i-shopska-salata-dakota-dicheva-v-bulgaria/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Европейската комисия предлага допълнително разширяване на санкциите срещу Русия",
+            "en": "Европейската комисия предлага допълнително разширяване на санкциите срещу Русия"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/world/1252667-evropeyskata-komisiya-predlaga-dopalnitelno-razshiryavane-na-sanktsiite-sreshtu-"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Nvidia върна Дженсън Хуанг като изпълнителен директор и зарадва Доналд Тръмп",
+            "en": "Nvidia върна Дженсън Хуанг като изпълнителен директор и зарадва Доналд Тръмп"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/sviat/2026/11/23/4983429_nvidia_vurna_djensun_huang_kato_izpulnitelen_direktor/?ref=rss"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
