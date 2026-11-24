@@ -1,0 +1,734 @@
+{
+  "date": "2026-11-24",
+  "generated": "2026-11-24T15:21:23.076979+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "Voices Festival, διεθνής συνάντηση 26- 28/11 για την ελευθερία του Τύπου και τη σχέση των ΜΜΕ με την κοινωνία, πρώτη φορά στην Ελλάδα",
+      "Окръжният съд в Монтана е насрочил заседание по делото срещу управителя на ВиК града и е назначил особен представител на дружеството"
+    ],
+    "en": [
+      "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "Voices Festival, διεθνής συνάντηση 26- 28/11 για την ελευθερία του Τύπου και τη σχέση των ΜΜΕ με την κοινωνία, πρώτη φορά στην Ελλάδα",
+      "Окръжният съд в Монтана е насрочил заседание по делото срещу управителя на ВиК града и е назначил особен представител на дружеството"
+    ]
+  },
+  "meta": {
+    "el": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation; How Trump and Silicon Valley forced Nvidia to take Jensen Hu",
+    "en": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation; How Trump and Silicon Valley forced Nvidia to take Jensen Hu"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+            "en": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+            "en": "Police disrupt 57 illegal streaming services with 7.3 million visits"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+            "en": "European Commission Uncovers Data Breach in Cyberattack Investigation"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Cloudera helps enterprises deploy sovereign AI without proprietary lock-in",
+            "en": "Cloudera helps enterprises deploy sovereign AI without proprietary lock-in"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/11/24/cloudera-digital-sovereignty/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "U.S. CISA adds N-able MailAssure and Project MONAI flaws to its Known Exploited Vulnerabilities catalog",
+            "en": "U.S. CISA adds N-able MailAssure and Project MONAI flaws to its Known Exploited Vulnerabilities catalog"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/203882/hacking/u-s-cisa-adds-n-able-mailassure-and-project-monai-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Tomorrow’s quantum threat is today’s open door",
+            "en": "Tomorrow’s quantum threat is today’s open door"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/ot-security-post-quantum-cryptography-op-ed/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Attackers exploited an Azure API Management flaw to steal secrets, Microsoft warns",
+            "en": "Attackers exploited an Azure API Management flaw to steal secrets, Microsoft warns"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4252513/attackers-exploited-an-azure-api-management-flaw-to-steal-secrets-microsoft-warns.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
+            "en": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33550"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "We Get the Infrastructure We Pay For",
+            "en": "We Get the Infrastructure We Pay For"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Schneier on Security",
+              "url": "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "CISA warns of exploited N-able bug as company restores email platform",
+            "en": "CISA warns of exploited N-able bug as company restores email platform"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/cisa-nable-cybersecurity-bug"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Industrial Serial Gateways Broadcast That They're Insecure",
+            "en": "Industrial Serial Gateways Broadcast That They're Insecure"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "darkreading",
+              "url": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+            "en": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+            "en": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The Download: AI’s gas power boom and a consciousness reality check",
+            "en": "The Download: AI’s gas power boom and a consciousness reality check"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "LLM agents work for their parent companies, not for you",
+            "en": "LLM agents work for their parent companies, not for you"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+            "en": "Amazon says hackers' AI agents found and exploited 0-day with little human input"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Data centers are getting their own natural gas power plants",
+            "en": "Data centers are getting their own natural gas power plants"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "2035 Came Early",
+            "en": "2035 Came Early"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://fzakaria.com/2026/11/23/2035-came-early"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "One terminal command gave my forgotten Android device a desk job",
+            "en": "One terminal command gave my forgotten Android device a desk job"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+            "en": "A legendary philosopher isn’t buying Anthropic’s consciousness argument"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "New York Bans Subscription and Post-Purchase Fees on Cars",
+            "en": "New York Bans Subscription and Post-Purchase Fees on Cars"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+            "en": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Voices Festival, διεθνής συνάντηση 26- 28/11 για την ελευθερία του Τύπου και τη σχέση των ΜΜΕ με την κοινωνία, πρώτη φορά στην Ελλάδα",
+            "en": "Voices Festival, διεθνής συνάντηση 26- 28/11 για την ελευθερία του Τύπου και τη σχέση των ΜΜΕ με την κοινωνία, πρώτη φορά στην Ελλάδα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/ert3/voices-festival-diethnis-synantisi-26-28-11-gia-tin-eleytheria-tou-typou-kai-ti-sxesi-ton-mme-me-tin-koinonia-proti-fora-stin-ellada/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Αυτοσυγκράτηση στην εξωτερική πολιτική ζητούν οι Γερμανοί",
+            "en": "Αυτοσυγκράτηση στην εξωτερική πολιτική ζητούν οι Γερμανοί"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/world/564610549/aytosygkratisi-stin-exoteriki-politiki-zitoyn-oi-germanoi/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Νέα Ιωνία: Η στιγμή της έκρηξης σε καφετέρια – Βίντεο καταγράφει τις κινήσεις των δύο δραστών",
+            "en": "Νέα Ιωνία: Η στιγμή της έκρηξης σε καφετέρια – Βίντεο καταγράφει τις κινήσεις των δύο δραστών"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/24/society/nea-ionia-i-stigmi-tis-ekriksis-se-kafeteria-vinteo-katagrafei-tis-kiniseis-ton-dyo-draston/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Το 11ο ιδιωτικό σχολείο στην Ελλάδα που εξαγοράζεται από fund – Η ανακοίνωση της ΟΙΕΛΕ",
+            "en": "Το 11ο ιδιωτικό σχολείο στην Ελλάδα που εξαγοράζεται από fund – Η ανακοίνωση της ΟΙΕΛΕ"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/ellada/1516835/oiele-i-11i-exagora-idiotikoy-sholeioy-apo-fund-einai-gegonos-apektise-ekpaideytirio-me-parelthon-se-paranomies/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Αδήριτη ανάγκη η αναδιάρθρωση της ελληνικής αμυντικής βιομηχανίας",
+            "en": "Αδήριτη ανάγκη η αναδιάρθρωση της ελληνικής αμυντικής βιομηχανίας"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/opinion/2193578/adiriti-anagki-i-anadiarthrosi-tis-ellinikis-amyntikis-viomichanias/?utm_source=rss&utm_medium=rss&utm_campaign=adiriti-anagki-i-anadiarthrosi-tis-ellinikis-amyntikis-viomichanias"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Τσίπρας από Φλώρινα: «Διπλασιασμός του επιδόματος θέρμανσης – Οι πολίτες πληρώνουν, κάποιοι κυκλοφορούν με Πόρσε»",
+            "en": "Τσίπρας από Φλώρινα: «Διπλασιασμός του επιδόματος θέρμανσης – Οι πολίτες πληρώνουν, κάποιοι κυκλοφορούν με Πόρσε»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/tsipras-apo-florina-diplasiasmos-tou-epidomatos-thermansis-oi-polites-plironoun-kapoioi-kykloforoun-me-porse/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ελεύθερος μετά την απολογία του ο 44χρονος που ετοιμαζόταν να πουλήσει πλαστά έργα τέχνης",
+            "en": "Ελεύθερος μετά την απολογία του ο 44χρονος που ετοιμαζόταν να πουλήσει πλαστά έργα τέχνης"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/society/564610531/eleytheros-meta-tin-apologia-toy-o-44chronos-poy-etoimazotan-na-poylisei-plasta-erga-technis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Στη Σενεγάλη το τρόπαιο του Κυπέλλου Εθνικών Αφρικής – Η απόφαση του CAS",
+            "en": "Στη Σενεγάλη το τρόπαιο του Κυπέλλου Εθνικών Αφρικής – Η απόφαση του CAS"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/24/sports/sti-senegali-to-tropaio-tou-kypellou-ethnikon-afrikis-i-apofasi-tou-cas/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Στην Άγκυρα ο Χαφτάρ – Θα συναντηθεί με τον Ερντογάν",
+            "en": "Στην Άγκυρα ο Χαφτάρ – Θα συναντηθεί με τον Ερντογάν"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/kosmos/1516841/stin-agkyra-o-haftar-tha-synantithei-tet-a-tet-me-ton-erntogan/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ζελένσκι: Η Ουκρανία χρειάζεται 115 δισεκ. ευρώ σε εξωτερική χρηματοδοτική στήριξη το 2027",
+            "en": "Ζελένσκι: Η Ουκρανία χρειάζεται 115 δισεκ. ευρώ σε εξωτερική χρηματοδοτική στήριξη το 2027"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/kosmos/2193579/zelenski-i-oykrania-chreiazetai-115-disek-eyro-se-exoteriki-chrimatodotiki-stirixi-to-2027/?utm_source=rss&utm_medium=rss&utm_campaign=zelenski-i-oykrania-chreiazetai-115-disek-eyro-se-exoteriki-chrimatodotiki-stirixi-to-2027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Окръжният съд в Монтана е насрочил заседание по делото срещу управителя на ВиК града и е назначил особен представител на дружеството",
+            "en": "Окръжният съд в Монтана е насрочил заседание по делото срещу управителя на ВиК града и е назначил особен представител на дружеството"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/bulgaria/1253472-okrazhniyat-sad-v-montana-e-nasrochil-zasedanie-po-deloto-sreshtu-upravitelya-na"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Управляващите стесниха обхвата на данък \"свръхпечалба\", но запазиха очакваните приходи",
+            "en": "Управляващите стесниха обхвата на данък \"свръхпечалба\", но запазиха очакваните приходи"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/biznes/2026/11/24/4983780_upravliavashtite_stesniha_obhvata_na_danuk/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Снимка на деня: Китай изпраща първия чуждестранен астронавт на космическата си станция",
+            "en": "Снимка на деня: Китай изпраща първия чуждестранен астронавт на космическата си станция"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/11/24/4983578_snimka_na_denia_kitai_izprashta_purviia_chujdestranen/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ЕК предлага глоба за България заради несправяне със свръхдефицита",
+            "en": "ЕК предлага глоба за България заради несправяне със свръхдефицита"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/biznes/ek-predlaga-globa-za-bulgaria-zaradi-nespravyane-sas-svrahdefitsita/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "10-Euro Mekitsa and Unanswered Questions at Sofia Christmas Market",
+            "en": "10-Euro Mekitsa and Unanswered Questions at Sofia Christmas Market"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Novinite.com (Sofia News Agency)",
+              "url": "https://www.novinite.com/view_news.php?id=241753"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Интер губи Хакан Чалханоглу за месец, очаква се той да е готов за финала на Суперкупата срещу Лацио",
+            "en": "Интер губи Хакан Чалханоглу за месец, очаква се той да е готов за финала на Суперкупата срещу Лацио"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/sport/1253474-inter-gubi-hakan-chalhanoglu-za-mesets-ochakva-se-toy-da-e-gotov-za-finala-na-s"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Особено сериозно неспазване: Брюксел препоръча ревизия на България заради разходите",
+            "en": "Особено сериозно неспазване: Брюксел препоръча ревизия на България заради разходите"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/evropa/2026/11/24/4983954_osobeno_seriozno_nespazvane_brjuksel_preporucha/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Коалицията зад преврата срещу Благомир Коцев",
+            "en": "Коалицията зад преврата срещу Благомир Коцев"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/11/24/4983801_koaliciiata_zad_prevrata_sreshtu_blagomir_kocev/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Видях дявола и портите на ада: Неизвестни откровения от дневника на папа Франциск",
+            "en": "Видях дявола и портите на ада: Неизвестни откровения от дневника на папа Франциск"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/svyat/vidyah-dyavola-i-portite-na-ada-neizvestni-otkroveniya-ot-dnevnika-na-papa-frantsisk/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Михаела Филева издава първата винилова плоча в кариерата си",
+            "en": "Михаела Филева издава първата винилова плоча в кариерата си"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/lik/1253458-mihaela-fileva-izdava-parvata-vinilova-plocha-v-karierata-si"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
