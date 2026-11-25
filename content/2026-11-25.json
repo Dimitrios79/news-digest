@@ -1,0 +1,734 @@
+{
+  "date": "2026-11-25",
+  "generated": "2026-11-25T15:01:34.419116+00:00",
+  "ai": null,
+  "ai_sections": 0,
+  "glance": {
+    "el": [
+      "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "A familiar Iranian hacking group has found a new way to cause chaos",
+      "Νέα μέθοδος μέτρησης της παλίρροιας υπόσχεται ακριβέστερες προβλέψεις πλημμυρών",
+      "Пуснаха в продажба допълнителни билети за баскетболната евроквалификация България - Дания в София"
+    ],
+    "en": [
+      "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "A familiar Iranian hacking group has found a new way to cause chaos",
+      "Νέα μέθοδος μέτρησης της παλίρροιας υπόσχεται ακριβέστερες προβλέψεις πλημμυρών",
+      "Пуснаха в продажба допълнителни билети за баскетболната евроквалификация България - Дания в София"
+    ]
+  },
+  "meta": {
+    "el": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains; A familiar Iranian hacking group has found a new way to cause chaos;",
+    "en": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains; A familiar Iranian hacking group has found a new way to cause chaos;"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": {
+        "el": "Κυβερνοασφάλεια & AI Security",
+        "en": "Cybersecurity & AI Security"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+            "en": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+            "en": "Microsoft fixes Microsoft 365 bug blocking access to Office apps"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+            "en": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Shufti Fraud Hub exposes suspicious links between seemingly legitimate accounts",
+            "en": "Shufti Fraud Hub exposes suspicious links between seemingly legitimate accounts"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/11/25/shufti-fraud-hub/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Gatwick drop-off customers' personal data exposed in supplier breach",
+            "en": "Gatwick drop-off customers' personal data exposed in supplier breach"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Electrolux Smart Boilers in Ukraine Connect to Russian Servers, Raising Privacy Concerns",
+            "en": "Electrolux Smart Boilers in Ukraine Connect to Russian Servers, Raising Privacy Concerns"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Security Affairs",
+              "url": "https://securityaffairs.com/203978/security/electrolux-smart-boilers-in-ukraine-connect-to-russian-servers-raising-privacy-concerns.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "FinCEN investigates cybersecurity incident, takes systems offline",
+            "en": "FinCEN investigates cybersecurity incident, takes systems offline"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/fincen-investigates-cybersecurity-incident-systems-offline/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Check Point security management servers hit in global cyberattack campaign",
+            "en": "Check Point security management servers hit in global cyberattack campaign"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "CSO Online",
+              "url": "https://www.csoonline.com/article/4253068/check-point-security-management-servers-hit-in-global-cyberattack-campaign.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
+            "en": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "SANS Internet Storm Center, InfoCON: green",
+              "url": "https://isc.sans.edu/diary/rss/33554"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Tracking Incidents of Hacking Using AI Tools",
+            "en": "Tracking Incidents of Hacking Using AI Tools"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Schneier on Security",
+              "url": "https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
+            "en": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "The Record from Recorded Future News",
+              "url": "https://therecord.media/guadeloupe-ransomware-hospital-cyber"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "It's a Bot World. We're Just Living in It",
+            "en": "It's a Bot World. We're Just Living in It"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "darkreading",
+              "url": "https://www.darkreading.com/cyber-risk/bot-world-just-living"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "title": {
+        "el": "Τεχνολογία",
+        "en": "Technology"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "A familiar Iranian hacking group has found a new way to cause chaos",
+            "en": "A familiar Iranian hacking group has found a new way to cause chaos"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "JetBrains finds agents may cheat with open source",
+            "en": "JetBrains finds agents may cheat with open source"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "The Download: AI swamping open records, and firefighting for permafrost",
+            "en": "The Download: AI swamping open records, and firefighting for permafrost"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Button Sounds – collection of professionally-recorded button clicks and presses",
+            "en": "Button Sounds – collection of professionally-recorded button clicks and presses"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://buttons.joshwcomeau.com/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "AI may soon change what it means to be a theoretical physicist",
+            "en": "AI may soon change what it means to be a theoretical physicist"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Debian wakes up wearing Windows XP's actual skin",
+            "en": "Debian wakes up wearing Windows XP's actual skin"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/os-platforms/2026/11/25/debian-wakes-up-wearing-windows-xps-actual-skin/5312111"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "AI is straining America’s open records systems",
+            "en": "AI is straining America’s open records systems"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+            "en": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Hacker News: Front Page",
+              "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+            "en": "Half of NASA's aging Mars fleet knocked offline by technical issues"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Microsoft 365 Backup stretches recovery window to ten years",
+            "en": "Microsoft 365 Backup stretches recovery window to ten years"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "www.theregister.com - Articles",
+              "url": "https://www.theregister.com/saas/2026/11/25/microsoft-365-backup-stretches-recovery-window-to-ten-years/5312043"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "greece",
+      "title": {
+        "el": "Ελλάδα",
+        "en": "Greece"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Νέα μέθοδος μέτρησης της παλίρροιας υπόσχεται ακριβέστερες προβλέψεις πλημμυρών",
+            "en": "Νέα μέθοδος μέτρησης της παλίρροιας υπόσχεται ακριβέστερες προβλέψεις πλημμυρών"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/nea-methodos-metrisis-tis-palirroias-yposxetai-akrivesteres-provlepseis-plimmyron/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Τουρκία: Συνάντηση του Χαφτάρ με τον Ερντογάν στην Αγκυρα",
+            "en": "Τουρκία: Συνάντηση του Χαφτάρ με τον Ερντογάν στην Αγκυρα"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/world/564613096/toyrkia-synantisi-toy-chaftar-me-ton-erntogan-stin-agkyra/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Wall Street: Ρευτοποιήσεις δισεκατομμυρίων στις μετοχές της AI – Στο κόκκινο η Nvidia",
+            "en": "Wall Street: Ρευτοποιήσεις δισεκατομμυρίων στις μετοχές της AI – Στο κόκκινο η Nvidia"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/25/finance/wall-street-reytopoiiseis-disekatommyrion-stis-metoxes-tis-ai-sto-kokkino-i-nvidia/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Λιβύη: Το τουρκολιβυκό μνημόνιο επικυρώθηκε και δημοσιεύτηκε στην Εφημερίδα της Βουλής",
+            "en": "Λιβύη: Το τουρκολιβυκό μνημόνιο επικυρώθηκε και δημοσιεύτηκε στην Εφημερίδα της Βουλής"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/kosmos/1517562/livyi-to-toyrkolivyko-mnimonio-epikyrothike-kai-dimosieytike-stin-efimerida-tis-voylis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Τεχνητή Νοημοσύνη: Σύγκρουση κορυφής για την…παράδοση της ανθρώπινης βούλησης",
+            "en": "Τεχνητή Νοημοσύνη: Σύγκρουση κορυφής για την…παράδοση της ανθρώπινης βούλησης"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/techscience/2194126/techniti-noimosyni-sygkroysi-koryfis-gia-tin-paradosi-tis-anthropinis-voylisis/?utm_source=rss&utm_medium=rss&utm_campaign=techniti-noimosyni-sygkroysi-koryfis-gia-tin-paradosi-tis-anthropinis-voylisis"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ΕΦΕΤ: Ανακαλούνται λόγω σαλμονέλας μπιφτέκια κοτόπουλο",
+            "en": "ΕΦΕΤ: Ανακαλούνται λόγω σαλμονέλας μπιφτέκια κοτόπουλο"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ertnews.gr",
+              "url": "https://www.ertnews.gr/eidiseis/ellada/efet-anakalountai-logo-salmonelas-mpiftekia-kotopoulo/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "ΗΠΑ: Συμβάν κυβερνοασφάλειας σε υπηρεσία του υπουργείου Οικονομικών",
+            "en": "ΗΠΑ: Συμβάν κυβερνοασφάλειας σε υπηρεσία του υπουργείου Οικονομικών"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+              "url": "https://www.kathimerini.gr/world/564613117/ipa-symvan-kyvernoasfaleias-se-ypiresia-toy-ypoyrgeioy-oikonomikon/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Πέρα από τις οθόνες: Σουηδία και Ελλάδα μπροστά στην αλλαγή εκπαιδευτικού παραδείγματος",
+            "en": "Πέρα από τις οθόνες: Σουηδία και Ελλάδα μπροστά στην αλλαγή εκπαιδευτικού παραδείγματος"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "ΤΟ ΒΗΜΑ",
+              "url": "https://www.tovima.gr/2026/11/25/opinions/pera-apo-tis-othones-souidia-kai-ellada-mprosta-stin-allagi-ekpaideytikou-paradeigmatos/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Απάντηση ΠΑΣΟΚ σε ΕΛΑΣ για την υπόθεση Χατζηγιαννάκη: «Πέρα από νεύρα, δεν υπάρχουν απαντήσεις»",
+            "en": "Απάντηση ΠΑΣΟΚ σε ΕΛΑΣ για την υπόθεση Χατζηγιαννάκη: «Πέρα από νεύρα, δεν υπάρχουν απαντήσεις»"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η Εφημερίδα των Συντακτών",
+              "url": "https://www.efsyn.gr/politiki/1517545/apantisi-pasok-se-elas-gia-tin-ypothesi-hatzigiannaki-pera-apo-neyra-den-yparhoyn-apantiseis/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Eνδοοικογενειακή βία: «Μαζί στην πρώτη γραμμή» – Κοινή επιχειρησιακή άσκηση ΕΛ.ΑΣ.-υπ. Υγείας",
+            "en": "Eνδοοικογενειακή βία: «Μαζί στην πρώτη γραμμή» – Κοινή επιχειρησιακή άσκηση ΕΛ.ΑΣ.-υπ. Υγείας"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+              "url": "https://www.naftemporiki.gr/society/2194105/endooikogeneiaki-via-mazi-stin-proti-grammi-koini-epicheirisiaki-askisi-el-as-yp-ygeias/?utm_source=rss&utm_medium=rss&utm_campaign=endooikogeneiaki-via-mazi-stin-proti-grammi-koini-epicheirisiaki-askisi-el-as-yp-ygeias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bulgaria",
+      "title": {
+        "el": "Βουλγαρία",
+        "en": "Bulgaria"
+      },
+      "stories": [
+        {
+          "title": {
+            "el": "Пуснаха в продажба допълнителни билети за баскетболната евроквалификация България - Дания в София",
+            "en": "Пуснаха в продажба допълнителни билети за баскетболната евроквалификация България - Дания в София"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/sport/1254375-pusnaha-v-prodazhba-dopalnitelni-bileti-za-basketbolnata-evrokvalifikatsiya-balg"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Прокуратурата обвини и пълнолетен, снимал видеа с блудство с момиче",
+            "en": "Прокуратурата обвини и пълнолетен, снимал видеа с блудство с момиче"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/bulgaria/2026/11/25/4984462_prokuraturata_obvini_pulnoleten_snimal_videa_s/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Ники дьо Сен Фал: изнасилването, стрелбата и пъстрите, пълни жени",
+            "en": "Ники дьо Сен Фал: изнасилването, стрелбата и пъстрите, пълни жени"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/moiat_capital/lica/2026/11/25/4983413_niki_dyo_sen_fal_iznasilvaneto_strelbata_i_pustrite/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Руски удари повредиха енергийна и газова инфраструктура в Украйна и спряха тока в пет области",
+            "en": "Руски удари повредиха енергийна и газова инфраструктура в Украйна и спряха тока в пет области"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/voina-v-ukraina/ruski-udari-povrediha-energiyna-i-gazova-infrastruktura-v-ukraina-i-spryaha-toka-v-pet-oblasti/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Законът за браншовото представителство в земеделието може да бъде приет до март 2027 г., стана известно на агросеминар в София",
+            "en": "Законът за браншовото представителство в земеделието може да бъде приет до март 2027 г., стана известно на агросеминар в София"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/economy/1254353-zakonat-za-branshovoto-predstavitelstvo-v-zemedelieto-mozhe-da-bade-priet-do-mar"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Китайското посолство реагирало с нота на твърдения на български депутат",
+            "en": "Китайското посолство реагирало с нота на твърдения на български депутат"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/burzi-novini/2026/11/25/4984438_kitaiskoto_posolstvo_reagiralo_s_nota_na_tvurdeniia_na/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Фон дер Лайен призова Русия да спре ударите по кораби в Черно море",
+            "en": "Фон дер Лайен призова Русия да спре ударите по кораби в Черно море"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Капитал - статии",
+              "url": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/11/25/4984428_fon_der_laien_prizova_rusiia_da_spre_udarite_po_korabi/?ref=rss"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Мицкоски вижда проблемите за ЕС във всички освен в себе си",
+            "en": "Мицкоски вижда проблемите за ЕС във всички освен в себе си"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Mediapool.bg",
+              "url": "https://www.mediapool.bg/evropa/mitskoski-vizhda-problemite-za-es-vav-vsichki-osven-v-sebe-si/"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Над 500 ученици участваха в общинския кръг на ученическите игри във Видин",
+            "en": "Над 500 ученици участваха в общинския кръг на ученическите игри във Видин"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "BG RSS Free",
+              "url": "https://www.bta.bg/bg/news/lik/1254282-nad-500-uchenitsi-uchastvaha-v-obshtinskiya-krag-na-uchenicheskite-igri-vav-vidi"
+            }
+          ]
+        },
+        {
+          "title": {
+            "el": "Правителството промени програмата за подкрепа на украински бежанци",
+            "en": "Правителството промени програмата за подкрепа на украински бежанци"
+          },
+          "summary": {
+            "el": "",
+            "en": ""
+          },
+          "sources": [
+            {
+              "name": "Dnevnik.bg",
+              "url": "https://www.dnevnik.bg/bulgaria/2026/11/25/4984423_pravitelstvoto_promeni_programata_za_podkrepa_na/?ref=rss"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
