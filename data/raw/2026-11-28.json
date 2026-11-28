@@ -1,0 +1,1203 @@
+{
+  "date": "2026-11-28",
+  "generated": "2026-11-28T13:37:47.089326+00:00",
+  "categories": {
+    "security": {
+      "items": [
+        {
+          "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+          "url": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+          "source": "The Hacker News",
+          "published": "2026-11-28T08:08:11+00:00",
+          "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss company said in response to a number of posts on Reddit. \"Unfortunately, a small number of pCloud Pass user email"
+        },
+        {
+          "title": "pCloud confirms password manager hack after suspicious login alerts",
+          "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+          "source": "BleepingComputer",
+          "published": "2026-11-27T19:26:04+00:00",
+          "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]"
+        },
+        {
+          "title": "Booba Ransomware Attack on Water Plant Reveals Monitoring Blind Spot",
+          "url": "https://securityaffairs.com/204166/cyber-crime/booba-ransomware-attack-on-water-plant-reveals-monitoring-blind-spot.html",
+          "source": "Security Affairs",
+          "published": "2026-11-28T10:51:27+00:00",
+          "summary": "Booba ransomware spread from a US water plant to local government systems, exposing a critical security gap between two networks. Booba ransomware hit an East Coast water treatment plant in November, then reached the network of the local government overseeing it. ThreatDown, which reported the incident, found no evidence that it disrupted water operations. The […]"
+        },
+        {
+          "title": "1Password data breach included some customer info, internal source code",
+          "url": "https://www.csoonline.com/article/4254142/1password-data-breach-included-some-customer-info-internal-source-code.html",
+          "source": "CSO Online",
+          "published": "2026-11-28T03:44:01+00:00",
+          "summary": "1Password is reassuring customers that their password vaults are safe after the theft of both account records for a subset of its users and source code from its private repositories. The company said it began investigating the incident on November 19, after it detected indications that an employee’s corporate GitHub account had been breached. The attacker used the account to access source code…"
+        },
+        {
+          "title": "Friday Squid Blogging: Giant Squid in Newfoundland",
+          "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-giant-squid-in-newfoundland.html",
+          "source": "Schneier on Security",
+          "published": "2026-11-27T22:01:25+00:00",
+          "summary": "The two have an interesting history . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
+        },
+        {
+          "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+          "url": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+          "source": "darkreading",
+          "published": "2026-11-27T15:27:20+00:00",
+          "summary": "The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate threats across enterprise environments."
+        },
+        {
+          "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+          "url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+          "source": "The Hacker News",
+          "published": "2026-11-27T16:36:11+00:00",
+          "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The previously undocumented incursion set, detailed by SOCRadar, has been codenamed WeaveLotus. The activity is assessed to have comprised five intrusions in Thailand"
+        },
+        {
+          "title": "New Boston Scientific data breach exposes personal, medical info",
+          "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+          "source": "BleepingComputer",
+          "published": "2026-11-27T18:57:42+00:00",
+          "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]"
+        },
+        {
+          "title": "Fake Government App Exposes Italy’s Expanding Spyware Surveillance Industry",
+          "url": "https://securityaffairs.com/204142/intelligence/fake-government-app-exposes-italys-expanding-spyware-surveillance-industry.html",
+          "source": "Security Affairs",
+          "published": "2026-11-28T00:08:30+00:00",
+          "summary": "A fake Interior Ministry app used Morpheus spyware to target asylum seekers in Italy, raising questions about surveillance and oversight. An Android app called FirmaDigitale promised asylum seekers news on their protection status, instead, it was delivering spyware. An IrpiMedia investigation by Rosita Rijtano builds on Lookout’s 2024 discovery and attributes the malware to IPS, […]"
+        },
+        {
+          "title": "Flaw in Linux NFS file sharing exposes servers to remote takeover",
+          "url": "https://www.csoonline.com/article/4254114/flaw-in-linux-nfs-file-sharing-exposes-servers-to-remote-takeover.html",
+          "source": "CSO Online",
+          "published": "2026-11-27T20:43:35+00:00",
+          "summary": "Researchers have found a critical flaw in the Linux kernel’s NFS file-sharing server that lets unauthenticated attackers obtain a root shell on affected systems. The flaw remained undetected in the kernel for 12 years, until two researchers, one using an AI agent, discovered it independently. NFS is typically used inside local networks, including in container networks in Kubernetes clusters and…"
+        },
+        {
+          "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+          "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+          "source": "darkreading",
+          "published": "2026-11-27T14:00:00+00:00",
+          "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems."
+        },
+        {
+          "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+          "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+          "source": "BleepingComputer",
+          "published": "2026-11-27T17:06:13+00:00",
+          "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]"
+        },
+        {
+          "title": "Air Force Cloud One Breach: Updates Blocked, Migration Paused, Scope Unknown",
+          "url": "https://securityaffairs.com/204136/security/air-force-cloud-one-breach-updates-blocked-migration-paused-scope-unknown.html",
+          "source": "Security Affairs",
+          "published": "2026-11-27T15:03:05+00:00",
+          "summary": "Reuters reports a breach of the US Air Force’s Cloud One. The scope, attackers and data stolen remain unknown; updates are blocked. Reuters reports that hackers have breached Cloud One, one of the US Air Force ‘s main cloud computing platforms. The breach could put a large amount of sensitive military data at risk, including […]"
+        },
+        {
+          "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+          "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+          "source": "BleepingComputer",
+          "published": "2026-11-27T15:09:40+00:00",
+          "summary": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]"
+        },
+        {
+          "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+          "url": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+          "source": "BleepingComputer",
+          "published": "2026-11-27T15:00:10+00:00",
+          "summary": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and resource lifecycle automation can help reduce these risks. [...]"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://feeds.feedburner.com/TheHackersNews": {
+          "items": 2,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.bleepingcomputer.com/feed/": {
+          "items": 5,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.securityweek.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (6 παλιά, 4 ήδη)",
+          "secs": 0.3
+        },
+        "https://www.helpnetsecurity.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (3 παλιά, 7 ήδη)",
+          "secs": 0.2
+        },
+        "https://www.theregister.com/security/headlines.atom": {
+          "items": 0,
+          "status": "κανένα νέο (49 παλιά, 1 ήδη)",
+          "secs": 0.7
+        },
+        "https://securityaffairs.com/feed": {
+          "items": 3,
+          "status": "ok",
+          "secs": 0.8
+        },
+        "https://cyberscoop.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.2
+        },
+        "https://www.csoonline.com/feed/": {
+          "items": 2,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://isc.sans.edu/rssfeed_full.xml": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.3
+        },
+        "https://krebsonsecurity.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (10 παλιά, 0 ήδη)",
+          "secs": 0.3
+        },
+        "https://www.schneier.com/feed/atom/": {
+          "items": 1,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://therecord.media/feed": {
+          "items": 0,
+          "status": "κανένα νέο (3 παλιά, 2 ήδη)",
+          "secs": 0.1
+        },
+        "https://www.darkreading.com/rss.xml": {
+          "items": 2,
+          "status": "ok",
+          "secs": 0.7
+        }
+      }
+    },
+    "tech": {
+      "items": [
+        {
+          "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+          "url": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+          "source": "Ars Technica",
+          "published": "2026-11-28T12:00:20+00:00",
+          "summary": "Kindles are getting costlier faster than they're getting better."
+        },
+        {
+          "title": "Quantum: 'Five years, that's all we got…'",
+          "url": "https://www.theregister.com/hpc/2026/11/28/quantum-five-years-thats-all-we-got/5312034",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-11-28T09:24:00+00:00",
+          "summary": "Futuristic computing had a major presence in Chicago supercomputer show this year"
+        },
+        {
+          "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+          "url": "https://unkernel.dev",
+          "source": "Hacker News: Front Page",
+          "published": "2026-11-28T03:19:20+00:00",
+          "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 431 # Comments: 111"
+        },
+        {
+          "title": "The best Black Friday deals Ars could find",
+          "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+          "source": "Ars Technica",
+          "published": "2026-11-27T17:05:37+00:00",
+          "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?"
+        },
+        {
+          "title": "Unkernel and Trynix just transported computing to 2035",
+          "url": "https://www.theregister.com/software/2026/11/28/unkernel-and-trynix-just-transported-computing-to-2035/5313200",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-11-28T08:34:00+00:00",
+          "summary": "A fun demo has the potential to flip computing inside-out"
+        },
+        {
+          "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-11-27T23:06:29+00:00",
+          "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 468 # Comments: 172"
+        },
+        {
+          "title": "Smartphone shipments face another bleak year before modest 2028 comeback",
+          "url": "https://www.theregister.com/personal-tech/2026/11/27/smartphone-shipments-face-another-bleak-year-before-modest-2028-comeback/5312580",
+          "source": "www.theregister.com - Articles",
+          "published": "2026-11-27T15:33:00+00:00",
+          "summary": "Counterpoint forecasts another 6% shipment drop in 2027, with volumes still below 2025 levels by decade's end"
+        },
+        {
+          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+          "source": "Hacker News: Front Page",
+          "published": "2026-11-27T19:42:25+00:00",
+          "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycombinator.com/item?id=50670855 Points: 417 # Comments: 277"
+        },
+        {
+          "title": "Michael Nielsen took down his book on neural nets",
+          "url": "https://neuralnetworksanddeeplearning.com/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-11-27T19:31:01+00:00",
+          "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 587 # Comments: 396"
+        },
+        {
+          "title": "Convex skills send the user's app idea to a remote server without telling them",
+          "url": "https://github.com/convex/convex-backend-skill/issues/64",
+          "source": "Hacker News: Front Page",
+          "published": "2026-11-27T18:02:45+00:00",
+          "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 332 # Comments: 109"
+        },
+        {
+          "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+          "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+          "source": "Hacker News: Front Page",
+          "published": "2026-11-27T15:40:31+00:00",
+          "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 553 # Comments: 294"
+        },
+        {
+          "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+          "url": "https://bouncemarket.minhanhday.com/",
+          "source": "Hacker News: Front Page",
+          "published": "2026-11-27T15:01:50+00:00",
+          "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.…"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://feeds.arstechnica.com/arstechnica/index": {
+          "items": 2,
+          "status": "ok",
+          "secs": 0.2
+        },
+        "https://www.theregister.com/headlines.atom": {
+          "items": 3,
+          "status": "ok",
+          "secs": 0.7
+        },
+        "https://www.technologyreview.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (9 παλιά, 1 ήδη)",
+          "secs": 0.3
+        },
+        "https://hnrss.org/frontpage?points=300": {
+          "items": 7,
+          "status": "ok",
+          "secs": 1.4
+        }
+      }
+    },
+    "greece": {
+      "items": [
+        {
+          "title": "Στην Κωνσταντινούπολη ο Κωνσταντίνος Τασούλας: Συνάντηση με Ερντογάν και επίσκεψη στο Οικουμενικό Πατριαρχείο",
+          "url": "https://www.ertnews.gr/eidiseis/stin-konstantinoupoli-o-konstantinos-tasoulas-synantisi-me-erntogan-kai-episkepsi-sto-oikoumeniko-patriarxeio/",
+          "source": "ertnews.gr",
+          "published": "2026-11-28T13:32:34+00:00",
+          "summary": "Στην Κωνσταντινούπολη βρίσκεται ο Πρόεδρος της Δημοκρατίας πραγματοποιώντας προσκυνηματική επίσκεψη, μετά από πρόσκληση του Οικουμενικού Πατριάρχη, με αφορμή την εορτή του προστάτη του Πατριαρχείου Αγίου Ανδρέα, τη Δευτέρα (30/11). Το μεσημέρι του Σαββάτου, ο Κωνσταντίνος Τασούλας συναντάται με τον Τούρκο πρόεδρο, Ρετζέπ Ταγίπ Ερντογάν, στο Ντολμά Μπαχτσέ. Πρόκειται για την πρώτη συνάντηση των…"
+        },
+        {
+          "title": "Η δικογραφία για τα «σπιτάκια»: Πιέσεις, δημοσιεύματα και υπερκοστολογήσεις",
+          "url": "https://www.kathimerini.gr/society/564620545/i-dikografia-gia-ta-spitakia-pieseis-dimosieymata-kai-yperkostologiseis/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-28T13:04:38+00:00",
+          "summary": "Μια καταγγελία τον Ιούλιο του 2024 ξετύλιξε το κουβάρι που οδήγησε δύο χρόνια αργότερα σε συλλήψεις για την υπόθεση με τα «σπιτάκια» ανακύκλωσης."
+        },
+        {
+          "title": "Προσλήψεις στο Δημόσιο: 32.376 θέσεις το 2027 – Ποια υπουργεία χάνουν υπαλλήλους",
+          "url": "https://www.tovima.gr/2026/11/28/finance/proslipseis-sto-dimosio-32-376-theseis-to-2027-poia-ypourgeia-xanoun-ypallilous/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-28T13:16:00+00:00",
+          "summary": "Το 2027, χρονιά εθνικών εκλογών, αναμένεται να καταγραφεί η μεγαλύτερη αύξηση προσλήψεων στο Δημόσιο. Τι προβλέπει ο προϋπολογισμός, ποια υπουργεία βρίσκονται στην κορυφή των συνταξιοδοτήσεων και πόσες προσλήψεις σχεδιάζονται έως το 2030"
+        },
+        {
+          "title": "Γεραπετρίτης για σπιτάκια ανακύκλωσης: «Καμία εμπλοκή της δικηγορικής εταιρείας στους διαγωνισμούς»",
+          "url": "https://www.efsyn.gr/politiki/1519623/gerapetritis-gia-spitakia-anakyklosis-kamia-emploki-tis-dikigorikis-etaireias-stoys-diagonismoys/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-28T13:32:23+00:00",
+          "summary": "Ο Γεραπετρίτης διαψεύδει οποιαδήποτε εμπλοκή του."
+        },
+        {
+          "title": "Κακοκαιρία ΑΡΓΟΣ: Έκτακτα μέτρα για την προστασία των εργαζομένων του ιδιωτικού τομέα",
+          "url": "https://www.naftemporiki.gr/society/2195553/kakokairia-argos-ektakta-metra-gia-tin-prostasia-ton-ergazomenon-toy-idiotikoy-tomea/?utm_source=rss&utm_medium=rss&utm_campaign=kakokairia-argos-ektakta-metra-gia-tin-prostasia-ton-ergazomenon-toy-idiotikoy-tomea",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-28T13:34:07+00:00",
+          "summary": "Έκτακτα μέτρα για την προστασία των εργαζομένων του ιδιωτικού τομέα από τα ακραία καιρικά φαινόμενα αύριο Κυριακή 29 Νοεμβρίου 2026, ανακοίνωσε το υπουργείο Εργασίας. Ειδικότερα, με εγκύκλιο του υπουργείου προβλέπονται… Κακοκαιρία ΑΡΓΟΣ: Έκτακτα μέτρα για την προστασία των εργαζομένων του ιδιωτικού τομέα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Νέα μέθοδος ανοίγει τον δρόμο για την ανάπτυξη υποψήφιων αντιβιοτικών",
+          "url": "https://www.ertnews.gr/eidiseis/nea-methodos-anoigei-ton-dromo-gia-tin-anaptyksi-ypopsifion-antiviotikon/",
+          "source": "ertnews.gr",
+          "published": "2026-11-28T13:22:26+00:00",
+          "summary": "Καθώς όλο και περισσότερα στελέχη επικίνδυνων βακτηρίων αναπτύσσουν αντοχή στα υπάρχοντα αντιβιοτικά, η αναζήτηση νέων φαρμάκων καθίσταται ολοένα πιο επιτακτική. Με στόχο να διευρύνουν τη δεξαμενή των πιθανών υποψήφιων αντιβιοτικών, κατάφεραν να βελτιώσουν σημαντικά το προφίλ ασφάλειας φαρμάκων με αντιμικροβιακή δράση, τα οποία είχαν προηγουμένως απορριφθεί. Πολλά φάρμακα που σκοτώνουν τα…"
+        },
+        {
+          "title": "Μπρόνσον Ριντ: Πέθανε σε ηλικία 38 ετών ο Αυστραλός αστέρας του WWE",
+          "url": "https://www.kathimerini.gr/athletics/564620539/mpronson-rint-pethane-se-ilikia-38-eton-o-aystralos-asteras-toy-wwe/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-28T12:48:10+00:00",
+          "summary": "Την τελευταία του πνοή σε ηλικία 38 ετών άφησε ο επαγγελματίας παλαιστής Μπρόνσον Ριντ, όπως ανακοίνωσε η World Wrestling Entertainment (WWE). Η εταιρεία ανέφερε ότι ο παλαιστής, του οποίου το πραγματικό όνομα είναι Τζερμέιν Χέιλι, απεβίωσε την Παρασκευή λόγω ιατρικών επιπλοκών, χωρίς όμως να δώσει περαιτέρω λεπτομέρειες. https://x.com/WWE/status/2126469293093314656 Αποτίοντας φόρο τιμής, η WWE…"
+        },
+        {
+          "title": "Η γενιά που βαθμολογεί τα πάντα, από μια ταινία μέχρι έναν οδηγό ταξί",
+          "url": "https://www.tovima.gr/2026/11/28/life/i-genia-pou-vathmologei-ta-panta-apo-mia-tainia-mexri-enan-odigo-taksi/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-28T13:00:45+00:00",
+          "summary": "Ταινίες, βιβλία, φαγητό, ακόμη και διαδρομές με ταξί, όλα συνοδεύονται πλέον από μια βαθμολογία. Τι αλλάζει στην ίδια τη στιγμή της εμπειρίας όταν σκεφτόμαστε εκ των προτέρων τον αριθμό που θα της βάλουμε;"
+        },
+        {
+          "title": "Χοσέ Λουίς Τσιλαβέρτ: Ο τερματοφύλακας που έβαζε γκολ και μιλούσε έξω από τα γήπεδα",
+          "url": "https://www.efsyn.gr/stiles/1519420/hose-loyis-tsilavert-o-termatofylakas-poy-evaze-gkol-kai-miloyse-exo-apo-ta-gipeda/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-28T13:17:43+00:00",
+          "summary": "Ο Παραγουανός τερματοφύλακας Χοσέ Λουίς Τσιλαβέρτ πέτυχε σαν σήμερα το 1999, χατ τρικ, όμως τα πραγματικά του γκολ ήταν τα λόγια-παρεμβάσεις του"
+        },
+        {
+          "title": "Βαγγέλης Λιάκος: Οι 15 μέρες στην κυβέρνηση, τα γαλάζια πυρά και το τελευταίο ραντεβού στο Μαξίμου – Το παρασκήνιο της παραίτησης",
+          "url": "https://www.naftemporiki.gr/politics/2195554/vaggelis-liakos-oi-15-meres-stin-kyvernisi-ta-galazia-pyra-kai-to-teleytaio-rantevoy-sto-maximoy-to-paraskinio-tis-paraitisis/?utm_source=rss&utm_medium=rss&utm_campaign=vaggelis-liakos-oi-15-meres-stin-kyvernisi-ta-galazia-pyra-kai-to-teleytaio-rantevoy-sto-maximoy-to-paraskinio-tis-paraitisis",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-28T13:32:42+00:00",
+          "summary": "Η πρώτη ένδειξη ότι η υπουργική θητεία του Βαγγέλη Λιάκου κινδύνευε να τελειώσει πριν καλά καλά αρχίσει δεν ήταν η σφοδρή κριτική της αντιπολίτευσης. Ήταν η απροθυμία των ίδιων των… Βαγγέλης Λιάκος: Οι 15 μέρες στην κυβέρνηση, τα γαλάζια πυρά και το τελευταίο ραντεβού στο Μαξίμου – Το παρασκήνιο της παραίτησης - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Ομαδικά πυρά της αντιπολίτευσης για την παραίτηση Λιάκου – Ζητούν απαντήσεις και απόδοση ευθυνών",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/omadika-pyra-tis-antipoliteysis-gia-tin-paraitisi-liakou-zitoun-apantiseis-kai-apodosi-eythynon/",
+          "source": "ertnews.gr",
+          "published": "2026-11-28T13:01:19+00:00",
+          "summary": "Έντονες πολιτικές αντιδράσεις προκαλεί η παραίτηση του υφυπουργού Εσωτερικών Βαγγέλη Λιάκου, με τα κόμματα της αντιπολίτευσης να εξαπολύουν πυρά κατά της κυβέρνησης και να θέτουν στο επίκεντρο της κριτικής τους ζητήματα διαφάνειας, διαχείρισης του δημοσίου χρήματος και πολιτικών ευθυνών. Σχετική είδηση: Παραιτήθηκε ο υφυπουργός Εσωτερικών Βαγγέλης Λιάκος – Καταγγέλλει σκευωρία και «προεκλογική…"
+        },
+        {
+          "title": "Μιανμάρ: 17 νεκροί από αεροπορική επιδρομή σε γαμήλια τελετή",
+          "url": "https://www.kathimerini.gr/world/564620536/mianmar-17-nekroi-apo-aeroporiki-epidromi-se-gamilia-teleti/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-28T12:32:32+00:00",
+          "summary": "Αεροπορική επιδρομή του στρατού της Μιανμάρ έπληξε σήμερα, Σάββατο μια αίθουσα γάμων, με τους νεκρούς να φτάνουν, σύμφωνα με τις έως τώρα πληροφορίες, τους 17. Βίντεο που κατέγραψε μάρτυρας – τα οποία το AFP δεν μπόρεσε να επαληθεύσει ανεξάρτητα – έδειχναν αιμόφυρτα θύματα να μεταφέρονται για περίθαλψη μετά την αεροπορική επιδρομή σε ένα χωριό στο […]"
+        },
+        {
+          "title": "Διαβάστε στο Βήμα της Κυριακής: Βαρύς λογαριασμός για τη ΝΔ",
+          "url": "https://www.tovima.gr/2026/11/28/media/diavaste-sto-vima-tis-kyriakis-varys-logariasmos-gia-ti-nd/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-28T12:46:14+00:00",
+          "summary": "Οι υποθέσεις διαφθοράς, οι απευθείας αναθέσεις και η νέα παραίτηση."
+        },
+        {
+          "title": "Μαρία Μαζωνάκη για την πόρτα στο μνήμα του αδελφού της: «Έχετε δει κανέναν οικογενειακό τάφο ανοιχτό;» [βίντεο]",
+          "url": "https://www.efsyn.gr/life/1519615/maria-mazonaki-gia-tin-porta-sto-mnima-toy-adelfoy-tis-ehete-dei-kanenan-oikogeneiako-tafo-anoihto-vinteo/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-28T13:10:33+00:00",
+          "summary": "«Παλεύουν» οι γονείς με την απώλεια, λέει η αδελφή του Γιώργου Μαζωνάκη."
+        },
+        {
+          "title": "Οργή στη Βουλγαρία για τα επεισόδια στο Βελοντρόμ – Πιέσεις στην UEFA για αποβολή της Μαρσέιγ",
+          "url": "https://www.naftemporiki.gr/sports/2195552/orgi-sti-voylgaria-gia-ta-epeisodia-sto-velontrom-pieseis-stin-uefa-gia-apovoli-tis-marseig/?utm_source=rss&utm_medium=rss&utm_campaign=orgi-sti-voylgaria-gia-ta-epeisodia-sto-velontrom-pieseis-stin-uefa-gia-apovoli-tis-marseig",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-28T13:30:05+00:00",
+          "summary": "Κλιμακώνεται η κρίση μετά τα σοβαρά επεισόδια στο Βελοντρόμ, με τη Βουλγαρία να στρέφεται κατά της Μαρσέιγ και να ζητά την παρέμβαση της UEFA. Οι συγκρούσεις ανάμεσα σε οπαδούς της… Οργή στη Βουλγαρία για τα επεισόδια στο Βελοντρόμ – Πιέσεις στην UEFA για αποβολή της Μαρσέιγ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Υποχρεωτικός ο εφοδιασμός των οχημάτων με αντιολισθητικές αλυσίδες σε Ημαθία, Σέρρες και Χαλκιδική",
+          "url": "https://www.ertnews.gr/ert3/ypoxreotikos-o-efodiasmos-ton-oximaton-me-antiolisthitikes-alysides-se-imathia-serres-kai-xalkidiki/",
+          "source": "ertnews.gr",
+          "published": "2026-11-28T12:52:03+00:00",
+          "summary": "Ανακοίνωση σχετικά με τον υποχρεωτικό εφοδιασμό των οχημάτων που κινούνται σε όλο το οδικό δίκτυο των Περιφερειακών Ενοτήτων Ημαθίας, Σερρών και Χαλκιδικής, εξέδωσε η Διεύθυνση Αστυνομίας, με αφορμή την κακοκαιρία. Η ανακοίνωση: «Ανακοινώνεται ότι, σύμφωνα με αποφάσεις των Διευθύνσεων Αστυνομίας Ημαθίας, Σερρών και Χαλκιδικής, με στόχο την ασφαλή διεξαγωγή της κυκλοφορίας και την πρόληψη των ...…"
+        },
+        {
+          "title": "Dive & Time: Μιλήσαμε με τον CMO της Panerai με αφορμή το experience που οργανώθηκε πρόσφατα στην Κέα",
+          "url": "https://www.kathimerini.gr/life/hours/564620509/dive-amp-time-milisame-me-ton-cmo-tis-panerai-me-aformi-to-experience-poy-organothike-prosfata-stin-kea/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-28T12:17:14+00:00",
+          "summary": "Ο Alessandro Ficarelli απάντησε στις ερωτήσεις του Hours σχετικά με τη σχέση της Panerai με την Ελλάδα, της κοινής ναυτικής τους κουλτούρας και την επιτυχημένη εκδήλωση του Ora Kessaris αυτό το φθινόπωρο στην Κέα."
+        },
+        {
+          "title": "Φοβικά σύνδρομα εξωτερικής πολιτικής",
+          "url": "https://www.tovima.gr/2026/11/28/opinions/fovika-syndroma-eksoterikis-politikis/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-28T12:24:58+00:00",
+          "summary": "Το τίμημα των αδέξιων χειρισμών της κυβέρνησης Μητσοτάκη, αλλά και της απουσίας μιας εξωτερικής πολιτικής που θα αποσκοπεί στην επίτευξη εθνικών στόχων, είναι πλέον εμφανές."
+        },
+        {
+          "title": "Καρπετόπουλος για Πανούτσο: «Τελευταία επιθυμία του είναι λίγη από την στάχτη του να πεταχτεί στο Καραϊσκάκη»",
+          "url": "https://www.efsyn.gr/ellada/1519610/karpetopoylos-gia-panoytso-teleytaia-epithymia-toy-einai-ligi-apo-tin-stahti-toy-na-petahtei-sto-karaiskaki/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-28T12:55:31+00:00",
+          "summary": "Ο Αντώνης Καρπετόπουλος, μέσα από το προσωπικό του ιστολόγιο, περιέγραψε τη γνωριμία τους στα μέσα της δεκαετίας του 1990, στο «Φίλαθλο»."
+        },
+        {
+          "title": "Χρήματα για την Εκπαίδευση μόνο για τους ισχνούς μισθούς",
+          "url": "https://www.naftemporiki.gr/society/2195459/chrimata-gia-tin-ekpaideysi-mono-gia-toys-ischnoys-misthoys/?utm_source=rss&utm_medium=rss&utm_campaign=chrimata-gia-tin-ekpaideysi-mono-gia-toys-ischnoys-misthoys",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-28T13:26:52+00:00",
+          "summary": "Διαβάζεις ότι η Ελλάδα δαπανά για το σύνολο του προσωπικού των Λυκείων το 91,5% του προϋπολογισμού, έναντι 74,1% της Πορτογαλίας και 75,2% της Κορέας. Ο μέσος όρος των χωρών του… Χρήματα για την Εκπαίδευση μόνο για τους ισχνούς μισθούς - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Η Αθήνα του 2050 από το ΕΜΠ: Ένας οδικός χάρτης για τη λύση στο συγκοινωνιακό αδιέξοδο",
+          "url": "https://www.ertnews.gr/eidiseis/i-athina-tou-2050-apo-to-emp-enas-odikos-xartis-gia-ti-lysi-sto-sygkoinoniako-adieksodo/",
+          "source": "ertnews.gr",
+          "published": "2026-11-28T12:46:41+00:00",
+          "summary": "Η Αθήνα βρίσκεται αντιμέτωπη με μια σκληρή πραγματικότητα και αυτή δεν είναι άλλη από το μείζον ζήτημα της κυκλοφοριακής ασφυξίας. Τα τελευταία χρόνια κατευθύνθηκαν σημαντικοί πόροι στα Μέσα Μαζικής Μεταφοράς (ΜΜΜ), όπως η κατασκευή της Γραμμής 4 του Μετρό και η ανανέωση του στόλου των λεωφορείων, όμως, όπως ανέφερε ο καθηγητής του Εθνικού Μετσόβιου Πολυτεχνείου ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Σοκολάτα και ρούμι: το τέλειο ζευγάρι σε 8 απολαυστικά γλυκά",
+          "url": "https://www.kathimerini.gr/k/gastronomos/564617317/sokolata-kai-roymi-to-teleio-zeygari-se-8-apolaystika-glyka/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-28T12:00:13+00:00",
+          "summary": "Είναι ταίριασμα κλασικό και αγαπημένο. Σοκολάτα και ρούμι δένουν μαγικά σε κρέμες, σοκολατόπιτες, κέικ, μπράουνι, κορμούς και όχι μόνο."
+        },
+        {
+          "title": "Η ρωσική εμπλοκή",
+          "url": "https://www.tovima.gr/2026/11/28/opinions/i-rosiki-emploki/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-28T12:00:30+00:00",
+          "summary": "Η αποστασιοποίηση των ΗΠΑ και η προσπάθεια της κυβέρνησης Τραμπ να εξομαλύνει τις σχέσεις των ΗΠΑ με τη Ρωσία προκαλούν ένα κενό ασφαλείας στην Ευρώπη."
+        },
+        {
+          "title": "Αγρίνιο: Στον ανακριτή οι οκτώ κατηγορούμενοι για τη σεξουαλική εκμετάλλευση 15χρονης",
+          "url": "https://www.efsyn.gr/ellada/1519600/agrinio-ston-anakriti-oi-okto-katigoroymenoi-gia-ti-sexoyaliki-ekmetalleysi-15hronis/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-28T12:42:58+00:00",
+          "summary": "Οι καταγγελίες από το 2020 και οι νέες αποκαλύψεις για την υπόθεση της 15χρονης στο Αγρίνιο."
+        },
+        {
+          "title": "Αντ. Σαμαράς για παραίτηση Β. Λιάκου: Η διαφθορά έχει γίνει πια καθημερινότητα",
+          "url": "https://www.naftemporiki.gr/politics/2195548/ant-samaras-gia-paraitisi-v-liakoy-i-diafthora-echei-ginei-pia-kathimerinotita/?utm_source=rss&utm_medium=rss&utm_campaign=ant-samaras-gia-paraitisi-v-liakoy-i-diafthora-echei-ginei-pia-kathimerinotita",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-28T13:18:59+00:00",
+          "summary": "Βολές κατά της κυβέρνησης για διαφθορά εξαπέλυσε ο πρώην πρωθυπουργός Αντώνης Σαμαράς, με φόντο την παραίτηση του υφυπουργού Εσωτερικών, Βαγγέλη Λιάκου. Ερωτηθείς για την παραίτηση του κ. Λιάκου, ο Αντώνης… Αντ. Σαμαράς για παραίτηση Β. Λιάκου: Η διαφθορά έχει γίνει πια καθημερινότητα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Γιατροί Χωρίς Σύνορα: Καταδίκη για τη δολοφονία δύο εργαζομένων τους σε ισραηλινή επιδρομή στη Γάζα",
+          "url": "https://www.ertnews.gr/eidiseis/giatroi-xoris-synora-katadiki-gia-ti-dolofonia-dyo-ergazomenon-tous-se-israilini-epidromi-sti-gaza/",
+          "source": "ertnews.gr",
+          "published": "2026-11-28T12:44:10+00:00",
+          "summary": "«Συντετριμμένοι και αγανακτισμένοι» δήλωσαν το Σάββατο (28/11) οι Γιατροί Χωρίς Σύνορα (MSF), μετά τη δολοφονία δύο συνεργατών τους σε ισραηλινή επιδρομή κοντά σε μια από τις κλινικές που λειτουργούν στην πόλη της Γάζας. Ειδικότερα, η οργάνωση ανέφερε ότι οι δύο άνδρες εργάζονταν ως φύλακες στην κλινική, προσθέτοντας ότι αυτή ήταν σημειωμένη με τα λογότυπά της ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Σκίτσο του Ανδρέα Πετρουλάκη (28/11/26)",
+          "url": "https://www.kathimerini.gr/opinion/sketches/564620467/skitso-toy-andrea-petroylaki-28-11-26/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-28T12:00:00+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Φέρε μεζέ – Μια καινούργια ιστορία στην πλατεία Βικτωρίας",
+          "url": "https://www.tovima.gr/2026/11/28/elliniki-kouzina/fere-meze-mia-kainourgia-istoria-stin-plateia-viktorias/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-28T11:40:42+00:00",
+          "summary": "Ένα μεζεδοπωλείο με καλή ελληνική κουζίνα, προσεγμένες πρώτες ύλες και ανθρώπους που γνωρίζουν και πιστεύουν την ιστορική συνοικία της Αθήνας φιλοδοξεί να γίνει το νέο στέκι μας."
+        },
+        {
+          "title": "Πρόστιμα 1,2 δισ. ευρώ το 2027: Εκτοξεύονται τα φορολογικά έσοδα επί κυβέρνησης Μητσοτάκη",
+          "url": "https://www.efsyn.gr/oikonomia/1519566/prostima-12-dis-eyro-to-2027-ektoxeyontai-ta-forologika-esoda-epi-kyvernisis-mitsotaki/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-28T12:30:51+00:00",
+          "summary": "Ο προϋπολογισμός προβλέπει ότι τα πρόστιμα θα φτάσουν στο 7,25% των εκτιμώμενων ετήσιων εσόδων από φορολογία φυσικών προσώπων και στο 4% των εκτιμώμενων εσόδων από ΦΠΑ!"
+        },
+        {
+          "title": "Ο Τεχνοκράτης και ο Σόουμαν: Τα 2 πρόσωπα της ισπανικής Δεξιάς",
+          "url": "https://www.naftemporiki.gr/kosmos/2195543/o-technokratis-kai-o-sooyman-ta-2-prosopa-tis-ispanikis-dexias/?utm_source=rss&utm_medium=rss&utm_campaign=o-technokratis-kai-o-sooyman-ta-2-prosopa-tis-ispanikis-dexias",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-28T13:15:11+00:00",
+          "summary": "Δύο πολύ διαφορετικές προσωπικότητες ίσως μοιραστούν την εξουσία στην Ισπανία, την επομένη των βουλευτικών εκλογών της Κυριακής. Ο ένας έχει χτίσει την πολιτική του σταδιοδρομία στη δημόσια διοίκηση, προβάλλει τις… Ο Τεχνοκράτης και ο Σόουμαν: Τα 2 πρόσωπα της ισπανικής Δεξιάς - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Διήμερη επίσκεψη και επαφές του Αντώνη Σαμαρά στη Θεσσαλονίκη",
+          "url": "https://www.ertnews.gr/ert3/diimeri-episkepsi-kai-epafes-tou-antoni-samara-sti-thessaloniki/",
+          "source": "ertnews.gr",
+          "published": "2026-11-28T12:32:03+00:00",
+          "summary": "Στη Θεσσαλονίκη βρίσκεται σήμερα, Σάββατο 28/11 ο Αντώνης Σαμαράς, συνεχίζοντας τις επαφές του στη Βόρεια Ελλάδα, μετά την προσωρινή διακοπή της περιοδείας του την προηγούμενη εβδομάδα. Πρώτος σταθμός της περιοδείας του θα είναι η ΒΙΠΕ Θεσσαλονίκης, όπου αναμένεται να έχει επαφές με ανθρώπους της επιχειρηματικής και βιομηχανικής κοινότητας. Η επίσκεψη αποκτά ιδιαίτερο ενδιαφέρον, καθώς η ...…"
+        },
+        {
+          "title": "Σκίτσο του Ηλία Μακρή (28/11/26)",
+          "url": "https://www.kathimerini.gr/opinion/sketches/564620464/skitso-toy-ilia-makri-28-11-26/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-28T11:59:00+00:00",
+          "summary": ""
+        },
+        {
+          "title": "Μασκ: Η κούρσα για τα data centers του διαστήματος",
+          "url": "https://www.tovima.gr/2026/11/28/world/mask-i-koursa-gia-ta-data-centers-tou-diastimatos/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-28T11:25:19+00:00",
+          "summary": "Το Starmind του Ίλον Μασκ είναι η κορυφή του παγόβουνου στον ανταγωνισμό των ΗΠΑ με την Κίνα. Πως καταργείται στην πράξη η διεθνής συμφωνία για το Εξώτερο Διάστημα."
+        },
+        {
+          "title": "ΕΛΑΣ για παραίτηση Λιάκου: «Καλύτερα να παραιτηθούν όλοι μαζί»",
+          "url": "https://www.efsyn.gr/politiki/1519593/elas-gia-paraitisi-liakoy-kalytera-na-paraitithoyn-oloi-mazi/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-28T12:29:49+00:00",
+          "summary": "«Η κυβέρνηση που γέννησε τους Λιάκους, τους Μπεκίρηδες, τους Κουλκουδίνες και τους Πάτσηδες παραμένει στη θέση της»."
+        },
+        {
+          "title": "Στα ελληνικά χέρια ξανά το Golden Boy Web: Νικητής ο Χαράλαμπος Κωστούλας",
+          "url": "https://www.naftemporiki.gr/sports/2195545/elliniki-ypothesi-to-golden-boy-web-o-kostoylas-diadechetai-ton-moyzakiti/?utm_source=rss&utm_medium=rss&utm_campaign=elliniki-ypothesi-to-golden-boy-web-o-kostoylas-diadechetai-ton-moyzakiti",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-28T13:00:16+00:00",
+          "summary": "Το Golden Boy Web παραμένει σε ελληνικά χέρια! Μετά τον Χρήστο Μουζακίτη, ο οποίος είχε κερδίσει τη διάκριση το 2025, σειρά πήρε ο Χαράλαμπος Κωστούλας, που αναδείχθηκε νικητής στην ψηφοφορία… Στα ελληνικά χέρια ξανά το Golden Boy Web: Νικητής ο Χαράλαμπος Κωστούλας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Σδούκου: Το θέμα Χατζηγιαννάκη μετατρέπεται και επισήμως σε υπόθεση Τσίπρα",
+          "url": "https://www.ertnews.gr/eidiseis/ellada/politiki/sdoukou-to-thema-xatzigiannaki-metatrepetai-kai-episimos-se-ypothesi-tsipra/",
+          "source": "ertnews.gr",
+          "published": "2026-11-28T12:31:48+00:00",
+          "summary": "Επίθεση στον Αλέξη Τσίπρα εξαπολύει η εκπρόσωπος Τύπου της Νέας Δημοκρατίας, Αλεξάνδρα Σδούκου, με αφορμή τις αναφορές του στη σημερινή του ομιλία για τον γραμματέα της ΕΛΑΣ, Μίλτο Χατζηγιαννάκη, θέτοντας τρία ερωτήματα στον πρώην πρωθυπουργό. «Στη σημερινή του ομιλία ο Αλέξης Τσίπρας εμφανίστηκε πιο κυνικός και προκλητικός από ποτέ, δίνοντας πλήρη κάλυψη στον γραμματέα της ... Περισσότερα…"
+        },
+        {
+          "title": "ΠΑΣΟΚ για παραίτηση Λιάκου: «Ο πρωθυπουργός σε ομηρία διαδοχικών σκανδάλων»",
+          "url": "https://www.kathimerini.gr/politics/564620497/pasok-gia-paraitisi-liakoy-o-prothypoyrgos-se-omiria-diadochikon-skandalon/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-28T11:49:24+00:00",
+          "summary": "Στην ανακοίνωση διαμηνύεται πως «η χώρα δεν θα μείνει όμηρος μιας κυβέρνησης που αποσυντίθεται» και πως «το ΠΑΣΟΚ θα συνεχίσει να πολεμά τη διαφθορά απ’ όπου και αν προέρχεται»."
+        },
+        {
+          "title": "London Museum: Το μεγαλύτερο αστικό μουσείο στον κόσμο – Η αιματοβαμμένη ιστορία, τα βασιλικά κειμήλια κι ένα «βουνό» από λίπη",
+          "url": "https://www.tovima.gr/2026/11/28/culture/london-museum-to-megalytero-astiko-mouseio-ston-kosmo-i-aimatovammeni-istoria-ta-vasilika-keimilia-ki-ena-vouno-apo-lipi/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-28T11:00:13+00:00",
+          "summary": "Μετά από δέκα χρόνια εργασιών και επένδυση 570 εκατ. δολαρίων, το London Museum υποδέχεται το κοινό στην ιστορική αγορά του Σμίθφιλντ."
+        },
+        {
+          "title": "ΠΑΣΟΚ για ΠΑΣΟΚ για Σπιτάκια Ανακύκλωσης: «Κυβέρνηση και Γεραπετρίτης οφείλουν να δώσουν άμεσα πλήρεις απαντήσεις»",
+          "url": "https://www.efsyn.gr/politiki/1519573/pasok-gia-pasok-gia-spitakia-anakyklosis-kyvernisi-kai-gerapetritis-ofeiloyn-na-dosoyn-amesa-plireis-apantiseis/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-28T12:19:34+00:00",
+          "summary": "«Αν τα δημοσιεύματα ισχύουν, η σύγκρουση συμφερόντων είναι δεδομένη»."
+        },
+        {
+          "title": "ΚΚΕ για Β. Λιάκο: Καμιά παραίτηση δεν μπορεί να απαλλάξει την κυβέρνηση από τη δίκαιη οργή του λαού",
+          "url": "https://www.naftemporiki.gr/politics/2195544/kke-gia-v-liako-kamia-paraitisi-den-mporei-na-apallaxei-tin-kyvernisi-apo-ti-dikaii-orgi-toy-laoy/?utm_source=rss&utm_medium=rss&utm_campaign=kke-gia-v-liako-kamia-paraitisi-den-mporei-na-apallaxei-tin-kyvernisi-apo-ti-dikaii-orgi-toy-laoy",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-28T13:00:15+00:00",
+          "summary": "Βολές κατά της κυβέρνησης εξαπολύει το ΚΚΕ σε ανακοίνωσή του για την παραίτηση του υπουργού Εσωτερικών Βαγγέλη Λιάκου. Όπως επισημαίνει ο Περισσός, «καμιά παραίτηση, πολύ περισσότερο όταν αυτή είναι καθυστερημένη,… ΚΚΕ για Β. Λιάκο: Καμιά παραίτηση δεν μπορεί να απαλλάξει την κυβέρνηση από τη δίκαιη οργή του λαού - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Live streaming: Δείτε τον αγώνα ποδοσφαίρου Μαρκό-ΠΑΟΚ Β΄ για την Superbet League 2 (14:45, ΕΡΤ2 ΣΠΟΡ)",
+          "url": "https://www.ertnews.gr/athlitismos/live-streaming-deite-ton-agona-podosfairou-marko-paok-v-gia-tin-superbet-league-2-14-45-ert2-spor/",
+          "source": "ertnews.gr",
+          "published": "2026-11-28T12:30:00+00:00",
+          "summary": "Δείτε σε απ΄ ευθείας μετάδοση σήμερα στις 14:45 τον αγώνα ποδοσφαίρου ανάμεσα στη Μαρκό και τον ΠΑΟΚ Β΄ για την 13η αγωνιστική της Superbet League 2. Ο αγώνας μεταδίδεται διαδικτυακά από την ΕΡΤ2 ΣΠΟΡ μέσα από το ERTFLIX. www.ertnews.gr"
+        },
+        {
+          "title": "Λιβύη: Ενόχληση στην Αγκυρα για τα μπρος-πίσω με τη σύνοδο Αφρικανικών Χωρών – Τουρκίας",
+          "url": "https://www.kathimerini.gr/world/564620494/livyi-enochlisi-stin-agkyra-gia-tin-akyrosi-tis-synodoy-afrikanikon-choron-toyrkias/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-28T11:37:00+00:00",
+          "summary": "Την ενόχληση της Αγκυρας προκάλεσε η επιστολή του προέδρου της Λιβύης για ακύρωση της Συνόδου Αφρικανικών Χωρών-Τουρκίας, που επρόκειτο να διοργανωθεί στην Τρίπολη."
+        },
+        {
+          "title": "Παραιτήθηκε ο Βαγγέλης Λιάκος – «Δέχομαι μια ανήθικη και χυδαία επίθεση»",
+          "url": "https://www.tovima.gr/2026/11/28/politics/paraitithike-o-liakos/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-28T10:42:26+00:00",
+          "summary": "Την παραίτησή του υπέβαλε ο Βαγγέλης Λιάκος, σημειώνοντας ότι: «ουδέποτε είχα οποιαδήποτε συμμετοχή στις επαγγελματικές δραστηριότητες των αδελφών μου και ότι δεν υπάρχει οικογενειακή ευθύνη»."
+        },
+        {
+          "title": "Σπιτάκια ανακύκλωσης: Τα εκατομμύρια, ο Κουρτάκης και η δικηγορική εταιρεία του Γεραπετρίτη",
+          "url": "https://www.efsyn.gr/ellada/1519568/spitakia-anakyklosis-ta-ekatommyria-o-koyrtakis-kai-i-dikigoriki-etaireia-toy-gerapetriti/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-28T11:48:55+00:00",
+          "summary": "Η υπόθεση των σπιτιών ανακύκλωσης αποκαλύπτει ένα δίκτυο διαφθοράς που περιλαμβάνει υπερκοστολογήσεις 372.000 ευρώ ανά μονάδα και εμπλοκή πολιτικών προσώπων, όπως ο υπουργός Γεραπετρίτης και ο εκδότης Κουρτάκης - Τι λέει η δικογραφία."
+        },
+        {
+          "title": "Βίντεο από το ΠΑΣΟΚ για τα σπιτάκια ανακύκλωσης: «Η κυβέρνηση οφείλει να δώσει απαντήσεις»",
+          "url": "https://www.naftemporiki.gr/politics/2195542/vinteo-apo-to-pasok-gia-ta-spitakia-anakyklosis-i-kyvernisi-ofeilei-na-dosei-apantiseis/?utm_source=rss&utm_medium=rss&utm_campaign=vinteo-apo-to-pasok-gia-ta-spitakia-anakyklosis-i-kyvernisi-ofeilei-na-dosei-apantiseis",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-28T12:51:46+00:00",
+          "summary": "Με βίντεο στα μέσα κοινωνικής δικτύωσης το ΠΑΣΟΚ υπενθυμίζει τις κοινοβουλευτικές παρεμβάσεις και ερωτήματα του Νίκου Ανδρουλάκη και της Κ.Ο. του κόμματος προς τον πρωθυπουργό, με τις οποίες «ανέδειξαν επανειλημμένα… Βίντεο από το ΠΑΣΟΚ για τα σπιτάκια ανακύκλωσης: «Η κυβέρνηση οφείλει να δώσει απαντήσεις» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Τα φημισμένα έλατα του Ταξιάρχη Χαλκιδικής στη Θεσσαλονίκη-Οι νέες τάσεις στον χριστουγεννιάτικο στολισμό",
+          "url": "https://www.ertnews.gr/ert3/ta-fimismena-elata-tou-taksiarxi-xalkidikis-sti-thessaloniki-oi-nees-taseis-ston-xristougenniatiko-stolismo/",
+          "source": "ertnews.gr",
+          "published": "2026-11-28T12:28:44+00:00",
+          "summary": "«Μύρισε» Χριστούγεννα στη Θεσσαλονίκη. Η νότια πύλη της ΔΕΘ «υποδέχτηκε» τα πρώτα έλατα, τα οποία άρχισαν να καταφθάνουν από τον Ταξιάρχη της Χαλκιδικής. Από νωρίς το πρωί του Σαββάτου (28/11), μικροί και μεγάλοι επισκέπτονται τους ελατοπαραγωγούς για να επιλέξουν το δέντρο που θα στολίσουν στο σπίτι τους Και φέτος υπολογίζεται ότι περισσότερα από 30.000 φυσικά ... Περισσότερα www.ertnews.gr"
+        },
+        {
+          "title": "Δύο πλοία «αιωρούνται» πάνω από τη θάλασσα: Το viral βίντεο με το φαινόμενο Φάτα Μοργκάνα",
+          "url": "https://www.kathimerini.gr/world/564620485/dyo-ploia-aioroyntai-pano-apo-ti-thalassa-to-viral-vinteo-me-to-fainomeno-fata-morgkana/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-28T11:30:41+00:00",
+          "summary": "Ενα εντυπωσιακό μετεωρολογικό φαινόμενο απαθανατίστηκε στα ανοικτά των ακτών του Ατζμάν, στα Ηνωμένα Αραβικά Εμιράτα. Δύο φορτηγά πλοία φαίνονται να «αιωρούνται» πάνω από τον ορίζοντα της θάλασσας, σε ένα βίντεο που έχει γίνει viral τις τελευταίες ώρες. https://x.com/ABC/status/2126357306770415632 Προφανώς, πρόκειται για το φαινόμενο Φάτα Μοργκάνα, την οπτική οφθαλμαπάτη που προκαλούν οι…"
+        },
+        {
+          "title": "Τσίπρας: «Αλλαγή ή διαφθορά» – Επίθεση σε Μητσοτάκη, στήριξη σε Χατζηγιαννάκη",
+          "url": "https://www.tovima.gr/2026/11/28/politics/tsipras-allagi-i-diafthora-epithesi-se-mitsotaki-stiriksi-se-xatzigiannaki/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-28T10:38:26+00:00",
+          "summary": "Με το δίλημμα «Αλλαγή ή Διαφθορά» και σύνθημα «Πρώτοι, από την πρώτη Κυριακή», ο Αλέξης Τσίπρας εξαπέλυσε σφοδρή επίθεση στον Κυριάκο Μητσοτάκη από το δεύτερο Εθνικό Συμβούλιο της ΕΛ.ΑΣ. Η υπεράσπιση στον Χατζηγιαννάκη και οι δεσμεύσεις ενόψει Φεβρουαρίου."
+        },
+        {
+          "title": "ΠΑΣΟΚ για παραίτηση Λιάκου: «Ο Πρωθυπουργός σε ομηρία σκανδάλων»",
+          "url": "https://www.efsyn.gr/politiki/1519563/pasok-gia-paraitisi-liakoy-o-prothypoyrgos-se-omiria-skandalon/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-28T11:34:55+00:00",
+          "summary": "«Ο κ. Λιάκος αναγκάστηκε να παραιτηθεί μετά την κοινωνική κατακραυγή και την πίεση του ΠΑΣΟΚ»."
+        },
+        {
+          "title": "Αλ. Σδούκου: Πιο προκλητικός από ποτέ ο Αλ. Τσίπρας – Δίνει πλήρη κάλυψη στον Μ. Χατζηγιαννάκη",
+          "url": "https://www.naftemporiki.gr/politics/2195541/al-sdoykoy-pio-proklitikos-apo-pote-o-al-tsipras-dinei-pliri-kalypsi-ston-m-chatzigiannaki/?utm_source=rss&utm_medium=rss&utm_campaign=al-sdoykoy-pio-proklitikos-apo-pote-o-al-tsipras-dinei-pliri-kalypsi-ston-m-chatzigiannaki",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-28T12:42:00+00:00",
+          "summary": "Πυρά κατά του Αλέξη Τσίπρα εξαπολύει η εκπρόσωπος Τύπου της Νέας Δημοκρατίας Αλεξάνδρα Σδούκου, σχολιάζοντας τα όσα είπε ο πρώην πρωθυπουργός από το βήμα του Εθνικού Συμβουλίου της ΕΛΑΣ για… Αλ. Σδούκου: Πιο προκλητικός από ποτέ ο Αλ. Τσίπρας – Δίνει πλήρη κάλυψη στον Μ. Χατζηγιαννάκη - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "«Ζούμε σε αιώνα ταχύτητας» – Το μήνυμα Αναγνώστου για το λιμάνι του Βόλου",
+          "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/volos/zoume-se-aiona-taxytitas-to-minyma-anagnostou-gia-to-limani-tou-volou/",
+          "source": "ertnews.gr",
+          "published": "2026-11-28T12:26:09+00:00",
+          "summary": "Την ανάγκη να προχωρήσουν με ταχύτερους ρυθμούς οι διαδικασίες για την αναπτυξιακή αναβάθμιση του λιμανιού του Βόλου ανέδειξε ο διευθύνων σύμβουλος του Οργανισμού Λιμένος Βόλου Α.Ε., Σωκράτης Αναγνώστου, κατά την παρέμβασή του στο Thessaly Investment Forum, που πραγματοποιήθηκε στη Λάρισα. Κεντρικό σημείο της τοποθέτησής του αποτέλεσε η ολοκλήρωση και έγκριση του νέου Master Plan, το ...…"
+        },
+        {
+          "title": "Η Κέιτ για τον καρκίνο: «Τα παιδιά μου έγιναν ο λόγος να βγω από το νοσοκομείο»",
+          "url": "https://www.kathimerini.gr/world/564620476/i-keit-gia-ton-karkino-ta-paidia-moy-eginan-o-logos-na-vgo-apo-to-nosokomeio/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-28T11:15:00+00:00",
+          "summary": "«Μου έδωσαν έναν λόγο για να βγω από το νοσοκομείο», εξομολογείται η πριγκίπισσα της Ουαλίας Κέιτ, με δάκρυα στα μάτια, αναφερόμενη στον ρόλο των παιδιών της στη μάχη της με τον καρκίνο, σε απόσπασμα ντοκιμαντέρ που θα προβληθεί την Κυριακή. Με τίτλο «Heal» («Θεραπεύομαι»), το ημίωρο ντοκιμαντέρ θα μεταδοθεί από το βρετανικό BBC, το αμερικανικό […]"
+        },
+        {
+          "title": "Κακοκαιρία «Αργος»: Πού θα «χτυπήσει» με βροχές, καταιγίδες και χιόνια",
+          "url": "https://www.tovima.gr/2026/11/28/society/kakokairia-argos-pou-tha-xtypisei-me-vroxes-kataigides-kai-xionia/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-28T10:16:26+00:00",
+          "summary": "Η κακοκαιρία «Αργος» έρχεται με επικίνδυνα φαινόμενα έως τη Δευτέρα - Το νέο έκτακτο δελτίο επιδείνωσης από την ΕΜΥ."
+        },
+        {
+          "title": "Σπιτάκια Ανακύκλωσης: Το ΠΑΣΟΚ είχε προειδοποιήσει για το σκάνδαλο πριν τις συλλήψεις – «Πάμε σε νέο ΟΠΕΚΕΠΕ;»",
+          "url": "https://www.efsyn.gr/politiki/1519405/spitakia-anakyklosis-to-pasok-eihe-proeidopoiisei-gia-to-skandalo-prin-tis-syllipseis-pame-se-neo-opekepe/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-28T11:24:06+00:00",
+          "summary": "Από τον Οκτώβριο του 2025 η Κ.Ο. του ΠΑΣΟΚ είχε ζητήσει από την κυβέρνηση να διερευνήσει την υπόθεση με τα «χρυσά σπιτάκια ανακύκλωσης», ενώ τον περασμένο Ιούλιο ο Νίκος Ανδρουλάκης απευθυνόμενος στον πρωθυπουργό είχε αναρωτηθεί αν «το βαρύ σκάνδαλο με την ανακύκλωση» θα είναι μια ανάλογη περίπτωση με τις παράνομες αγροτικές επιδοτήσεις"
+        },
+        {
+          "title": "ΕΛΑΣ για Βαγγέλη Λιάκο: Καλύτερα να παραιτηθούν όλοι μαζί",
+          "url": "https://www.naftemporiki.gr/politics/2195540/elas-gia-vaggeli-liako-kalytera-na-paraitithoyn-oloi-mazi/?utm_source=rss&utm_medium=rss&utm_campaign=elas-gia-vaggeli-liako-kalytera-na-paraitithoyn-oloi-mazi",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-28T12:29:05+00:00",
+          "summary": "Σφοδρή επίθεση στην κυβέρνηση και προσωπικά στον πρωθυπουργό εξαπολύει η ΕΛΑΣ με φόντο την παραίτηση του υφυπουργού Εσωτερικών, Βαγέλλη Λιάκου. «Ο κ. Λιάκος παραιτήθηκε σήμερα, έπειτα από δώδεκα ολόκληρες ημέρες… ΕΛΑΣ για Βαγγέλη Λιάκο: Καλύτερα να παραιτηθούν όλοι μαζί - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        },
+        {
+          "title": "Τραγωδία στη Μιανμάρ: 20 νεκροί από αεροπορική επιδρομή σε γαμήλιο χώρο",
+          "url": "https://www.ertnews.gr/eidiseis/tragodia-sti-mianmar-20-nekroi-apo-aeroporiki-epidromi-se-gamilio-xoro/",
+          "source": "ertnews.gr",
+          "published": "2026-11-28T12:10:00+00:00",
+          "summary": "Αεροπορική επιδρομή του στρατού της Μιανμάρ έπληξε το Σάββατο (28/11), χώρο όπου θα γινόταν τελετή γάμου, σε μια περιοχή που χαρακτηρίζεται από συγκρούσεις, δήλωσε ένας μάρτυρας, κάνοντας λόγο για 20 νεκρούς. Ο επικεφαλής οργάνωσης διάσωσης ανέφερε ότι ο αριθμός των νεκρών ανέρχεται σε 21, συμπεριλαμβανομένων πέντε παιδιών. Βίντεο που τράβηξε ο μάρτυρας έδειχναν αιμόφυρτα θύματα ... Περισσότερα…"
+        },
+        {
+          "title": "Κατάρτιση από την αρχή",
+          "url": "https://www.kathimerini.gr/opinion/564618544/katartisi-apo-tin-archi/",
+          "source": "ΡΟΗ ΕΙΔΗΣΕΩΝ",
+          "published": "2026-11-28T11:00:00+00:00",
+          "summary": "Εκατοντάδες εκατομμύρια έχουν δαπανηθεί για την κατάρτιση εργαζομένων. Τα αποτελέσματα είναι πενιχρά. Δυστυχώς η διαδικασία δεν έχει «παραδοτέο», που να μπορεί να μετρηθεί. Το «έργο» είναι άυλο – και γι’ αυτό ευάλωτο σε καταστρατηγήσεις. Η κατάρτιση πολλές φορές γίνεται μόνο στα χαρτιά. Πρέπει να ξαναγίνει ένα εργαλείο που θα δίνει δεύτερες ευκαιρίες στην αγορά εργασίας."
+        },
+        {
+          "title": "Η μεγάλη άνθηση της αστυνομικής λογοτεχνίας στην Ελλάδα",
+          "url": "https://www.tovima.gr/2026/11/28/books-ideas/i-megali-anthisi-tis-astynomikis-logotexnias-stin-ellada/",
+          "source": "ΤΟ ΒΗΜΑ",
+          "published": "2026-11-28T10:00:45+00:00",
+          "summary": "Τρία μέλη της Ελληνικής Λέσχης Συγγραφέων Αστυνομικής Λογοτεχνίας εξηγούν πώς το είδος «αποενοχοποιήθηκε», ξεπέρασε τους 60 νέους τίτλους τον χρόνο και έγινε καθρέφτης της σύγχρονης πραγματικότητας."
+        },
+        {
+          "title": "Οι εκπαιδευτικοί ρωτάνε: Θα μας αφήσετε να κάνουμε μάθημα;",
+          "url": "https://www.efsyn.gr/ellada/1519556/oi-ekpaideytikoi-rotane-tha-mas-afisete-na-kanoyme-mathima/",
+          "source": "Η Εφημερίδα των Συντακτών",
+          "published": "2026-11-28T11:20:28+00:00",
+          "summary": "Πλατφόρμες, πρακτικά, αναφορές και σχέδια δράσης διεκδικούν καθημερινά χρόνο από την προετοιμασία του μαθήματος και την επικοινωνία με τους μαθητές. Οι ώρες διδασκαλίας μπορεί να μένουν ίδιες στο πρόγραμμα, όμως γύρω τους στενεύει ο χρόνος που χρειάζεται ο εκπαιδευτικός για να κάνει καλά τη δουλειά του. Στο τέλος της ώρας, ένας μαθητής μένει για λίγο […]"
+        },
+        {
+          "title": "Εξαρθρώθηκαν 3 εγκληματικές οργανώσεις και μία συμμορία διακίνησης ναρκωτικών – 10 συλλήψεις",
+          "url": "https://www.naftemporiki.gr/society/2195539/exarthrothikan-3-egklimatikes-organoseis-kai-mia-symmoria-diakinisis-narkotikon-10-syllipseis/?utm_source=rss&utm_medium=rss&utm_campaign=exarthrothikan-3-egklimatikes-organoseis-kai-mia-symmoria-diakinisis-narkotikon-10-syllipseis",
+          "source": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+          "published": "2026-11-28T12:16:25+00:00",
+          "summary": "Εξαρθρώθηκαν μετά από συντονισμένη αστυνομική επιχείρηση, τρεις εγκληματικές οργανώσεις και μία συμμορία που δραστηριοποιούνταν στη διακίνηση ναρκωτικών ουσιών στον Γαλατά, στα Μέθανα, στον Πόρο και σε άλλες περιοχές της Αττικής.… Εξαρθρώθηκαν 3 εγκληματικές οργανώσεις και μία συμμορία διακίνησης ναρκωτικών – 10 συλλήψεις - Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://www.ertnews.gr/feed/": {
+          "items": 35,
+          "status": "ok",
+          "secs": 1.1
+        },
+        "https://feeds.feedburner.com/kathimerini/DJpy": {
+          "items": 100,
+          "status": "ok",
+          "secs": 0.3
+        },
+        "https://www.tovima.gr/feed/": {
+          "items": 41,
+          "status": "ok",
+          "secs": 0.7
+        },
+        "https://www.efsyn.gr/feed.xml": {
+          "items": 89,
+          "status": "ok",
+          "secs": 1.3
+        },
+        "https://www.naftemporiki.gr/feed/": {
+          "items": 30,
+          "status": "ok",
+          "secs": 0.9
+        }
+      }
+    },
+    "bulgaria": {
+      "items": [
+        {
+          "title": "Над четири часа продължи общественото обсъждане за добива на природен газ в Генерал Тошево",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1256630-nad-chetiri-chasa-prodalzhi-obshtestvenoto-obsazhdane-za-dobiva-na-priroden-gaz-",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:36:59+00:00",
+          "summary": "Повече от четири часа продължи общественото обсъждане на инвестиционното предложение за добив на природен газ от находище „Спасово“ в блок „Добрич“ в Генерал Тошево. Паралелно с него земеделски производители протестираха с тежка техника пред сградата на общината срещу намерението за разработване на находището. Протестът на земеделците започна малко преди 10:00 часа, а тежката техника остана пред…"
+        },
+        {
+          "title": "Граничен полицай задържа мъж, опитал се да открадне личния му автомобил",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/11/28/4985698_granichen_policai_zadurja_muj_opital_se_da_otkradne/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T12:55:00+00:00",
+          "summary": "Граничен полицай задържа мъж, опитал се да открадне личния му автомобил. В колата бил и малкият син на служителя на реда, който е на почти две години, съобщиха днес от \"Гранична полиция\". Инцидентът станал на 25 ноември, докато..."
+        },
+        {
+          "title": "Класацията К100 | Компаниите с най-много активи: Бизнес от XS до XXL",
+          "url": "https://www.capital.bg/biznes/kompanii/2026/11/28/4963645_klasaciiata_k100_kompaniite_s_nai-mnogo_aktivi_biznes/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-28T11:18:00+00:00",
+          "summary": "[[img:4967034]]Статията е част от класацията на \"Капитал\" \"К100: Най-големите компании в България\". Достъп до пълната класация имат читателите с абонамент \"Kpro Принт Premium\" и \"Капитал Про\". Вижте още за бизнес доклада. Класацията К100 може да бъде закупена в хартиен формат тук. През ноември очаквайте Bulgaria Top 500 Companies. Бизнес докладът на английски ще съдържа анализи и база от данни с…"
+        },
+        {
+          "title": "Балканите са в плен на снега, дъжда и вятъра",
+          "url": "https://www.mediapool.bg/svyat/balkanite-sa-v-plen-na-snega-dazhda-i-vyatara/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-28T13:05:45+00:00",
+          "summary": "Сняг, обилни валежи от дъжд и ураганни ветрове по Адриетическото крайбрежие - такова е времето и пътната обстановка в страни на Балканите, съобщават синоптиците и местни медии.Задръствания в БелградСръбската столица Белград и околностите ѝ побеляха днес от падащия сняг, предаде ТАНЮГ. Сръбските власти предупреждават шофьорите да поддържат по-ниска скорост по междуградските пътища в района на…"
+        },
+        {
+          "title": "Във Видинската математическа гимназия изследват връзката между скоростта и безопасността на пътя в STEM урок",
+          "url": "https://www.bta.bg/bg/news/lik/1256625-vav-vidinskata-matematicheska-gimnaziya-izsledvat-vrazkata-mezhdu-skorostta-i-be",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:32:02+00:00",
+          "summary": "Ученици от IX клас на ППМГ „Екзарх Антим I“ във Видин участваха в интердисциплинарен STEM урок, посветен на безопасността на движението по пътищата и приложението на математиката, физиката и информационните технологии. Това съобщи за БТА преподавателят в гимназията Росен Ракаджиев. Урокът се проведе в STEM кабинета на училището под ръководството на учителите Анелия Ангелова и Йорданка Ценова.…"
+        },
+        {
+          "title": "Служителите на МВР не приемат, че са проблема за бюджета",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/11/28/4985694_slujitelite_na_mvr_ne_priemat_che_sa_problema_za/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T12:49:00+00:00",
+          "summary": "\"Отричаме да бъдем сочени като проблем за държавния бюджет\". Това каза пред журналисти на организиран днес протест председателят на Управителния съвет на полицейския синдикат Илия Кузманов. Служители на Министерството на вътрешните..."
+        },
+        {
+          "title": "От Украйна до България: студиото за интерироен дизайн Art Space",
+          "url": "https://www.capital.bg/biznes/predpriemach/2026/11/28/4983679_ot_ukraina_do_bulgariia_studioto_za_interiroen_dizain/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-28T08:30:00+00:00",
+          "summary": "Art Space Studio е създадено през 2016 г. в Украйна, а преди три години отваря и български офис. Бизнесът започва с лична инвестиция на основателката Юлия Николаенко и се разраства постепенно. Компанията планира работа с повече бизнес клиенти. Според съвременните разбирания за интериорния дизайн домът е много повече от просто пространство, в което хората живеят. Често той се възприема като…"
+        },
+        {
+          "title": "Около 40% от нарушенията на тировете са за претоварване",
+          "url": "https://www.mediapool.bg/biznes/okolo-40-ot-narusheniyata-na-tirovete-sa-za-pretovarvane/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-28T12:03:23+00:00",
+          "summary": "Около 40% от всички установени нарушения при специализираната контролна акция на Изпълнителна агенция \"Автомобилна администрация\" и МВР са за претоварване. Това съобщи Министерството на транспорта и съобщенията. В рамките на два дни са проверени 118 тежкотоварни автомобила…"
+        },
+        {
+          "title": "Българските състезатели по ски бягане стартираха новия сезон в Италия",
+          "url": "https://www.bta.bg/bg/news/sport/1256624-balgarskite-sastezateli-po-ski-byagane-startiraha-noviya-sezon-v-italiya",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:27:36+00:00",
+          "summary": "Марио Матиканов, заедно със състезателите от „Б“ отбора по ски бягане, стартира на първото си състезание под егидата на ФИС за новия сезон в Санта Катерина, Италия. При мъжете Матиканов се класира на 21-о място. ​При юношите и девойките българите записаха следните резултати: ​Кристиян Митков - седмо място, ​Николета Джелепова - 41-о, ​Христина Димчева - 46-о и ​Боримир Николов - 74-о.…"
+        },
+        {
+          "title": "Киев не е предупредил съюзниците за удара в Либия",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/11/28/4985689_kiev_ne_e_predupredil_sujuznicite_za_udara_v_libiia/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T12:09:00+00:00",
+          "summary": "Украйна не е информирала съюзниците си за удара срещу руския военен кораб \"Меркурий\" в Бенгази. Това каза президентът Володимир Зеленски след разговор с италианския премиер Джорджа Мелони. Италия изрази тревога от разширяване на войната, като..."
+        },
+        {
+          "title": "GITEX 2026: AI взима индустриалния завой",
+          "url": "https://www.capital.bg/biznes/ai/2026/11/28/4984391_gitex_2026_ai_vzima_industrialniia_zavoi/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-28T08:17:00+00:00",
+          "summary": "С наближаването на декември технологичният и финансовият елит пренасочва вниманието си към Обединените арабски емирства. Конференцията и изложението GITEX GLOBAL и паралелното стартъп събитие Expand North Star бележат интересен момент за индустрията. Изложението се премести на ново място - Dubai Exhibition Centre в Expo City Dubai, като фокусира инвеститорския интерес върху комерсиализацията на…"
+        },
+        {
+          "title": "Радио \"Брайл FM\" отбелязва 12 години",
+          "url": "https://www.mediapool.bg/kultura/radio-brail-fm-otbelyazva-12-godini/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-28T11:54:31+00:00",
+          "summary": "Днес радио \"Брайл FM“ отбелязва 12 години от първото излъчване в ефир.Това е единствената социална медия в Европа, която създава уникален гласов и визуален продукт, създаден от хора с дефицити, но предназначен за всички, казва един от основателите му Анелия Велинова.Тя заедно със своя незрящ партньор Владислав Кацарски са основатели на фондация за информационен обмен „Равностойно партньорство“,…"
+        },
+        {
+          "title": "Международният трибунал по морско право отхвърли искането на Аржентина за временно спиране на сондажите за петрол край Фолклендските острови",
+          "url": "https://www.bta.bg/bg/news/world/1256620-mezhdunarodniyat-tribunal-po-morsko-pravo-othvarli-iskaneto-na-arzhentina-za-vre",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:26:21+00:00",
+          "summary": "Аржентинското искане за временно спиране на сондажите за петрол край контролираните от Великобритания Фолклендски острови днес беше отхвърлено от Международния трибунал по морско право, който се произнася по спорове, свързани с морското право, предаде Асошиейтед прес. На специално заседание в германския град Хамбург Международният трибунал по морско право отхвърли с 18 гласа „против“ срещу три…"
+        },
+        {
+          "title": "Около 40% от всички установени нарушения при товарните автомобили са свързани с претоварване",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/11/28/4985688_okolo_40_ot_vsichki_ustanoveni_narusheniia_pri/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T12:01:00+00:00",
+          "summary": "Около 40% от всички установени нарушения при товарните автомобили са свързани с претоварване. Това показва специализираната контролна акция на Изпълнителна агенция \"Автомобилна администрация\" и МВР. От министерството на транспорта..."
+        },
+        {
+          "title": "Игра под хълмове",
+          "url": "https://www.capital.bg/light/tema/2026/11/28/4968417_igra_pod_hulmove/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-28T08:02:00+00:00",
+          "summary": "Пловдив и Единбург на пръв поглед нямат много общо. Единият е в студените и мрачни шотландски планински райони, докато другият е в почти вечно слънце и топъл климат, намират се и в противоположни краища на Европа. Ако се вгледаме малко по-близо, ще забележим, че двата града си приличат. Както Пловдив, така и Единбург се титулуват като \"Втория\" град в своите страни. И двата града са изградени в…"
+        },
+        {
+          "title": "\"Левски\" иска служебна победа над \"Олимпик\", който е заплашен от сурово наказание",
+          "url": "https://www.mediapool.bg/sport/levski-iska-sluzhebna-pobeda-nad-olimpik-koito-e-zaplashen-ot-surovo-nakazanie/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-28T09:42:36+00:00",
+          "summary": "„Левски“ официално поиска от УЕФА да му присъди служебна победа с 3:0 над „Олимпик Марсилия\" след нападението над български футболни привърженици на стадион „Велодром“ в четвъртък вечерта.Междувременно най-авторитетната френска спортна медия L'Equipe прогнозира „много сурово“ наказание за отборът от Марсилия. Ако УЕФА не уважи искането за служебна победа, „Левски“ настоява резултатът от двубоя от…"
+        },
+        {
+          "title": "Двубоят между Ботев Враца и Лудогорец беше отложен с 24 часа",
+          "url": "https://www.bta.bg/bg/news/sport/1256627-dvuboyat-mezhdu-botev-vratsa-i-ludogorets-beshe-otlozhen-s-24-chasa",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:24:58+00:00",
+          "summary": "Мачът между Ботев Враца и Лудогорец от 16-ия кръг в Първа лига беше отложен. Причина за това е обилният снеговалеж над Северозападна България. Теренът на стадион \"Христо Ботев\" беше заснежен и главният съдия Денислав Сталев в присъствието на длъжностни лица и капитаните на двата отбора взе решение за евентуално провеждане на срещата след 24 часа, въпреки опитите на домакините да почистят тревната…"
+        },
+        {
+          "title": "Мюфтийството реагира остро на изказване на Иво Христов, че християни и мюсюлмани са врагове",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/11/28/4985678_mjuftiistvoto_reagira_ostro_na_izkazvane_na_ivo/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T11:03:00+00:00",
+          "summary": "Мюсюлманското изповедание остро се противопоставя на изказване на политическия анализатор и социолог проф. Иво Христов в ефира на Дарик радио, в което се твърди, че християни и мюсюлмани са врагове. Това се казва в позиция на българското..."
+        },
+        {
+          "title": "Интелигентните екосистеми са новото лице на сигурността",
+          "url": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/11/28/4980288_inteligentnite_ekosistemi_sa_novoto_lice_na_sigurnostta/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-28T08:00:00+00:00",
+          "summary": "Дълго време концепцията за физическа защита се изчерпваше с пасивни детектори, шумни сирени и надеждата за бърза намеса на автопатрул. Моделът, при който системата констатира пробив едва след като той вече е факт, вече остава в миналото. Днес все повече се налага друг, по-модерен подход, който трансформира не само корпоративната среда, а и модерните жилищни сгради и комплекси от затворен тип.…"
+        },
+        {
+          "title": "Атомна подводница с хиперзвукови ракети стана част от Военноморския флот на Русия",
+          "url": "https://www.mediapool.bg/svyat/atomna-podvodnitsa-s-hiperzvukovi-raketi-stana-chast-ot-voennomorskiya-flot-na-rusiya/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-28T08:22:51+00:00",
+          "summary": "Руският президент Владимир Путин официално въведе в състава на Военноморския флот атомната подводница \"Перм\". Това стана вчера на церемония по издигане на военноморския флаг в северния руски град Северодвинск, предаде ДПА. Церемонията по издигането на военноморския флаг на корабите бележи официалното им включване в състава на Военноморския флот на Русия…"
+        },
+        {
+          "title": "Започна снегопочистване и обработка на пътищата в област Търговище",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1256626-zapochna-snegopochistvane-i-obrabotka-na-patishtata-v-oblast-targovishte",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:23:12+00:00",
+          "summary": "Започна снегопочистване и обработка на пътищата в област Търговище. Над региона вали сняг, температурите са около 2 градуса. Няма регистрирани инциденти по пътната мрежа, каза за БТА дежурният в Областното пътно управление (ОПУ). Пет машини са на терен, за да опесъчават. От ОПУ имат готовност да бъдат пуснати още при необходимост. Засега снежна покривка не се е образувала, допълни дежурният.…"
+        },
+        {
+          "title": "\"Мисията на Дилън Хоуп\" на Дейвид Балдачи (откъс)",
+          "url": "https://www.dnevnik.bg/knigi/2026/11/28/4983912_misiiata_na_dilun_houp_na_deivid_baldachi_otkus/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T10:59:00+00:00",
+          "summary": "В рубриката \"Четиво\" Дневник публикува откъс от \"Мисията на Дилън Хоуп\", с автор Дейвид Балдачи, предоставен от Издателство \"Обсидиан\" Уолтър Неш продължава своята битка. Под ново име, с ново лице и с нова мисия. След като..."
+        },
+        {
+          "title": "Домашно кино | Нова адаптация на \"Гордост и предразсъдъци\", филм от режисьорката на CODA",
+          "url": "https://www.capital.bg/moiat_capital/svobodno_vreme/2026/11/28/4984106_domashno_kino_nova_adaptaciia_na_gordost_i/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-28T07:00:00+00:00",
+          "summary": "Pride and Prejudice След няколко емблематични екранни версии \"Гордост и предразсъдъци\" получава нова адаптация, която си поставя амбициозната задача да представи класическия роман на Джейн Остин на съвременната публика, без да губи духа и остроумието на оригинала. Сега Netflix я поверява на сценаристката Доли Олдъртън и режисьора Еурос Лин (Heartstopper), а в ролите на Елизабет Бенет и мистър…"
+        },
+        {
+          "title": "Задържан е 21-годишен за убийството на баща си в София",
+          "url": "https://www.mediapool.bg/bulgaria/zadarzhan-e-21-godishen-za-ubiystvoto-na-bashta-si-v-sofiya/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-28T07:38:47+00:00",
+          "summary": "Задържан е 21-годишен мъж за убийството на 48-годишен, чието тяло беше открито в петък сутринта в София, съобщиха от от Столичната дирекция на вътрешните работи (СДВР).Сигналът за мъж с прободни рани в района на бул. „Шипченски проход“ и ул…"
+        },
+        {
+          "title": "Над 70 абсолвенти от филиала на Варненския свободен университет в Смолян получиха дипломите си на тържествена церемония",
+          "url": "https://www.bta.bg/bg/news/lik/1256621-nad-70-absolventi-ot-filiala-na-varnenskiya-svoboden-universitet-v-smolyan-poluc",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:17:05+00:00",
+          "summary": "Над 70 абсолвенти от бакалавърските и магистърските програми на Варненския свободен университет (ВСУ) „Черноризец Храбър“ – филиал в Смолян, получиха дипломите си на тържествена церемония в присъствието на академичното ръководство, представители на държавни институции, местната власт и бизнеса. Тържеството премина под знака на 35-годишнината от създаването на университета. Директорът на филиала…"
+        },
+        {
+          "title": "\"Левски\" официално поиска от УЕФА служебна победа с 3:0 над \"Олимпик\" (Марсилия)",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/11/28/4985672_levski_oficialno_poiska_ot_uefa_slujebna_pobeda_s_30/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T10:02:00+00:00",
+          "summary": "\"Левски\" официално поиска от УЕФА служебна победа с 3:0 над \"Олимпик\" (Марсилия). Късно в петък адвокатът на клуба Стоимен Чакалов е внесъл официалната жалба до европейската футболна централа, съобщи БНР. Като мотив за искането се посочва атаката..."
+        },
+        {
+          "title": "Нюзлетър | 53% германци не одобряват помощите за Украйна, 53% българи не одобряват Радев",
+          "url": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/11/28/4985316_njuzletur_53_germanci_ne_odobriavat_pomoshtite_za/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-28T06:00:00+00:00",
+          "summary": "Как да се ориентираме в хаоса? Това е авторският нюзлетър на Александър Андреев за случилото се в България и по света през изминалата седмица - с личните и субективни акценти на автора, който се опитва да подреди новините, да ги свърже с историята, а да види и смешното в тях. Ако искате да го получавате всяка събота в електронната си поща, може да се абонирате тук \"Успяхте ли да балансирате…"
+        },
+        {
+          "title": "Пуснаха движението през тунел \"Топли дол\" в посока София, АПИ ще спира трафика при сняг над 15 см",
+          "url": "https://www.mediapool.bg/bulgaria/pusnaha-dvizhenieto-prez-tunel-topli-dol-v-posoka-sofiya-api-shte-spira-trafika-pri-snyag-nad-15-sm/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-28T07:12:36+00:00",
+          "summary": "Движението през тунел „Топли дол“ на магистрала „Хемус“ в посока София днес беше пуснато за движение около 9 часа. То ще продължи без ограничения до 11 януари, съобщиха от Агенция „Пътна инфраструктура“ (АПИ).Така се възстановя движението през тунела в двете тръби на съоръжението. В тръбата за София в момента се извършва основен ремонт, но ремонтните дейности ще бъдат преустановени до 11 януари,…"
+        },
+        {
+          "title": "Заложеният бюджет е катастрофа за страната и води до обедняване, каза Асен Василев във Видин",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1256612-zalozheniyat-byudzhet-e-katastrofa-za-stranata-i-vodi-do-obednyavane-kaza-asen-",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:15:14+00:00",
+          "summary": "Заложеният бюджет е катастрофа за страната, защото за първи път от 2012–2013 г. насам води до обедняване на хората, а средствата за пътя Видин–Ботевград са намалени. Това каза пред журналисти във Видин лидерът на „Продължаваме промяната“ Асен Василев след среща с членове и симпатизанти на партията, посветена на предстоящия бюджет, икономическата обстановка и местните избори. По думите му в…"
+        },
+        {
+          "title": "Марсилски капан за левскари: Как системата за сигурност на \"Велодром\" се разпадна пред очите на УЕФА",
+          "url": "https://www.dnevnik.bg/sport/2026/11/28/4985667_marsilski_kapan_za_levskari_kak_sistemata_za_sigurnost/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T09:47:00+00:00",
+          "summary": "Около десет минути преди началото на мача между \"Олимпик\" (Марсилия) и \"Левски\" десетки, а според някои свидетелства стотици привърженици на домакините напускат Virage Sud, прекосяват част от \"Велодром\" и стигат до Tribune Jean-Bouin. Там се намира..."
+        },
+        {
+          "title": "VVV GROUP и BYD Energy Storage изграждат стратегическо партньорство",
+          "url": "https://www.capital.bg/biznes/kompanii/2026/11/28/4985668_vvv_group_i_byd_energy_storage_izgrajdat/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-28T06:00:00+00:00",
+          "summary": "Подписването на Меморандум за разбирателство между VVV GROUP и BYD Energy Storage поставя основа за проучване на сътрудничество с потенциал да обхване повече от един сектор - от съхранението на енергия до електрификацията на индустрията и транспорта. [[img:4985670]] Церемонията по подписването се състоя в централата на BYD в Шънджън, Китай, по покана на BYD. Документът беше подписан от д-р инж.…"
+        },
+        {
+          "title": "Червен код за значителни валежи в 7 области в страната, в останалите е оранжев",
+          "url": "https://www.mediapool.bg/bulgaria/cherven-kod-za-znachitelni-valezhi-v-7-oblasti-v-stranata-v-ostanalite-e-oranzhev/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-28T06:56:42+00:00",
+          "summary": "Червен код за значителни валежи е обявен за 7 области в страната от Националния институт по метеорология и хидрология (НИМХ).Предупреждението е в сила за областите - Видин, Враца, Ловеч, Монтана, София-област, Велико Търново, Габрово. В тези области валежите от дъжд ще преминат към сняг. За останалите области в страната е обявен оранжев код за валежи…"
+        },
+        {
+          "title": "Илиян Стойнов отпадна на четвъртфиналите на турнир по бадминтон в Кардиф",
+          "url": "https://www.bta.bg/bg/news/sport/1256622-iliyan-stoynov-otpadna-na-chetvartfinalite-na-turnir-po-badminton-v-kardif",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:09:12+00:00",
+          "summary": "Националът Илиян Стойнов отпадна на четвъртфиналите на единично на международния турнир по бадминтон \"International Series\" в Кардиф (Уелс). В третия си мач от надпреварата българинът отстъпи пред осмия поставен Кай Нидерхубер (Австрия) с 18:21, 19:21 за 40 минути на корта. Преди тази среща Стойнов записа два поредни успеха. В турнира участва и Димитър Янакиев."
+        },
+        {
+          "title": "Омбудсманът сезира прокуратурата за насилие над деца в интернат в плевенско",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/11/28/4985666_ombudsmanut_sezira_prokuraturata_za_nasilie_nad_deca_v/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T09:40:00+00:00",
+          "summary": "Омбудсманът Велислава Делчева сезира прокуратурата за насилие над деца в интернат. Става въпрос за физическо и психическо насилие над непълнолетни деца, настанени във Възпитателното училище-интернат (ВУИ) \"Христо Ботев\" в с. Подем. На 25..."
+        },
+        {
+          "title": "Тамаш Хак-Ковач се оттегля като главен изпълнителен директор на Банка ДСК",
+          "url": "https://www.capital.bg/politika_i_ikonomika/imena/2026/11/27/4985451_tamash_hak-kovach_se_otteglia_kato_glaven_izpulnitelen/?ref=rss",
+          "source": "Капитал - статии",
+          "published": "2026-11-27T14:46:00+00:00",
+          "summary": "След шест години начело на Банка ДСК унгарският й мениджър Тамаш Хак-Ковач ще се оттегли от постовете на главен изпълнителен директор и председател на Управителния съвет. Промяната ще стане факт от 1 януари 2027 г., обявиха от водещата финансова институция по активи в България. От съобщението става ясно, че за момента все още не е избран нов ръководител, който да наследи Хак-Ковач. След…"
+        },
+        {
+          "title": "Секънд хенд чупи стигмата и продажбите (видео)",
+          "url": "https://www.mediapool.bg/biznes/sekand-hend-chupi-stigmata-i-prodazhbite-video/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-28T06:29:00+00:00",
+          "summary": "Секънд хенд чупи стигмата и продажбите Дрехите втора ръка отдавна са счупили стигмата, че са за „бедняци“. Достъпните им цени все още са един от водещите мотиви за покупката им. Но към това се прибавят с все по-голяма сила качеството на текстила, възможността за носенете на маркови стоки, намирането на нещо, което си търсил в мола дълго време, но си намерил в бутик „секънд хенд“…"
+        },
+        {
+          "title": "Обилен снеговалеж започна в Русе след продължителен дъжд",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1256618-obilen-snegovalezh-zapochna-v-ruse-sled-prodalzhitelen-dazhd",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:07:21+00:00",
+          "summary": "Обилен снеговалеж започна в Русе след продължителен дъжд. Снежната покривка в града вече е около 3 сантиметра, а видимостта е намалена до 600 метра заради снеговалежа. Това съобщиха за БТА от хидрометеорологичната станция в крайдунавския град. Общо 18 машини обработват републиканската пътна мрежа в областта. Към момента няма данни за пътни инциденти и проблеми, свързани с атмосферните условия,…"
+        },
+        {
+          "title": "Министърът на туризма: Имаме авторитета на сигурна дестинация, въпреки атаките с дронове",
+          "url": "https://www.dnevnik.bg/biznes/turizam/2026/11/28/4985663_ministurut_na_turizma_imame_avtoriteta_na_sigurna/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T09:19:00+00:00",
+          "summary": "\"Бях на най-големите туристически изложения, нито един път темата сигурност не беше повдигната. Напротив, отчита се повишен интерес и се отчита това, че ние сме много добри продукционери\". Това каза пред БНТ министърът на туризма Илин Димитров...."
+        },
+        {
+          "title": "Скъпият мит INSAIT: милиони от бюджета без отчетност и нулев ефект за бизнеса у нас",
+          "url": "https://www.mediapool.bg/intervyuta/skapiyat-mit-insait-milioni-ot-byudzheta-bez-otchetnost-i-nulev-efekt-za-biznesa-u-nas/",
+          "source": "Mediapool.bg",
+          "published": "2026-11-28T06:23:00+00:00",
+          "summary": "Доброслав Димитров от БРАИТ алармира за липса на прозрачност, фирми в чужбина и неудобни въпроси за националната сигурност Г-н Димитров, в последните седмици редица представители на IT бранша, включително и вие, алармирате за непрозрачния начин, по който работи Институтът за компютърни науки, изкуствен интелект и технологии INSAIT. Защо…"
+        },
+        {
+          "title": "Сблъсъци избухнаха в Тирана, докато протестиращи настояват министър-председателят Еди Рама да подаде оставка",
+          "url": "https://www.bta.bg/bg/news/balkans/1256613-sblasatsi-izbuhnaha-v-tirana-dokato-protestirashti-nastoyavat-ministar-predseda",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:06:00+00:00",
+          "summary": "Сблъсъци избухнаха между полицията и протестиращи в албанската столица Тирана днес, след като хиляди хора поискаха оставката на министър-председателя Еди Рама, предаде Асошиейтед прес. Това е поредният антиправителствен протест в Албания. Полицията използва сълзотворен газ и водни оръдия, за да отблъсне протестиращите, които хвърляха камъни и се опитваха с дървени пръти да разбият улични камери и…"
+        },
+        {
+          "title": "Троянският проход е затворен за камиони заради снеговалеж",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/11/28/4985660_troianskiiat_prohod_e_zatvoren_za_kamioni_zaradi/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T09:07:00+00:00",
+          "summary": "Троянският проход е затворен за камиони заради снеговалеж. Ограничението за товарните автомобили с обща маса над 12 тона е в сила от 11 часа днес. Пред БТА директорът на Областното пътно управление (ОПУ) - Ловеч, инж. Георги Генов каза,..."
+        },
+        {
+          "title": "Общинският съвет в Макреш одобри отпускането на средства за традиционния шахматен турнир и за отбелязване на Деня на хората с увреждания",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1256617-obshtinskiyat-savet-v-makresh-odobri-otpuskaneto-na-sredstva-za-traditsionniya-s",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:05:15+00:00",
+          "summary": "Общинският съвет в Макреш одобри отпускането на 2600 евро от общинския бюджет за провеждането на традиционния 47-и шахматен турнир „Мемориал „17 партизани“ в село Макреш през януари 2027 г., както и средства за отбелязването на Международния ден на хората с увреждания на 3 декември в Клуба на инвалида в село Раковица. Това съобщи за БТА председателят на съвета Саня Кирилова. Средствата за…"
+        },
+        {
+          "title": "Задаващата се зимна обстановка не е за подценяване, предупреди синоптик",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/11/28/4985658_zadavashtata_se_zimna_obstanovka_ne_e_za_podceniavane/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T09:00:00+00:00",
+          "summary": "Сериозна зимна обстановка се очаква в България през следващите дни. Снежната покривка в Предбалкана може да достигне 40-50 сантиметра, а силният вятър ще създава условия за виелици, навявания и преспи. Това прогнозира днес пред Би Ти Ви..."
+        },
+        {
+          "title": "\"Не мога да кажа, че бяхме по-слабият отбор\", заяви наставникът на Спартак (Варна) Даниел Моралес след загубата от Локомотив (Пловдив)",
+          "url": "https://www.bta.bg/bg/news/sport/1256616--ne-moga-da-kazha-che-byahme-po-slabiyat-otbor-zayavi-nastavnikat-na-spartak-",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:03:36+00:00",
+          "summary": "Старши треньорът на Спартак (Варна) Даниел Моралес заяви, че двубоят срещу Локомотив (Пловдив), загубен с 0:1, е бил равностоен и въпреки поражението изрази увереност във възможностите на своя отбор. „Един доста равностоен мач. Мисля, че нашият отбор показа някои по-добри неща от предния мач с Черно море, но не беше достатъчно. Създадохме някои ситуации, но в началото на второто полувреме при…"
+        },
+        {
+          "title": "Полша ще анализира военни данни с ИИ от Palantir",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/11/28/4985648_polsha_shte_analizira_voenni_danni_s_ii_ot_palantir/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T08:52:00+00:00",
+          "summary": "Полша подписа договор с Palantir, който ще ѝ позволи да вкара изкуствен интелект в армията си. Договопът е за пет години и е на стойност 300 млн. долара, съобщава \"Политико\". Системата Maven на Palantir, която се използва от Украйна и..."
+        },
+        {
+          "title": "Изложба с книги и информационни табла във Варна разказва за първите преподавателки в Софийския университет",
+          "url": "https://www.bta.bg/bg/news/lik/1256566-izlozhba-s-knigi-i-informatsionni-tabla-vav-varna-razkazva-za-parvite-prepodavat",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:03:28+00:00",
+          "summary": "Пътуващата изложба „Първите жени в Софийския университет“ гостува в Регионалната библиотека във Варна до 14 декември. По традиция към информационните табла домакините добавят витрини с книги и издания, имащи връзка с учените, за които разказва експозицията. Извадили сме представителни трудове на преподавателки в университета – големи имена, които са от значение за развитието на отделните…"
+        },
+        {
+          "title": "Предсмъртно писмо на висш полицай разкрива докъде стига мафията в Италия",
+          "url": "https://www.dnevnik.bg/sviat/2026/11/28/4985277_predsmurtno_pismo_na_vissh_policai_razkriva_dokude/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T08:24:00+00:00",
+          "summary": "Предсмъртното писмо на бивш топ полицай, разтърси Италия. Джани Де Дженаро, който сложи край на живота си миналата седмица беше обект на разследване за възпрепятстване на разследването на убийство, извършено от мафията преди 34 години. ..."
+        },
+        {
+          "title": "Общинският съвет в Белоградчик предостави помещения на Дирекция „Социално подпомагане“ и одобри отдаването под наем на общински площи",
+          "url": "https://www.bta.bg/bg/news/bulgaria/1256614-obshtinskiyat-savet-v-belogradchik-predostavi-pomeshteniya-na-direktsiya-sotsia",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:02:55+00:00",
+          "summary": "Общинският съвет в Белоградчик предостави за безвъзмездно управление част от сграда – публична общинска собственост, на Дирекция „Социално подпомагане“ и одобри отдаването под наем на помещения в административната сграда на общината за аптечна дейност и за златарско ателие. Това съобщи за БТА председателят на Общинския съвет Ангел Георгиев. На заседанието в залата на Младежкия дом общинските…"
+        },
+        {
+          "title": "Съдия Владислава Цариградска: Съдебната власт не е способна сама да се прочисти, нужна е и политическа воля",
+          "url": "https://www.dnevnik.bg/duma_na_sedmitsa/2026/11/28/4985444_sudiia_vladislava_carigradska_sudebnata_vlast_ne_e/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T08:14:00+00:00",
+          "summary": "Съдебната власт не е способна сама да се прочисти За промяна в съдебната власт е нужна и политическа воля В последните години експлоатацията на съдебната власт стана брутална Случи се нещо безпрецедентно в прокуратура Послушването на..."
+        },
+        {
+          "title": "Футболната асоциация на Ирак потуши нарастващите спекулации относно бъдещето на селекционера на националния отбор Греъм Арнолд",
+          "url": "https://www.bta.bg/bg/news/sport/1256605-futbolnata-asotsiatsiya-na-irak-potushi-narastvashtite-spekulatsii-otnosno-bades",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:02:47+00:00",
+          "summary": "Футболната асоциация на Ирак предприе стъпки, за да потуши нарастващите спекулации относно бъдещето на селекционера на националния отбор Греъм Арнолд, настоявайки, че австралиецът остава с договор до 28 февруари. Намесата на федерацията последва отлагането на турнира за Купата на Азия през 2027-а от началото на следващата година за декември. Арнолд, който тази година изведе Ирак на Световното…"
+        },
+        {
+          "title": "Русия беше подложена на масирана украинска дронова атака",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/11/28/4985649_rusiia_beshe_podlojena_na_masirana_ukrainska_dronova/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T08:13:00+00:00",
+          "summary": "Русия съобщи, че е била подложена на масирана въздушна атака от Украйна. Над 1200 дрона са свалени над различни области в европейската част. Над 460 от тях са били насочени към Москва и околностите. Столичните летища останаха затворени..."
+        },
+        {
+          "title": "Бъдещето на обществения транспорт в Испания е заложено на карта на предстоящите парламентарни избори",
+          "url": "https://www.bta.bg/bg/news/economy/1252777-badeshteto-na-obshtestveniya-transport-v-ispaniya-e-zalozheno-na-karta-na-predst",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T13:00:00+00:00",
+          "summary": "Увеличаването на броя на пътниците и електрификацията на автопарковете налагат да бъдат мобилизирани безпрецедентни ресурси за сектора на обществения транспорт в Испания. В навечерието на предсрочните парламентарни избори, свикани от премиера Педро Санчес на фона на кризата на жилищния пазар, е обичайна практика различните икономически сектори да отправят своите искания към бъдещото правителство,…"
+        },
+        {
+          "title": "ТИМ не оказва натиск над общинския съвет на Варна, обяви неговият председател",
+          "url": "https://www.dnevnik.bg/politika/2026/11/28/4985652_tim_ne_okazva_natisk_nad_obshtinskiia_suvet_na_varna/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T08:12:00+00:00",
+          "summary": "ТИМ не оказва натиск над общинския съвет на Варна, нито диктува дневния му ред. Това каза днес пред Би Ти Ви председателят на местния парламент Христо Димитров от групата \"Алтернатива на гражданите\". Той отказа да коментира решението на Общинската..."
+        },
+        {
+          "title": "Пирати са отвлекли товарен кораб в Аденския залив, съобщи военноморската мисия на ЕС в Индийския океан",
+          "url": "https://www.bta.bg/bg/news/world/1256615-pirati-sa-otvlekli-tovaren-korab-v-adenskiya-zaliv-saobshti-voennomorskata-misi",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T12:56:01+00:00",
+          "summary": "Пирати са отвлекли товарен кораб в Аденския залив на около 220 километра северозападно от сомалийския пристанищен град Босасо, съобщи Центърът за морска сигурност в Индийския океан, действащ в рамките на военноморската мисия на ЕС „Аталанта“, предадоха световните агенции. Според предварителната информация на центъра на борда на кораба са проникнали шестима въоръжени пирати. Членовете на екипажа…"
+        },
+        {
+          "title": "Украйна свали руски дрон с лазерен лъч",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/11/28/4985643_ukraina_svali_ruski_dron_s_lazeren_luch/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T07:57:00+00:00",
+          "summary": "Украйна е свалила руски реактивен дрон с лазер, съобщава правителствената платформа\"Брейв-1\". В сряда съветникът на президента Володимир Зеленски Сергий Бескрестнов публикува видео, което показва взет на прицел обект да се разбива в..."
+        },
+        {
+          "title": "Гол от дузпа на Парвиз Умарбаев донесе минимален успех на Локомотив (Пловдив) срещу Спартак (Варна)",
+          "url": "https://www.bta.bg/bg/news/sport/1256608-gol-ot-duzpa-na-parviz-umarbaev-donese-minimalen-uspeh-na-lokomotiv-plovdiv-sr",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T12:49:37+00:00",
+          "summary": "Първенство на България по футбол, среща от 16-ия кръг на Първа лига: Локомотив (Пловдив) – Спартак (Варна) 1:0 (0:0) голмайстор: 1:0 Парвиз Умарбаев 53 – дузпа стадион: „Христо Бонев“, Пловдив главен съдия: Любослав Любомиров, гр. Перник червен картон: Деян Лозев 78 (Спартак Варна) жълти картони: Лукас Риян, Ивайло Иванов (Локомотив Пловдив); Чидера Окох, Деян Лозев, Самуел Майор, Димо Кръстев,…"
+        },
+        {
+          "title": "Краят на изключението – накъде ще поеме външната политика на Испания",
+          "url": "https://www.dnevnik.bg/analizi/2026/11/28/4985628_kraiat_na_izkljuchenieto_nakude_shte_poeme_vunshnata/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T07:53:00+00:00",
+          "summary": "Застанал пред \"Герника\" - въздействащата антивоенна творба на Пабло Пикасо, испанският премиер Педро Санчес защити своята външна политика. От противопоставянето си на войната в Газа до отказа си да увеличи военните разходи до 5% от БВП, Санчес..."
+        },
+        {
+          "title": "Локомотив Пловдив постигна домакинска победа срещу Спартак Варна",
+          "url": "https://www.bta.bg/bg/news/sport/1256611-lokomotiv-plovdiv-postigna-domakinska-pobeda-sreshtu-spartak-varna",
+          "source": "BG RSS Free",
+          "published": "2026-11-28T12:42:00+00:00",
+          "summary": "Срещи от 16-ия кръг на efbet лига: Локомотив (Пловдив) - Спартак (Варна) - 1:0 (0:0) голмайстори: 1:0 Парвиз Умарбаев 53-дузпа червен картон: Деян Лозев (Спартак) 78 по-късно днес: Ботев (Враца) - Лудогорец (Разград) Черно море (Варна) - Ботев (Пловдив) от петък: Локомотив София - Славия - 0:0 в неделя: Арда (Кърджали) - ЦСКА 1948 (София) Септември (София) - Левски във вторник: Дунав (Русе) -…"
+        },
+        {
+          "title": "Даниел Боримиров: Бяхме предупредени, че ако се прекрати мача, може да стане по-страшно",
+          "url": "https://www.dnevnik.bg/bulgaria/2026/11/28/4985630_daniel_borimirov_biahme_predupredeni_che_ako_se/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T07:24:00+00:00",
+          "summary": "\"Бяхме предупредени, че ако се прекрати мачът, може да стане по-страшно. Феновете могат да слязат на терена и полицията да не може да се справи с тях\". Това каза изпълнителният директор на \"Левски\" Даниел Боримиров пред \"Нова телевизия\"...."
+        },
+        {
+          "title": "Кредитният рейтинг на Франция беше понижен заради сигнали за рецесия",
+          "url": "https://www.dnevnik.bg/burzi-novini/2026/11/28/4985631_kreditniiat_reiting_na_franciia_beshe_ponijen_zaradi/?ref=rss",
+          "source": "Dnevnik.bg",
+          "published": "2026-11-28T07:21:00+00:00",
+          "summary": "Рейтинговата агенция S&P понижи кредитния рейтинг на Франция, след като се оказа, че икономиката ѝ е в техническа рецесия. Перспективата пред кредитния рейтинг беше променена от \"стабилна\" на \"отрицателна\" с обяснението за нарастващ бюджетен..."
+        }
+      ],
+      "failed_feeds": [],
+      "feeds": {
+        "https://www.bta.bg/bg/rss/free": {
+          "items": 20,
+          "status": "ok",
+          "secs": 1.2
+        },
+        "https://www.dnevnik.bg/rss/": {
+          "items": 30,
+          "status": "ok",
+          "secs": 0.7
+        },
+        "https://www.capital.bg/rss/": {
+          "items": 9,
+          "status": "ok",
+          "secs": 1.1
+        },
+        "https://www.mediapool.bg/rss": {
+          "items": 10,
+          "status": "ok",
+          "secs": 0.5
+        },
+        "https://www.novinite.com/services/news_rdf.php": {
+          "items": 0,
+          "status": "κανένα νέο (25 παλιά, 5 ήδη)",
+          "secs": 0.9
+        },
+        "https://sofiaglobe.com/feed/": {
+          "items": 0,
+          "status": "κανένα νέο (30 παλιά, 0 ήδη)",
+          "secs": 0.9
+        }
+      }
+    }
+  }
+}
